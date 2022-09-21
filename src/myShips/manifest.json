@@ -1,0 +1,26 @@
+{
+  "name": "__MSG_extention_name__",
+  "description": "__MSG_extention_description__",
+  "default_locale": "en",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+    "128": "icon_ship.png"
+  },
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://worldofwarships.ru/ru/content/contents-and-drop-rates-of-containers/*"
+      ],
+      "js": [
+        "contentScript.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
