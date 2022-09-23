@@ -1,5 +1,2348 @@
 {
-  "extention_name": {"message": "Мои кораблики"},
-  "extention_description": {"message": "Помогает отслеживать выпадение кораблей из ящиков."},
- "dump": {"message": ""}
+  "IDS_PASA002": {
+    "message": "Bogue (old)"
+  },
+  "IDS_PASA004": {
+    "message": "Langley (old)"
+  },
+  "IDS_PASA006": {
+    "message": "Independence (old)"
+  },
+  "IDS_PASA010": {
+    "message": "Ranger (old)"
+  },
+  "IDS_PASA012": {
+    "message": "Lexington (old)"
+  },
+  "IDS_PASA013": {
+    "message": "Essex (old)"
+  },
+  "IDS_PASA015": {
+    "message": "Midway (old)"
+  },
+  "IDS_PASA104": {
+    "message": "Langley"
+  },
+  "IDS_PASA106": {
+    "message": "Ranger"
+  },
+  "IDS_PASA108": {
+    "message": "Lexington"
+  },
+  "IDS_PASA110": {
+    "message": "Midway"
+  },
+  "IDS_PASA111": {
+    "message": "United States"
+  },
+  "IDS_PASA208": {
+    "message": "Yorktown"
+  },
+  "IDS_PASA507": {
+    "message": "Saipan (old)"
+  },
+  "IDS_PASA508": {
+    "message": "Enterprise (old)"
+  },
+  "IDS_PASA510": {
+    "message": "F. D. Roosevelt"
+  },
+  "IDS_PASA518": {
+    "message": "Enterprise"
+  },
+  "IDS_PASA528": {
+    "message": "Saipan"
+  },
+  "IDS_PASA538": {
+    "message": "Hornet"
+  },
+  "IDS_PASA598": {
+    "message": "Saipan B"
+  },
+  "IDS_PASA915": {
+    "message": "[Midway]"
+  },
+  "IDS_PASB001": {
+    "message": "S. Carolina"
+  },
+  "IDS_PASB004": {
+    "message": "Wyoming"
+  },
+  "IDS_PASB006": {
+    "message": "New York"
+  },
+  "IDS_PASB008": {
+    "message": "Colorado"
+  },
+  "IDS_PASB012": {
+    "message": "N. Carolina"
+  },
+  "IDS_PASB013": {
+    "message": "Arkansas B"
+  },
+  "IDS_PASB017": {
+    "message": "Montana"
+  },
+  "IDS_PASB018": {
+    "message": "Iowa"
+  },
+  "IDS_PASB034": {
+    "message": "New Mexico"
+  },
+  "IDS_PASB108": {
+    "message": "Kansas"
+  },
+  "IDS_PASB109": {
+    "message": "Minnesota"
+  },
+  "IDS_PASB110": {
+    "message": "Vermont"
+  },
+  "IDS_PASB505": {
+    "message": "Oklahoma"
+  },
+  "IDS_PASB506": {
+    "message": "Arizona"
+  },
+  "IDS_PASB507": {
+    "message": "W. Virginia 1941"
+  },
+  "IDS_PASB508": {
+    "message": "Alabama"
+  },
+  "IDS_PASB509": {
+    "message": "Missouri"
+  },
+  "IDS_PASB510": {
+    "message": "Ohio"
+  },
+  "IDS_PASB517": {
+    "message": "Florida"
+  },
+  "IDS_PASB518": {
+    "message": "Massachusetts"
+  },
+  "IDS_PASB519": {
+    "message": "Kearsarge"
+  },
+  "IDS_PASB528": {
+    "message": "Alabama VL"
+  },
+  "IDS_PASB538": {
+    "message": "Constellation"
+  },
+  "IDS_PASB598": {
+    "message": "Massachusetts B"
+  },
+  "IDS_PASB705": {
+    "message": "Texas"
+  },
+  "IDS_PASB707": {
+    "message": "California"
+  },
+  "IDS_PASB708": {
+    "message": "Alabama ST"
+  },
+  "IDS_PASB729": {
+    "message": "Georgia"
+  },
+  "IDS_PASB810": {
+    "message": "Montana P"
+  },
+  "IDS_PASB910": {
+    "message": "Connecticut"
+  },
+  "IDS_PASB917": {
+    "message": "[Montana]"
+  },
+  "IDS_PASC001": {
+    "message": "Erie"
+  },
+  "IDS_PASC002": {
+    "message": "Chester"
+  },
+  "IDS_PASC003": {
+    "message": "Albany"
+  },
+  "IDS_PASC004": {
+    "message": "St. Louis"
+  },
+  "IDS_PASC005": {
+    "message": "Omaha"
+  },
+  "IDS_PASC006": {
+    "message": "Atlanta"
+  },
+  "IDS_PASC007": {
+    "message": "Cleveland (old)"
+  },
+  "IDS_PASC012": {
+    "message": "Pensacola (old)"
+  },
+  "IDS_PASC014": {
+    "message": "New Orleans (old)"
+  },
+  "IDS_PASC016": {
+    "message": "Worcester"
+  },
+  "IDS_PASC017": {
+    "message": "Baltimore (old)"
+  },
+  "IDS_PASC019": {
+    "message": "Buffalo"
+  },
+  "IDS_PASC020": {
+    "message": "Des Moines"
+  },
+  "IDS_PASC024": {
+    "message": "Phoenix"
+  },
+  "IDS_PASC044": {
+    "message": "Marblehead"
+  },
+  "IDS_PASC045": {
+    "message": "Marblehead L"
+  },
+  "IDS_PASC106": {
+    "message": "Pensacola"
+  },
+  "IDS_PASC107": {
+    "message": "New Orleans"
+  },
+  "IDS_PASC108": {
+    "message": "Baltimore"
+  },
+  "IDS_PASC109": {
+    "message": "Buffalo"
+  },
+  "IDS_PASC111": {
+    "message": "Annapolis"
+  },
+  "IDS_PASC206": {
+    "message": "Dallas"
+  },
+  "IDS_PASC207": {
+    "message": "Helena"
+  },
+  "IDS_PASC208": {
+    "message": "Cleveland"
+  },
+  "IDS_PASC209": {
+    "message": "Seattle"
+  },
+  "IDS_PASC210": {
+    "message": "Worcester"
+  },
+  "IDS_PASC503": {
+    "message": "Charleston"
+  },
+  "IDS_PASC507": {
+    "message": "Indianapolis"
+  },
+  "IDS_PASC508": {
+    "message": "Wichita"
+  },
+  "IDS_PASC509": {
+    "message": "Vallejo"
+  },
+  "IDS_PASC510": {
+    "message": "Alaska"
+  },
+  "IDS_PASC518": {
+    "message": "Anchorage"
+  },
+  "IDS_PASC519": {
+    "message": "Tulsa"
+  },
+  "IDS_PASC528": {
+    "message": "Congress"
+  },
+  "IDS_PASC538": {
+    "message": "Rochester"
+  },
+  "IDS_PASC548": {
+    "message": "San Diego"
+  },
+  "IDS_PASC587": {
+    "message": "Atlanta B"
+  },
+  "IDS_PASC597": {
+    "message": "Boise"
+  },
+  "IDS_PASC599": {
+    "message": "Alaska B"
+  },
+  "IDS_PASC610": {
+    "message": "Puerto Rico"
+  },
+  "IDS_PASC707": {
+    "message": "Flint"
+  },
+  "IDS_PASC710": {
+    "message": "Salem"
+  },
+  "IDS_PASC718": {
+    "message": "AL Montpelier"
+  },
+  "IDS_PASC810": {
+    "message": "Austin"
+  },
+  "IDS_PASD002": {
+    "message": "Sampson"
+  },
+  "IDS_PASD005": {
+    "message": "Farragut"
+  },
+  "IDS_PASD006": {
+    "message": "Mahan"
+  },
+  "IDS_PASD008": {
+    "message": "Benson"
+  },
+  "IDS_PASD013": {
+    "message": "Gearing"
+  },
+  "IDS_PASD014": {
+    "message": "Nicholas"
+  },
+  "IDS_PASD019": {
+    "message": "Clemson"
+  },
+  "IDS_PASD021": {
+    "message": "Fletcher"
+  },
+  "IDS_PASD027": {
+    "message": "Wickes"
+  },
+  "IDS_PASD029": {
+    "message": "Sims"
+  },
+  "IDS_PASD502": {
+    "message": "Smith"
+  },
+  "IDS_PASD505": {
+    "message": "Hill"
+  },
+  "IDS_PASD506": {
+    "message": "Monaghan"
+  },
+  "IDS_PASD508": {
+    "message": "Kidd"
+  },
+  "IDS_PASD509": {
+    "message": "Benham"
+  },
+  "IDS_PASD510": {
+    "message": "Somers"
+  },
+  "IDS_PASD597": {
+    "message": "Sims B"
+  },
+  "IDS_PASD610": {
+    "message": "F. Sherman"
+  },
+  "IDS_PASD709": {
+    "message": "Black"
+  },
+  "IDS_PASD810": {
+    "message": "Gearing P"
+  },
+  "IDS_PASD913": {
+    "message": "[Gearing]"
+  },
+  "IDS_PASS106": {
+    "message": "Cachalot"
+  },
+  "IDS_PASS108": {
+    "message": "Salmon"
+  },
+  "IDS_PASS110": {
+    "message": "Balao"
+  },
+  "IDS_PASS206": {
+    "message": "Cachalot"
+  },
+  "IDS_PASS208": {
+    "message": "Salmon"
+  },
+  "IDS_PASS210": {
+    "message": "Balao"
+  },
+  "IDS_PASS518": {
+    "message": "Gato"
+  },
+  "IDS_PASX001": {
+    "message": "Cimarron"
+  },
+  "IDS_PASX003": {
+    "message": "Liberty"
+  },
+  "IDS_PASX005": {
+    "message": "St. Clair"
+  },
+  "IDS_PASX904": {
+    "message": "Cimarron Test"
+  },
+  "IDS_PBSA106": {
+    "message": "Furious"
+  },
+  "IDS_PBSA108": {
+    "message": "Implacable"
+  },
+  "IDS_PBSA111": {
+    "message": "Eagle"
+  },
+  "IDS_PBSA204": {
+    "message": "Hermes"
+  },
+  "IDS_PBSA210": {
+    "message": "Audacious"
+  },
+  "IDS_PBSA508": {
+    "message": "Indomitable"
+  },
+  "IDS_PBSA510": {
+    "message": "Malta"
+  },
+  "IDS_PBSA518": {
+    "message": "Ark Royal"
+  },
+  "IDS_PBSA910": {
+    "message": "[Audacious]"
+  },
+  "IDS_PBSB002": {
+    "message": "Warspite"
+  },
+  "IDS_PBSB103": {
+    "message": "Bellerophon"
+  },
+  "IDS_PBSB104": {
+    "message": "Orion"
+  },
+  "IDS_PBSB105": {
+    "message": "Iron Duke"
+  },
+  "IDS_PBSB106": {
+    "message": "Queen Elizabeth"
+  },
+  "IDS_PBSB107": {
+    "message": "King George V"
+  },
+  "IDS_PBSB108": {
+    "message": "Monarch"
+  },
+  "IDS_PBSB109": {
+    "message": "Lion"
+  },
+  "IDS_PBSB110": {
+    "message": "Conqueror"
+  },
+  "IDS_PBSB203": {
+    "message": "Indefatigable"
+  },
+  "IDS_PBSB204": {
+    "message": "Queen Mary"
+  },
+  "IDS_PBSB205": {
+    "message": "Tiger"
+  },
+  "IDS_PBSB206": {
+    "message": "Renown"
+  },
+  "IDS_PBSB207": {
+    "message": "Rooke"
+  },
+  "IDS_PBSB208": {
+    "message": "Hawke"
+  },
+  "IDS_PBSB209": {
+    "message": "Duncan"
+  },
+  "IDS_PBSB210": {
+    "message": "St. Vincent"
+  },
+  "IDS_PBSB503": {
+    "message": "Dreadnought"
+  },
+  "IDS_PBSB505": {
+    "message": "Agincourt"
+  },
+  "IDS_PBSB507": {
+    "message": "Hood"
+  },
+  "IDS_PBSB508": {
+    "message": "Vanguard"
+  },
+  "IDS_PBSB509": {
+    "message": "Marlborough"
+  },
+  "IDS_PBSB510": {
+    "message": "Thunderer"
+  },
+  "IDS_PBSB517": {
+    "message": "Nelson"
+  },
+  "IDS_PBSB526": {
+    "message": "Repulse"
+  },
+  "IDS_PBSB527": {
+    "message": "Duke of York"
+  },
+  "IDS_PBSB537": {
+    "message": "Collingwood"
+  },
+  "IDS_PBSB610": {
+    "message": "Incomparable"
+  },
+  "IDS_PBSB910": {
+    "message": "[Conqueror]"
+  },
+  "IDS_PBSB998": {
+    "message": "St. Lawrence"
+  },
+  "IDS_PBSC101": {
+    "message": "Black Swan"
+  },
+  "IDS_PBSC102": {
+    "message": "Weymouth"
+  },
+  "IDS_PBSC103": {
+    "message": "Caledon"
+  },
+  "IDS_PBSC104": {
+    "message": "Danae"
+  },
+  "IDS_PBSC105": {
+    "message": "Emerald"
+  },
+  "IDS_PBSC106": {
+    "message": "Leander"
+  },
+  "IDS_PBSC107": {
+    "message": "Fiji"
+  },
+  "IDS_PBSC108": {
+    "message": "Edinburgh"
+  },
+  "IDS_PBSC109": {
+    "message": "Neptune"
+  },
+  "IDS_PBSC110": {
+    "message": "Minotaur"
+  },
+  "IDS_PBSC111": {
+    "message": "Edgar"
+  },
+  "IDS_PBSC205": {
+    "message": "Hawkins"
+  },
+  "IDS_PBSC206": {
+    "message": "Devonshire"
+  },
+  "IDS_PBSC207": {
+    "message": "Surrey"
+  },
+  "IDS_PBSC208": {
+    "message": "Albemarle"
+  },
+  "IDS_PBSC209": {
+    "message": "Drake"
+  },
+  "IDS_PBSC210": {
+    "message": "Goliath"
+  },
+  "IDS_PBSC505": {
+    "message": "Exeter"
+  },
+  "IDS_PBSC507": {
+    "message": "Belfast"
+  },
+  "IDS_PBSC508": {
+    "message": "Cheshire"
+  },
+  "IDS_PBSC510": {
+    "message": "Plymouth"
+  },
+  "IDS_PBSC516": {
+    "message": "London"
+  },
+  "IDS_PBSC518": {
+    "message": "Tiger '59"
+  },
+  "IDS_PBSC526": {
+    "message": "Dido"
+  },
+  "IDS_PBSC528": {
+    "message": "Belfast '43"
+  },
+  "IDS_PBSC538": {
+    "message": "Hampshire"
+  },
+  "IDS_PBSC610": {
+    "message": "Gibraltar"
+  },
+  "IDS_PBSC910": {
+    "message": "Cyclops"
+  },
+  "IDS_PBSD102": {
+    "message": "Medea"
+  },
+  "IDS_PBSD103": {
+    "message": "Valkyrie"
+  },
+  "IDS_PBSD104": {
+    "message": "Wakeful"
+  },
+  "IDS_PBSD105": {
+    "message": "Acasta"
+  },
+  "IDS_PBSD106": {
+    "message": "Icarus"
+  },
+  "IDS_PBSD107": {
+    "message": "Jervis"
+  },
+  "IDS_PBSD108": {
+    "message": "Lightning"
+  },
+  "IDS_PBSD109": {
+    "message": "Jutland"
+  },
+  "IDS_PBSD110": {
+    "message": "Daring"
+  },
+  "IDS_PBSD503": {
+    "message": "Campbeltown"
+  },
+  "IDS_PBSD506": {
+    "message": "Gallant"
+  },
+  "IDS_PBSD510": {
+    "message": "Druid"
+  },
+  "IDS_PBSD517": {
+    "message": "Cossack"
+  },
+  "IDS_PBSD598": {
+    "message": "Cossack B"
+  },
+  "IDS_PBSD605": {
+    "message": "Anthony"
+  },
+  "IDS_PFSA506": {
+    "message": "Béarn"
+  },
+  "IDS_PFSB103": {
+    "message": "Turenne"
+  },
+  "IDS_PFSB104": {
+    "message": "Courbet"
+  },
+  "IDS_PFSB105": {
+    "message": "Bretagne"
+  },
+  "IDS_PFSB106": {
+    "message": "Normandie"
+  },
+  "IDS_PFSB107": {
+    "message": "Lyon"
+  },
+  "IDS_PFSB108": {
+    "message": "Richelieu"
+  },
+  "IDS_PFSB109": {
+    "message": "Alsace"
+  },
+  "IDS_PFSB110": {
+    "message": "République"
+  },
+  "IDS_PFSB111": {
+    "message": "Patrie"
+  },
+  "IDS_PFSB506": {
+    "message": "Dunkerque"
+  },
+  "IDS_PFSB507": {
+    "message": "Strasbourg"
+  },
+  "IDS_PFSB508": {
+    "message": "Gascogne"
+  },
+  "IDS_PFSB510": {
+    "message": "Bourgogne"
+  },
+  "IDS_PFSB518": {
+    "message": "Jean Bart"
+  },
+  "IDS_PFSB528": {
+    "message": "Champagne"
+  },
+  "IDS_PFSB538": {
+    "message": "Flandre"
+  },
+  "IDS_PFSB596": {
+    "message": "Dunkerque B"
+  },
+  "IDS_PFSB599": {
+    "message": "Jean Bart B"
+  },
+  "IDS_PFSB898": {
+    "message": "[Richelieu]"
+  },
+  "IDS_PFSC101": {
+    "message": "Bougainville"
+  },
+  "IDS_PFSC102": {
+    "message": "Jurien"
+  },
+  "IDS_PFSC103": {
+    "message": "Friant"
+  },
+  "IDS_PFSC104": {
+    "message": "Duguay-Trouin"
+  },
+  "IDS_PFSC105": {
+    "message": "Émile Bertin"
+  },
+  "IDS_PFSC106": {
+    "message": "La Galissonnière"
+  },
+  "IDS_PFSC107": {
+    "message": "Algérie"
+  },
+  "IDS_PFSC108": {
+    "message": "Charles Martel"
+  },
+  "IDS_PFSC109": {
+    "message": "Saint-Louis"
+  },
+  "IDS_PFSC110": {
+    "message": "Henri IV"
+  },
+  "IDS_PFSC111": {
+    "message": "Condé"
+  },
+  "IDS_PFSC208": {
+    "message": "Cherbourg"
+  },
+  "IDS_PFSC209": {
+    "message": "Brest"
+  },
+  "IDS_PFSC210": {
+    "message": "Marseille"
+  },
+  "IDS_PFSC506": {
+    "message": "De Grasse"
+  },
+  "IDS_PFSC507": {
+    "message": "Toulon"
+  },
+  "IDS_PFSC508": {
+    "message": "Bayard"
+  },
+  "IDS_PFSC509": {
+    "message": "Carnot"
+  },
+  "IDS_PFSC510": {
+    "message": "Colbert"
+  },
+  "IDS_PFSC810": {
+    "message": "Brennus"
+  },
+  "IDS_PFSC896": {
+    "message": "[La Galissonnière]"
+  },
+  "IDS_PFSD102": {
+    "message": "En. Gabolde"
+  },
+  "IDS_PFSD103": {
+    "message": "Fusilier"
+  },
+  "IDS_PFSD104": {
+    "message": "Bourrasque"
+  },
+  "IDS_PFSD105": {
+    "message": "Jaguar"
+  },
+  "IDS_PFSD106": {
+    "message": "Guépard"
+  },
+  "IDS_PFSD107": {
+    "message": "Vauquelin"
+  },
+  "IDS_PFSD108": {
+    "message": "Le Fantasque"
+  },
+  "IDS_PFSD109": {
+    "message": "Mogador"
+  },
+  "IDS_PFSD110": {
+    "message": "Kléber"
+  },
+  "IDS_PFSD210": {
+    "message": "Marceau"
+  },
+  "IDS_PFSD504": {
+    "message": "Siroco"
+  },
+  "IDS_PFSD506": {
+    "message": "Aigle"
+  },
+  "IDS_PFSD508": {
+    "message": "Le Terrible"
+  },
+  "IDS_PFSD605": {
+    "message": "Cyclone"
+  },
+  "IDS_PFSD808": {
+    "message": "L'Effronté"
+  },
+  "IDS_PGSA104": {
+    "message": "Rhein"
+  },
+  "IDS_PGSA106": {
+    "message": "Weser"
+  },
+  "IDS_PGSA108": {
+    "message": "A. Parseval"
+  },
+  "IDS_PGSA110": {
+    "message": "M. Richthofen"
+  },
+  "IDS_PGSA506": {
+    "message": "E. Loewenhardt"
+  },
+  "IDS_PGSA508": {
+    "message": "Graf Zeppelin (old)"
+  },
+  "IDS_PGSA510": {
+    "message": "W. Voss"
+  },
+  "IDS_PGSA518": {
+    "message": "Graf Zeppelin"
+  },
+  "IDS_PGSA598": {
+    "message": "Graf Zeppelin B"
+  },
+  "IDS_PGSA610": {
+    "message": "M. Immelmann"
+  },
+  "IDS_PGSB002": {
+    "message": "Tirpitz"
+  },
+  "IDS_PGSB103": {
+    "message": "Nassau"
+  },
+  "IDS_PGSB104": {
+    "message": "Kaiser"
+  },
+  "IDS_PGSB105": {
+    "message": "König"
+  },
+  "IDS_PGSB106": {
+    "message": "Bayern"
+  },
+  "IDS_PGSB107": {
+    "message": "Gneisenau"
+  },
+  "IDS_PGSB108": {
+    "message": "Bismarck"
+  },
+  "IDS_PGSB109": {
+    "message": "F. der Grosse"
+  },
+  "IDS_PGSB110": {
+    "message": "G. Kurfürst"
+  },
+  "IDS_PGSB111": {
+    "message": "Hannover"
+  },
+  "IDS_PGSB203": {
+    "message": "Von der Tann"
+  },
+  "IDS_PGSB204": {
+    "message": "Moltke"
+  },
+  "IDS_PGSB205": {
+    "message": "Derfflinger"
+  },
+  "IDS_PGSB206": {
+    "message": "Mackensen"
+  },
+  "IDS_PGSB207": {
+    "message": "P. Heinrich"
+  },
+  "IDS_PGSB208": {
+    "message": "Zieten"
+  },
+  "IDS_PGSB209": {
+    "message": "P. Rupprecht"
+  },
+  "IDS_PGSB210": {
+    "message": "Schlieffen"
+  },
+  "IDS_PGSB310": {
+    "message": "Preussen"
+  },
+  "IDS_PGSB503": {
+    "message": "K. Albert"
+  },
+  "IDS_PGSB506": {
+    "message": "P. E. Friedrich"
+  },
+  "IDS_PGSB507": {
+    "message": "Scharnhorst"
+  },
+  "IDS_PGSB508": {
+    "message": "Odin"
+  },
+  "IDS_PGSB509": {
+    "message": "Pommern"
+  },
+  "IDS_PGSB518": {
+    "message": "Brandenburg"
+  },
+  "IDS_PGSB528": {
+    "message": "Anhalt"
+  },
+  "IDS_PGSB597": {
+    "message": "Scharnhorst B"
+  },
+  "IDS_PGSB598": {
+    "message": "Tirpitz B"
+  },
+  "IDS_PGSB599": {
+    "message": "Pommern B"
+  },
+  "IDS_PGSB610": {
+    "message": "Mecklenburg"
+  },
+  "IDS_PGSB910": {
+    "message": "[G. Kurfürst]"
+  },
+  "IDS_PGSB999": {
+    "message": "Hannover (old)"
+  },
+  "IDS_PGSC001": {
+    "message": "Hermelin"
+  },
+  "IDS_PGSC002": {
+    "message": "Dresden"
+  },
+  "IDS_PGSC103": {
+    "message": "Kolberg"
+  },
+  "IDS_PGSC104": {
+    "message": "Karlsruhe"
+  },
+  "IDS_PGSC105": {
+    "message": "Königsberg"
+  },
+  "IDS_PGSC106": {
+    "message": "Nürnberg"
+  },
+  "IDS_PGSC107": {
+    "message": "Yorck"
+  },
+  "IDS_PGSC108": {
+    "message": "Hipper"
+  },
+  "IDS_PGSC109": {
+    "message": "Roon"
+  },
+  "IDS_PGSC110": {
+    "message": "Hindenburg"
+  },
+  "IDS_PGSC111": {
+    "message": "Clausewitz"
+  },
+  "IDS_PGSC502": {
+    "message": "Emden"
+  },
+  "IDS_PGSC506": {
+    "message": "Graf Spee"
+  },
+  "IDS_PGSC507": {
+    "message": "München"
+  },
+  "IDS_PGSC508": {
+    "message": "Prinz Eugen"
+  },
+  "IDS_PGSC509": {
+    "message": "Siegfried"
+  },
+  "IDS_PGSC517": {
+    "message": "Weimar"
+  },
+  "IDS_PGSC518": {
+    "message": "Mainz"
+  },
+  "IDS_PGSC519": {
+    "message": "Ägir"
+  },
+  "IDS_PGSC529": {
+    "message": "Schröder"
+  },
+  "IDS_PGSC706": {
+    "message": "HSF Graf Spee"
+  },
+  "IDS_PGSC718": {
+    "message": "Cross of Dorn"
+  },
+  "IDS_PGSC910": {
+    "message": "[Hindenburg]"
+  },
+  "IDS_PGSD102": {
+    "message": "V-25"
+  },
+  "IDS_PGSD103": {
+    "message": "G-101"
+  },
+  "IDS_PGSD104": {
+    "message": "V-170"
+  },
+  "IDS_PGSD105": {
+    "message": "T-22"
+  },
+  "IDS_PGSD106": {
+    "message": "Gaede"
+  },
+  "IDS_PGSD107": {
+    "message": "Maass"
+  },
+  "IDS_PGSD108": {
+    "message": "Z-23"
+  },
+  "IDS_PGSD109": {
+    "message": "Z-46"
+  },
+  "IDS_PGSD110": {
+    "message": "Z-52"
+  },
+  "IDS_PGSD207": {
+    "message": "Z-31"
+  },
+  "IDS_PGSD208": {
+    "message": "G. J. Maerker"
+  },
+  "IDS_PGSD209": {
+    "message": "F. Schultz"
+  },
+  "IDS_PGSD210": {
+    "message": "Elbing"
+  },
+  "IDS_PGSD506": {
+    "message": "T-61"
+  },
+  "IDS_PGSD508": {
+    "message": "Z-39"
+  },
+  "IDS_PGSD516": {
+    "message": "K. Schönberg"
+  },
+  "IDS_PGSD518": {
+    "message": "Z-35"
+  },
+  "IDS_PGSD519": {
+    "message": "Z-44"
+  },
+  "IDS_PGSD529": {
+    "message": "ZF-6"
+  },
+  "IDS_PGSS106": {
+    "message": "U-69"
+  },
+  "IDS_PGSS108": {
+    "message": "U-190"
+  },
+  "IDS_PGSS110": {
+    "message": "U-2501"
+  },
+  "IDS_PGSS206": {
+    "message": "U-69"
+  },
+  "IDS_PGSS208": {
+    "message": "U-190"
+  },
+  "IDS_PGSS210": {
+    "message": "U-2501"
+  },
+  "IDS_PGSS510": {
+    "message": "U-4501"
+  },
+  "IDS_PHSC101": {
+    "message": "Van Kinsbergen"
+  },
+  "IDS_PHSC102": {
+    "message": "Gelderland"
+  },
+  "IDS_PHSC103": {
+    "message": "Java"
+  },
+  "IDS_PHSC104": {
+    "message": "De Ruyter"
+  },
+  "IDS_PHSC105": {
+    "message": "Celebes"
+  },
+  "IDS_PHSC106": {
+    "message": "Kijkduin"
+  },
+  "IDS_PHSC107": {
+    "message": "Eendracht"
+  },
+  "IDS_PHSC108": {
+    "message": "Haarlem"
+  },
+  "IDS_PHSC109": {
+    "message": "Johan de Witt"
+  },
+  "IDS_PHSC110": {
+    "message": "Gouden Leeuw"
+  },
+  "IDS_PHSC508": {
+    "message": "De 7 Provinciën"
+  },
+  "IDS_PHSD509": {
+    "message": "Groningen"
+  },
+  "IDS_PHSD610": {
+    "message": "Tromp"
+  },
+  "IDS_PISA508": {
+    "message": "Aquila"
+  },
+  "IDS_PISB104": {
+    "message": "D. Alighieri"
+  },
+  "IDS_PISB105": {
+    "message": "Cavour"
+  },
+  "IDS_PISB106": {
+    "message": "Andrea Doria"
+  },
+  "IDS_PISB107": {
+    "message": "F. Caracciolo"
+  },
+  "IDS_PISB108": {
+    "message": "V. Veneto"
+  },
+  "IDS_PISB109": {
+    "message": "Lepanto"
+  },
+  "IDS_PISB110": {
+    "message": "C. Colombo"
+  },
+  "IDS_PISB505": {
+    "message": "Giulio Cesare"
+  },
+  "IDS_PISB508": {
+    "message": "Roma"
+  },
+  "IDS_PISB509": {
+    "message": "Marco Polo"
+  },
+  "IDS_PISB519": {
+    "message": "Giuseppe Verdi"
+  },
+  "IDS_PISB708": {
+    "message": "AL Littorio"
+  },
+  "IDS_PISB805": {
+    "message": "Giunio Bruto"
+  },
+  "IDS_PISC101": {
+    "message": "Eritrea"
+  },
+  "IDS_PISC102": {
+    "message": "Nino Bixio"
+  },
+  "IDS_PISC103": {
+    "message": "Taranto"
+  },
+  "IDS_PISC104": {
+    "message": "Giussano"
+  },
+  "IDS_PISC105": {
+    "message": "Montecuccoli"
+  },
+  "IDS_PISC106": {
+    "message": "Trento"
+  },
+  "IDS_PISC107": {
+    "message": "Zara"
+  },
+  "IDS_PISC108": {
+    "message": "Amalfi"
+  },
+  "IDS_PISC109": {
+    "message": "Brindisi"
+  },
+  "IDS_PISC110": {
+    "message": "Venezia"
+  },
+  "IDS_PISC505": {
+    "message": "Genova"
+  },
+  "IDS_PISC506": {
+    "message": "Duca d'Aosta"
+  },
+  "IDS_PISC507": {
+    "message": "Abruzzi"
+  },
+  "IDS_PISC510": {
+    "message": "Napoli"
+  },
+  "IDS_PISC607": {
+    "message": "Gorizia"
+  },
+  "IDS_PISD102": {
+    "message": "Curtatone"
+  },
+  "IDS_PISD103": {
+    "message": "N. Sauro"
+  },
+  "IDS_PISD104": {
+    "message": "Turbine"
+  },
+  "IDS_PISD105": {
+    "message": "Maestrale"
+  },
+  "IDS_PISD106": {
+    "message": "Aviere"
+  },
+  "IDS_PISD107": {
+    "message": "L. Tarigo"
+  },
+  "IDS_PISD108": {
+    "message": "V. Cuniberti"
+  },
+  "IDS_PISD109": {
+    "message": "Adriatico"
+  },
+  "IDS_PISD110": {
+    "message": "A. Regolo"
+  },
+  "IDS_PISD506": {
+    "message": "Leone"
+  },
+  "IDS_PISD507": {
+    "message": "FR25"
+  },
+  "IDS_PISD509": {
+    "message": "Paolo Emilio"
+  },
+  "IDS_PJSA002": {
+    "message": "Hōshō (old)"
+  },
+  "IDS_PJSA006": {
+    "message": "Zuihō (old)"
+  },
+  "IDS_PJSA009": {
+    "message": "Ryūjō (old)"
+  },
+  "IDS_PJSA011": {
+    "message": "Hiryū (old)"
+  },
+  "IDS_PJSA012": {
+    "message": "Shōkaku (old)"
+  },
+  "IDS_PJSA015": {
+    "message": "Taihō (old)"
+  },
+  "IDS_PJSA017": {
+    "message": "Hakuryū (old)"
+  },
+  "IDS_PJSA104": {
+    "message": "Hōshō"
+  },
+  "IDS_PJSA106": {
+    "message": "Ryūjō"
+  },
+  "IDS_PJSA108": {
+    "message": "Shōkaku"
+  },
+  "IDS_PJSA110": {
+    "message": "Hakuryū"
+  },
+  "IDS_PJSA111": {
+    "message": "Sekiryu"
+  },
+  "IDS_PJSA507": {
+    "message": "Kaga (old)"
+  },
+  "IDS_PJSA518": {
+    "message": "Kaga"
+  },
+  "IDS_PJSA598": {
+    "message": "Kaga B"
+  },
+  "IDS_PJSA917": {
+    "message": "[Hakuryū]"
+  },
+  "IDS_PJSB001": {
+    "message": "Kawachi"
+  },
+  "IDS_PJSB003": {
+    "message": "Myōgi"
+  },
+  "IDS_PJSB006": {
+    "message": "Fusō"
+  },
+  "IDS_PJSB007": {
+    "message": "Kongō"
+  },
+  "IDS_PJSB008": {
+    "message": "Ishizuchi"
+  },
+  "IDS_PJSB010": {
+    "message": "Nagato"
+  },
+  "IDS_PJSB011": {
+    "message": "Mikasa"
+  },
+  "IDS_PJSB013": {
+    "message": "Amagi"
+  },
+  "IDS_PJSB018": {
+    "message": "Yamato"
+  },
+  "IDS_PJSB021": {
+    "message": "Izumo"
+  },
+  "IDS_PJSB111": {
+    "message": "Satsuma"
+  },
+  "IDS_PJSB506": {
+    "message": "Mutsu"
+  },
+  "IDS_PJSB507": {
+    "message": "Ashitaka"
+  },
+  "IDS_PJSB508": {
+    "message": "Kii"
+  },
+  "IDS_PJSB509": {
+    "message": "Musashi"
+  },
+  "IDS_PJSB510": {
+    "message": "Shikishima"
+  },
+  "IDS_PJSB517": {
+    "message": "Hyūga"
+  },
+  "IDS_PJSB519": {
+    "message": "Hizen"
+  },
+  "IDS_PJSB526": {
+    "message": "Ise"
+  },
+  "IDS_PJSB529": {
+    "message": "Iwami"
+  },
+  "IDS_PJSB700": {
+    "message": "ARP Yamato"
+  },
+  "IDS_PJSB705": {
+    "message": "ARP Kongō"
+  },
+  "IDS_PJSB706": {
+    "message": "ARP Kirishima"
+  },
+  "IDS_PJSB707": {
+    "message": "ARP Haruna"
+  },
+  "IDS_PJSB708": {
+    "message": "ARP Hiei"
+  },
+  "IDS_PJSB715": {
+    "message": "HSF Hiei"
+  },
+  "IDS_PJSB799": {
+    "message": "ARP Kirishima"
+  },
+  "IDS_PJSB878": {
+    "message": "Ignis Purgatio"
+  },
+  "IDS_PJSB888": {
+    "message": "Ragnarok"
+  },
+  "IDS_PJSB906": {
+    "message": "Ise 2"
+  },
+  "IDS_PJSB916": {
+    "message": "Ise 3"
+  },
+  "IDS_PJSB918": {
+    "message": "[Yamato]"
+  },
+  "IDS_PJSB999": {
+    "message": "Satsuma (old)"
+  },
+  "IDS_PJSC004": {
+    "message": "Yūbari"
+  },
+  "IDS_PJSC005": {
+    "message": "Furutaka"
+  },
+  "IDS_PJSC007": {
+    "message": "Aoba"
+  },
+  "IDS_PJSC008": {
+    "message": "Myōkō"
+  },
+  "IDS_PJSC009": {
+    "message": "Mogami"
+  },
+  "IDS_PJSC012": {
+    "message": "Ibuki"
+  },
+  "IDS_PJSC013": {
+    "message": "Kuma"
+  },
+  "IDS_PJSC014": {
+    "message": "Kitakami"
+  },
+  "IDS_PJSC015": {
+    "message": "Tenryū"
+  },
+  "IDS_PJSC018": {
+    "message": "Tone"
+  },
+  "IDS_PJSC026": {
+    "message": "Iwaki A"
+  },
+  "IDS_PJSC034": {
+    "message": "Zaō"
+  },
+  "IDS_PJSC035": {
+    "message": "Chikuma"
+  },
+  "IDS_PJSC037": {
+    "message": "Hashidate"
+  },
+  "IDS_PJSC038": {
+    "message": "Atago"
+  },
+  "IDS_PJSC205": {
+    "message": "Agano"
+  },
+  "IDS_PJSC206": {
+    "message": "Gokase"
+  },
+  "IDS_PJSC207": {
+    "message": "Omono"
+  },
+  "IDS_PJSC208": {
+    "message": "Shimanto"
+  },
+  "IDS_PJSC209": {
+    "message": "Takahashi"
+  },
+  "IDS_PJSC210": {
+    "message": "Yodo"
+  },
+  "IDS_PJSC503": {
+    "message": "Katori"
+  },
+  "IDS_PJSC505": {
+    "message": "Yahagi"
+  },
+  "IDS_PJSC507": {
+    "message": "Tokachi"
+  },
+  "IDS_PJSC510": {
+    "message": "Azuma"
+  },
+  "IDS_PJSC517": {
+    "message": "Maya"
+  },
+  "IDS_PJSC519": {
+    "message": "AL Azuma"
+  },
+  "IDS_PJSC520": {
+    "message": "Yoshino"
+  },
+  "IDS_PJSC590": {
+    "message": "Yoshino B"
+  },
+  "IDS_PJSC598": {
+    "message": "Atago B"
+  },
+  "IDS_PJSC610": {
+    "message": "Kitakami"
+  },
+  "IDS_PJSC705": {
+    "message": "ARP Myōkō"
+  },
+  "IDS_PJSC707": {
+    "message": "ARP Ashigara"
+  },
+  "IDS_PJSC708": {
+    "message": "ARP Takao"
+  },
+  "IDS_PJSC709": {
+    "message": "ARP Haguro"
+  },
+  "IDS_PJSC717": {
+    "message": "S. Dragon"
+  },
+  "IDS_PJSC718": {
+    "message": "ARP Maya"
+  },
+  "IDS_PJSC727": {
+    "message": "E. Dragon"
+  },
+  "IDS_PJSC737": {
+    "message": "ARP Nachi"
+  },
+  "IDS_PJSC810": {
+    "message": "Zaō P"
+  },
+  "IDS_PJSC918": {
+    "message": "Tone 2"
+  },
+  "IDS_PJSC919": {
+    "message": "Tone 3"
+  },
+  "IDS_PJSC934": {
+    "message": "[Zaō]"
+  },
+  "IDS_PJSD001": {
+    "message": "Tachibana"
+  },
+  "IDS_PJSD002": {
+    "message": "Umikaze"
+  },
+  "IDS_PJSD003": {
+    "message": "Isokaze"
+  },
+  "IDS_PJSD004": {
+    "message": "Minekaze"
+  },
+  "IDS_PJSD005": {
+    "message": "Mutsuki (old)"
+  },
+  "IDS_PJSD006": {
+    "message": "Hatsuharu (old)"
+  },
+  "IDS_PJSD007": {
+    "message": "Fubuki (old)"
+  },
+  "IDS_PJSD010": {
+    "message": "Kagerō (old)"
+  },
+  "IDS_PJSD012": {
+    "message": "Shimakaze"
+  },
+  "IDS_PJSD014": {
+    "message": "Tachibana L"
+  },
+  "IDS_PJSD017": {
+    "message": "Fūjin"
+  },
+  "IDS_PJSD024": {
+    "message": "Wakatake"
+  },
+  "IDS_PJSD025": {
+    "message": "Kamikaze"
+  },
+  "IDS_PJSD026": {
+    "message": "Kamikaze R"
+  },
+  "IDS_PJSD105": {
+    "message": "Mutsuki"
+  },
+  "IDS_PJSD106": {
+    "message": "Fubuki"
+  },
+  "IDS_PJSD107": {
+    "message": "Akatsuki"
+  },
+  "IDS_PJSD108": {
+    "message": "Akizuki"
+  },
+  "IDS_PJSD111": {
+    "message": "Yamagiri"
+  },
+  "IDS_PJSD206": {
+    "message": "Hatsuharu"
+  },
+  "IDS_PJSD207": {
+    "message": "Shiratsuyu"
+  },
+  "IDS_PJSD208": {
+    "message": "Kagerō"
+  },
+  "IDS_PJSD209": {
+    "message": "Yūgumo"
+  },
+  "IDS_PJSD210": {
+    "message": "Harugumo"
+  },
+  "IDS_PJSD219": {
+    "message": "Kitakaze"
+  },
+  "IDS_PJSD507": {
+    "message": "Yūdachi"
+  },
+  "IDS_PJSD510": {
+    "message": "Hayate"
+  },
+  "IDS_PJSD518": {
+    "message": "Asashio"
+  },
+  "IDS_PJSD528": {
+    "message": "HSF Harekaze II"
+  },
+  "IDS_PJSD598": {
+    "message": "Asashio B"
+  },
+  "IDS_PJSD706": {
+    "message": "Shinonome"
+  },
+  "IDS_PJSD708": {
+    "message": "HSF Harekaze"
+  },
+  "IDS_PJSD718": {
+    "message": "AL Yukikaze"
+  },
+  "IDS_PJSD912": {
+    "message": "[Shimakaze]"
+  },
+  "IDS_PJSS508": {
+    "message": "I-58"
+  },
+  "IDS_PJSS518": {
+    "message": "I-56"
+  },
+  "IDS_PJSX701": {
+    "message": "ARP I-401"
+  },
+  "IDS_PJSX702": {
+    "message": "ARP I-401"
+  },
+  "IDS_PRSA104": {
+    "message": "Комсомолец"
+  },
+  "IDS_PRSA106": {
+    "message": "Серов"
+  },
+  "IDS_PRSA108": {
+    "message": "Победа"
+  },
+  "IDS_PRSA110": {
+    "message": "Нахимов"
+  },
+  "IDS_PRSA508": {
+    "message": "Чкалов"
+  },
+  "IDS_PRSB001": {
+    "message": "Николай I"
+  },
+  "IDS_PRSB103": {
+    "message": "Князь Суворов"
+  },
+  "IDS_PRSB104": {
+    "message": "Гангут"
+  },
+  "IDS_PRSB105": {
+    "message": "Пётр Великий"
+  },
+  "IDS_PRSB106": {
+    "message": "Измаил"
+  },
+  "IDS_PRSB107": {
+    "message": "Синоп"
+  },
+  "IDS_PRSB108": {
+    "message": "Владивосток"
+  },
+  "IDS_PRSB109": {
+    "message": "Сов. Союз"
+  },
+  "IDS_PRSB110": {
+    "message": "Кремль"
+  },
+  "IDS_PRSB111": {
+    "message": "Адмирал Ушаков"
+  },
+  "IDS_PRSB505": {
+    "message": "Окт. революция"
+  },
+  "IDS_PRSB508": {
+    "message": "Полтава"
+  },
+  "IDS_PRSB510": {
+    "message": "Слава"
+  },
+  "IDS_PRSB516": {
+    "message": "Новороссийск"
+  },
+  "IDS_PRSB518": {
+    "message": "Ленин"
+  },
+  "IDS_PRSB528": {
+    "message": "Бородино"
+  },
+  "IDS_PRSB538": {
+    "message": "В. И. Ленин"
+  },
+  "IDS_PRSB709": {
+    "message": "AL Сов. Россия"
+  },
+  "IDS_PRSC001": {
+    "message": "Аврора"
+  },
+  "IDS_PRSC002": {
+    "message": "Диана"
+  },
+  "IDS_PRSC003": {
+    "message": "Мурманск"
+  },
+  "IDS_PRSC010": {
+    "message": "Диана L"
+  },
+  "IDS_PRSC101": {
+    "message": "Орлан"
+  },
+  "IDS_PRSC102": {
+    "message": "Новик"
+  },
+  "IDS_PRSC103": {
+    "message": "Богатырь"
+  },
+  "IDS_PRSC104": {
+    "message": "Светлана"
+  },
+  "IDS_PRSC105": {
+    "message": "Киров (OLD)"
+  },
+  "IDS_PRSC106": {
+    "message": "Будённый"
+  },
+  "IDS_PRSC107": {
+    "message": "Щорс"
+  },
+  "IDS_PRSC108": {
+    "message": "Чапаев"
+  },
+  "IDS_PRSC109": {
+    "message": "Дм. Донской"
+  },
+  "IDS_PRSC110": {
+    "message": "Москва"
+  },
+  "IDS_PRSC208": {
+    "message": "Таллин"
+  },
+  "IDS_PRSC209": {
+    "message": "Рига"
+  },
+  "IDS_PRSC210": {
+    "message": "А. Невский"
+  },
+  "IDS_PRSC215": {
+    "message": "Котовский"
+  },
+  "IDS_PRSC310": {
+    "message": "Петропавловск"
+  },
+  "IDS_PRSC503": {
+    "message": "Олег"
+  },
+  "IDS_PRSC505": {
+    "message": "Красный Крым"
+  },
+  "IDS_PRSC506": {
+    "message": "Молотов"
+  },
+  "IDS_PRSC508": {
+    "message": "Кутузов"
+  },
+  "IDS_PRSC509": {
+    "message": "Кронштадт"
+  },
+  "IDS_PRSC510": {
+    "message": "Сталинград"
+  },
+  "IDS_PRSC513": {
+    "message": "Варяг"
+  },
+  "IDS_PRSC515": {
+    "message": "Микоян"
+  },
+  "IDS_PRSC518": {
+    "message": "Лазо"
+  },
+  "IDS_PRSC520": {
+    "message": "Сталинград 2"
+  },
+  "IDS_PRSC523": {
+    "message": "AL Аврора"
+  },
+  "IDS_PRSC525": {
+    "message": "Киров"
+  },
+  "IDS_PRSC528": {
+    "message": "Очаков"
+  },
+  "IDS_PRSC538": {
+    "message": "П. Багратион"
+  },
+  "IDS_PRSC548": {
+    "message": "Багратион"
+  },
+  "IDS_PRSC606": {
+    "message": "Макаров"
+  },
+  "IDS_PRSC610": {
+    "message": "Смоленск"
+  },
+  "IDS_PRSC710": {
+    "message": "Севастополь"
+  },
+  "IDS_PRSC910": {
+    "message": "[Москва]"
+  },
+  "IDS_PRSC999": {
+    "message": "Test Ship"
+  },
+  "IDS_PRSD001": {
+    "message": "Гремящий"
+  },
+  "IDS_PRSD102": {
+    "message": "Сторожевой"
+  },
+  "IDS_PRSD103": {
+    "message": "Дерзкий"
+  },
+  "IDS_PRSD104": {
+    "message": "Изяслав"
+  },
+  "IDS_PRSD105": {
+    "message": "Гневный (OLD)"
+  },
+  "IDS_PRSD106": {
+    "message": "Огневой (OLD)"
+  },
+  "IDS_PRSD107": {
+    "message": "Удалой"
+  },
+  "IDS_PRSD108": {
+    "message": "Ташкент (OLD)"
+  },
+  "IDS_PRSD109": {
+    "message": "Киев (OLD)"
+  },
+  "IDS_PRSD110": {
+    "message": "Хабаровск"
+  },
+  "IDS_PRSD111": {
+    "message": "Зоркий"
+  },
+  "IDS_PRSD205": {
+    "message": "Подвойский"
+  },
+  "IDS_PRSD206": {
+    "message": "Гневный"
+  },
+  "IDS_PRSD207": {
+    "message": "Минск"
+  },
+  "IDS_PRSD208": {
+    "message": "Огневой"
+  },
+  "IDS_PRSD210": {
+    "message": "Грозовой"
+  },
+  "IDS_PRSD308": {
+    "message": "Киев"
+  },
+  "IDS_PRSD409": {
+    "message": "Ташкент"
+  },
+  "IDS_PRSD410": {
+    "message": "Дельный"
+  },
+  "IDS_PRSD505": {
+    "message": "Охотник"
+  },
+  "IDS_PRSD507": {
+    "message": "Ленинград"
+  },
+  "IDS_PRSD709": {
+    "message": "Неустрашимый"
+  },
+  "IDS_PRSD810": {
+    "message": "DD R-10"
+  },
+  "IDS_PRSD910": {
+    "message": "[Грозовой]"
+  },
+  "IDS_PRSS106": {
+    "message": "С-1"
+  },
+  "IDS_PRSS108": {
+    "message": "Л-20"
+  },
+  "IDS_PRSS110": {
+    "message": "К-1"
+  },
+  "IDS_PRSS508": {
+    "message": "С-189"
+  },
+  "IDS_PRSS999": {
+    "message": "Test Sub 1"
+  },
+  "IDS_PSSC506": {
+    "message": "Canarias"
+  },
+  "IDS_PSSD510": {
+    "message": "Álvaro de Bazán"
+  },
+  "IDS_PUSB507": {
+    "message": "Yukon"
+  },
+  "IDS_PUSC506": {
+    "message": "Perth"
+  },
+  "IDS_PUSC516": {
+    "message": "Mysore"
+  },
+  "IDS_PUSD503": {
+    "message": "Vampire"
+  },
+  "IDS_PUSD507": {
+    "message": "Haida"
+  },
+  "IDS_PUSD510": {
+    "message": "Vampire II"
+  },
+  "IDS_PUSD517": {
+    "message": "Huron"
+  },
+  "IDS_PVSB505": {
+    "message": "Rio de Janeiro"
+  },
+  "IDS_PVSB508": {
+    "message": "Atlântico"
+  },
+  "IDS_PVSC502": {
+    "message": "Alte Abreu"
+  },
+  "IDS_PVSC507": {
+    "message": "Nueve de Julio"
+  },
+  "IDS_PVSD506": {
+    "message": "Juruá"
+  },
+  "IDS_PWSB504": {
+    "message": "Viribus Unitis"
+  },
+  "IDS_PWSC101": {
+    "message": "Gryf"
+  },
+  "IDS_PWSD102": {
+    "message": "Tátra"
+  },
+  "IDS_PWSD103": {
+    "message": "Romulus"
+  },
+  "IDS_PWSD104": {
+    "message": "Klas Horn"
+  },
+  "IDS_PWSD105": {
+    "message": "Visby"
+  },
+  "IDS_PWSD106": {
+    "message": "Västerås"
+  },
+  "IDS_PWSD107": {
+    "message": "Skåne"
+  },
+  "IDS_PWSD108": {
+    "message": "Öland"
+  },
+  "IDS_PWSD109": {
+    "message": "Östergötland"
+  },
+  "IDS_PWSD110": {
+    "message": "Halland"
+  },
+  "IDS_PWSD111": {
+    "message": "Dalarna"
+  },
+  "IDS_PWSD501": {
+    "message": "Błyskawica"
+  },
+  "IDS_PWSD508": {
+    "message": "Orkan"
+  },
+  "IDS_PWSD509": {
+    "message": "Velos"
+  },
+  "IDS_PWSD510": {
+    "message": "Friesland"
+  },
+  "IDS_PWSD610": {
+    "message": "Småland"
+  },
+  "IDS_PWSD710": {
+    "message": "Ragnar"
+  },
+  "IDS_PWSD910": {
+    "message": "Lappland"
+  },
+  "IDS_PXSA001": {
+    "message": "Luftwaffe"
+  },
+  "IDS_PXSA002": {
+    "message": "Air Force"
+  },
+  "IDS_PXSA003": {
+    "message": "Nobilium"
+  },
+  "IDS_PXSA004": {
+    "message": "Горгон Великий"
+  },
+  "IDS_PXSA005": {
+    "message": "Hellcarrier"
+  },
+  "IDS_PXSA807": {
+    "message": "Ranger"
+  },
+  "IDS_PXSB001": {
+    "message": "Jackal"
+  },
+  "IDS_PXSB002": {
+    "message": "Распутин"
+  },
+  "IDS_PXSB003": {
+    "message": "Zikasa"
+  },
+  "IDS_PXSB004": {
+    "message": "Magnu-S"
+  },
+  "IDS_PXSB005": {
+    "message": "Varg"
+  },
+  "IDS_PXSB006": {
+    "message": "Paris"
+  },
+  "IDS_PXSB007": {
+    "message": "Alldestroyer"
+  },
+  "IDS_PXSB008": {
+    "message": "Leviathan"
+  },
+  "IDS_PXSB009": {
+    "message": "Scorpioid"
+  },
+  "IDS_PXSB010": {
+    "message": "Maverick"
+  },
+  "IDS_PXSB011": {
+    "message": "Crocosaur"
+  },
+  "IDS_PXSB015": {
+    "message": "Пучеглаз"
+  },
+  "IDS_PXSB101": {
+    "message": "Мститель"
+  },
+  "IDS_PXSB103": {
+    "message": "Геракл"
+  },
+  "IDS_PXSC001": {
+    "message": "Igor"
+  },
+  "IDS_PXSC002": {
+    "message": "Scarab"
+  },
+  "IDS_PXSC003": {
+    "message": "Святозар"
+  },
+  "IDS_PXSC004": {
+    "message": "Galaxy"
+  },
+  "IDS_PXSC005": {
+    "message": "Zaya"
+  },
+  "IDS_PXSC006": {
+    "message": "Norma"
+  },
+  "IDS_PXSC007": {
+    "message": "Aurora"
+  },
+  "IDS_PXSC009": {
+    "message": "Octopus"
+  },
+  "IDS_PXSC010": {
+    "message": "Century Hawk"
+  },
+  "IDS_PXSC011": {
+    "message": "Octodroid"
+  },
+  "IDS_PXSC012": {
+    "message": "Rust Nightfall"
+  },
+  "IDS_PXSC013": {
+    "message": "Fossil"
+  },
+  "IDS_PXSC016": {
+    "message": "Шипоспин"
+  },
+  "IDS_PXSC101": {
+    "message": "Валькирия"
+  },
+  "IDS_PXSC102": {
+    "message": "Штормовой"
+  },
+  "IDS_PXSC503": {
+    "message": "Корабль"
+  },
+  "IDS_PXSD001": {
+    "message": "Blade"
+  },
+  "IDS_PXSD002": {
+    "message": "Ghoul"
+  },
+  "IDS_PXSD003": {
+    "message": "Urashima"
+  },
+  "IDS_PXSD004": {
+    "message": "FlyFire"
+  },
+  "IDS_PXSD005": {
+    "message": "Blue Aster"
+  },
+  "IDS_PXSD007": {
+    "message": "Schnellboot"
+  },
+  "IDS_PXSD008": {
+    "message": "Steel Rat"
+  },
+  "IDS_PXSD009": {
+    "message": "Razorworm"
+  },
+  "IDS_PXSD010": {
+    "message": "Celestial"
+  },
+  "IDS_PXSD011": {
+    "message": "Comet Trace"
+  },
+  "IDS_PXSD012": {
+    "message": "Rover"
+  },
+  "IDS_PXSD013": {
+    "message": "Messer"
+  },
+  "IDS_PXSD014": {
+    "message": "Carnal"
+  },
+  "IDS_PXSD015": {
+    "message": "Ядрёный"
+  },
+  "IDS_PXSD016": {
+    "message": "Sea Devil"
+  },
+  "IDS_PXSD017": {
+    "message": "Lancet"
+  },
+  "IDS_PXSD018": {
+    "message": "Mizu-Jet"
+  },
+  "IDS_PXSD019": {
+    "message": "Stealthedo"
+  },
+  "IDS_PXSD020": {
+    "message": "Шальной"
+  },
+  "IDS_PXSD021": {
+    "message": "Rumble"
+  },
+  "IDS_PXSD022": {
+    "message": "Angler"
+  },
+  "IDS_PXSD023": {
+    "message": "Steel Lancet"
+  },
+  "IDS_PXSD024": {
+    "message": "Mutantovsk"
+  },
+  "IDS_PXSD025": {
+    "message": "Клыкорук"
+  },
+  "IDS_PXSD102": {
+    "message": "Молниеносный"
+  },
+  "IDS_PXSD103": {
+    "message": "Гектор"
+  },
+  "IDS_PXSS107": {
+    "message": "Кроха"
+  },
+  "IDS_PXSS207": {
+    "message": "Seelöwe"
+  },
+  "IDS_PXSS307": {
+    "message": "Gerfalcon"
+  },
+  "IDS_PXSS407": {
+    "message": "Barracuda"
+  },
+  "IDS_PXSS507": {
+    "message": "Killer Whale"
+  },
+  "IDS_PXSX001": {
+    "message": "Трансильвания"
+  },
+  "IDS_PXSX016": {
+    "message": "Goliath"
+  },
+  "IDS_PXSX017": {
+    "message": "Caboteur"
+  },
+  "IDS_PXSX023": {
+    "message": "Lorina"
+  },
+  "IDS_PXSX024": {
+    "message": "Aronia"
+  },
+  "IDS_PXSX025": {
+    "message": "Medway Queen"
+  },
+  "IDS_PXSX026": {
+    "message": "Canterbury"
+  },
+  "IDS_PXSX033": {
+    "message": "Минный заградитель"
+  },
+  "IDS_PXSX034": {
+    "message": "John Cattling"
+  },
+  "IDS_PXSX035": {
+    "message": "Landing Ship 1"
+  },
+  "IDS_PXSX037": {
+    "message": "Daihatsu"
+  },
+  "IDS_PXSX039": {
+    "message": "LST 325"
+  },
+  "IDS_PXSX040": {
+    "message": "Escort 8"
+  },
+  "IDS_PXSX043": {
+    "message": "Medway Queen"
+  },
+  "IDS_PXSX044": {
+    "message": "Cimarron civil"
+  },
+  "IDS_PXSX045": {
+    "message": "Liberty civil"
+  },
+  "IDS_PXSX501": {
+    "message": "Liberty"
+  },
+  "IDS_PXSX743": {
+    "message": "Intania Queen"
+  },
+  "IDS_PXSX815": {
+    "message": "Bogue"
+  },
+  "IDS_PZSA508": {
+    "message": "Sanzang"
+  },
+  "IDS_PZSB509": {
+    "message": "Bajie"
+  },
+  "IDS_PZSB519": {
+    "message": "Wujing"
+  },
+  "IDS_PZSC101": {
+    "message": "Chengan"
+  },
+  "IDS_PZSC105": {
+    "message": "Chungking"
+  },
+  "IDS_PZSC106": {
+    "message": "Rahmat"
+  },
+  "IDS_PZSC107": {
+    "message": "Chumphon"
+  },
+  "IDS_PZSC108": {
+    "message": "Harbin"
+  },
+  "IDS_PZSC109": {
+    "message": "Sejong"
+  },
+  "IDS_PZSC110": {
+    "message": "Jinan"
+  },
+  "IDS_PZSC506": {
+    "message": "Huanghe"
+  },
+  "IDS_PZSC508": {
+    "message": "Irian"
+  },
+  "IDS_PZSC509": {
+    "message": "Dalian"
+  },
+  "IDS_PZSC518": {
+    "message": "Wukong"
+  },
+  "IDS_PZSD102": {
+    "message": "Longjiang"
+  },
+  "IDS_PZSD103": {
+    "message": "Phra Ruang"
+  },
+  "IDS_PZSD104": {
+    "message": "Shenyang"
+  },
+  "IDS_PZSD105": {
+    "message": "Jianwei"
+  },
+  "IDS_PZSD106": {
+    "message": "Fushun"
+  },
+  "IDS_PZSD107": {
+    "message": "Gadjah Mada"
+  },
+  "IDS_PZSD108": {
+    "message": "Hsienyang"
+  },
+  "IDS_PZSD109": {
+    "message": "Chung Mu"
+  },
+  "IDS_PZSD110": {
+    "message": "Yueyang"
+  },
+  "IDS_PZSD208": {
+    "message": "Siliwangi"
+  },
+  "IDS_PZSD506": {
+    "message": "Anshan"
+  },
+  "IDS_PZSD508": {
+    "message": "Loyang"
+  },
+  "IDS_PZSD518": {
+    "message": "Fenyang"
+  },
+  "IDS_PZSD598": {
+    "message": "Loyang B"
+  },
+  "IDS_PZSD718": {
+    "message": "Ship Smasha"
+  },
+  "extention_description": {
+    "message": "Помогает отслеживать выпадение кораблей из ящиков."
+  },
+  "extention_name": {
+    "message": "Мои кораблики"
+  }
 }
