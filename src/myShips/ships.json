@@ -1,6 +1,7 @@
 {
     "IDS_PASA002": {
         "en": "Bogue (old)",
+        "group": "preserved",
         "id": 4292851696,
         "index": "PASA002",
         "level": 5,
@@ -14,6 +15,7 @@
     },
     "IDS_PASA004": {
         "en": "Langley (old)",
+        "group": "preserved",
         "id": 4290754544,
         "index": "PASA004",
         "level": 4,
@@ -27,6 +29,7 @@
     },
     "IDS_PASA006": {
         "en": "Independence (old)",
+        "group": "preserved",
         "id": 4288657392,
         "index": "PASA006",
         "level": 6,
@@ -40,6 +43,7 @@
     },
     "IDS_PASA010": {
         "en": "Ranger (old)",
+        "group": "preserved",
         "id": 4284463088,
         "index": "PASA010",
         "level": 7,
@@ -53,6 +57,7 @@
     },
     "IDS_PASA012": {
         "en": "Lexington (old)",
+        "group": "preserved",
         "id": 4282365936,
         "index": "PASA012",
         "level": 8,
@@ -66,6 +71,7 @@
     },
     "IDS_PASA013": {
         "en": "Essex (old)",
+        "group": "preserved",
         "id": 4281317360,
         "index": "PASA013",
         "level": 9,
@@ -79,6 +85,7 @@
     },
     "IDS_PASA015": {
         "en": "Midway (old)",
+        "group": "preserved",
         "id": 4279220208,
         "index": "PASA015",
         "level": 10,
@@ -92,6 +99,7 @@
     },
     "IDS_PASA104": {
         "en": "Langley",
+        "group": "upgradeable",
         "id": 4185896944,
         "index": "PASA104",
         "level": 4,
@@ -105,6 +113,7 @@
     },
     "IDS_PASA106": {
         "en": "Ranger",
+        "group": "upgradeable",
         "id": 4183799792,
         "index": "PASA106",
         "level": 6,
@@ -118,6 +127,7 @@
     },
     "IDS_PASA108": {
         "en": "Lexington",
+        "group": "upgradeable",
         "id": 4181702640,
         "index": "PASA108",
         "level": 8,
@@ -131,6 +141,7 @@
     },
     "IDS_PASA110": {
         "en": "Midway",
+        "group": "upgradeable",
         "id": 4179605488,
         "index": "PASA110",
         "level": 10,
@@ -144,6 +155,7 @@
     },
     "IDS_PASA111": {
         "en": "United States",
+        "group": "superShip",
         "id": 4178556912,
         "index": "PASA111",
         "level": 11,
@@ -157,6 +169,7 @@
     },
     "IDS_PASA208": {
         "en": "Yorktown",
+        "group": "disabled",
         "id": 4076845040,
         "index": "PASA208",
         "level": 8,
@@ -170,6 +183,7 @@
     },
     "IDS_PASA507": {
         "en": "Saipan (old)",
+        "group": "preserved",
         "id": 3763320816,
         "index": "PASA507",
         "level": 7,
@@ -183,6 +197,7 @@
     },
     "IDS_PASA508": {
         "en": "Enterprise (old)",
+        "group": "preserved",
         "id": 3762272240,
         "index": "PASA508",
         "level": 8,
@@ -196,6 +211,7 @@
     },
     "IDS_PASA510": {
         "en": "F. D. Roosevelt",
+        "group": "ultimate",
         "id": 3760175088,
         "index": "PASA510",
         "level": 10,
@@ -209,6 +225,7 @@
     },
     "IDS_PASA518": {
         "en": "Enterprise",
+        "group": "special",
         "id": 3751786480,
         "index": "PASA518",
         "level": 8,
@@ -222,6 +239,7 @@
     },
     "IDS_PASA528": {
         "en": "Saipan",
+        "group": "special",
         "id": 3741300720,
         "index": "PASA528",
         "level": 8,
@@ -235,6 +253,7 @@
     },
     "IDS_PASA538": {
         "en": "Hornet",
+        "group": "special",
         "id": 3730814960,
         "index": "PASA538",
         "level": 8,
@@ -248,6 +267,7 @@
     },
     "IDS_PASA598": {
         "en": "Saipan B",
+        "group": "special",
         "id": 3667900400,
         "index": "PASA598",
         "level": 8,
@@ -261,6 +281,7 @@
     },
     "IDS_PASA915": {
         "en": "[Midway]",
+        "group": "clan",
         "id": 3335501808,
         "index": "PASA915",
         "level": 10,
@@ -274,6 +295,7 @@
     },
     "IDS_PASB001": {
         "en": "S. Carolina",
+        "group": "upgradeable",
         "id": 4293867504,
         "index": "PASB001",
         "level": 3,
@@ -287,6 +309,7 @@
     },
     "IDS_PASB004": {
         "en": "Wyoming",
+        "group": "upgradeable",
         "id": 4290721776,
         "index": "PASB004",
         "level": 4,
@@ -300,6 +323,7 @@
     },
     "IDS_PASB006": {
         "en": "New York",
+        "group": "upgradeable",
         "id": 4288624624,
         "index": "PASB006",
         "level": 5,
@@ -313,6 +337,7 @@
     },
     "IDS_PASB008": {
         "en": "Colorado",
+        "group": "upgradeable",
         "id": 4286527472,
         "index": "PASB008",
         "level": 7,
@@ -326,6 +351,7 @@
     },
     "IDS_PASB012": {
         "en": "N. Carolina",
+        "group": "upgradeable",
         "id": 4282333168,
         "index": "PASB012",
         "level": 8,
@@ -339,6 +365,7 @@
     },
     "IDS_PASB013": {
         "en": "Arkansas B",
+        "group": "special",
         "id": 4281284592,
         "index": "PASB013",
         "level": 4,
@@ -352,6 +379,7 @@
     },
     "IDS_PASB017": {
         "en": "Montana",
+        "group": "upgradeable",
         "id": 4277090288,
         "index": "PASB017",
         "level": 10,
@@ -365,6 +393,7 @@
     },
     "IDS_PASB018": {
         "en": "Iowa",
+        "group": "upgradeable",
         "id": 4276041712,
         "index": "PASB018",
         "level": 9,
@@ -378,6 +407,7 @@
     },
     "IDS_PASB034": {
         "en": "New Mexico",
+        "group": "upgradeable",
         "id": 4259264496,
         "index": "PASB034",
         "level": 6,
@@ -391,6 +421,7 @@
     },
     "IDS_PASB108": {
         "en": "Kansas",
+        "group": "upgradeable",
         "id": 4181669872,
         "index": "PASB108",
         "level": 8,
@@ -404,6 +435,7 @@
     },
     "IDS_PASB109": {
         "en": "Minnesota",
+        "group": "upgradeable",
         "id": 4180621296,
         "index": "PASB109",
         "level": 9,
@@ -417,6 +449,7 @@
     },
     "IDS_PASB110": {
         "en": "Vermont",
+        "group": "upgradeable",
         "id": 4179572720,
         "index": "PASB110",
         "level": 10,
@@ -430,6 +463,7 @@
     },
     "IDS_PASB505": {
         "en": "Oklahoma",
+        "group": "special",
         "id": 3765385200,
         "index": "PASB505",
         "level": 5,
@@ -443,6 +477,7 @@
     },
     "IDS_PASB506": {
         "en": "Arizona",
+        "group": "special",
         "id": 3764336624,
         "index": "PASB506",
         "level": 6,
@@ -456,6 +491,7 @@
     },
     "IDS_PASB507": {
         "en": "W. Virginia 1941",
+        "group": "special",
         "id": 3763288048,
         "index": "PASB507",
         "level": 6,
@@ -469,6 +505,7 @@
     },
     "IDS_PASB508": {
         "en": "Alabama",
+        "group": "special",
         "id": 3762239472,
         "index": "PASB508",
         "level": 8,
@@ -482,6 +519,7 @@
     },
     "IDS_PASB509": {
         "en": "Missouri",
+        "group": "specialUnsellable",
         "id": 3761190896,
         "index": "PASB509",
         "level": 9,
@@ -495,6 +533,7 @@
     },
     "IDS_PASB510": {
         "en": "Ohio",
+        "group": "ultimate",
         "id": 3760142320,
         "index": "PASB510",
         "level": 10,
@@ -508,6 +547,7 @@
     },
     "IDS_PASB517": {
         "en": "Florida",
+        "group": "special",
         "id": 3752802288,
         "index": "PASB517",
         "level": 7,
@@ -521,6 +561,7 @@
     },
     "IDS_PASB518": {
         "en": "Massachusetts",
+        "group": "special",
         "id": 3751753712,
         "index": "PASB518",
         "level": 8,
@@ -534,6 +575,7 @@
     },
     "IDS_PASB519": {
         "en": "Kearsarge",
+        "group": "special",
         "id": 3750705136,
         "index": "PASB519",
         "level": 9,
@@ -547,6 +589,7 @@
     },
     "IDS_PASB528": {
         "en": "Alabama VL",
+        "group": "specialUnsellable",
         "id": 3741267952,
         "index": "PASB528",
         "level": 8,
@@ -560,6 +603,7 @@
     },
     "IDS_PASB538": {
         "en": "Constellation",
+        "group": "special",
         "id": 3730782192,
         "index": "PASB538",
         "level": 8,
@@ -573,6 +617,7 @@
     },
     "IDS_PASB598": {
         "en": "Massachusetts B",
+        "group": "special",
         "id": 3667867632,
         "index": "PASB598",
         "level": 8,
@@ -586,6 +631,7 @@
     },
     "IDS_PASB705": {
         "en": "Texas",
+        "group": "special",
         "id": 3555670000,
         "index": "PASB705",
         "level": 5,
@@ -599,6 +645,7 @@
     },
     "IDS_PASB707": {
         "en": "California",
+        "group": "special",
         "id": 3553572848,
         "index": "PASB707",
         "level": 7,
@@ -612,6 +659,7 @@
     },
     "IDS_PASB708": {
         "en": "Alabama ST",
+        "group": "specialUnsellable",
         "id": 3552524272,
         "index": "PASB708",
         "level": 8,
@@ -625,6 +673,7 @@
     },
     "IDS_PASB729": {
         "en": "Georgia",
+        "group": "special",
         "id": 3530504176,
         "index": "PASB729",
         "level": 9,
@@ -638,6 +687,7 @@
     },
     "IDS_PASB810": {
         "en": "Montana P",
+        "group": "disabled",
         "id": 3445569520,
         "index": "PASB810",
         "level": 10,
@@ -651,6 +701,7 @@
     },
     "IDS_PASB910": {
         "en": "Connecticut",
+        "group": "disabled",
         "id": 3340711920,
         "index": "PASB910",
         "level": 10,
@@ -664,6 +715,7 @@
     },
     "IDS_PASB917": {
         "en": "[Montana]",
+        "group": "clan",
         "id": 3333371888,
         "index": "PASB917",
         "level": 10,
@@ -677,6 +729,7 @@
     },
     "IDS_PASC001": {
         "en": "Erie",
+        "group": "start",
         "id": 4293834736,
         "index": "PASC001",
         "level": 1,
@@ -690,6 +743,7 @@
     },
     "IDS_PASC002": {
         "en": "Chester",
+        "group": "upgradeable",
         "id": 4292786160,
         "index": "PASC002",
         "level": 2,
@@ -703,6 +757,7 @@
     },
     "IDS_PASC003": {
         "en": "Albany",
+        "group": "special",
         "id": 4291737584,
         "index": "PASC003",
         "level": 2,
@@ -716,6 +771,7 @@
     },
     "IDS_PASC004": {
         "en": "St. Louis",
+        "group": "upgradeable",
         "id": 4290689008,
         "index": "PASC004",
         "level": 3,
@@ -729,6 +785,7 @@
     },
     "IDS_PASC005": {
         "en": "Omaha",
+        "group": "upgradeable",
         "id": 4289640432,
         "index": "PASC005",
         "level": 5,
@@ -742,6 +799,7 @@
     },
     "IDS_PASC006": {
         "en": "Atlanta",
+        "group": "special",
         "id": 4288591856,
         "index": "PASC006",
         "level": 7,
@@ -755,6 +813,7 @@
     },
     "IDS_PASC007": {
         "en": "Cleveland (old)",
+        "group": "preserved",
         "id": 4287543280,
         "index": "PASC007",
         "level": 6,
@@ -768,6 +827,7 @@
     },
     "IDS_PASC012": {
         "en": "Pensacola (old)",
+        "group": "preserved",
         "id": 4282300400,
         "index": "PASC012",
         "level": 7,
@@ -781,6 +841,7 @@
     },
     "IDS_PASC014": {
         "en": "New Orleans (old)",
+        "group": "preserved",
         "id": 4280203248,
         "index": "PASC014",
         "level": 8,
@@ -794,6 +855,7 @@
     },
     "IDS_PASC016": {
         "en": "Worcester",
+        "group": "disabled",
         "id": 4278106096,
         "index": "PASC016",
         "level": 10,
@@ -807,6 +869,7 @@
     },
     "IDS_PASC017": {
         "en": "Baltimore (old)",
+        "group": "preserved",
         "id": 4277057520,
         "index": "PASC017",
         "level": 9,
@@ -820,6 +883,7 @@
     },
     "IDS_PASC019": {
         "en": "Buffalo",
+        "group": "disabled",
         "id": 4274960368,
         "index": "PASC019",
         "level": 10,
@@ -833,6 +897,7 @@
     },
     "IDS_PASC020": {
         "en": "Des Moines",
+        "group": "upgradeable",
         "id": 4273911792,
         "index": "PASC020",
         "level": 10,
@@ -846,6 +911,7 @@
     },
     "IDS_PASC024": {
         "en": "Phoenix",
+        "group": "upgradeable",
         "id": 4269717488,
         "index": "PASC024",
         "level": 4,
@@ -859,6 +925,7 @@
     },
     "IDS_PASC044": {
         "en": "Marblehead",
+        "group": "special",
         "id": 4248745968,
         "index": "PASC044",
         "level": 5,
@@ -872,6 +939,7 @@
     },
     "IDS_PASC045": {
         "en": "Marblehead L",
+        "group": "special",
         "id": 4247697392,
         "index": "PASC045",
         "level": 5,
@@ -885,6 +953,7 @@
     },
     "IDS_PASC106": {
         "en": "Pensacola",
+        "group": "upgradeable",
         "id": 4183734256,
         "index": "PASC106",
         "level": 6,
@@ -898,6 +967,7 @@
     },
     "IDS_PASC107": {
         "en": "New Orleans",
+        "group": "upgradeable",
         "id": 4182685680,
         "index": "PASC107",
         "level": 7,
@@ -911,6 +981,7 @@
     },
     "IDS_PASC108": {
         "en": "Baltimore",
+        "group": "upgradeable",
         "id": 4181637104,
         "index": "PASC108",
         "level": 8,
@@ -924,6 +995,7 @@
     },
     "IDS_PASC109": {
         "en": "Buffalo",
+        "group": "upgradeable",
         "id": 4180588528,
         "index": "PASC109",
         "level": 9,
@@ -937,6 +1009,7 @@
     },
     "IDS_PASC111": {
         "en": "Annapolis",
+        "group": "superShip",
         "id": 4178491376,
         "index": "PASC111",
         "level": 11,
@@ -950,6 +1023,7 @@
     },
     "IDS_PASC206": {
         "en": "Dallas",
+        "group": "upgradeable",
         "id": 4078876656,
         "index": "PASC206",
         "level": 6,
@@ -963,6 +1037,7 @@
     },
     "IDS_PASC207": {
         "en": "Helena",
+        "group": "upgradeable",
         "id": 4077828080,
         "index": "PASC207",
         "level": 7,
@@ -976,6 +1051,7 @@
     },
     "IDS_PASC208": {
         "en": "Cleveland",
+        "group": "upgradeable",
         "id": 4076779504,
         "index": "PASC208",
         "level": 8,
@@ -989,6 +1065,7 @@
     },
     "IDS_PASC209": {
         "en": "Seattle",
+        "group": "upgradeable",
         "id": 4075730928,
         "index": "PASC209",
         "level": 9,
@@ -1002,6 +1079,7 @@
     },
     "IDS_PASC210": {
         "en": "Worcester",
+        "group": "upgradeable",
         "id": 4074682352,
         "index": "PASC210",
         "level": 10,
@@ -1015,6 +1093,7 @@
     },
     "IDS_PASC503": {
         "en": "Charleston",
+        "group": "special",
         "id": 3767449584,
         "index": "PASC503",
         "level": 3,
@@ -1028,6 +1107,7 @@
     },
     "IDS_PASC507": {
         "en": "Indianapolis",
+        "group": "special",
         "id": 3763255280,
         "index": "PASC507",
         "level": 7,
@@ -1041,6 +1121,7 @@
     },
     "IDS_PASC508": {
         "en": "Wichita",
+        "group": "special",
         "id": 3762206704,
         "index": "PASC508",
         "level": 8,
@@ -1054,6 +1135,7 @@
     },
     "IDS_PASC509": {
         "en": "Vallejo",
+        "group": "demoWithoutStats",
         "id": 3761158128,
         "index": "PASC509",
         "level": 9,
@@ -1067,6 +1149,7 @@
     },
     "IDS_PASC510": {
         "en": "Alaska",
+        "group": "specialUnsellable",
         "id": 3760109552,
         "index": "PASC510",
         "level": 9,
@@ -1080,6 +1163,7 @@
     },
     "IDS_PASC518": {
         "en": "Anchorage",
+        "group": "special",
         "id": 3751720944,
         "index": "PASC518",
         "level": 8,
@@ -1093,6 +1177,7 @@
     },
     "IDS_PASC519": {
         "en": "Tulsa",
+        "group": "special",
         "id": 3750672368,
         "index": "PASC519",
         "level": 9,
@@ -1106,6 +1191,7 @@
     },
     "IDS_PASC528": {
         "en": "Congress",
+        "group": "special",
         "id": 3741235184,
         "index": "PASC528",
         "level": 8,
@@ -1119,6 +1205,7 @@
     },
     "IDS_PASC538": {
         "en": "Rochester",
+        "group": "special",
         "id": 3730749424,
         "index": "PASC538",
         "level": 8,
@@ -1132,6 +1219,7 @@
     },
     "IDS_PASC548": {
         "en": "San Diego",
+        "group": "special",
         "id": 3720263664,
         "index": "PASC548",
         "level": 8,
@@ -1145,6 +1233,7 @@
     },
     "IDS_PASC587": {
         "en": "Atlanta B",
+        "group": "special",
         "id": 3679369200,
         "index": "PASC587",
         "level": 7,
@@ -1158,6 +1247,7 @@
     },
     "IDS_PASC597": {
         "en": "Boise",
+        "group": "special",
         "id": 3668883440,
         "index": "PASC597",
         "level": 7,
@@ -1171,6 +1261,7 @@
     },
     "IDS_PASC599": {
         "en": "Alaska B",
+        "group": "special",
         "id": 3666786288,
         "index": "PASC599",
         "level": 9,
@@ -1184,6 +1275,7 @@
     },
     "IDS_PASC610": {
         "en": "Puerto Rico",
+        "group": "ultimate",
         "id": 3655251952,
         "index": "PASC610",
         "level": 10,
@@ -1197,6 +1289,7 @@
     },
     "IDS_PASC707": {
         "en": "Flint",
+        "group": "specialUnsellable",
         "id": 3553540080,
         "index": "PASC707",
         "level": 7,
@@ -1210,6 +1303,7 @@
     },
     "IDS_PASC710": {
         "en": "Salem",
+        "group": "ultimate",
         "id": 3550394352,
         "index": "PASC710",
         "level": 10,
@@ -1223,6 +1317,7 @@
     },
     "IDS_PASC718": {
         "en": "AL Montpelier",
+        "group": "special",
         "id": 3542005744,
         "index": "PASC718",
         "level": 8,
@@ -1236,6 +1331,7 @@
     },
     "IDS_PASC810": {
         "en": "Austin",
+        "group": "ultimate",
         "id": 3445536752,
         "index": "PASC810",
         "level": 10,
@@ -1249,6 +1345,7 @@
     },
     "IDS_PASD002": {
         "en": "Sampson",
+        "group": "upgradeable",
         "id": 4292753392,
         "index": "PASD002",
         "level": 2,
@@ -1262,6 +1359,7 @@
     },
     "IDS_PASD005": {
         "en": "Farragut",
+        "group": "upgradeable",
         "id": 4289607664,
         "index": "PASD005",
         "level": 6,
@@ -1275,6 +1373,7 @@
     },
     "IDS_PASD006": {
         "en": "Mahan",
+        "group": "upgradeable",
         "id": 4288559088,
         "index": "PASD006",
         "level": 7,
@@ -1288,6 +1387,7 @@
     },
     "IDS_PASD008": {
         "en": "Benson",
+        "group": "upgradeable",
         "id": 4286461936,
         "index": "PASD008",
         "level": 8,
@@ -1301,6 +1401,7 @@
     },
     "IDS_PASD013": {
         "en": "Gearing",
+        "group": "upgradeable",
         "id": 4281219056,
         "index": "PASD013",
         "level": 10,
@@ -1314,6 +1415,7 @@
     },
     "IDS_PASD014": {
         "en": "Nicholas",
+        "group": "upgradeable",
         "id": 4280170480,
         "index": "PASD014",
         "level": 5,
@@ -1327,6 +1429,7 @@
     },
     "IDS_PASD019": {
         "en": "Clemson",
+        "group": "upgradeable",
         "id": 4274927600,
         "index": "PASD019",
         "level": 4,
@@ -1340,6 +1443,7 @@
     },
     "IDS_PASD021": {
         "en": "Fletcher",
+        "group": "upgradeable",
         "id": 4272830448,
         "index": "PASD021",
         "level": 9,
@@ -1353,6 +1457,7 @@
     },
     "IDS_PASD027": {
         "en": "Wickes",
+        "group": "upgradeable",
         "id": 4266538992,
         "index": "PASD027",
         "level": 3,
@@ -1366,6 +1471,7 @@
     },
     "IDS_PASD029": {
         "en": "Sims",
+        "group": "special",
         "id": 4264441840,
         "index": "PASD029",
         "level": 7,
@@ -1379,6 +1485,7 @@
     },
     "IDS_PASD502": {
         "en": "Smith",
+        "group": "special",
         "id": 3768465392,
         "index": "PASD502",
         "level": 2,
@@ -1392,6 +1499,7 @@
     },
     "IDS_PASD505": {
         "en": "Hill",
+        "group": "special",
         "id": 3765319664,
         "index": "PASD505",
         "level": 5,
@@ -1405,6 +1513,7 @@
     },
     "IDS_PASD506": {
         "en": "Monaghan",
+        "group": "special",
         "id": 3764271088,
         "index": "PASD506",
         "level": 6,
@@ -1418,6 +1527,7 @@
     },
     "IDS_PASD508": {
         "en": "Kidd",
+        "group": "special",
         "id": 3762173936,
         "index": "PASD508",
         "level": 8,
@@ -1431,6 +1541,7 @@
     },
     "IDS_PASD509": {
         "en": "Benham",
+        "group": "special",
         "id": 3761125360,
         "index": "PASD509",
         "level": 9,
@@ -1444,6 +1555,7 @@
     },
     "IDS_PASD510": {
         "en": "Somers",
+        "group": "ultimate",
         "id": 3760076784,
         "index": "PASD510",
         "level": 10,
@@ -1457,6 +1569,7 @@
     },
     "IDS_PASD597": {
         "en": "Sims B",
+        "group": "special",
         "id": 3668850672,
         "index": "PASD597",
         "level": 7,
@@ -1470,6 +1583,7 @@
     },
     "IDS_PASD610": {
         "en": "F. Sherman",
+        "group": "ultimate",
         "id": 3655219184,
         "index": "PASD610",
         "level": 10,
@@ -1483,6 +1597,7 @@
     },
     "IDS_PASD709": {
         "en": "Black",
+        "group": "special",
         "id": 3551410160,
         "index": "PASD709",
         "level": 9,
@@ -1496,6 +1611,7 @@
     },
     "IDS_PASD810": {
         "en": "Gearing P",
+        "group": "disabled",
         "id": 3445503984,
         "index": "PASD810",
         "level": 10,
@@ -1509,6 +1625,7 @@
     },
     "IDS_PASD913": {
         "en": "[Gearing]",
+        "group": "clan",
         "id": 3337500656,
         "index": "PASD913",
         "level": 10,
@@ -1522,6 +1639,7 @@
     },
     "IDS_PASS106": {
         "en": "Cachalot",
+        "group": "demoWithStats",
         "id": 4183209968,
         "index": "PASS106",
         "level": 6,
@@ -1535,6 +1653,7 @@
     },
     "IDS_PASS108": {
         "en": "Salmon",
+        "group": "demoWithStats",
         "id": 4181112816,
         "index": "PASS108",
         "level": 8,
@@ -1548,6 +1667,7 @@
     },
     "IDS_PASS110": {
         "en": "Balao",
+        "group": "demoWithStats",
         "id": 4179015664,
         "index": "PASS110",
         "level": 10,
@@ -1561,6 +1681,7 @@
     },
     "IDS_PASS206": {
         "en": "Cachalot",
+        "group": "disabled",
         "id": 4078352368,
         "index": "PASS206",
         "level": 6,
@@ -1574,6 +1695,7 @@
     },
     "IDS_PASS208": {
         "en": "Salmon",
+        "group": "disabled",
         "id": 4076255216,
         "index": "PASS208",
         "level": 8,
@@ -1587,6 +1709,7 @@
     },
     "IDS_PASS210": {
         "en": "Balao",
+        "group": "disabled",
         "id": 4074158064,
         "index": "PASS210",
         "level": 10,
@@ -1600,6 +1723,7 @@
     },
     "IDS_PASS518": {
         "en": "Gato",
+        "group": "disabled",
         "id": 3751196656,
         "index": "PASS518",
         "level": 10,
@@ -1613,6 +1737,7 @@
     },
     "IDS_PASX001": {
         "en": "Cimarron",
+        "group": "unavailable",
         "id": 4293146608,
         "index": "PASX001",
         "level": 5,
@@ -1626,6 +1751,7 @@
     },
     "IDS_PASX003": {
         "en": "Liberty",
+        "group": "unavailable",
         "id": 4291049456,
         "index": "PASX003",
         "level": 5,
@@ -1639,6 +1765,7 @@
     },
     "IDS_PASX005": {
         "en": "St. Clair",
+        "group": "unavailable",
         "id": 4288952304,
         "index": "PASX005",
         "level": 5,
@@ -1652,6 +1779,7 @@
     },
     "IDS_PASX904": {
         "en": "Cimarron Test",
+        "group": "disabled",
         "id": 3346282480,
         "index": "PASX904",
         "level": 5,
@@ -1665,6 +1793,7 @@
     },
     "IDS_PBSA106": {
         "en": "Furious",
+        "group": "upgradeable",
         "id": 4183799760,
         "index": "PBSA106",
         "level": 6,
@@ -1678,6 +1807,7 @@
     },
     "IDS_PBSA108": {
         "en": "Implacable",
+        "group": "upgradeable",
         "id": 4181702608,
         "index": "PBSA108",
         "level": 8,
@@ -1691,6 +1821,7 @@
     },
     "IDS_PBSA111": {
         "en": "Eagle",
+        "group": "superShip",
         "id": 4178556880,
         "index": "PBSA111",
         "level": 11,
@@ -1704,6 +1835,7 @@
     },
     "IDS_PBSA204": {
         "en": "Hermes",
+        "group": "upgradeable",
         "id": 4081039312,
         "index": "PBSA204",
         "level": 4,
@@ -1717,6 +1849,7 @@
     },
     "IDS_PBSA210": {
         "en": "Audacious",
+        "group": "upgradeable",
         "id": 4074747856,
         "index": "PBSA210",
         "level": 10,
@@ -1730,6 +1863,7 @@
     },
     "IDS_PBSA508": {
         "en": "Indomitable",
+        "group": "special",
         "id": 3762272208,
         "index": "PBSA508",
         "level": 8,
@@ -1743,6 +1877,7 @@
     },
     "IDS_PBSA510": {
         "en": "Malta",
+        "group": "demoWithoutStats",
         "id": 3760175056,
         "index": "PBSA510",
         "level": 10,
@@ -1756,6 +1891,7 @@
     },
     "IDS_PBSA518": {
         "en": "Ark Royal",
+        "group": "special",
         "id": 3751786448,
         "index": "PBSA518",
         "level": 6,
@@ -1769,6 +1905,7 @@
     },
     "IDS_PBSA910": {
         "en": "[Audacious]",
+        "group": "clan",
         "id": 3340744656,
         "index": "PBSA910",
         "level": 10,
@@ -1782,6 +1919,7 @@
     },
     "IDS_PBSB002": {
         "en": "Warspite",
+        "group": "special",
         "id": 4292818896,
         "index": "PBSB002",
         "level": 6,
@@ -1795,6 +1933,7 @@
     },
     "IDS_PBSB103": {
         "en": "Bellerophon",
+        "group": "upgradeable",
         "id": 4186912720,
         "index": "PBSB103",
         "level": 3,
@@ -1808,6 +1947,7 @@
     },
     "IDS_PBSB104": {
         "en": "Orion",
+        "group": "upgradeable",
         "id": 4185864144,
         "index": "PBSB104",
         "level": 4,
@@ -1821,6 +1961,7 @@
     },
     "IDS_PBSB105": {
         "en": "Iron Duke",
+        "group": "upgradeable",
         "id": 4184815568,
         "index": "PBSB105",
         "level": 5,
@@ -1834,6 +1975,7 @@
     },
     "IDS_PBSB106": {
         "en": "Queen Elizabeth",
+        "group": "upgradeable",
         "id": 4183766992,
         "index": "PBSB106",
         "level": 6,
@@ -1847,6 +1989,7 @@
     },
     "IDS_PBSB107": {
         "en": "King George V",
+        "group": "upgradeable",
         "id": 4182718416,
         "index": "PBSB107",
         "level": 7,
@@ -1860,6 +2003,7 @@
     },
     "IDS_PBSB108": {
         "en": "Monarch",
+        "group": "upgradeable",
         "id": 4181669840,
         "index": "PBSB108",
         "level": 8,
@@ -1873,6 +2017,7 @@
     },
     "IDS_PBSB109": {
         "en": "Lion",
+        "group": "upgradeable",
         "id": 4180621264,
         "index": "PBSB109",
         "level": 9,
@@ -1886,6 +2031,7 @@
     },
     "IDS_PBSB110": {
         "en": "Conqueror",
+        "group": "upgradeable",
         "id": 4179572688,
         "index": "PBSB110",
         "level": 10,
@@ -1899,6 +2045,7 @@
     },
     "IDS_PBSB203": {
         "en": "Indefatigable",
+        "group": "upgradeable",
         "id": 4082055120,
         "index": "PBSB203",
         "level": 3,
@@ -1912,6 +2059,7 @@
     },
     "IDS_PBSB204": {
         "en": "Queen Mary",
+        "group": "upgradeable",
         "id": 4081006544,
         "index": "PBSB204",
         "level": 4,
@@ -1925,6 +2073,7 @@
     },
     "IDS_PBSB205": {
         "en": "Tiger",
+        "group": "upgradeable",
         "id": 4079957968,
         "index": "PBSB205",
         "level": 5,
@@ -1938,6 +2087,7 @@
     },
     "IDS_PBSB206": {
         "en": "Renown",
+        "group": "upgradeable",
         "id": 4078909392,
         "index": "PBSB206",
         "level": 6,
@@ -1951,6 +2101,7 @@
     },
     "IDS_PBSB207": {
         "en": "Rooke",
+        "group": "upgradeable",
         "id": 4077860816,
         "index": "PBSB207",
         "level": 7,
@@ -1964,6 +2115,7 @@
     },
     "IDS_PBSB208": {
         "en": "Hawke",
+        "group": "upgradeable",
         "id": 4076812240,
         "index": "PBSB208",
         "level": 8,
@@ -1977,6 +2129,7 @@
     },
     "IDS_PBSB209": {
         "en": "Duncan",
+        "group": "upgradeable",
         "id": 4075763664,
         "index": "PBSB209",
         "level": 9,
@@ -1990,6 +2143,7 @@
     },
     "IDS_PBSB210": {
         "en": "St. Vincent",
+        "group": "upgradeable",
         "id": 4074715088,
         "index": "PBSB210",
         "level": 10,
@@ -2003,6 +2157,7 @@
     },
     "IDS_PBSB503": {
         "en": "Dreadnought",
+        "group": "special",
         "id": 3767482320,
         "index": "PBSB503",
         "level": 3,
@@ -2016,6 +2171,7 @@
     },
     "IDS_PBSB505": {
         "en": "Agincourt",
+        "group": "special",
         "id": 3765385168,
         "index": "PBSB505",
         "level": 5,
@@ -2029,6 +2185,7 @@
     },
     "IDS_PBSB507": {
         "en": "Hood",
+        "group": "special",
         "id": 3763288016,
         "index": "PBSB507",
         "level": 7,
@@ -2042,6 +2199,7 @@
     },
     "IDS_PBSB508": {
         "en": "Vanguard",
+        "group": "special",
         "id": 3762239440,
         "index": "PBSB508",
         "level": 8,
@@ -2055,6 +2213,7 @@
     },
     "IDS_PBSB509": {
         "en": "Marlborough",
+        "group": "special",
         "id": 3761190864,
         "index": "PBSB509",
         "level": 9,
@@ -2068,6 +2227,7 @@
     },
     "IDS_PBSB510": {
         "en": "Thunderer",
+        "group": "ultimate",
         "id": 3760142288,
         "index": "PBSB510",
         "level": 10,
@@ -2081,6 +2241,7 @@
     },
     "IDS_PBSB517": {
         "en": "Nelson",
+        "group": "special",
         "id": 3752802256,
         "index": "PBSB517",
         "level": 7,
@@ -2094,6 +2255,7 @@
     },
     "IDS_PBSB526": {
         "en": "Repulse",
+        "group": "special",
         "id": 3743365072,
         "index": "PBSB526",
         "level": 6,
@@ -2107,6 +2269,7 @@
     },
     "IDS_PBSB527": {
         "en": "Duke of York",
+        "group": "special",
         "id": 3742316496,
         "index": "PBSB527",
         "level": 7,
@@ -2120,6 +2283,7 @@
     },
     "IDS_PBSB537": {
         "en": "Collingwood",
+        "group": "special",
         "id": 3731830736,
         "index": "PBSB537",
         "level": 7,
@@ -2133,6 +2297,7 @@
     },
     "IDS_PBSB610": {
         "en": "Incomparable",
+        "group": "ultimate",
         "id": 3655284688,
         "index": "PBSB610",
         "level": 10,
@@ -2146,6 +2311,7 @@
     },
     "IDS_PBSB910": {
         "en": "[Conqueror]",
+        "group": "clan",
         "id": 3340711888,
         "index": "PBSB910",
         "level": 10,
@@ -2159,6 +2325,7 @@
     },
     "IDS_PBSB998": {
         "en": "St. Lawrence",
+        "group": "disabled",
         "id": 3248437200,
         "index": "PBSB998",
         "level": 10,
@@ -2172,6 +2339,7 @@
     },
     "IDS_PBSC101": {
         "en": "Black Swan",
+        "group": "start",
         "id": 4188977104,
         "index": "PBSC101",
         "level": 1,
@@ -2185,6 +2353,7 @@
     },
     "IDS_PBSC102": {
         "en": "Weymouth",
+        "group": "upgradeable",
         "id": 4187928528,
         "index": "PBSC102",
         "level": 2,
@@ -2198,6 +2367,7 @@
     },
     "IDS_PBSC103": {
         "en": "Caledon",
+        "group": "upgradeable",
         "id": 4186879952,
         "index": "PBSC103",
         "level": 3,
@@ -2211,6 +2381,7 @@
     },
     "IDS_PBSC104": {
         "en": "Danae",
+        "group": "upgradeable",
         "id": 4185831376,
         "index": "PBSC104",
         "level": 4,
@@ -2224,6 +2395,7 @@
     },
     "IDS_PBSC105": {
         "en": "Emerald",
+        "group": "upgradeable",
         "id": 4184782800,
         "index": "PBSC105",
         "level": 5,
@@ -2237,6 +2409,7 @@
     },
     "IDS_PBSC106": {
         "en": "Leander",
+        "group": "upgradeable",
         "id": 4183734224,
         "index": "PBSC106",
         "level": 6,
@@ -2250,6 +2423,7 @@
     },
     "IDS_PBSC107": {
         "en": "Fiji",
+        "group": "upgradeable",
         "id": 4182685648,
         "index": "PBSC107",
         "level": 7,
@@ -2263,6 +2437,7 @@
     },
     "IDS_PBSC108": {
         "en": "Edinburgh",
+        "group": "upgradeable",
         "id": 4181637072,
         "index": "PBSC108",
         "level": 8,
@@ -2276,6 +2451,7 @@
     },
     "IDS_PBSC109": {
         "en": "Neptune",
+        "group": "upgradeable",
         "id": 4180588496,
         "index": "PBSC109",
         "level": 9,
@@ -2289,6 +2465,7 @@
     },
     "IDS_PBSC110": {
         "en": "Minotaur",
+        "group": "upgradeable",
         "id": 4179539920,
         "index": "PBSC110",
         "level": 10,
@@ -2302,6 +2479,7 @@
     },
     "IDS_PBSC111": {
         "en": "Edgar",
+        "group": "earlyAccess",
         "id": 4178491344,
         "index": "PBSC111",
         "level": 11,
@@ -2315,6 +2493,7 @@
     },
     "IDS_PBSC205": {
         "en": "Hawkins",
+        "group": "upgradeable",
         "id": 4079925200,
         "index": "PBSC205",
         "level": 5,
@@ -2328,6 +2507,7 @@
     },
     "IDS_PBSC206": {
         "en": "Devonshire",
+        "group": "upgradeable",
         "id": 4078876624,
         "index": "PBSC206",
         "level": 6,
@@ -2341,6 +2521,7 @@
     },
     "IDS_PBSC207": {
         "en": "Surrey",
+        "group": "upgradeable",
         "id": 4077828048,
         "index": "PBSC207",
         "level": 7,
@@ -2354,6 +2535,7 @@
     },
     "IDS_PBSC208": {
         "en": "Albemarle",
+        "group": "upgradeable",
         "id": 4076779472,
         "index": "PBSC208",
         "level": 8,
@@ -2367,6 +2549,7 @@
     },
     "IDS_PBSC209": {
         "en": "Drake",
+        "group": "upgradeable",
         "id": 4075730896,
         "index": "PBSC209",
         "level": 9,
@@ -2380,6 +2563,7 @@
     },
     "IDS_PBSC210": {
         "en": "Goliath",
+        "group": "upgradeable",
         "id": 4074682320,
         "index": "PBSC210",
         "level": 10,
@@ -2393,6 +2577,7 @@
     },
     "IDS_PBSC505": {
         "en": "Exeter",
+        "group": "special",
         "id": 3765352400,
         "index": "PBSC505",
         "level": 5,
@@ -2406,6 +2591,7 @@
     },
     "IDS_PBSC507": {
         "en": "Belfast",
+        "group": "special",
         "id": 3763255248,
         "index": "PBSC507",
         "level": 7,
@@ -2419,6 +2605,7 @@
     },
     "IDS_PBSC508": {
         "en": "Cheshire",
+        "group": "special",
         "id": 3762206672,
         "index": "PBSC508",
         "level": 8,
@@ -2432,6 +2619,7 @@
     },
     "IDS_PBSC510": {
         "en": "Plymouth",
+        "group": "ultimate",
         "id": 3760109520,
         "index": "PBSC510",
         "level": 10,
@@ -2445,6 +2633,7 @@
     },
     "IDS_PBSC516": {
         "en": "London",
+        "group": "special",
         "id": 3753818064,
         "index": "PBSC516",
         "level": 6,
@@ -2458,6 +2647,7 @@
     },
     "IDS_PBSC518": {
         "en": "Tiger '59",
+        "group": "special",
         "id": 3751720912,
         "index": "PBSC518",
         "level": 8,
@@ -2471,6 +2661,7 @@
     },
     "IDS_PBSC526": {
         "en": "Dido",
+        "group": "special",
         "id": 3743332304,
         "index": "PBSC526",
         "level": 6,
@@ -2484,6 +2675,7 @@
     },
     "IDS_PBSC528": {
         "en": "Belfast '43",
+        "group": "special",
         "id": 3741235152,
         "index": "PBSC528",
         "level": 8,
@@ -2497,6 +2689,7 @@
     },
     "IDS_PBSC538": {
         "en": "Hampshire",
+        "group": "special",
         "id": 3730749392,
         "index": "PBSC538",
         "level": 8,
@@ -2510,6 +2703,7 @@
     },
     "IDS_PBSC610": {
         "en": "Gibraltar",
+        "group": "ultimate",
         "id": 3655251920,
         "index": "PBSC610",
         "level": 10,
@@ -2523,6 +2717,7 @@
     },
     "IDS_PBSC910": {
         "en": "Cyclops",
+        "group": "disabled",
         "id": 3340679120,
         "index": "PBSC910",
         "level": 10,
@@ -2536,6 +2731,7 @@
     },
     "IDS_PBSD102": {
         "en": "Medea",
+        "group": "upgradeable",
         "id": 4187895760,
         "index": "PBSD102",
         "level": 2,
@@ -2549,6 +2745,7 @@
     },
     "IDS_PBSD103": {
         "en": "Valkyrie",
+        "group": "upgradeable",
         "id": 4186847184,
         "index": "PBSD103",
         "level": 3,
@@ -2562,6 +2759,7 @@
     },
     "IDS_PBSD104": {
         "en": "Wakeful",
+        "group": "upgradeable",
         "id": 4185798608,
         "index": "PBSD104",
         "level": 4,
@@ -2575,6 +2773,7 @@
     },
     "IDS_PBSD105": {
         "en": "Acasta",
+        "group": "upgradeable",
         "id": 4184750032,
         "index": "PBSD105",
         "level": 5,
@@ -2588,6 +2787,7 @@
     },
     "IDS_PBSD106": {
         "en": "Icarus",
+        "group": "upgradeable",
         "id": 4183701456,
         "index": "PBSD106",
         "level": 6,
@@ -2601,6 +2801,7 @@
     },
     "IDS_PBSD107": {
         "en": "Jervis",
+        "group": "upgradeable",
         "id": 4182652880,
         "index": "PBSD107",
         "level": 7,
@@ -2614,6 +2815,7 @@
     },
     "IDS_PBSD108": {
         "en": "Lightning",
+        "group": "upgradeable",
         "id": 4181604304,
         "index": "PBSD108",
         "level": 8,
@@ -2627,6 +2829,7 @@
     },
     "IDS_PBSD109": {
         "en": "Jutland",
+        "group": "upgradeable",
         "id": 4180555728,
         "index": "PBSD109",
         "level": 9,
@@ -2640,6 +2843,7 @@
     },
     "IDS_PBSD110": {
         "en": "Daring",
+        "group": "upgradeable",
         "id": 4179507152,
         "index": "PBSD110",
         "level": 10,
@@ -2653,6 +2857,7 @@
     },
     "IDS_PBSD503": {
         "en": "Campbeltown",
+        "group": "special",
         "id": 3767416784,
         "index": "PBSD503",
         "level": 3,
@@ -2666,6 +2871,7 @@
     },
     "IDS_PBSD506": {
         "en": "Gallant",
+        "group": "special",
         "id": 3764271056,
         "index": "PBSD506",
         "level": 6,
@@ -2679,6 +2885,7 @@
     },
     "IDS_PBSD510": {
         "en": "Druid",
+        "group": "ultimate",
         "id": 3760076752,
         "index": "PBSD510",
         "level": 10,
@@ -2692,6 +2899,7 @@
     },
     "IDS_PBSD517": {
         "en": "Cossack",
+        "group": "special",
         "id": 3752736720,
         "index": "PBSD517",
         "level": 8,
@@ -2705,6 +2913,7 @@
     },
     "IDS_PBSD598": {
         "en": "Cossack B",
+        "group": "special",
         "id": 3667802064,
         "index": "PBSD598",
         "level": 8,
@@ -2718,6 +2927,7 @@
     },
     "IDS_PBSD605": {
         "en": "Anthony",
+        "group": "disabled",
         "id": 3660462032,
         "index": "PBSD605",
         "level": 5,
@@ -2731,6 +2941,7 @@
     },
     "IDS_PFSA506": {
         "en": "Béarn",
+        "group": "special",
         "id": 3764369232,
         "index": "PFSA506",
         "level": 6,
@@ -2744,6 +2955,7 @@
     },
     "IDS_PFSB103": {
         "en": "Turenne",
+        "group": "upgradeable",
         "id": 4186912592,
         "index": "PFSB103",
         "level": 3,
@@ -2757,6 +2969,7 @@
     },
     "IDS_PFSB104": {
         "en": "Courbet",
+        "group": "upgradeable",
         "id": 4185864016,
         "index": "PFSB104",
         "level": 4,
@@ -2770,6 +2983,7 @@
     },
     "IDS_PFSB105": {
         "en": "Bretagne",
+        "group": "upgradeable",
         "id": 4184815440,
         "index": "PFSB105",
         "level": 5,
@@ -2783,6 +2997,7 @@
     },
     "IDS_PFSB106": {
         "en": "Normandie",
+        "group": "upgradeable",
         "id": 4183766864,
         "index": "PFSB106",
         "level": 6,
@@ -2796,6 +3011,7 @@
     },
     "IDS_PFSB107": {
         "en": "Lyon",
+        "group": "upgradeable",
         "id": 4182718288,
         "index": "PFSB107",
         "level": 7,
@@ -2809,6 +3025,7 @@
     },
     "IDS_PFSB108": {
         "en": "Richelieu",
+        "group": "upgradeable",
         "id": 4181669712,
         "index": "PFSB108",
         "level": 8,
@@ -2822,6 +3039,7 @@
     },
     "IDS_PFSB109": {
         "en": "Alsace",
+        "group": "upgradeable",
         "id": 4180621136,
         "index": "PFSB109",
         "level": 9,
@@ -2835,6 +3053,7 @@
     },
     "IDS_PFSB110": {
         "en": "République",
+        "group": "upgradeable",
         "id": 4179572560,
         "index": "PFSB110",
         "level": 10,
@@ -2848,6 +3067,7 @@
     },
     "IDS_PFSB111": {
         "en": "Patrie",
+        "group": "earlyAccess",
         "id": 4178523984,
         "index": "PFSB111",
         "level": 11,
@@ -2861,6 +3081,7 @@
     },
     "IDS_PFSB506": {
         "en": "Dunkerque",
+        "group": "special",
         "id": 3764336464,
         "index": "PFSB506",
         "level": 6,
@@ -2874,6 +3095,7 @@
     },
     "IDS_PFSB507": {
         "en": "Strasbourg",
+        "group": "special",
         "id": 3763287888,
         "index": "PFSB507",
         "level": 7,
@@ -2887,6 +3109,7 @@
     },
     "IDS_PFSB508": {
         "en": "Gascogne",
+        "group": "special",
         "id": 3762239312,
         "index": "PFSB508",
         "level": 8,
@@ -2900,6 +3123,7 @@
     },
     "IDS_PFSB510": {
         "en": "Bourgogne",
+        "group": "ultimate",
         "id": 3760142160,
         "index": "PFSB510",
         "level": 10,
@@ -2913,6 +3137,7 @@
     },
     "IDS_PFSB518": {
         "en": "Jean Bart",
+        "group": "specialUnsellable",
         "id": 3751753552,
         "index": "PFSB518",
         "level": 9,
@@ -2926,6 +3151,7 @@
     },
     "IDS_PFSB528": {
         "en": "Champagne",
+        "group": "special",
         "id": 3741267792,
         "index": "PFSB528",
         "level": 8,
@@ -2939,6 +3165,7 @@
     },
     "IDS_PFSB538": {
         "en": "Flandre",
+        "group": "special",
         "id": 3730782032,
         "index": "PFSB538",
         "level": 8,
@@ -2952,6 +3179,7 @@
     },
     "IDS_PFSB596": {
         "en": "Dunkerque B",
+        "group": "special",
         "id": 3669964624,
         "index": "PFSB596",
         "level": 6,
@@ -2965,6 +3193,7 @@
     },
     "IDS_PFSB599": {
         "en": "Jean Bart B",
+        "group": "special",
         "id": 3666818896,
         "index": "PFSB599",
         "level": 9,
@@ -2978,6 +3207,7 @@
     },
     "IDS_PFSB898": {
         "en": "[Richelieu]",
+        "group": "coopOnly",
         "id": 3353294672,
         "index": "PFSB898",
         "level": 8,
@@ -2991,6 +3221,7 @@
     },
     "IDS_PFSC101": {
         "en": "Bougainville",
+        "group": "start",
         "id": 4188976976,
         "index": "PFSC101",
         "level": 1,
@@ -3004,6 +3235,7 @@
     },
     "IDS_PFSC102": {
         "en": "Jurien",
+        "group": "upgradeable",
         "id": 4187928400,
         "index": "PFSC102",
         "level": 2,
@@ -3017,6 +3249,7 @@
     },
     "IDS_PFSC103": {
         "en": "Friant",
+        "group": "upgradeable",
         "id": 4186879824,
         "index": "PFSC103",
         "level": 3,
@@ -3030,6 +3263,7 @@
     },
     "IDS_PFSC104": {
         "en": "Duguay-Trouin",
+        "group": "upgradeable",
         "id": 4185831248,
         "index": "PFSC104",
         "level": 4,
@@ -3043,6 +3277,7 @@
     },
     "IDS_PFSC105": {
         "en": "Émile Bertin",
+        "group": "upgradeable",
         "id": 4184782672,
         "index": "PFSC105",
         "level": 5,
@@ -3056,6 +3291,7 @@
     },
     "IDS_PFSC106": {
         "en": "La Galissonnière",
+        "group": "upgradeable",
         "id": 4183734096,
         "index": "PFSC106",
         "level": 6,
@@ -3069,6 +3305,7 @@
     },
     "IDS_PFSC107": {
         "en": "Algérie",
+        "group": "upgradeable",
         "id": 4182685520,
         "index": "PFSC107",
         "level": 7,
@@ -3082,6 +3319,7 @@
     },
     "IDS_PFSC108": {
         "en": "Charles Martel",
+        "group": "upgradeable",
         "id": 4181636944,
         "index": "PFSC108",
         "level": 8,
@@ -3095,6 +3333,7 @@
     },
     "IDS_PFSC109": {
         "en": "Saint-Louis",
+        "group": "upgradeable",
         "id": 4180588368,
         "index": "PFSC109",
         "level": 9,
@@ -3108,6 +3347,7 @@
     },
     "IDS_PFSC110": {
         "en": "Henri IV",
+        "group": "upgradeable",
         "id": 4179539792,
         "index": "PFSC110",
         "level": 10,
@@ -3121,6 +3361,7 @@
     },
     "IDS_PFSC111": {
         "en": "Condé",
+        "group": "superShip",
         "id": 4178491216,
         "index": "PFSC111",
         "level": 11,
@@ -3134,6 +3375,7 @@
     },
     "IDS_PFSC208": {
         "en": "Cherbourg",
+        "group": "upgradeable",
         "id": 4076779344,
         "index": "PFSC208",
         "level": 8,
@@ -3147,6 +3389,7 @@
     },
     "IDS_PFSC209": {
         "en": "Brest",
+        "group": "upgradeable",
         "id": 4075730768,
         "index": "PFSC209",
         "level": 9,
@@ -3160,6 +3403,7 @@
     },
     "IDS_PFSC210": {
         "en": "Marseille",
+        "group": "upgradeable",
         "id": 4074682192,
         "index": "PFSC210",
         "level": 10,
@@ -3173,6 +3417,7 @@
     },
     "IDS_PFSC506": {
         "en": "De Grasse",
+        "group": "special",
         "id": 3764303696,
         "index": "PFSC506",
         "level": 6,
@@ -3186,6 +3431,7 @@
     },
     "IDS_PFSC507": {
         "en": "Toulon",
+        "group": "special",
         "id": 3763255120,
         "index": "PFSC507",
         "level": 7,
@@ -3199,6 +3445,7 @@
     },
     "IDS_PFSC508": {
         "en": "Bayard",
+        "group": "special",
         "id": 3762206544,
         "index": "PFSC508",
         "level": 8,
@@ -3212,6 +3459,7 @@
     },
     "IDS_PFSC509": {
         "en": "Carnot",
+        "group": "special",
         "id": 3761157968,
         "index": "PFSC509",
         "level": 9,
@@ -3225,6 +3473,7 @@
     },
     "IDS_PFSC510": {
         "en": "Colbert",
+        "group": "ultimate",
         "id": 3760109392,
         "index": "PFSC510",
         "level": 10,
@@ -3238,6 +3487,7 @@
     },
     "IDS_PFSC810": {
         "en": "Brennus",
+        "group": "disabled",
         "id": 3445536592,
         "index": "PFSC810",
         "level": 10,
@@ -3251,6 +3501,7 @@
     },
     "IDS_PFSC896": {
         "en": "[La Galissonnière]",
+        "group": "coopOnly",
         "id": 3355359056,
         "index": "PFSC896",
         "level": 6,
@@ -3264,6 +3515,7 @@
     },
     "IDS_PFSD102": {
         "en": "En. Gabolde",
+        "group": "upgradeable",
         "id": 4187895632,
         "index": "PFSD102",
         "level": 2,
@@ -3277,6 +3529,7 @@
     },
     "IDS_PFSD103": {
         "en": "Fusilier",
+        "group": "upgradeable",
         "id": 4186847056,
         "index": "PFSD103",
         "level": 3,
@@ -3290,6 +3543,7 @@
     },
     "IDS_PFSD104": {
         "en": "Bourrasque",
+        "group": "upgradeable",
         "id": 4185798480,
         "index": "PFSD104",
         "level": 4,
@@ -3303,6 +3557,7 @@
     },
     "IDS_PFSD105": {
         "en": "Jaguar",
+        "group": "upgradeable",
         "id": 4184749904,
         "index": "PFSD105",
         "level": 5,
@@ -3316,6 +3571,7 @@
     },
     "IDS_PFSD106": {
         "en": "Guépard",
+        "group": "upgradeable",
         "id": 4183701328,
         "index": "PFSD106",
         "level": 6,
@@ -3329,6 +3585,7 @@
     },
     "IDS_PFSD107": {
         "en": "Vauquelin",
+        "group": "upgradeable",
         "id": 4182652752,
         "index": "PFSD107",
         "level": 7,
@@ -3342,6 +3599,7 @@
     },
     "IDS_PFSD108": {
         "en": "Le Fantasque",
+        "group": "upgradeable",
         "id": 4181604176,
         "index": "PFSD108",
         "level": 8,
@@ -3355,6 +3613,7 @@
     },
     "IDS_PFSD109": {
         "en": "Mogador",
+        "group": "upgradeable",
         "id": 4180555600,
         "index": "PFSD109",
         "level": 9,
@@ -3368,6 +3627,7 @@
     },
     "IDS_PFSD110": {
         "en": "Kléber",
+        "group": "upgradeable",
         "id": 4179507024,
         "index": "PFSD110",
         "level": 10,
@@ -3381,6 +3641,7 @@
     },
     "IDS_PFSD210": {
         "en": "Marceau",
+        "group": "ultimate",
         "id": 4074649424,
         "index": "PFSD210",
         "level": 10,
@@ -3394,6 +3655,7 @@
     },
     "IDS_PFSD504": {
         "en": "Siroco",
+        "group": "special",
         "id": 3766368080,
         "index": "PFSD504",
         "level": 5,
@@ -3407,6 +3669,7 @@
     },
     "IDS_PFSD506": {
         "en": "Aigle",
+        "group": "special",
         "id": 3764270928,
         "index": "PFSD506",
         "level": 6,
@@ -3420,6 +3683,7 @@
     },
     "IDS_PFSD508": {
         "en": "Le Terrible",
+        "group": "special",
         "id": 3762173776,
         "index": "PFSD508",
         "level": 8,
@@ -3433,6 +3697,7 @@
     },
     "IDS_PFSD605": {
         "en": "Cyclone",
+        "group": "disabled",
         "id": 3660461904,
         "index": "PFSD605",
         "level": 5,
@@ -3446,6 +3711,7 @@
     },
     "IDS_PFSD808": {
         "en": "L'Effronté",
+        "group": "disabled",
         "id": 3447600976,
         "index": "PFSD808",
         "level": 8,
@@ -3459,6 +3725,7 @@
     },
     "IDS_PGSA104": {
         "en": "Rhein",
+        "group": "upgradeable",
         "id": 4185896752,
         "index": "PGSA104",
         "level": 4,
@@ -3472,6 +3739,7 @@
     },
     "IDS_PGSA106": {
         "en": "Weser",
+        "group": "upgradeable",
         "id": 4183799600,
         "index": "PGSA106",
         "level": 6,
@@ -3485,6 +3753,7 @@
     },
     "IDS_PGSA108": {
         "en": "A. Parseval",
+        "group": "upgradeable",
         "id": 4181702448,
         "index": "PGSA108",
         "level": 8,
@@ -3498,6 +3767,7 @@
     },
     "IDS_PGSA110": {
         "en": "M. Richthofen",
+        "group": "upgradeable",
         "id": 4179605296,
         "index": "PGSA110",
         "level": 10,
@@ -3511,6 +3781,7 @@
     },
     "IDS_PGSA506": {
         "en": "E. Loewenhardt",
+        "group": "special",
         "id": 3764369200,
         "index": "PGSA506",
         "level": 6,
@@ -3524,6 +3795,7 @@
     },
     "IDS_PGSA508": {
         "en": "Graf Zeppelin (old)",
+        "group": "preserved",
         "id": 3762272048,
         "index": "PGSA508",
         "level": 8,
@@ -3537,6 +3809,7 @@
     },
     "IDS_PGSA510": {
         "en": "W. Voss",
+        "group": "disabled",
         "id": 3760174896,
         "index": "PGSA510",
         "level": 10,
@@ -3550,6 +3823,7 @@
     },
     "IDS_PGSA518": {
         "en": "Graf Zeppelin",
+        "group": "special",
         "id": 3751786288,
         "index": "PGSA518",
         "level": 8,
@@ -3563,6 +3837,7 @@
     },
     "IDS_PGSA598": {
         "en": "Graf Zeppelin B",
+        "group": "special",
         "id": 3667900208,
         "index": "PGSA598",
         "level": 8,
@@ -3576,6 +3851,7 @@
     },
     "IDS_PGSA610": {
         "en": "M. Immelmann",
+        "group": "ultimate",
         "id": 3655317296,
         "index": "PGSA610",
         "level": 10,
@@ -3589,6 +3865,7 @@
     },
     "IDS_PGSB002": {
         "en": "Tirpitz",
+        "group": "special",
         "id": 4292818736,
         "index": "PGSB002",
         "level": 8,
@@ -3602,6 +3879,7 @@
     },
     "IDS_PGSB103": {
         "en": "Nassau",
+        "group": "upgradeable",
         "id": 4186912560,
         "index": "PGSB103",
         "level": 3,
@@ -3615,6 +3893,7 @@
     },
     "IDS_PGSB104": {
         "en": "Kaiser",
+        "group": "upgradeable",
         "id": 4185863984,
         "index": "PGSB104",
         "level": 4,
@@ -3628,6 +3907,7 @@
     },
     "IDS_PGSB105": {
         "en": "König",
+        "group": "upgradeable",
         "id": 4184815408,
         "index": "PGSB105",
         "level": 5,
@@ -3641,6 +3921,7 @@
     },
     "IDS_PGSB106": {
         "en": "Bayern",
+        "group": "upgradeable",
         "id": 4183766832,
         "index": "PGSB106",
         "level": 6,
@@ -3654,6 +3935,7 @@
     },
     "IDS_PGSB107": {
         "en": "Gneisenau",
+        "group": "upgradeable",
         "id": 4182718256,
         "index": "PGSB107",
         "level": 7,
@@ -3667,6 +3949,7 @@
     },
     "IDS_PGSB108": {
         "en": "Bismarck",
+        "group": "upgradeable",
         "id": 4181669680,
         "index": "PGSB108",
         "level": 8,
@@ -3680,6 +3963,7 @@
     },
     "IDS_PGSB109": {
         "en": "F. der Grosse",
+        "group": "upgradeable",
         "id": 4180621104,
         "index": "PGSB109",
         "level": 9,
@@ -3693,6 +3977,7 @@
     },
     "IDS_PGSB110": {
         "en": "G. Kurfürst",
+        "group": "ultimate",
         "id": 4179572528,
         "index": "PGSB110",
         "level": 10,
@@ -3706,6 +3991,7 @@
     },
     "IDS_PGSB111": {
         "en": "Hannover",
+        "group": "superShip",
         "id": 4178523952,
         "index": "PGSB111",
         "level": 11,
@@ -3719,6 +4005,7 @@
     },
     "IDS_PGSB203": {
         "en": "Von der Tann",
+        "group": "upgradeable",
         "id": 4082054960,
         "index": "PGSB203",
         "level": 3,
@@ -3732,6 +4019,7 @@
     },
     "IDS_PGSB204": {
         "en": "Moltke",
+        "group": "upgradeable",
         "id": 4081006384,
         "index": "PGSB204",
         "level": 4,
@@ -3745,6 +4033,7 @@
     },
     "IDS_PGSB205": {
         "en": "Derfflinger",
+        "group": "upgradeable",
         "id": 4079957808,
         "index": "PGSB205",
         "level": 5,
@@ -3758,6 +4047,7 @@
     },
     "IDS_PGSB206": {
         "en": "Mackensen",
+        "group": "upgradeable",
         "id": 4078909232,
         "index": "PGSB206",
         "level": 6,
@@ -3771,6 +4061,7 @@
     },
     "IDS_PGSB207": {
         "en": "P. Heinrich",
+        "group": "upgradeable",
         "id": 4077860656,
         "index": "PGSB207",
         "level": 7,
@@ -3784,6 +4075,7 @@
     },
     "IDS_PGSB208": {
         "en": "Zieten",
+        "group": "upgradeable",
         "id": 4076812080,
         "index": "PGSB208",
         "level": 8,
@@ -3797,6 +4089,7 @@
     },
     "IDS_PGSB209": {
         "en": "P. Rupprecht",
+        "group": "upgradeable",
         "id": 4075763504,
         "index": "PGSB209",
         "level": 9,
@@ -3810,6 +4103,7 @@
     },
     "IDS_PGSB210": {
         "en": "Schlieffen",
+        "group": "upgradeable",
         "id": 4074714928,
         "index": "PGSB210",
         "level": 10,
@@ -3823,6 +4117,7 @@
     },
     "IDS_PGSB310": {
         "en": "Preussen",
+        "group": "upgradeable",
         "id": 3969857328,
         "index": "PGSB310",
         "level": 10,
@@ -3836,6 +4131,7 @@
     },
     "IDS_PGSB503": {
         "en": "K. Albert",
+        "group": "special",
         "id": 3767482160,
         "index": "PGSB503",
         "level": 3,
@@ -3849,6 +4145,7 @@
     },
     "IDS_PGSB506": {
         "en": "P. E. Friedrich",
+        "group": "special",
         "id": 3764336432,
         "index": "PGSB506",
         "level": 6,
@@ -3862,6 +4159,7 @@
     },
     "IDS_PGSB507": {
         "en": "Scharnhorst",
+        "group": "special",
         "id": 3763287856,
         "index": "PGSB507",
         "level": 7,
@@ -3875,6 +4173,7 @@
     },
     "IDS_PGSB508": {
         "en": "Odin",
+        "group": "special",
         "id": 3762239280,
         "index": "PGSB508",
         "level": 8,
@@ -3888,6 +4187,7 @@
     },
     "IDS_PGSB509": {
         "en": "Pommern",
+        "group": "special",
         "id": 3761190704,
         "index": "PGSB509",
         "level": 9,
@@ -3901,6 +4201,7 @@
     },
     "IDS_PGSB518": {
         "en": "Brandenburg",
+        "group": "special",
         "id": 3751753520,
         "index": "PGSB518",
         "level": 8,
@@ -3914,6 +4215,7 @@
     },
     "IDS_PGSB528": {
         "en": "Anhalt",
+        "group": "special",
         "id": 3741267760,
         "index": "PGSB528",
         "level": 8,
@@ -3927,6 +4229,7 @@
     },
     "IDS_PGSB597": {
         "en": "Scharnhorst B",
+        "group": "special",
         "id": 3668916016,
         "index": "PGSB597",
         "level": 7,
@@ -3940,6 +4243,7 @@
     },
     "IDS_PGSB598": {
         "en": "Tirpitz B",
+        "group": "special",
         "id": 3667867440,
         "index": "PGSB598",
         "level": 8,
@@ -3953,6 +4257,7 @@
     },
     "IDS_PGSB599": {
         "en": "Pommern B",
+        "group": "special",
         "id": 3666818864,
         "index": "PGSB599",
         "level": 9,
@@ -3966,6 +4271,7 @@
     },
     "IDS_PGSB610": {
         "en": "Mecklenburg",
+        "group": "ultimate",
         "id": 3655284528,
         "index": "PGSB610",
         "level": 10,
@@ -3979,6 +4285,7 @@
     },
     "IDS_PGSB910": {
         "en": "[G. Kurfürst]",
+        "group": "clan",
         "id": 3340711728,
         "index": "PGSB910",
         "level": 10,
@@ -3992,6 +4299,7 @@
     },
     "IDS_PGSB999": {
         "en": "Hannover (old)",
+        "group": "disabled",
         "id": 3247388464,
         "index": "PGSB999",
         "level": 11,
@@ -4005,6 +4313,7 @@
     },
     "IDS_PGSC001": {
         "en": "Hermelin",
+        "group": "start",
         "id": 4293834544,
         "index": "PGSC001",
         "level": 1,
@@ -4018,6 +4327,7 @@
     },
     "IDS_PGSC002": {
         "en": "Dresden",
+        "group": "upgradeable",
         "id": 4292785968,
         "index": "PGSC002",
         "level": 2,
@@ -4031,6 +4341,7 @@
     },
     "IDS_PGSC103": {
         "en": "Kolberg",
+        "group": "upgradeable",
         "id": 4186879792,
         "index": "PGSC103",
         "level": 3,
@@ -4044,6 +4355,7 @@
     },
     "IDS_PGSC104": {
         "en": "Karlsruhe",
+        "group": "upgradeable",
         "id": 4185831216,
         "index": "PGSC104",
         "level": 4,
@@ -4057,6 +4369,7 @@
     },
     "IDS_PGSC105": {
         "en": "Königsberg",
+        "group": "upgradeable",
         "id": 4184782640,
         "index": "PGSC105",
         "level": 5,
@@ -4070,6 +4383,7 @@
     },
     "IDS_PGSC106": {
         "en": "Nürnberg",
+        "group": "upgradeable",
         "id": 4183734064,
         "index": "PGSC106",
         "level": 6,
@@ -4083,6 +4397,7 @@
     },
     "IDS_PGSC107": {
         "en": "Yorck",
+        "group": "upgradeable",
         "id": 4182685488,
         "index": "PGSC107",
         "level": 7,
@@ -4096,6 +4411,7 @@
     },
     "IDS_PGSC108": {
         "en": "Hipper",
+        "group": "upgradeable",
         "id": 4181636912,
         "index": "PGSC108",
         "level": 8,
@@ -4109,6 +4425,7 @@
     },
     "IDS_PGSC109": {
         "en": "Roon",
+        "group": "upgradeable",
         "id": 4180588336,
         "index": "PGSC109",
         "level": 9,
@@ -4122,6 +4439,7 @@
     },
     "IDS_PGSC110": {
         "en": "Hindenburg",
+        "group": "upgradeable",
         "id": 4179539760,
         "index": "PGSC110",
         "level": 10,
@@ -4135,6 +4453,7 @@
     },
     "IDS_PGSC111": {
         "en": "Clausewitz",
+        "group": "earlyAccess",
         "id": 4178491184,
         "index": "PGSC111",
         "level": 11,
@@ -4148,6 +4467,7 @@
     },
     "IDS_PGSC502": {
         "en": "Emden",
+        "group": "special",
         "id": 3768497968,
         "index": "PGSC502",
         "level": 2,
@@ -4161,6 +4481,7 @@
     },
     "IDS_PGSC506": {
         "en": "Graf Spee",
+        "group": "special",
         "id": 3764303664,
         "index": "PGSC506",
         "level": 6,
@@ -4174,6 +4495,7 @@
     },
     "IDS_PGSC507": {
         "en": "München",
+        "group": "special",
         "id": 3763255088,
         "index": "PGSC507",
         "level": 7,
@@ -4187,6 +4509,7 @@
     },
     "IDS_PGSC508": {
         "en": "Prinz Eugen",
+        "group": "special",
         "id": 3762206512,
         "index": "PGSC508",
         "level": 8,
@@ -4200,6 +4523,7 @@
     },
     "IDS_PGSC509": {
         "en": "Siegfried",
+        "group": "specialUnsellable",
         "id": 3761157936,
         "index": "PGSC509",
         "level": 9,
@@ -4213,6 +4537,7 @@
     },
     "IDS_PGSC517": {
         "en": "Weimar",
+        "group": "special",
         "id": 3752769328,
         "index": "PGSC517",
         "level": 7,
@@ -4226,6 +4551,7 @@
     },
     "IDS_PGSC518": {
         "en": "Mainz",
+        "group": "special",
         "id": 3751720752,
         "index": "PGSC518",
         "level": 8,
@@ -4239,6 +4565,7 @@
     },
     "IDS_PGSC519": {
         "en": "Ägir",
+        "group": "upgradeableExclusive",
         "id": 3750672176,
         "index": "PGSC519",
         "level": 9,
@@ -4252,6 +4579,7 @@
     },
     "IDS_PGSC529": {
         "en": "Schröder",
+        "group": "demoWithoutStats",
         "id": 3740186416,
         "index": "PGSC529",
         "level": 9,
@@ -4265,6 +4593,7 @@
     },
     "IDS_PGSC706": {
         "en": "HSF Graf Spee",
+        "group": "special",
         "id": 3554588464,
         "index": "PGSC706",
         "level": 6,
@@ -4278,6 +4607,7 @@
     },
     "IDS_PGSC718": {
         "en": "Cross of Dorn",
+        "group": "special",
         "id": 3542005552,
         "index": "PGSC718",
         "level": 8,
@@ -4291,6 +4621,7 @@
     },
     "IDS_PGSC910": {
         "en": "[Hindenburg]",
+        "group": "clan",
         "id": 3340678960,
         "index": "PGSC910",
         "level": 10,
@@ -4304,6 +4635,7 @@
     },
     "IDS_PGSD102": {
         "en": "V-25",
+        "group": "upgradeable",
         "id": 4187895600,
         "index": "PGSD102",
         "level": 2,
@@ -4317,6 +4649,7 @@
     },
     "IDS_PGSD103": {
         "en": "G-101",
+        "group": "upgradeable",
         "id": 4186847024,
         "index": "PGSD103",
         "level": 3,
@@ -4330,6 +4663,7 @@
     },
     "IDS_PGSD104": {
         "en": "V-170",
+        "group": "upgradeable",
         "id": 4185798448,
         "index": "PGSD104",
         "level": 4,
@@ -4343,6 +4677,7 @@
     },
     "IDS_PGSD105": {
         "en": "T-22",
+        "group": "upgradeable",
         "id": 4184749872,
         "index": "PGSD105",
         "level": 5,
@@ -4356,6 +4691,7 @@
     },
     "IDS_PGSD106": {
         "en": "Gaede",
+        "group": "upgradeable",
         "id": 4183701296,
         "index": "PGSD106",
         "level": 6,
@@ -4369,6 +4705,7 @@
     },
     "IDS_PGSD107": {
         "en": "Maass",
+        "group": "upgradeable",
         "id": 4182652720,
         "index": "PGSD107",
         "level": 7,
@@ -4382,6 +4719,7 @@
     },
     "IDS_PGSD108": {
         "en": "Z-23",
+        "group": "upgradeable",
         "id": 4181604144,
         "index": "PGSD108",
         "level": 8,
@@ -4395,6 +4733,7 @@
     },
     "IDS_PGSD109": {
         "en": "Z-46",
+        "group": "upgradeable",
         "id": 4180555568,
         "index": "PGSD109",
         "level": 9,
@@ -4408,6 +4747,7 @@
     },
     "IDS_PGSD110": {
         "en": "Z-52",
+        "group": "upgradeable",
         "id": 4179506992,
         "index": "PGSD110",
         "level": 10,
@@ -4421,6 +4761,7 @@
     },
     "IDS_PGSD207": {
         "en": "Z-31",
+        "group": "upgradeable",
         "id": 4077795120,
         "index": "PGSD207",
         "level": 7,
@@ -4434,6 +4775,7 @@
     },
     "IDS_PGSD208": {
         "en": "G. J. Maerker",
+        "group": "upgradeable",
         "id": 4076746544,
         "index": "PGSD208",
         "level": 8,
@@ -4447,6 +4789,7 @@
     },
     "IDS_PGSD209": {
         "en": "F. Schultz",
+        "group": "upgradeable",
         "id": 4075697968,
         "index": "PGSD209",
         "level": 9,
@@ -4460,6 +4803,7 @@
     },
     "IDS_PGSD210": {
         "en": "Elbing",
+        "group": "upgradeable",
         "id": 4074649392,
         "index": "PGSD210",
         "level": 10,
@@ -4473,6 +4817,7 @@
     },
     "IDS_PGSD506": {
         "en": "T-61",
+        "group": "special",
         "id": 3764270896,
         "index": "PGSD506",
         "level": 6,
@@ -4486,6 +4831,7 @@
     },
     "IDS_PGSD508": {
         "en": "Z-39",
+        "group": "special",
         "id": 3762173744,
         "index": "PGSD508",
         "level": 7,
@@ -4499,6 +4845,7 @@
     },
     "IDS_PGSD516": {
         "en": "K. Schönberg",
+        "group": "special",
         "id": 3753785136,
         "index": "PGSD516",
         "level": 6,
@@ -4512,6 +4859,7 @@
     },
     "IDS_PGSD518": {
         "en": "Z-35",
+        "group": "special",
         "id": 3751687984,
         "index": "PGSD518",
         "level": 8,
@@ -4525,6 +4873,7 @@
     },
     "IDS_PGSD519": {
         "en": "Z-44",
+        "group": "special",
         "id": 3750639408,
         "index": "PGSD519",
         "level": 9,
@@ -4538,6 +4887,7 @@
     },
     "IDS_PGSD529": {
         "en": "ZF-6",
+        "group": "special",
         "id": 3740153648,
         "index": "PGSD529",
         "level": 9,
@@ -4551,6 +4901,7 @@
     },
     "IDS_PGSS106": {
         "en": "U-69",
+        "group": "demoWithStats",
         "id": 4183209776,
         "index": "PGSS106",
         "level": 6,
@@ -4564,6 +4915,7 @@
     },
     "IDS_PGSS108": {
         "en": "U-190",
+        "group": "demoWithStats",
         "id": 4181112624,
         "index": "PGSS108",
         "level": 8,
@@ -4577,6 +4929,7 @@
     },
     "IDS_PGSS110": {
         "en": "U-2501",
+        "group": "demoWithStats",
         "id": 4179015472,
         "index": "PGSS110",
         "level": 10,
@@ -4590,6 +4943,7 @@
     },
     "IDS_PGSS206": {
         "en": "U-69",
+        "group": "disabled",
         "id": 4078352176,
         "index": "PGSS206",
         "level": 6,
@@ -4603,6 +4957,7 @@
     },
     "IDS_PGSS208": {
         "en": "U-190",
+        "group": "disabled",
         "id": 4076255024,
         "index": "PGSS208",
         "level": 8,
@@ -4616,6 +4971,7 @@
     },
     "IDS_PGSS210": {
         "en": "U-2501",
+        "group": "disabled",
         "id": 4074157872,
         "index": "PGSS210",
         "level": 10,
@@ -4629,6 +4985,7 @@
     },
     "IDS_PGSS510": {
         "en": "U-4501",
+        "group": "demoWithoutStats",
         "id": 3759585072,
         "index": "PGSS510",
         "level": 10,
@@ -4642,6 +4999,7 @@
     },
     "IDS_PHSC101": {
         "en": "Van Kinsbergen",
+        "group": "start",
         "id": 4188976912,
         "index": "PHSC101",
         "level": 1,
@@ -4655,6 +5013,7 @@
     },
     "IDS_PHSC102": {
         "en": "Gelderland",
+        "group": "upgradeable",
         "id": 4187928336,
         "index": "PHSC102",
         "level": 2,
@@ -4668,6 +5027,7 @@
     },
     "IDS_PHSC103": {
         "en": "Java",
+        "group": "upgradeable",
         "id": 4186879760,
         "index": "PHSC103",
         "level": 3,
@@ -4681,6 +5041,7 @@
     },
     "IDS_PHSC104": {
         "en": "De Ruyter",
+        "group": "upgradeable",
         "id": 4185831184,
         "index": "PHSC104",
         "level": 4,
@@ -4694,6 +5055,7 @@
     },
     "IDS_PHSC105": {
         "en": "Celebes",
+        "group": "upgradeable",
         "id": 4184782608,
         "index": "PHSC105",
         "level": 5,
@@ -4707,6 +5069,7 @@
     },
     "IDS_PHSC106": {
         "en": "Kijkduin",
+        "group": "upgradeable",
         "id": 4183734032,
         "index": "PHSC106",
         "level": 6,
@@ -4720,6 +5083,7 @@
     },
     "IDS_PHSC107": {
         "en": "Eendracht",
+        "group": "upgradeable",
         "id": 4182685456,
         "index": "PHSC107",
         "level": 7,
@@ -4733,6 +5097,7 @@
     },
     "IDS_PHSC108": {
         "en": "Haarlem",
+        "group": "upgradeable",
         "id": 4181636880,
         "index": "PHSC108",
         "level": 8,
@@ -4746,6 +5111,7 @@
     },
     "IDS_PHSC109": {
         "en": "Johan de Witt",
+        "group": "upgradeable",
         "id": 4180588304,
         "index": "PHSC109",
         "level": 9,
@@ -4759,6 +5125,7 @@
     },
     "IDS_PHSC110": {
         "en": "Gouden Leeuw",
+        "group": "upgradeable",
         "id": 4179539728,
         "index": "PHSC110",
         "level": 10,
@@ -4772,6 +5139,7 @@
     },
     "IDS_PHSC508": {
         "en": "De 7 Provinciën",
+        "group": "special",
         "id": 3762206480,
         "index": "PHSC508",
         "level": 8,
@@ -4785,6 +5153,7 @@
     },
     "IDS_PHSD509": {
         "en": "Groningen",
+        "group": "upgradeableExclusive",
         "id": 3761125136,
         "index": "PHSD509",
         "level": 9,
@@ -4798,6 +5167,7 @@
     },
     "IDS_PHSD610": {
         "en": "Tromp",
+        "group": "demoWithoutStats",
         "id": 3655218960,
         "index": "PHSD610",
         "level": 10,
@@ -4811,6 +5181,7 @@
     },
     "IDS_PISA508": {
         "en": "Aquila",
+        "group": "special",
         "id": 3762271984,
         "index": "PISA508",
         "level": 8,
@@ -4824,6 +5195,7 @@
     },
     "IDS_PISB104": {
         "en": "D. Alighieri",
+        "group": "upgradeable",
         "id": 4185863920,
         "index": "PISB104",
         "level": 4,
@@ -4837,6 +5209,7 @@
     },
     "IDS_PISB105": {
         "en": "Cavour",
+        "group": "upgradeable",
         "id": 4184815344,
         "index": "PISB105",
         "level": 5,
@@ -4850,6 +5223,7 @@
     },
     "IDS_PISB106": {
         "en": "Andrea Doria",
+        "group": "upgradeable",
         "id": 4183766768,
         "index": "PISB106",
         "level": 6,
@@ -4863,6 +5237,7 @@
     },
     "IDS_PISB107": {
         "en": "F. Caracciolo",
+        "group": "upgradeable",
         "id": 4182718192,
         "index": "PISB107",
         "level": 7,
@@ -4876,6 +5251,7 @@
     },
     "IDS_PISB108": {
         "en": "V. Veneto",
+        "group": "upgradeable",
         "id": 4181669616,
         "index": "PISB108",
         "level": 8,
@@ -4889,6 +5265,7 @@
     },
     "IDS_PISB109": {
         "en": "Lepanto",
+        "group": "upgradeable",
         "id": 4180621040,
         "index": "PISB109",
         "level": 9,
@@ -4902,6 +5279,7 @@
     },
     "IDS_PISB110": {
         "en": "C. Colombo",
+        "group": "upgradeable",
         "id": 4179572464,
         "index": "PISB110",
         "level": 10,
@@ -4915,6 +5293,7 @@
     },
     "IDS_PISB505": {
         "en": "Giulio Cesare",
+        "group": "special",
         "id": 3765384944,
         "index": "PISB505",
         "level": 5,
@@ -4928,6 +5307,7 @@
     },
     "IDS_PISB508": {
         "en": "Roma",
+        "group": "special",
         "id": 3762239216,
         "index": "PISB508",
         "level": 8,
@@ -4941,6 +5321,7 @@
     },
     "IDS_PISB509": {
         "en": "Marco Polo",
+        "group": "special",
         "id": 3761190640,
         "index": "PISB509",
         "level": 9,
@@ -4954,6 +5335,7 @@
     },
     "IDS_PISB519": {
         "en": "Giuseppe Verdi",
+        "group": "special",
         "id": 3750704880,
         "index": "PISB519",
         "level": 9,
@@ -4967,6 +5349,7 @@
     },
     "IDS_PISB708": {
         "en": "AL Littorio",
+        "group": "special",
         "id": 3552524016,
         "index": "PISB708",
         "level": 8,
@@ -4980,6 +5363,7 @@
     },
     "IDS_PISB805": {
         "en": "Giunio Bruto",
+        "group": "disabled",
         "id": 3450812144,
         "index": "PISB805",
         "level": 6,
@@ -4993,6 +5377,7 @@
     },
     "IDS_PISC101": {
         "en": "Eritrea",
+        "group": "start",
         "id": 4188976880,
         "index": "PISC101",
         "level": 1,
@@ -5006,6 +5391,7 @@
     },
     "IDS_PISC102": {
         "en": "Nino Bixio",
+        "group": "upgradeable",
         "id": 4187928304,
         "index": "PISC102",
         "level": 2,
@@ -5019,6 +5405,7 @@
     },
     "IDS_PISC103": {
         "en": "Taranto",
+        "group": "upgradeable",
         "id": 4186879728,
         "index": "PISC103",
         "level": 3,
@@ -5032,6 +5419,7 @@
     },
     "IDS_PISC104": {
         "en": "Giussano",
+        "group": "upgradeable",
         "id": 4185831152,
         "index": "PISC104",
         "level": 4,
@@ -5045,6 +5433,7 @@
     },
     "IDS_PISC105": {
         "en": "Montecuccoli",
+        "group": "upgradeable",
         "id": 4184782576,
         "index": "PISC105",
         "level": 5,
@@ -5058,6 +5447,7 @@
     },
     "IDS_PISC106": {
         "en": "Trento",
+        "group": "upgradeable",
         "id": 4183734000,
         "index": "PISC106",
         "level": 6,
@@ -5071,6 +5461,7 @@
     },
     "IDS_PISC107": {
         "en": "Zara",
+        "group": "upgradeable",
         "id": 4182685424,
         "index": "PISC107",
         "level": 7,
@@ -5084,6 +5475,7 @@
     },
     "IDS_PISC108": {
         "en": "Amalfi",
+        "group": "upgradeable",
         "id": 4181636848,
         "index": "PISC108",
         "level": 8,
@@ -5097,6 +5489,7 @@
     },
     "IDS_PISC109": {
         "en": "Brindisi",
+        "group": "upgradeable",
         "id": 4180588272,
         "index": "PISC109",
         "level": 9,
@@ -5110,6 +5503,7 @@
     },
     "IDS_PISC110": {
         "en": "Venezia",
+        "group": "upgradeable",
         "id": 4179539696,
         "index": "PISC110",
         "level": 10,
@@ -5123,6 +5517,7 @@
     },
     "IDS_PISC505": {
         "en": "Genova",
+        "group": "special",
         "id": 3765352176,
         "index": "PISC505",
         "level": 5,
@@ -5136,6 +5531,7 @@
     },
     "IDS_PISC506": {
         "en": "Duca d'Aosta",
+        "group": "special",
         "id": 3764303600,
         "index": "PISC506",
         "level": 6,
@@ -5149,6 +5545,7 @@
     },
     "IDS_PISC507": {
         "en": "Abruzzi",
+        "group": "special",
         "id": 3763255024,
         "index": "PISC507",
         "level": 7,
@@ -5162,6 +5559,7 @@
     },
     "IDS_PISC510": {
         "en": "Napoli",
+        "group": "ultimate",
         "id": 3760109296,
         "index": "PISC510",
         "level": 10,
@@ -5175,6 +5573,7 @@
     },
     "IDS_PISC607": {
         "en": "Gorizia",
+        "group": "special",
         "id": 3658397424,
         "index": "PISC607",
         "level": 7,
@@ -5188,6 +5587,7 @@
     },
     "IDS_PISD102": {
         "en": "Curtatone",
+        "group": "upgradeable",
         "id": 4187895536,
         "index": "PISD102",
         "level": 2,
@@ -5201,6 +5601,7 @@
     },
     "IDS_PISD103": {
         "en": "N. Sauro",
+        "group": "upgradeable",
         "id": 4186846960,
         "index": "PISD103",
         "level": 3,
@@ -5214,6 +5615,7 @@
     },
     "IDS_PISD104": {
         "en": "Turbine",
+        "group": "upgradeable",
         "id": 4185798384,
         "index": "PISD104",
         "level": 4,
@@ -5227,6 +5629,7 @@
     },
     "IDS_PISD105": {
         "en": "Maestrale",
+        "group": "upgradeable",
         "id": 4184749808,
         "index": "PISD105",
         "level": 5,
@@ -5240,6 +5643,7 @@
     },
     "IDS_PISD106": {
         "en": "Aviere",
+        "group": "upgradeable",
         "id": 4183701232,
         "index": "PISD106",
         "level": 6,
@@ -5253,6 +5657,7 @@
     },
     "IDS_PISD107": {
         "en": "L. Tarigo",
+        "group": "upgradeable",
         "id": 4182652656,
         "index": "PISD107",
         "level": 7,
@@ -5266,6 +5671,7 @@
     },
     "IDS_PISD108": {
         "en": "V. Cuniberti",
+        "group": "upgradeable",
         "id": 4181604080,
         "index": "PISD108",
         "level": 8,
@@ -5279,6 +5685,7 @@
     },
     "IDS_PISD109": {
         "en": "Adriatico",
+        "group": "upgradeable",
         "id": 4180555504,
         "index": "PISD109",
         "level": 9,
@@ -5292,6 +5699,7 @@
     },
     "IDS_PISD110": {
         "en": "A. Regolo",
+        "group": "upgradeable",
         "id": 4179506928,
         "index": "PISD110",
         "level": 10,
@@ -5305,6 +5713,7 @@
     },
     "IDS_PISD506": {
         "en": "Leone",
+        "group": "special",
         "id": 3764270832,
         "index": "PISD506",
         "level": 6,
@@ -5318,6 +5727,7 @@
     },
     "IDS_PISD507": {
         "en": "FR25",
+        "group": "special",
         "id": 3763222256,
         "index": "PISD507",
         "level": 7,
@@ -5331,6 +5741,7 @@
     },
     "IDS_PISD509": {
         "en": "Paolo Emilio",
+        "group": "special",
         "id": 3761125104,
         "index": "PISD509",
         "level": 9,
@@ -5344,6 +5755,7 @@
     },
     "IDS_PJSA002": {
         "en": "Hōshō (old)",
+        "group": "preserved",
         "id": 4292851408,
         "index": "PJSA002",
         "level": 4,
@@ -5357,6 +5769,7 @@
     },
     "IDS_PJSA006": {
         "en": "Zuihō (old)",
+        "group": "preserved",
         "id": 4288657104,
         "index": "PJSA006",
         "level": 5,
@@ -5370,6 +5783,7 @@
     },
     "IDS_PJSA009": {
         "en": "Ryūjō (old)",
+        "group": "preserved",
         "id": 4285511376,
         "index": "PJSA009",
         "level": 6,
@@ -5383,6 +5797,7 @@
     },
     "IDS_PJSA011": {
         "en": "Hiryū (old)",
+        "group": "preserved",
         "id": 4283414224,
         "index": "PJSA011",
         "level": 7,
@@ -5396,6 +5811,7 @@
     },
     "IDS_PJSA012": {
         "en": "Shōkaku (old)",
+        "group": "preserved",
         "id": 4282365648,
         "index": "PJSA012",
         "level": 8,
@@ -5409,6 +5825,7 @@
     },
     "IDS_PJSA015": {
         "en": "Taihō (old)",
+        "group": "preserved",
         "id": 4279219920,
         "index": "PJSA015",
         "level": 9,
@@ -5422,6 +5839,7 @@
     },
     "IDS_PJSA017": {
         "en": "Hakuryū (old)",
+        "group": "preserved",
         "id": 4277122768,
         "index": "PJSA017",
         "level": 10,
@@ -5435,6 +5853,7 @@
     },
     "IDS_PJSA104": {
         "en": "Hōshō",
+        "group": "upgradeable",
         "id": 4185896656,
         "index": "PJSA104",
         "level": 4,
@@ -5448,6 +5867,7 @@
     },
     "IDS_PJSA106": {
         "en": "Ryūjō",
+        "group": "upgradeable",
         "id": 4183799504,
         "index": "PJSA106",
         "level": 6,
@@ -5461,6 +5881,7 @@
     },
     "IDS_PJSA108": {
         "en": "Shōkaku",
+        "group": "upgradeable",
         "id": 4181702352,
         "index": "PJSA108",
         "level": 8,
@@ -5474,6 +5895,7 @@
     },
     "IDS_PJSA110": {
         "en": "Hakuryū",
+        "group": "upgradeable",
         "id": 4179605200,
         "index": "PJSA110",
         "level": 10,
@@ -5487,6 +5909,7 @@
     },
     "IDS_PJSA111": {
         "en": "Sekiryu",
+        "group": "demoWithoutStats",
         "id": 4178556624,
         "index": "PJSA111",
         "level": 11,
@@ -5500,6 +5923,7 @@
     },
     "IDS_PJSA507": {
         "en": "Kaga (old)",
+        "group": "preserved",
         "id": 3763320528,
         "index": "PJSA507",
         "level": 7,
@@ -5513,6 +5937,7 @@
     },
     "IDS_PJSA518": {
         "en": "Kaga",
+        "group": "special",
         "id": 3751786192,
         "index": "PJSA518",
         "level": 8,
@@ -5526,6 +5951,7 @@
     },
     "IDS_PJSA598": {
         "en": "Kaga B",
+        "group": "special",
         "id": 3667900112,
         "index": "PJSA598",
         "level": 8,
@@ -5539,6 +5965,7 @@
     },
     "IDS_PJSA917": {
         "en": "[Hakuryū]",
+        "group": "clan",
         "id": 3333404368,
         "index": "PJSA917",
         "level": 10,
@@ -5552,6 +5979,7 @@
     },
     "IDS_PJSB001": {
         "en": "Kawachi",
+        "group": "upgradeable",
         "id": 4293867216,
         "index": "PJSB001",
         "level": 3,
@@ -5565,6 +5993,7 @@
     },
     "IDS_PJSB003": {
         "en": "Myōgi",
+        "group": "upgradeable",
         "id": 4291770064,
         "index": "PJSB003",
         "level": 4,
@@ -5578,6 +6007,7 @@
     },
     "IDS_PJSB006": {
         "en": "Fusō",
+        "group": "upgradeable",
         "id": 4288624336,
         "index": "PJSB006",
         "level": 6,
@@ -5591,6 +6021,7 @@
     },
     "IDS_PJSB007": {
         "en": "Kongō",
+        "group": "upgradeable",
         "id": 4287575760,
         "index": "PJSB007",
         "level": 5,
@@ -5604,6 +6035,7 @@
     },
     "IDS_PJSB008": {
         "en": "Ishizuchi",
+        "group": "special",
         "id": 4286527184,
         "index": "PJSB008",
         "level": 4,
@@ -5617,6 +6049,7 @@
     },
     "IDS_PJSB010": {
         "en": "Nagato",
+        "group": "upgradeable",
         "id": 4284430032,
         "index": "PJSB010",
         "level": 7,
@@ -5630,6 +6063,7 @@
     },
     "IDS_PJSB011": {
         "en": "Mikasa",
+        "group": "special",
         "id": 4283381456,
         "index": "PJSB011",
         "level": 2,
@@ -5643,6 +6077,7 @@
     },
     "IDS_PJSB013": {
         "en": "Amagi",
+        "group": "upgradeable",
         "id": 4281284304,
         "index": "PJSB013",
         "level": 8,
@@ -5656,6 +6091,7 @@
     },
     "IDS_PJSB018": {
         "en": "Yamato",
+        "group": "upgradeable",
         "id": 4276041424,
         "index": "PJSB018",
         "level": 10,
@@ -5669,6 +6105,7 @@
     },
     "IDS_PJSB021": {
         "en": "Izumo",
+        "group": "upgradeable",
         "id": 4272895696,
         "index": "PJSB021",
         "level": 9,
@@ -5682,6 +6119,7 @@
     },
     "IDS_PJSB111": {
         "en": "Satsuma",
+        "group": "superShip",
         "id": 4178523856,
         "index": "PJSB111",
         "level": 11,
@@ -5695,6 +6133,7 @@
     },
     "IDS_PJSB506": {
         "en": "Mutsu",
+        "group": "special",
         "id": 3764336336,
         "index": "PJSB506",
         "level": 6,
@@ -5708,6 +6147,7 @@
     },
     "IDS_PJSB507": {
         "en": "Ashitaka",
+        "group": "special",
         "id": 3763287760,
         "index": "PJSB507",
         "level": 7,
@@ -5721,6 +6161,7 @@
     },
     "IDS_PJSB508": {
         "en": "Kii",
+        "group": "special",
         "id": 3762239184,
         "index": "PJSB508",
         "level": 8,
@@ -5734,6 +6175,7 @@
     },
     "IDS_PJSB509": {
         "en": "Musashi",
+        "group": "specialUnsellable",
         "id": 3761190608,
         "index": "PJSB509",
         "level": 9,
@@ -5747,6 +6189,7 @@
     },
     "IDS_PJSB510": {
         "en": "Shikishima",
+        "group": "ultimate",
         "id": 3760142032,
         "index": "PJSB510",
         "level": 10,
@@ -5760,6 +6203,7 @@
     },
     "IDS_PJSB517": {
         "en": "Hyūga",
+        "group": "special",
         "id": 3752802000,
         "index": "PJSB517",
         "level": 7,
@@ -5773,6 +6217,7 @@
     },
     "IDS_PJSB519": {
         "en": "Hizen",
+        "group": "special",
         "id": 3750704848,
         "index": "PJSB519",
         "level": 9,
@@ -5786,6 +6231,7 @@
     },
     "IDS_PJSB526": {
         "en": "Ise",
+        "group": "special",
         "id": 3743364816,
         "index": "PJSB526",
         "level": 6,
@@ -5799,6 +6245,7 @@
     },
     "IDS_PJSB529": {
         "en": "Iwami",
+        "group": "special",
         "id": 3740219088,
         "index": "PJSB529",
         "level": 9,
@@ -5812,6 +6259,7 @@
     },
     "IDS_PJSB700": {
         "en": "ARP Yamato",
+        "group": "ultimate",
         "id": 3560912592,
         "index": "PJSB700",
         "level": 10,
@@ -5825,6 +6273,7 @@
     },
     "IDS_PJSB705": {
         "en": "ARP Kongō",
+        "group": "special",
         "id": 3555669712,
         "index": "PJSB705",
         "level": 5,
@@ -5838,6 +6287,7 @@
     },
     "IDS_PJSB706": {
         "en": "ARP Kirishima",
+        "group": "special",
         "id": 3554621136,
         "index": "PJSB706",
         "level": 5,
@@ -5851,6 +6301,7 @@
     },
     "IDS_PJSB707": {
         "en": "ARP Haruna",
+        "group": "special",
         "id": 3553572560,
         "index": "PJSB707",
         "level": 5,
@@ -5864,6 +6315,7 @@
     },
     "IDS_PJSB708": {
         "en": "ARP Hiei",
+        "group": "special",
         "id": 3552523984,
         "index": "PJSB708",
         "level": 5,
@@ -5877,6 +6329,7 @@
     },
     "IDS_PJSB715": {
         "en": "HSF Hiei",
+        "group": "special",
         "id": 3545183952,
         "index": "PJSB715",
         "level": 5,
@@ -5890,6 +6343,7 @@
     },
     "IDS_PJSB799": {
         "en": "ARP Kirishima",
+        "group": "disabled",
         "id": 3457103568,
         "index": "PJSB799",
         "level": 5,
@@ -5903,6 +6357,7 @@
     },
     "IDS_PJSB878": {
         "en": "Ignis Purgatio",
+        "group": "special",
         "id": 3374266064,
         "index": "PJSB878",
         "level": 8,
@@ -5916,6 +6371,7 @@
     },
     "IDS_PJSB888": {
         "en": "Ragnarok",
+        "group": "special",
         "id": 3363780304,
         "index": "PJSB888",
         "level": 8,
@@ -5929,6 +6385,7 @@
     },
     "IDS_PJSB906": {
         "en": "Ise 2",
+        "group": "preserved",
         "id": 3344905936,
         "index": "PJSB906",
         "level": 6,
@@ -5942,6 +6399,7 @@
     },
     "IDS_PJSB916": {
         "en": "Ise 3",
+        "group": "preserved",
         "id": 3334420176,
         "index": "PJSB916",
         "level": 6,
@@ -5955,6 +6413,7 @@
     },
     "IDS_PJSB918": {
         "en": "[Yamato]",
+        "group": "clan",
         "id": 3332323024,
         "index": "PJSB918",
         "level": 10,
@@ -5968,6 +6427,7 @@
     },
     "IDS_PJSB999": {
         "en": "Satsuma (old)",
+        "group": "disabled",
         "id": 3247388368,
         "index": "PJSB999",
         "level": 11,
@@ -5981,6 +6441,7 @@
     },
     "IDS_PJSC004": {
         "en": "Yūbari",
+        "group": "special",
         "id": 4290688720,
         "index": "PJSC004",
         "level": 4,
@@ -5994,6 +6455,7 @@
     },
     "IDS_PJSC005": {
         "en": "Furutaka",
+        "group": "upgradeable",
         "id": 4289640144,
         "index": "PJSC005",
         "level": 5,
@@ -6007,6 +6469,7 @@
     },
     "IDS_PJSC007": {
         "en": "Aoba",
+        "group": "upgradeable",
         "id": 4287542992,
         "index": "PJSC007",
         "level": 6,
@@ -6020,6 +6483,7 @@
     },
     "IDS_PJSC008": {
         "en": "Myōkō",
+        "group": "upgradeable",
         "id": 4286494416,
         "index": "PJSC008",
         "level": 7,
@@ -6033,6 +6497,7 @@
     },
     "IDS_PJSC009": {
         "en": "Mogami",
+        "group": "upgradeable",
         "id": 4285445840,
         "index": "PJSC009",
         "level": 8,
@@ -6046,6 +6511,7 @@
     },
     "IDS_PJSC012": {
         "en": "Ibuki",
+        "group": "upgradeable",
         "id": 4282300112,
         "index": "PJSC012",
         "level": 9,
@@ -6059,6 +6525,7 @@
     },
     "IDS_PJSC013": {
         "en": "Kuma",
+        "group": "upgradeable",
         "id": 4281251536,
         "index": "PJSC013",
         "level": 4,
@@ -6072,6 +6539,7 @@
     },
     "IDS_PJSC014": {
         "en": "Kitakami",
+        "group": "disabled",
         "id": 4280202960,
         "index": "PJSC014",
         "level": 10,
@@ -6085,6 +6553,7 @@
     },
     "IDS_PJSC015": {
         "en": "Tenryū",
+        "group": "upgradeable",
         "id": 4279154384,
         "index": "PJSC015",
         "level": 3,
@@ -6098,6 +6567,7 @@
     },
     "IDS_PJSC018": {
         "en": "Tone",
+        "group": "special",
         "id": 4276008656,
         "index": "PJSC018",
         "level": 8,
@@ -6111,6 +6581,7 @@
     },
     "IDS_PJSC026": {
         "en": "Iwaki A",
+        "group": "special",
         "id": 4267620048,
         "index": "PJSC026",
         "level": 4,
@@ -6124,6 +6595,7 @@
     },
     "IDS_PJSC034": {
         "en": "Zaō",
+        "group": "upgradeable",
         "id": 4259231440,
         "index": "PJSC034",
         "level": 10,
@@ -6137,6 +6609,7 @@
     },
     "IDS_PJSC035": {
         "en": "Chikuma",
+        "group": "upgradeable",
         "id": 4258182864,
         "index": "PJSC035",
         "level": 2,
@@ -6150,6 +6623,7 @@
     },
     "IDS_PJSC037": {
         "en": "Hashidate",
+        "group": "start",
         "id": 4256085712,
         "index": "PJSC037",
         "level": 1,
@@ -6163,6 +6637,7 @@
     },
     "IDS_PJSC038": {
         "en": "Atago",
+        "group": "special",
         "id": 4255037136,
         "index": "PJSC038",
         "level": 8,
@@ -6176,6 +6651,7 @@
     },
     "IDS_PJSC205": {
         "en": "Agano",
+        "group": "demoWithoutStats",
         "id": 4079924944,
         "index": "PJSC205",
         "level": 5,
@@ -6189,6 +6665,7 @@
     },
     "IDS_PJSC206": {
         "en": "Gokase",
+        "group": "demoWithoutStats",
         "id": 4078876368,
         "index": "PJSC206",
         "level": 6,
@@ -6202,6 +6679,7 @@
     },
     "IDS_PJSC207": {
         "en": "Omono",
+        "group": "demoWithoutStats",
         "id": 4077827792,
         "index": "PJSC207",
         "level": 7,
@@ -6215,6 +6693,7 @@
     },
     "IDS_PJSC208": {
         "en": "Shimanto",
+        "group": "demoWithoutStats",
         "id": 4076779216,
         "index": "PJSC208",
         "level": 8,
@@ -6228,6 +6707,7 @@
     },
     "IDS_PJSC209": {
         "en": "Takahashi",
+        "group": "demoWithoutStats",
         "id": 4075730640,
         "index": "PJSC209",
         "level": 9,
@@ -6241,6 +6721,7 @@
     },
     "IDS_PJSC210": {
         "en": "Yodo",
+        "group": "demoWithoutStats",
         "id": 4074682064,
         "index": "PJSC210",
         "level": 10,
@@ -6254,6 +6735,7 @@
     },
     "IDS_PJSC503": {
         "en": "Katori",
+        "group": "special",
         "id": 3767449296,
         "index": "PJSC503",
         "level": 3,
@@ -6267,6 +6749,7 @@
     },
     "IDS_PJSC505": {
         "en": "Yahagi",
+        "group": "special",
         "id": 3765352144,
         "index": "PJSC505",
         "level": 5,
@@ -6280,6 +6763,7 @@
     },
     "IDS_PJSC507": {
         "en": "Tokachi",
+        "group": "demoWithoutStats",
         "id": 3763254992,
         "index": "PJSC507",
         "level": 7,
@@ -6293,6 +6777,7 @@
     },
     "IDS_PJSC510": {
         "en": "Azuma",
+        "group": "upgradeableExclusive",
         "id": 3760109264,
         "index": "PJSC510",
         "level": 9,
@@ -6306,6 +6791,7 @@
     },
     "IDS_PJSC517": {
         "en": "Maya",
+        "group": "special",
         "id": 3752769232,
         "index": "PJSC517",
         "level": 7,
@@ -6319,6 +6805,7 @@
     },
     "IDS_PJSC519": {
         "en": "AL Azuma",
+        "group": "special",
         "id": 3750672080,
         "index": "PJSC519",
         "level": 9,
@@ -6332,6 +6819,7 @@
     },
     "IDS_PJSC520": {
         "en": "Yoshino",
+        "group": "ultimate",
         "id": 3749623504,
         "index": "PJSC520",
         "level": 10,
@@ -6345,6 +6833,7 @@
     },
     "IDS_PJSC590": {
         "en": "Yoshino B",
+        "group": "ultimate",
         "id": 3676223184,
         "index": "PJSC590",
         "level": 10,
@@ -6358,6 +6847,7 @@
     },
     "IDS_PJSC598": {
         "en": "Atago B",
+        "group": "special",
         "id": 3667834576,
         "index": "PJSC598",
         "level": 8,
@@ -6371,6 +6861,7 @@
     },
     "IDS_PJSC610": {
         "en": "Kitakami",
+        "group": "demoWithoutStats",
         "id": 3655251664,
         "index": "PJSC610",
         "level": 10,
@@ -6384,6 +6875,7 @@
     },
     "IDS_PJSC705": {
         "en": "ARP Myōkō",
+        "group": "special",
         "id": 3555636944,
         "index": "PJSC705",
         "level": 7,
@@ -6397,6 +6889,7 @@
     },
     "IDS_PJSC707": {
         "en": "ARP Ashigara",
+        "group": "special",
         "id": 3553539792,
         "index": "PJSC707",
         "level": 7,
@@ -6410,6 +6903,7 @@
     },
     "IDS_PJSC708": {
         "en": "ARP Takao",
+        "group": "special",
         "id": 3552491216,
         "index": "PJSC708",
         "level": 8,
@@ -6423,6 +6917,7 @@
     },
     "IDS_PJSC709": {
         "en": "ARP Haguro",
+        "group": "special",
         "id": 3551442640,
         "index": "PJSC709",
         "level": 7,
@@ -6436,6 +6931,7 @@
     },
     "IDS_PJSC717": {
         "en": "S. Dragon",
+        "group": "special",
         "id": 3543054032,
         "index": "PJSC717",
         "level": 7,
@@ -6449,6 +6945,7 @@
     },
     "IDS_PJSC718": {
         "en": "ARP Maya",
+        "group": "special",
         "id": 3542005456,
         "index": "PJSC718",
         "level": 8,
@@ -6462,6 +6959,7 @@
     },
     "IDS_PJSC727": {
         "en": "E. Dragon",
+        "group": "special",
         "id": 3532568272,
         "index": "PJSC727",
         "level": 7,
@@ -6475,6 +6973,7 @@
     },
     "IDS_PJSC737": {
         "en": "ARP Nachi",
+        "group": "special",
         "id": 3522082512,
         "index": "PJSC737",
         "level": 7,
@@ -6488,6 +6987,7 @@
     },
     "IDS_PJSC810": {
         "en": "Zaō P",
+        "group": "disabled",
         "id": 3445536464,
         "index": "PJSC810",
         "level": 10,
@@ -6501,6 +7001,7 @@
     },
     "IDS_PJSC918": {
         "en": "Tone 2",
+        "group": "preserved",
         "id": 3332290256,
         "index": "PJSC918",
         "level": 8,
@@ -6514,6 +7015,7 @@
     },
     "IDS_PJSC919": {
         "en": "Tone 3",
+        "group": "preserved",
         "id": 3331241680,
         "index": "PJSC919",
         "level": 8,
@@ -6527,6 +7029,7 @@
     },
     "IDS_PJSC934": {
         "en": "[Zaō]",
+        "group": "clan",
         "id": 3315513040,
         "index": "PJSC934",
         "level": 10,
@@ -6540,6 +7043,7 @@
     },
     "IDS_PJSD001": {
         "en": "Tachibana",
+        "group": "special",
         "id": 4293801680,
         "index": "PJSD001",
         "level": 2,
@@ -6553,6 +7057,7 @@
     },
     "IDS_PJSD002": {
         "en": "Umikaze",
+        "group": "upgradeable",
         "id": 4292753104,
         "index": "PJSD002",
         "level": 2,
@@ -6566,6 +7071,7 @@
     },
     "IDS_PJSD003": {
         "en": "Isokaze",
+        "group": "upgradeable",
         "id": 4291704528,
         "index": "PJSD003",
         "level": 4,
@@ -6579,6 +7085,7 @@
     },
     "IDS_PJSD004": {
         "en": "Minekaze",
+        "group": "upgradeable",
         "id": 4290655952,
         "index": "PJSD004",
         "level": 5,
@@ -6592,6 +7099,7 @@
     },
     "IDS_PJSD005": {
         "en": "Mutsuki (old)",
+        "group": "preserved",
         "id": 4289607376,
         "index": "PJSD005",
         "level": 6,
@@ -6605,6 +7113,7 @@
     },
     "IDS_PJSD006": {
         "en": "Hatsuharu (old)",
+        "group": "preserved",
         "id": 4288558800,
         "index": "PJSD006",
         "level": 7,
@@ -6618,6 +7127,7 @@
     },
     "IDS_PJSD007": {
         "en": "Fubuki (old)",
+        "group": "preserved",
         "id": 4287510224,
         "index": "PJSD007",
         "level": 8,
@@ -6631,6 +7141,7 @@
     },
     "IDS_PJSD010": {
         "en": "Kagerō (old)",
+        "group": "preserved",
         "id": 4284364496,
         "index": "PJSD010",
         "level": 9,
@@ -6644,6 +7155,7 @@
     },
     "IDS_PJSD012": {
         "en": "Shimakaze",
+        "group": "upgradeable",
         "id": 4282267344,
         "index": "PJSD012",
         "level": 10,
@@ -6657,6 +7169,7 @@
     },
     "IDS_PJSD014": {
         "en": "Tachibana L",
+        "group": "special",
         "id": 4280170192,
         "index": "PJSD014",
         "level": 2,
@@ -6670,6 +7183,7 @@
     },
     "IDS_PJSD017": {
         "en": "Fūjin",
+        "group": "special",
         "id": 4277024464,
         "index": "PJSD017",
         "level": 5,
@@ -6683,6 +7197,7 @@
     },
     "IDS_PJSD024": {
         "en": "Wakatake",
+        "group": "upgradeable",
         "id": 4269684432,
         "index": "PJSD024",
         "level": 3,
@@ -6696,6 +7211,7 @@
     },
     "IDS_PJSD025": {
         "en": "Kamikaze",
+        "group": "special",
         "id": 4268635856,
         "index": "PJSD025",
         "level": 5,
@@ -6709,6 +7225,7 @@
     },
     "IDS_PJSD026": {
         "en": "Kamikaze R",
+        "group": "special",
         "id": 4267587280,
         "index": "PJSD026",
         "level": 5,
@@ -6722,6 +7239,7 @@
     },
     "IDS_PJSD105": {
         "en": "Mutsuki",
+        "group": "upgradeable",
         "id": 4184749776,
         "index": "PJSD105",
         "level": 5,
@@ -6735,6 +7253,7 @@
     },
     "IDS_PJSD106": {
         "en": "Fubuki",
+        "group": "upgradeable",
         "id": 4183701200,
         "index": "PJSD106",
         "level": 6,
@@ -6748,6 +7267,7 @@
     },
     "IDS_PJSD107": {
         "en": "Akatsuki",
+        "group": "upgradeable",
         "id": 4182652624,
         "index": "PJSD107",
         "level": 7,
@@ -6761,6 +7281,7 @@
     },
     "IDS_PJSD108": {
         "en": "Akizuki",
+        "group": "upgradeable",
         "id": 4181604048,
         "index": "PJSD108",
         "level": 8,
@@ -6774,6 +7295,7 @@
     },
     "IDS_PJSD111": {
         "en": "Yamagiri",
+        "group": "superShip",
         "id": 4178458320,
         "index": "PJSD111",
         "level": 11,
@@ -6787,6 +7309,7 @@
     },
     "IDS_PJSD206": {
         "en": "Hatsuharu",
+        "group": "upgradeable",
         "id": 4078843600,
         "index": "PJSD206",
         "level": 6,
@@ -6800,6 +7323,7 @@
     },
     "IDS_PJSD207": {
         "en": "Shiratsuyu",
+        "group": "upgradeable",
         "id": 4077795024,
         "index": "PJSD207",
         "level": 7,
@@ -6813,6 +7337,7 @@
     },
     "IDS_PJSD208": {
         "en": "Kagerō",
+        "group": "upgradeable",
         "id": 4076746448,
         "index": "PJSD208",
         "level": 8,
@@ -6826,6 +7351,7 @@
     },
     "IDS_PJSD209": {
         "en": "Yūgumo",
+        "group": "upgradeable",
         "id": 4075697872,
         "index": "PJSD209",
         "level": 9,
@@ -6839,6 +7365,7 @@
     },
     "IDS_PJSD210": {
         "en": "Harugumo",
+        "group": "upgradeable",
         "id": 4074649296,
         "index": "PJSD210",
         "level": 10,
@@ -6852,6 +7379,7 @@
     },
     "IDS_PJSD219": {
         "en": "Kitakaze",
+        "group": "upgradeable",
         "id": 4065212112,
         "index": "PJSD219",
         "level": 9,
@@ -6865,6 +7393,7 @@
     },
     "IDS_PJSD507": {
         "en": "Yūdachi",
+        "group": "special",
         "id": 3763222224,
         "index": "PJSD507",
         "level": 7,
@@ -6878,6 +7407,7 @@
     },
     "IDS_PJSD510": {
         "en": "Hayate",
+        "group": "upgradeableUltimate",
         "id": 3760076496,
         "index": "PJSD510",
         "level": 10,
@@ -6891,6 +7421,7 @@
     },
     "IDS_PJSD518": {
         "en": "Asashio",
+        "group": "special",
         "id": 3751687888,
         "index": "PJSD518",
         "level": 8,
@@ -6904,6 +7435,7 @@
     },
     "IDS_PJSD528": {
         "en": "HSF Harekaze II",
+        "group": "special",
         "id": 3741202128,
         "index": "PJSD528",
         "level": 8,
@@ -6917,6 +7449,7 @@
     },
     "IDS_PJSD598": {
         "en": "Asashio B",
+        "group": "special",
         "id": 3667801808,
         "index": "PJSD598",
         "level": 8,
@@ -6930,6 +7463,7 @@
     },
     "IDS_PJSD706": {
         "en": "Shinonome",
+        "group": "special",
         "id": 3554555600,
         "index": "PJSD706",
         "level": 6,
@@ -6943,6 +7477,7 @@
     },
     "IDS_PJSD708": {
         "en": "HSF Harekaze",
+        "group": "special",
         "id": 3552458448,
         "index": "PJSD708",
         "level": 8,
@@ -6956,6 +7491,7 @@
     },
     "IDS_PJSD718": {
         "en": "AL Yukikaze",
+        "group": "special",
         "id": 3541972688,
         "index": "PJSD718",
         "level": 8,
@@ -6969,6 +7505,7 @@
     },
     "IDS_PJSD912": {
         "en": "[Shimakaze]",
+        "group": "clan",
         "id": 3338548944,
         "index": "PJSD912",
         "level": 10,
@@ -6982,6 +7519,7 @@
     },
     "IDS_PJSS508": {
         "en": "I-58",
+        "group": "disabled",
         "id": 3761682128,
         "index": "PJSS508",
         "level": 8,
@@ -6995,6 +7533,7 @@
     },
     "IDS_PJSS518": {
         "en": "I-56",
+        "group": "demoWithoutStats",
         "id": 3751196368,
         "index": "PJSS518",
         "level": 8,
@@ -7008,6 +7547,7 @@
     },
     "IDS_PJSX701": {
         "en": "ARP I-401",
+        "group": "disabled",
         "id": 3559143120,
         "index": "PJSX701",
         "level": 11,
@@ -7021,6 +7561,7 @@
     },
     "IDS_PJSX702": {
         "en": "ARP I-401",
+        "group": "disabled",
         "id": 3558094544,
         "index": "PJSX702",
         "level": 11,
@@ -7034,6 +7575,7 @@
     },
     "IDS_PRSA104": {
         "en": "Komsomolets",
+        "group": "upgradeable",
         "id": 4185896400,
         "index": "PRSA104",
         "level": 4,
@@ -7047,6 +7589,7 @@
     },
     "IDS_PRSA106": {
         "en": "Serov",
+        "group": "upgradeable",
         "id": 4183799248,
         "index": "PRSA106",
         "level": 6,
@@ -7060,6 +7603,7 @@
     },
     "IDS_PRSA108": {
         "en": "Pobeda",
+        "group": "upgradeable",
         "id": 4181702096,
         "index": "PRSA108",
         "level": 8,
@@ -7073,6 +7617,7 @@
     },
     "IDS_PRSA110": {
         "en": "Nakhimov",
+        "group": "upgradeable",
         "id": 4179604944,
         "index": "PRSA110",
         "level": 10,
@@ -7086,6 +7631,7 @@
     },
     "IDS_PRSA508": {
         "en": "Chkalov",
+        "group": "special",
         "id": 3762271696,
         "index": "PRSA508",
         "level": 8,
@@ -7099,6 +7645,7 @@
     },
     "IDS_PRSB001": {
         "en": "Nikolai I",
+        "group": "special",
         "id": 4293866960,
         "index": "PRSB001",
         "level": 4,
@@ -7112,6 +7659,7 @@
     },
     "IDS_PRSB103": {
         "en": "Knyaz Suvorov",
+        "group": "upgradeable",
         "id": 4186912208,
         "index": "PRSB103",
         "level": 3,
@@ -7125,6 +7673,7 @@
     },
     "IDS_PRSB104": {
         "en": "Gangut",
+        "group": "upgradeable",
         "id": 4185863632,
         "index": "PRSB104",
         "level": 4,
@@ -7138,6 +7687,7 @@
     },
     "IDS_PRSB105": {
         "en": "Pyotr Velikiy",
+        "group": "upgradeable",
         "id": 4184815056,
         "index": "PRSB105",
         "level": 5,
@@ -7151,6 +7701,7 @@
     },
     "IDS_PRSB106": {
         "en": "Izmail",
+        "group": "upgradeable",
         "id": 4183766480,
         "index": "PRSB106",
         "level": 6,
@@ -7164,6 +7715,7 @@
     },
     "IDS_PRSB107": {
         "en": "Sinop",
+        "group": "upgradeable",
         "id": 4182717904,
         "index": "PRSB107",
         "level": 7,
@@ -7177,6 +7729,7 @@
     },
     "IDS_PRSB108": {
         "en": "Vladivostok",
+        "group": "upgradeable",
         "id": 4181669328,
         "index": "PRSB108",
         "level": 8,
@@ -7190,6 +7743,7 @@
     },
     "IDS_PRSB109": {
         "en": "Sov. Soyuz",
+        "group": "upgradeable",
         "id": 4180620752,
         "index": "PRSB109",
         "level": 9,
@@ -7203,6 +7757,7 @@
     },
     "IDS_PRSB110": {
         "en": "Kremlin",
+        "group": "upgradeable",
         "id": 4179572176,
         "index": "PRSB110",
         "level": 10,
@@ -7216,6 +7771,7 @@
     },
     "IDS_PRSB111": {
         "en": "Admiral Ushakov",
+        "group": "demoWithoutStats",
         "id": 4178523600,
         "index": "PRSB111",
         "level": 11,
@@ -7229,6 +7785,7 @@
     },
     "IDS_PRSB505": {
         "en": "Okt. Revolutsiya",
+        "group": "special",
         "id": 3765384656,
         "index": "PRSB505",
         "level": 5,
@@ -7242,6 +7799,7 @@
     },
     "IDS_PRSB508": {
         "en": "Poltava",
+        "group": "special",
         "id": 3762238928,
         "index": "PRSB508",
         "level": 7,
@@ -7255,6 +7813,7 @@
     },
     "IDS_PRSB510": {
         "en": "Slava",
+        "group": "ultimate",
         "id": 3760141776,
         "index": "PRSB510",
         "level": 10,
@@ -7268,6 +7827,7 @@
     },
     "IDS_PRSB516": {
         "en": "Novorossiysk",
+        "group": "special",
         "id": 3753850320,
         "index": "PRSB516",
         "level": 6,
@@ -7281,6 +7841,7 @@
     },
     "IDS_PRSB518": {
         "en": "Lenin",
+        "group": "special",
         "id": 3751753168,
         "index": "PRSB518",
         "level": 8,
@@ -7294,6 +7855,7 @@
     },
     "IDS_PRSB528": {
         "en": "Borodino",
+        "group": "special",
         "id": 3741267408,
         "index": "PRSB528",
         "level": 8,
@@ -7307,6 +7869,7 @@
     },
     "IDS_PRSB538": {
         "en": "V. I. Lenin",
+        "group": "preserved",
         "id": 3730781648,
         "index": "PRSB538",
         "level": 8,
@@ -7320,6 +7883,7 @@
     },
     "IDS_PRSB709": {
         "en": "AL Sov. Rossiya",
+        "group": "special",
         "id": 3551475152,
         "index": "PRSB709",
         "level": 9,
@@ -7333,6 +7897,7 @@
     },
     "IDS_PRSC001": {
         "en": "Aurora",
+        "group": "special",
         "id": 4293834192,
         "index": "PRSC001",
         "level": 3,
@@ -7346,6 +7911,7 @@
     },
     "IDS_PRSC002": {
         "en": "Diana",
+        "group": "special",
         "id": 4292785616,
         "index": "PRSC002",
         "level": 2,
@@ -7359,6 +7925,7 @@
     },
     "IDS_PRSC003": {
         "en": "Murmansk",
+        "group": "special",
         "id": 4291737040,
         "index": "PRSC003",
         "level": 5,
@@ -7372,6 +7939,7 @@
     },
     "IDS_PRSC010": {
         "en": "Diana L",
+        "group": "special",
         "id": 4284397008,
         "index": "PRSC010",
         "level": 2,
@@ -7385,6 +7953,7 @@
     },
     "IDS_PRSC101": {
         "en": "Orlan",
+        "group": "start",
         "id": 4188976592,
         "index": "PRSC101",
         "level": 1,
@@ -7398,6 +7967,7 @@
     },
     "IDS_PRSC102": {
         "en": "Novik",
+        "group": "upgradeable",
         "id": 4187928016,
         "index": "PRSC102",
         "level": 2,
@@ -7411,6 +7981,7 @@
     },
     "IDS_PRSC103": {
         "en": "Bogatyr",
+        "group": "upgradeable",
         "id": 4186879440,
         "index": "PRSC103",
         "level": 3,
@@ -7424,6 +7995,7 @@
     },
     "IDS_PRSC104": {
         "en": "Svietlana",
+        "group": "upgradeable",
         "id": 4185830864,
         "index": "PRSC104",
         "level": 4,
@@ -7437,6 +8009,7 @@
     },
     "IDS_PRSC105": {
         "en": "Kirov (OLD)",
+        "group": "preserved",
         "id": 4184782288,
         "index": "PRSC105",
         "level": 5,
@@ -7450,6 +8023,7 @@
     },
     "IDS_PRSC106": {
         "en": "Budyonny",
+        "group": "upgradeable",
         "id": 4183733712,
         "index": "PRSC106",
         "level": 6,
@@ -7463,6 +8037,7 @@
     },
     "IDS_PRSC107": {
         "en": "Shchors",
+        "group": "upgradeable",
         "id": 4182685136,
         "index": "PRSC107",
         "level": 7,
@@ -7476,6 +8051,7 @@
     },
     "IDS_PRSC108": {
         "en": "Chapayev",
+        "group": "upgradeable",
         "id": 4181636560,
         "index": "PRSC108",
         "level": 8,
@@ -7489,6 +8065,7 @@
     },
     "IDS_PRSC109": {
         "en": "Dm. Donskoi",
+        "group": "upgradeable",
         "id": 4180587984,
         "index": "PRSC109",
         "level": 9,
@@ -7502,6 +8079,7 @@
     },
     "IDS_PRSC110": {
         "en": "Moskva",
+        "group": "ultimate",
         "id": 4179539408,
         "index": "PRSC110",
         "level": 10,
@@ -7515,6 +8093,7 @@
     },
     "IDS_PRSC208": {
         "en": "Tallinn",
+        "group": "upgradeable",
         "id": 4076778960,
         "index": "PRSC208",
         "level": 8,
@@ -7528,6 +8107,7 @@
     },
     "IDS_PRSC209": {
         "en": "Riga",
+        "group": "upgradeable",
         "id": 4075730384,
         "index": "PRSC209",
         "level": 9,
@@ -7541,6 +8121,7 @@
     },
     "IDS_PRSC210": {
         "en": "A. Nevsky",
+        "group": "upgradeable",
         "id": 4074681808,
         "index": "PRSC210",
         "level": 10,
@@ -7554,6 +8135,7 @@
     },
     "IDS_PRSC215": {
         "en": "Kotovsky",
+        "group": "upgradeable",
         "id": 4069438928,
         "index": "PRSC215",
         "level": 5,
@@ -7567,6 +8149,7 @@
     },
     "IDS_PRSC310": {
         "en": "Petropavlovsk",
+        "group": "upgradeable",
         "id": 3969824208,
         "index": "PRSC310",
         "level": 10,
@@ -7580,6 +8163,7 @@
     },
     "IDS_PRSC503": {
         "en": "Oleg",
+        "group": "special",
         "id": 3767449040,
         "index": "PRSC503",
         "level": 3,
@@ -7593,6 +8177,7 @@
     },
     "IDS_PRSC505": {
         "en": "Krasny Krym",
+        "group": "special",
         "id": 3765351888,
         "index": "PRSC505",
         "level": 5,
@@ -7606,6 +8191,7 @@
     },
     "IDS_PRSC506": {
         "en": "Molotov",
+        "group": "special",
         "id": 3764303312,
         "index": "PRSC506",
         "level": 6,
@@ -7619,6 +8205,7 @@
     },
     "IDS_PRSC508": {
         "en": "Kutuzov",
+        "group": "special",
         "id": 3762206160,
         "index": "PRSC508",
         "level": 8,
@@ -7632,6 +8219,7 @@
     },
     "IDS_PRSC509": {
         "en": "Kronshtadt",
+        "group": "specialUnsellable",
         "id": 3761157584,
         "index": "PRSC509",
         "level": 9,
@@ -7645,6 +8233,7 @@
     },
     "IDS_PRSC510": {
         "en": "Stalingrad",
+        "group": "ultimate",
         "id": 3760109008,
         "index": "PRSC510",
         "level": 10,
@@ -7658,6 +8247,7 @@
     },
     "IDS_PRSC513": {
         "en": "Varyag",
+        "group": "special",
         "id": 3756963280,
         "index": "PRSC513",
         "level": 3,
@@ -7671,6 +8261,7 @@
     },
     "IDS_PRSC515": {
         "en": "Mikoyan",
+        "group": "special",
         "id": 3754866128,
         "index": "PRSC515",
         "level": 5,
@@ -7684,6 +8275,7 @@
     },
     "IDS_PRSC518": {
         "en": "Lazo",
+        "group": "special",
         "id": 3751720400,
         "index": "PRSC518",
         "level": 7,
@@ -7697,6 +8289,7 @@
     },
     "IDS_PRSC520": {
         "en": "STALINGRAD #2",
+        "group": "disabled",
         "id": 3749623248,
         "index": "PRSC520",
         "level": 10,
@@ -7710,6 +8303,7 @@
     },
     "IDS_PRSC523": {
         "en": "AL Avrora",
+        "group": "special",
         "id": 3746477520,
         "index": "PRSC523",
         "level": 3,
@@ -7723,6 +8317,7 @@
     },
     "IDS_PRSC525": {
         "en": "Kirov",
+        "group": "special",
         "id": 3744380368,
         "index": "PRSC525",
         "level": 5,
@@ -7736,6 +8331,7 @@
     },
     "IDS_PRSC528": {
         "en": "Ochakov",
+        "group": "special",
         "id": 3741234640,
         "index": "PRSC528",
         "level": 8,
@@ -7749,6 +8345,7 @@
     },
     "IDS_PRSC538": {
         "en": "P. Bagration",
+        "group": "special",
         "id": 3730748880,
         "index": "PRSC538",
         "level": 8,
@@ -7762,6 +8359,7 @@
     },
     "IDS_PRSC548": {
         "en": "Bagration",
+        "group": "demoWithoutStats",
         "id": 3720263120,
         "index": "PRSC548",
         "level": 8,
@@ -7775,6 +8373,7 @@
     },
     "IDS_PRSC606": {
         "en": "Makarov",
+        "group": "special",
         "id": 3659445712,
         "index": "PRSC606",
         "level": 6,
@@ -7788,6 +8387,7 @@
     },
     "IDS_PRSC610": {
         "en": "Smolensk",
+        "group": "ultimate",
         "id": 3655251408,
         "index": "PRSC610",
         "level": 10,
@@ -7801,6 +8401,7 @@
     },
     "IDS_PRSC710": {
         "en": "Sevastopol",
+        "group": "ultimate",
         "id": 3550393808,
         "index": "PRSC710",
         "level": 10,
@@ -7814,6 +8415,7 @@
     },
     "IDS_PRSC910": {
         "en": "[Moskva]",
+        "group": "clan",
         "id": 3340678608,
         "index": "PRSC910",
         "level": 10,
@@ -7827,6 +8429,7 @@
     },
     "IDS_PRSC999": {
         "en": "Test Ship",
+        "group": "disabled",
         "id": 3247355344,
         "index": "PRSC999",
         "level": 10,
@@ -7840,6 +8443,7 @@
     },
     "IDS_PRSD001": {
         "en": "Gremyashchy",
+        "group": "special",
         "id": 4293801424,
         "index": "PRSD001",
         "level": 5,
@@ -7853,6 +8457,7 @@
     },
     "IDS_PRSD102": {
         "en": "Storozhevoi",
+        "group": "upgradeable",
         "id": 4187895248,
         "index": "PRSD102",
         "level": 2,
@@ -7866,6 +8471,7 @@
     },
     "IDS_PRSD103": {
         "en": "Derzki",
+        "group": "upgradeable",
         "id": 4186846672,
         "index": "PRSD103",
         "level": 3,
@@ -7879,6 +8485,7 @@
     },
     "IDS_PRSD104": {
         "en": "Izyaslav",
+        "group": "upgradeable",
         "id": 4185798096,
         "index": "PRSD104",
         "level": 4,
@@ -7892,6 +8499,7 @@
     },
     "IDS_PRSD105": {
         "en": "Gnevny (OLD)",
+        "group": "preserved",
         "id": 4184749520,
         "index": "PRSD105",
         "level": 5,
@@ -7905,6 +8513,7 @@
     },
     "IDS_PRSD106": {
         "en": "Ognevoi (OLD)",
+        "group": "preserved",
         "id": 4183700944,
         "index": "PRSD106",
         "level": 6,
@@ -7918,6 +8527,7 @@
     },
     "IDS_PRSD107": {
         "en": "Udaloi",
+        "group": "upgradeable",
         "id": 4182652368,
         "index": "PRSD107",
         "level": 9,
@@ -7931,6 +8541,7 @@
     },
     "IDS_PRSD108": {
         "en": "Tashkent (OLD)",
+        "group": "preserved",
         "id": 4181603792,
         "index": "PRSD108",
         "level": 8,
@@ -7944,6 +8555,7 @@
     },
     "IDS_PRSD109": {
         "en": "Kiev (OLD)",
+        "group": "preserved",
         "id": 4180555216,
         "index": "PRSD109",
         "level": 7,
@@ -7957,6 +8569,7 @@
     },
     "IDS_PRSD110": {
         "en": "Khabarovsk",
+        "group": "ultimate",
         "id": 4179506640,
         "index": "PRSD110",
         "level": 10,
@@ -7970,6 +8583,7 @@
     },
     "IDS_PRSD111": {
         "en": "Zorkiy",
+        "group": "superShip",
         "id": 4178458064,
         "index": "PRSD111",
         "level": 11,
@@ -7983,6 +8597,7 @@
     },
     "IDS_PRSD205": {
         "en": "Podvoisky",
+        "group": "upgradeable",
         "id": 4079891920,
         "index": "PRSD205",
         "level": 5,
@@ -7996,6 +8611,7 @@
     },
     "IDS_PRSD206": {
         "en": "Gnevny",
+        "group": "upgradeable",
         "id": 4078843344,
         "index": "PRSD206",
         "level": 6,
@@ -8009,6 +8625,7 @@
     },
     "IDS_PRSD207": {
         "en": "Minsk",
+        "group": "upgradeable",
         "id": 4077794768,
         "index": "PRSD207",
         "level": 7,
@@ -8022,6 +8639,7 @@
     },
     "IDS_PRSD208": {
         "en": "Ognevoi",
+        "group": "upgradeable",
         "id": 4076746192,
         "index": "PRSD208",
         "level": 8,
@@ -8035,6 +8653,7 @@
     },
     "IDS_PRSD210": {
         "en": "Grozovoi",
+        "group": "upgradeable",
         "id": 4074649040,
         "index": "PRSD210",
         "level": 10,
@@ -8048,6 +8667,7 @@
     },
     "IDS_PRSD308": {
         "en": "Kiev",
+        "group": "upgradeable",
         "id": 3971888592,
         "index": "PRSD308",
         "level": 8,
@@ -8061,6 +8681,7 @@
     },
     "IDS_PRSD409": {
         "en": "Tashkent",
+        "group": "upgradeable",
         "id": 3865982416,
         "index": "PRSD409",
         "level": 9,
@@ -8074,6 +8695,7 @@
     },
     "IDS_PRSD410": {
         "en": "Delny",
+        "group": "upgradeable",
         "id": 3864933840,
         "index": "PRSD410",
         "level": 10,
@@ -8087,6 +8709,7 @@
     },
     "IDS_PRSD505": {
         "en": "Okhotnik",
+        "group": "special",
         "id": 3765319120,
         "index": "PRSD505",
         "level": 5,
@@ -8100,6 +8723,7 @@
     },
     "IDS_PRSD507": {
         "en": "Leningrad",
+        "group": "special",
         "id": 3763221968,
         "index": "PRSD507",
         "level": 7,
@@ -8113,6 +8737,7 @@
     },
     "IDS_PRSD709": {
         "en": "Neustrashimy",
+        "group": "specialUnsellable",
         "id": 3551409616,
         "index": "PRSD709",
         "level": 9,
@@ -8126,6 +8751,7 @@
     },
     "IDS_PRSD810": {
         "en": "DD R-10",
+        "group": "disabled",
         "id": 3445503440,
         "index": "PRSD810",
         "level": 10,
@@ -8139,6 +8765,7 @@
     },
     "IDS_PRSD910": {
         "en": "[Grozovoi]",
+        "group": "clan",
         "id": 3340645840,
         "index": "PRSD910",
         "level": 10,
@@ -8152,6 +8779,7 @@
     },
     "IDS_PRSS106": {
         "en": "S-1",
+        "group": "disabled",
         "id": 4183209424,
         "index": "PRSS106",
         "level": 6,
@@ -8165,6 +8793,7 @@
     },
     "IDS_PRSS108": {
         "en": "L-20",
+        "group": "disabled",
         "id": 4181112272,
         "index": "PRSS108",
         "level": 8,
@@ -8178,6 +8807,7 @@
     },
     "IDS_PRSS110": {
         "en": "K-1",
+        "group": "disabled",
         "id": 4179015120,
         "index": "PRSS110",
         "level": 10,
@@ -8191,6 +8821,7 @@
     },
     "IDS_PRSS508": {
         "en": "S-189",
+        "group": "demoWithoutStats",
         "id": 3761681872,
         "index": "PRSS508",
         "level": 8,
@@ -8204,6 +8835,7 @@
     },
     "IDS_PRSS999": {
         "en": "Test Sub 1",
+        "group": "disabled",
         "id": 3246831056,
         "index": "PRSS999",
         "level": 10,
@@ -8217,6 +8849,7 @@
     },
     "IDS_PSSC506": {
         "en": "Canarias",
+        "group": "special",
         "id": 3764303280,
         "index": "PSSC506",
         "level": 6,
@@ -8230,6 +8863,7 @@
     },
     "IDS_PSSD510": {
         "en": "Álvaro de Bazán",
+        "group": "ultimate",
         "id": 3760076208,
         "index": "PSSD510",
         "level": 10,
@@ -8243,6 +8877,7 @@
     },
     "IDS_PUSB507": {
         "en": "Yukon",
+        "group": "special",
         "id": 3763287408,
         "index": "PUSB507",
         "level": 7,
@@ -8256,6 +8891,7 @@
     },
     "IDS_PUSC506": {
         "en": "Perth",
+        "group": "special",
         "id": 3764303216,
         "index": "PUSC506",
         "level": 6,
@@ -8269,6 +8905,7 @@
     },
     "IDS_PUSC516": {
         "en": "Mysore",
+        "group": "special",
         "id": 3753817456,
         "index": "PUSC516",
         "level": 6,
@@ -8282,6 +8919,7 @@
     },
     "IDS_PUSD503": {
         "en": "Vampire",
+        "group": "special",
         "id": 3767416176,
         "index": "PUSD503",
         "level": 3,
@@ -8295,6 +8933,7 @@
     },
     "IDS_PUSD507": {
         "en": "Haida",
+        "group": "special",
         "id": 3763221872,
         "index": "PUSD507",
         "level": 7,
@@ -8308,6 +8947,7 @@
     },
     "IDS_PUSD510": {
         "en": "Vampire II",
+        "group": "ultimate",
         "id": 3760076144,
         "index": "PUSD510",
         "level": 10,
@@ -8321,6 +8961,7 @@
     },
     "IDS_PUSD517": {
         "en": "Huron",
+        "group": "special",
         "id": 3752736112,
         "index": "PUSD517",
         "level": 7,
@@ -8334,6 +8975,7 @@
     },
     "IDS_PVSB505": {
         "en": "Rio de Janeiro",
+        "group": "special",
         "id": 3765384528,
         "index": "PVSB505",
         "level": 5,
@@ -8347,6 +8989,7 @@
     },
     "IDS_PVSB508": {
         "en": "Atlântico",
+        "group": "special",
         "id": 3762238800,
         "index": "PVSB508",
         "level": 8,
@@ -8360,6 +9003,7 @@
     },
     "IDS_PVSC502": {
         "en": "Alte Abreu",
+        "group": "special",
         "id": 3768497488,
         "index": "PVSC502",
         "level": 2,
@@ -8373,6 +9017,7 @@
     },
     "IDS_PVSC507": {
         "en": "Nueve de Julio",
+        "group": "special",
         "id": 3763254608,
         "index": "PVSC507",
         "level": 7,
@@ -8386,6 +9031,7 @@
     },
     "IDS_PVSD506": {
         "en": "Juruá",
+        "group": "special",
         "id": 3764270416,
         "index": "PVSD506",
         "level": 6,
@@ -8399,6 +9045,7 @@
     },
     "IDS_PWSB504": {
         "en": "Viribus Unitis",
+        "group": "special",
         "id": 3766433072,
         "index": "PWSB504",
         "level": 5,
@@ -8412,6 +9059,7 @@
     },
     "IDS_PWSC101": {
         "en": "Gryf",
+        "group": "start",
         "id": 4188976432,
         "index": "PWSC101",
         "level": 1,
@@ -8425,6 +9073,7 @@
     },
     "IDS_PWSD102": {
         "en": "Tátra",
+        "group": "upgradeable",
         "id": 4187895088,
         "index": "PWSD102",
         "level": 2,
@@ -8438,6 +9087,7 @@
     },
     "IDS_PWSD103": {
         "en": "Romulus",
+        "group": "upgradeable",
         "id": 4186846512,
         "index": "PWSD103",
         "level": 3,
@@ -8451,6 +9101,7 @@
     },
     "IDS_PWSD104": {
         "en": "Klas Horn",
+        "group": "upgradeable",
         "id": 4185797936,
         "index": "PWSD104",
         "level": 4,
@@ -8464,6 +9115,7 @@
     },
     "IDS_PWSD105": {
         "en": "Visby",
+        "group": "upgradeable",
         "id": 4184749360,
         "index": "PWSD105",
         "level": 5,
@@ -8477,6 +9129,7 @@
     },
     "IDS_PWSD106": {
         "en": "Västerås",
+        "group": "upgradeable",
         "id": 4183700784,
         "index": "PWSD106",
         "level": 6,
@@ -8490,6 +9143,7 @@
     },
     "IDS_PWSD107": {
         "en": "Skåne",
+        "group": "upgradeable",
         "id": 4182652208,
         "index": "PWSD107",
         "level": 7,
@@ -8503,6 +9157,7 @@
     },
     "IDS_PWSD108": {
         "en": "Öland",
+        "group": "upgradeable",
         "id": 4181603632,
         "index": "PWSD108",
         "level": 8,
@@ -8516,6 +9171,7 @@
     },
     "IDS_PWSD109": {
         "en": "Östergötland",
+        "group": "upgradeable",
         "id": 4180555056,
         "index": "PWSD109",
         "level": 9,
@@ -8529,6 +9185,7 @@
     },
     "IDS_PWSD110": {
         "en": "Halland",
+        "group": "upgradeable",
         "id": 4179506480,
         "index": "PWSD110",
         "level": 10,
@@ -8542,6 +9199,7 @@
     },
     "IDS_PWSD111": {
         "en": "Dalarna",
+        "group": "earlyAccess",
         "id": 4178457904,
         "index": "PWSD111",
         "level": 11,
@@ -8555,6 +9213,7 @@
     },
     "IDS_PWSD501": {
         "en": "Błyskawica",
+        "group": "special",
         "id": 3769513264,
         "index": "PWSD501",
         "level": 7,
@@ -8568,6 +9227,7 @@
     },
     "IDS_PWSD508": {
         "en": "Orkan",
+        "group": "special",
         "id": 3762173232,
         "index": "PWSD508",
         "level": 8,
@@ -8581,6 +9241,7 @@
     },
     "IDS_PWSD509": {
         "en": "Velos",
+        "group": "demoWithoutStats",
         "id": 3761124656,
         "index": "PWSD509",
         "level": 9,
@@ -8594,6 +9255,7 @@
     },
     "IDS_PWSD510": {
         "en": "Friesland",
+        "group": "specialUnsellable",
         "id": 3760076080,
         "index": "PWSD510",
         "level": 9,
@@ -8607,6 +9269,7 @@
     },
     "IDS_PWSD610": {
         "en": "Småland",
+        "group": "ultimate",
         "id": 3655218480,
         "index": "PWSD610",
         "level": 10,
@@ -8620,6 +9283,7 @@
     },
     "IDS_PWSD710": {
         "en": "Ragnar",
+        "group": "ultimate",
         "id": 3550360880,
         "index": "PWSD710",
         "level": 10,
@@ -8633,6 +9297,7 @@
     },
     "IDS_PWSD910": {
         "en": "Lappland",
+        "group": "disabled",
         "id": 3340645680,
         "index": "PWSD910",
         "level": 10,
@@ -8646,6 +9311,7 @@
     },
     "IDS_PXSA001": {
         "en": "Luftwaffe",
+        "group": "disabled",
         "id": 4293899536,
         "index": "PXSA001",
         "level": 4,
@@ -8659,6 +9325,7 @@
     },
     "IDS_PXSA002": {
         "en": "Air Force",
+        "group": "disabled",
         "id": 4292850960,
         "index": "PXSA002",
         "level": 4,
@@ -8672,6 +9339,7 @@
     },
     "IDS_PXSA003": {
         "en": "Nobilium",
+        "group": "disabled",
         "id": 4291802384,
         "index": "PXSA003",
         "level": 8,
@@ -8685,6 +9353,7 @@
     },
     "IDS_PXSA004": {
         "en": "The Great Gorgon",
+        "group": "disabled",
         "id": 4290753808,
         "index": "PXSA004",
         "level": 8,
@@ -8698,6 +9367,7 @@
     },
     "IDS_PXSA005": {
         "en": "Hellcarrier",
+        "group": "disabled",
         "id": 4289705232,
         "index": "PXSA005",
         "level": 7,
@@ -8711,6 +9381,7 @@
     },
     "IDS_PXSA807": {
         "en": "Ranger",
+        "group": "unavailable",
         "id": 3448747280,
         "index": "PXSA807",
         "level": 6,
@@ -8724,6 +9395,7 @@
     },
     "IDS_PXSB001": {
         "en": "Jackal",
+        "group": "disabled",
         "id": 4293866768,
         "index": "PXSB001",
         "level": 3,
@@ -8737,6 +9409,7 @@
     },
     "IDS_PXSB002": {
         "en": "Rasputin",
+        "group": "disabled",
         "id": 4292818192,
         "index": "PXSB002",
         "level": 7,
@@ -8750,6 +9423,7 @@
     },
     "IDS_PXSB003": {
         "en": "Zikasa",
+        "group": "disabled",
         "id": 4291769616,
         "index": "PXSB003",
         "level": 2,
@@ -8763,6 +9437,7 @@
     },
     "IDS_PXSB004": {
         "en": "Magnu-S",
+        "group": "disabled",
         "id": 4290721040,
         "index": "PXSB004",
         "level": 8,
@@ -8776,6 +9451,7 @@
     },
     "IDS_PXSB005": {
         "en": "Varg",
+        "group": "disabled",
         "id": 4289672464,
         "index": "PXSB005",
         "level": 7,
@@ -8789,6 +9465,7 @@
     },
     "IDS_PXSB006": {
         "en": "Paris",
+        "group": "disabled",
         "id": 4288623888,
         "index": "PXSB006",
         "level": 7,
@@ -8802,6 +9479,7 @@
     },
     "IDS_PXSB007": {
         "en": "Alldestroyer",
+        "group": "disabled",
         "id": 4287575312,
         "index": "PXSB007",
         "level": 7,
@@ -8815,6 +9493,7 @@
     },
     "IDS_PXSB008": {
         "en": "Leviathan",
+        "group": "disabled",
         "id": 4286526736,
         "index": "PXSB008",
         "level": 7,
@@ -8828,6 +9507,7 @@
     },
     "IDS_PXSB009": {
         "en": "Scorpioid",
+        "group": "disabled",
         "id": 4285478160,
         "index": "PXSB009",
         "level": 10,
@@ -8841,6 +9521,7 @@
     },
     "IDS_PXSB010": {
         "en": "Maverick",
+        "group": "disabled",
         "id": 4284429584,
         "index": "PXSB010",
         "level": 9,
@@ -8854,6 +9535,7 @@
     },
     "IDS_PXSB011": {
         "en": "Crocosaur",
+        "group": "disabled",
         "id": 4283381008,
         "index": "PXSB011",
         "level": 10,
@@ -8867,6 +9549,7 @@
     },
     "IDS_PXSB015": {
         "en": "Lobster-Eyed",
+        "group": "disabled",
         "id": 4279186704,
         "index": "PXSB015",
         "level": 10,
@@ -8880,6 +9563,7 @@
     },
     "IDS_PXSB101": {
         "en": "Avenger",
+        "group": "disabled",
         "id": 4189009168,
         "index": "PXSB101",
         "level": 10,
@@ -8893,6 +9577,7 @@
     },
     "IDS_PXSB103": {
         "en": "Heracles ",
+        "group": "disabled",
         "id": 4186912016,
         "index": "PXSB103",
         "level": 9,
@@ -8906,6 +9591,7 @@
     },
     "IDS_PXSC001": {
         "en": "Igor",
+        "group": "disabled",
         "id": 4293834000,
         "index": "PXSC001",
         "level": 3,
@@ -8919,6 +9605,7 @@
     },
     "IDS_PXSC002": {
         "en": "Scarab",
+        "group": "disabled",
         "id": 4292785424,
         "index": "PXSC002",
         "level": 7,
@@ -8932,6 +9619,7 @@
     },
     "IDS_PXSC003": {
         "en": "Svyatozar",
+        "group": "disabled",
         "id": 4291736848,
         "index": "PXSC003",
         "level": 8,
@@ -8945,6 +9633,7 @@
     },
     "IDS_PXSC004": {
         "en": "Galaxy",
+        "group": "disabled",
         "id": 4290688272,
         "index": "PXSC004",
         "level": 7,
@@ -8958,6 +9647,7 @@
     },
     "IDS_PXSC005": {
         "en": "Zaya",
+        "group": "disabled",
         "id": 4289639696,
         "index": "PXSC005",
         "level": 7,
@@ -8971,6 +9661,7 @@
     },
     "IDS_PXSC006": {
         "en": "Norma",
+        "group": "disabled",
         "id": 4288591120,
         "index": "PXSC006",
         "level": 7,
@@ -8984,6 +9675,7 @@
     },
     "IDS_PXSC007": {
         "en": "Aurora",
+        "group": "disabled",
         "id": 4287542544,
         "index": "PXSC007",
         "level": 7,
@@ -8997,6 +9689,7 @@
     },
     "IDS_PXSC009": {
         "en": "Octopus",
+        "group": "unavailable",
         "id": 4285445392,
         "index": "PXSC009",
         "level": 7,
@@ -9010,6 +9703,7 @@
     },
     "IDS_PXSC010": {
         "en": "Century Hawk",
+        "group": "disabled",
         "id": 4284396816,
         "index": "PXSC010",
         "level": 7,
@@ -9023,6 +9717,7 @@
     },
     "IDS_PXSC011": {
         "en": "Octodroid",
+        "group": "disabled",
         "id": 4283348240,
         "index": "PXSC011",
         "level": 10,
@@ -9036,6 +9731,7 @@
     },
     "IDS_PXSC012": {
         "en": "Rust Nightfall",
+        "group": "disabled",
         "id": 4282299664,
         "index": "PXSC012",
         "level": 9,
@@ -9049,6 +9745,7 @@
     },
     "IDS_PXSC013": {
         "en": "Fossil",
+        "group": "disabled",
         "id": 4281251088,
         "index": "PXSC013",
         "level": 10,
@@ -9062,6 +9759,7 @@
     },
     "IDS_PXSC016": {
         "en": "Thornridge",
+        "group": "disabled",
         "id": 4278105360,
         "index": "PXSC016",
         "level": 10,
@@ -9075,6 +9773,7 @@
     },
     "IDS_PXSC101": {
         "en": "Valkyrie",
+        "group": "disabled",
         "id": 4188976400,
         "index": "PXSC101",
         "level": 9,
@@ -9088,6 +9787,7 @@
     },
     "IDS_PXSC102": {
         "en": "Gale",
+        "group": "disabled",
         "id": 4187927824,
         "index": "PXSC102",
         "level": 9,
@@ -9101,6 +9801,7 @@
     },
     "IDS_PXSC503": {
         "en": "Ship",
+        "group": "unavailable",
         "id": 3767448848,
         "index": "PXSC503",
         "level": 1,
@@ -9114,6 +9815,7 @@
     },
     "IDS_PXSD001": {
         "en": "Blade",
+        "group": "disabled",
         "id": 4293801232,
         "index": "PXSD001",
         "level": 3,
@@ -9127,6 +9829,7 @@
     },
     "IDS_PXSD002": {
         "en": "Ghoul",
+        "group": "disabled",
         "id": 4292752656,
         "index": "PXSD002",
         "level": 7,
@@ -9140,6 +9843,7 @@
     },
     "IDS_PXSD003": {
         "en": "Urashima",
+        "group": "disabled",
         "id": 4291704080,
         "index": "PXSD003",
         "level": 8,
@@ -9153,6 +9857,7 @@
     },
     "IDS_PXSD004": {
         "en": "FlyFire",
+        "group": "disabled",
         "id": 4290655504,
         "index": "PXSD004",
         "level": 7,
@@ -9166,6 +9871,7 @@
     },
     "IDS_PXSD005": {
         "en": "Blue Aster",
+        "group": "disabled",
         "id": 4289606928,
         "index": "PXSD005",
         "level": 7,
@@ -9179,6 +9885,7 @@
     },
     "IDS_PXSD007": {
         "en": "Schnellboot",
+        "group": "disabled",
         "id": 4287509776,
         "index": "PXSD007",
         "level": 1,
@@ -9192,6 +9899,7 @@
     },
     "IDS_PXSD008": {
         "en": "Steel Rat",
+        "group": "unavailable",
         "id": 4286461200,
         "index": "PXSD008",
         "level": 7,
@@ -9205,6 +9913,7 @@
     },
     "IDS_PXSD009": {
         "en": "Razorworm",
+        "group": "disabled",
         "id": 4285412624,
         "index": "PXSD009",
         "level": 7,
@@ -9218,6 +9927,7 @@
     },
     "IDS_PXSD010": {
         "en": "Celestial",
+        "group": "disabled",
         "id": 4284364048,
         "index": "PXSD010",
         "level": 7,
@@ -9231,6 +9941,7 @@
     },
     "IDS_PXSD011": {
         "en": "Comet Trace",
+        "group": "disabled",
         "id": 4283315472,
         "index": "PXSD011",
         "level": 7,
@@ -9244,6 +9955,7 @@
     },
     "IDS_PXSD012": {
         "en": "Rover",
+        "group": "disabled",
         "id": 4282266896,
         "index": "PXSD012",
         "level": 7,
@@ -9257,6 +9969,7 @@
     },
     "IDS_PXSD013": {
         "en": "Messer",
+        "group": "disabled",
         "id": 4281218320,
         "index": "PXSD013",
         "level": 8,
@@ -9270,6 +9983,7 @@
     },
     "IDS_PXSD014": {
         "en": "Carnal",
+        "group": "disabled",
         "id": 4280169744,
         "index": "PXSD014",
         "level": 8,
@@ -9283,6 +9997,7 @@
     },
     "IDS_PXSD015": {
         "en": "Atomic Rage",
+        "group": "disabled",
         "id": 4279121168,
         "index": "PXSD015",
         "level": 8,
@@ -9296,6 +10011,7 @@
     },
     "IDS_PXSD016": {
         "en": "Sea Devil",
+        "group": "disabled",
         "id": 4278072592,
         "index": "PXSD016",
         "level": 9,
@@ -9309,6 +10025,7 @@
     },
     "IDS_PXSD017": {
         "en": "Lancet",
+        "group": "disabled",
         "id": 4277024016,
         "index": "PXSD017",
         "level": 9,
@@ -9322,6 +10039,7 @@
     },
     "IDS_PXSD018": {
         "en": "Mizu-Jet",
+        "group": "disabled",
         "id": 4275975440,
         "index": "PXSD018",
         "level": 9,
@@ -9335,6 +10053,7 @@
     },
     "IDS_PXSD019": {
         "en": "Stealthedo",
+        "group": "disabled",
         "id": 4274926864,
         "index": "PXSD019",
         "level": 10,
@@ -9348,6 +10067,7 @@
     },
     "IDS_PXSD020": {
         "en": "Seascythe",
+        "group": "disabled",
         "id": 4273878288,
         "index": "PXSD020",
         "level": 10,
@@ -9361,6 +10081,7 @@
     },
     "IDS_PXSD021": {
         "en": "Rumble",
+        "group": "disabled",
         "id": 4272829712,
         "index": "PXSD021",
         "level": 10,
@@ -9374,6 +10095,7 @@
     },
     "IDS_PXSD022": {
         "en": "Angler",
+        "group": "disabled",
         "id": 4271781136,
         "index": "PXSD022",
         "level": 10,
@@ -9387,6 +10109,7 @@
     },
     "IDS_PXSD023": {
         "en": "Steel Lancet",
+        "group": "disabled",
         "id": 4270732560,
         "index": "PXSD023",
         "level": 9,
@@ -9400,6 +10123,7 @@
     },
     "IDS_PXSD024": {
         "en": "Mutantovsk",
+        "group": "unavailable",
         "id": 4269683984,
         "index": "PXSD024",
         "level": 10,
@@ -9413,6 +10137,7 @@
     },
     "IDS_PXSD025": {
         "en": "Fangblade",
+        "group": "disabled",
         "id": 4268635408,
         "index": "PXSD025",
         "level": 10,
@@ -9426,6 +10151,7 @@
     },
     "IDS_PXSD102": {
         "en": "Whirlwind",
+        "group": "disabled",
         "id": 4187895056,
         "index": "PXSD102",
         "level": 10,
@@ -9439,6 +10165,7 @@
     },
     "IDS_PXSD103": {
         "en": "Hector",
+        "group": "disabled",
         "id": 4186846480,
         "index": "PXSD103",
         "level": 10,
@@ -9452,6 +10179,7 @@
     },
     "IDS_PXSS107": {
         "en": "Zipper Sub",
+        "group": "disabled",
         "id": 4182160656,
         "index": "PXSS107",
         "level": 7,
@@ -9465,6 +10193,7 @@
     },
     "IDS_PXSS207": {
         "en": "Seelöwe",
+        "group": "disabled",
         "id": 4077303056,
         "index": "PXSS207",
         "level": 10,
@@ -9478,6 +10207,7 @@
     },
     "IDS_PXSS307": {
         "en": "Gerfalcon",
+        "group": "disabled",
         "id": 3972445456,
         "index": "PXSS307",
         "level": 7,
@@ -9491,6 +10221,7 @@
     },
     "IDS_PXSS407": {
         "en": "Barracuda",
+        "group": "disabled",
         "id": 3867587856,
         "index": "PXSS407",
         "level": 7,
@@ -9504,6 +10235,7 @@
     },
     "IDS_PXSS507": {
         "en": "Killer Whale",
+        "group": "disabled",
         "id": 3762730256,
         "index": "PXSS507",
         "level": 10,
@@ -9517,6 +10249,7 @@
     },
     "IDS_PXSX001": {
         "en": "Transylvania",
+        "group": "disabled",
         "id": 4293145872,
         "index": "PXSX001",
         "level": 5,
@@ -9530,6 +10263,7 @@
     },
     "IDS_PXSX016": {
         "en": "Goliath",
+        "group": "disabled",
         "id": 4277417232,
         "index": "PXSX016",
         "level": 2,
@@ -9543,6 +10277,7 @@
     },
     "IDS_PXSX017": {
         "en": "Caboteur",
+        "group": "disabled",
         "id": 4276368656,
         "index": "PXSX017",
         "level": 2,
@@ -9556,6 +10291,7 @@
     },
     "IDS_PXSX023": {
         "en": "Lorina",
+        "group": "disabled",
         "id": 4270077200,
         "index": "PXSX023",
         "level": 2,
@@ -9569,6 +10305,7 @@
     },
     "IDS_PXSX024": {
         "en": "Aronia",
+        "group": "disabled",
         "id": 4269028624,
         "index": "PXSX024",
         "level": 2,
@@ -9582,6 +10319,7 @@
     },
     "IDS_PXSX025": {
         "en": "Medway Queen",
+        "group": "disabled",
         "id": 4267980048,
         "index": "PXSX025",
         "level": 2,
@@ -9595,6 +10333,7 @@
     },
     "IDS_PXSX026": {
         "en": "Canterbury",
+        "group": "unavailable",
         "id": 4266931472,
         "index": "PXSX026",
         "level": 2,
@@ -9608,6 +10347,7 @@
     },
     "IDS_PXSX033": {
         "en": "Minelayer",
+        "group": "disabled",
         "id": 4259591440,
         "index": "PXSX033",
         "level": 2,
@@ -9621,6 +10361,7 @@
     },
     "IDS_PXSX034": {
         "en": "John Cattling",
+        "group": "disabled",
         "id": 4258542864,
         "index": "PXSX034",
         "level": 2,
@@ -9634,6 +10375,7 @@
     },
     "IDS_PXSX035": {
         "en": "Landing Ship 1",
+        "group": "disabled",
         "id": 4257494288,
         "index": "PXSX035",
         "level": 2,
@@ -9647,6 +10389,7 @@
     },
     "IDS_PXSX037": {
         "en": "Daihatsu",
+        "group": "disabled",
         "id": 4255397136,
         "index": "PXSX037",
         "level": 2,
@@ -9660,6 +10403,7 @@
     },
     "IDS_PXSX039": {
         "en": "LST 325",
+        "group": "disabled",
         "id": 4253299984,
         "index": "PXSX039",
         "level": 2,
@@ -9673,6 +10417,7 @@
     },
     "IDS_PXSX040": {
         "en": "Escort 8",
+        "group": "disabled",
         "id": 4252251408,
         "index": "PXSX040",
         "level": 2,
@@ -9686,6 +10431,7 @@
     },
     "IDS_PXSX043": {
         "en": "Medway Queen",
+        "group": "disabled",
         "id": 4249105680,
         "index": "PXSX043",
         "level": 2,
@@ -9699,6 +10445,7 @@
     },
     "IDS_PXSX044": {
         "en": "Cimarron civil",
+        "group": "unavailable",
         "id": 4248057104,
         "index": "PXSX044",
         "level": 5,
@@ -9712,6 +10459,7 @@
     },
     "IDS_PXSX045": {
         "en": "Liberty civil",
+        "group": "unavailable",
         "id": 4247008528,
         "index": "PXSX045",
         "level": 5,
@@ -9725,6 +10473,7 @@
     },
     "IDS_PXSX501": {
         "en": "Liberty",
+        "group": "disabled",
         "id": 3768857872,
         "index": "PXSX501",
         "level": 6,
@@ -9738,6 +10487,7 @@
     },
     "IDS_PXSX743": {
         "en": "Intania Queen",
+        "group": "disabled",
         "id": 3515102480,
         "index": "PXSX743",
         "level": 11,
@@ -9751,6 +10501,7 @@
     },
     "IDS_PXSX815": {
         "en": "Bogue",
+        "group": "unavailable",
         "id": 3439605008,
         "index": "PXSX815",
         "level": 5,
@@ -9764,6 +10515,7 @@
     },
     "IDS_PZSA508": {
         "en": "Sanzang",
+        "group": "special",
         "id": 3762271440,
         "index": "PZSA508",
         "level": 8,
@@ -9777,6 +10529,7 @@
     },
     "IDS_PZSB509": {
         "en": "Bajie",
+        "group": "special",
         "id": 3761190096,
         "index": "PZSB509",
         "level": 9,
@@ -9790,6 +10543,7 @@
     },
     "IDS_PZSB519": {
         "en": "Wujing",
+        "group": "special",
         "id": 3750704336,
         "index": "PZSB519",
         "level": 9,
@@ -9803,6 +10557,7 @@
     },
     "IDS_PZSC101": {
         "en": "Chengan",
+        "group": "start",
         "id": 4188976336,
         "index": "PZSC101",
         "level": 1,
@@ -9816,6 +10571,7 @@
     },
     "IDS_PZSC105": {
         "en": "Chungking",
+        "group": "upgradeable",
         "id": 4184782032,
         "index": "PZSC105",
         "level": 5,
@@ -9829,6 +10585,7 @@
     },
     "IDS_PZSC106": {
         "en": "Rahmat",
+        "group": "upgradeable",
         "id": 4183733456,
         "index": "PZSC106",
         "level": 6,
@@ -9842,6 +10599,7 @@
     },
     "IDS_PZSC107": {
         "en": "Chumphon",
+        "group": "upgradeable",
         "id": 4182684880,
         "index": "PZSC107",
         "level": 7,
@@ -9855,6 +10613,7 @@
     },
     "IDS_PZSC108": {
         "en": "Harbin",
+        "group": "upgradeable",
         "id": 4181636304,
         "index": "PZSC108",
         "level": 8,
@@ -9868,6 +10627,7 @@
     },
     "IDS_PZSC109": {
         "en": "Sejong",
+        "group": "upgradeable",
         "id": 4180587728,
         "index": "PZSC109",
         "level": 9,
@@ -9881,6 +10641,7 @@
     },
     "IDS_PZSC110": {
         "en": "Jinan",
+        "group": "upgradeable",
         "id": 4179539152,
         "index": "PZSC110",
         "level": 10,
@@ -9894,6 +10655,7 @@
     },
     "IDS_PZSC506": {
         "en": "Huanghe",
+        "group": "special",
         "id": 3764303056,
         "index": "PZSC506",
         "level": 6,
@@ -9907,6 +10669,7 @@
     },
     "IDS_PZSC508": {
         "en": "Irian",
+        "group": "special",
         "id": 3762205904,
         "index": "PZSC508",
         "level": 8,
@@ -9920,6 +10683,7 @@
     },
     "IDS_PZSC509": {
         "en": "Dalian",
+        "group": "special",
         "id": 3761157328,
         "index": "PZSC509",
         "level": 9,
@@ -9933,6 +10697,7 @@
     },
     "IDS_PZSC518": {
         "en": "Wukong",
+        "group": "special",
         "id": 3751720144,
         "index": "PZSC518",
         "level": 8,
@@ -9946,6 +10711,7 @@
     },
     "IDS_PZSD102": {
         "en": "Longjiang",
+        "group": "upgradeable",
         "id": 4187894992,
         "index": "PZSD102",
         "level": 2,
@@ -9959,6 +10725,7 @@
     },
     "IDS_PZSD103": {
         "en": "Phra Ruang",
+        "group": "upgradeable",
         "id": 4186846416,
         "index": "PZSD103",
         "level": 3,
@@ -9972,6 +10739,7 @@
     },
     "IDS_PZSD104": {
         "en": "Shenyang",
+        "group": "upgradeable",
         "id": 4185797840,
         "index": "PZSD104",
         "level": 4,
@@ -9985,6 +10753,7 @@
     },
     "IDS_PZSD105": {
         "en": "Jianwei",
+        "group": "upgradeable",
         "id": 4184749264,
         "index": "PZSD105",
         "level": 5,
@@ -9998,6 +10767,7 @@
     },
     "IDS_PZSD106": {
         "en": "Fushun",
+        "group": "upgradeable",
         "id": 4183700688,
         "index": "PZSD106",
         "level": 6,
@@ -10011,6 +10781,7 @@
     },
     "IDS_PZSD107": {
         "en": "Gadjah Mada",
+        "group": "upgradeable",
         "id": 4182652112,
         "index": "PZSD107",
         "level": 7,
@@ -10024,6 +10795,7 @@
     },
     "IDS_PZSD108": {
         "en": "Hsienyang",
+        "group": "upgradeable",
         "id": 4181603536,
         "index": "PZSD108",
         "level": 8,
@@ -10037,6 +10809,7 @@
     },
     "IDS_PZSD109": {
         "en": "Chung Mu",
+        "group": "upgradeable",
         "id": 4180554960,
         "index": "PZSD109",
         "level": 9,
@@ -10050,6 +10823,7 @@
     },
     "IDS_PZSD110": {
         "en": "Yueyang",
+        "group": "upgradeable",
         "id": 4179506384,
         "index": "PZSD110",
         "level": 10,
@@ -10063,6 +10837,7 @@
     },
     "IDS_PZSD208": {
         "en": "Siliwangi",
+        "group": "special",
         "id": 4076745936,
         "index": "PZSD208",
         "level": 8,
@@ -10076,6 +10851,7 @@
     },
     "IDS_PZSD506": {
         "en": "Anshan",
+        "group": "special",
         "id": 3764270288,
         "index": "PZSD506",
         "level": 6,
@@ -10089,6 +10865,7 @@
     },
     "IDS_PZSD508": {
         "en": "Loyang",
+        "group": "special",
         "id": 3762173136,
         "index": "PZSD508",
         "level": 8,
@@ -10102,6 +10879,7 @@
     },
     "IDS_PZSD518": {
         "en": "Fenyang",
+        "group": "special",
         "id": 3751687376,
         "index": "PZSD518",
         "level": 8,
@@ -10115,6 +10893,7 @@
     },
     "IDS_PZSD598": {
         "en": "Loyang B",
+        "group": "special",
         "id": 3667801296,
         "index": "PZSD598",
         "level": 8,
@@ -10128,6 +10907,7 @@
     },
     "IDS_PZSD718": {
         "en": "Ship Smasha",
+        "group": "special",
         "id": 3541972176,
         "index": "PZSD718",
         "level": 8,

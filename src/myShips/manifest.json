@@ -7,6 +7,7 @@
   "icons": {
     "128": "icon_ship.png"
   },
+  "options_page": "options.html",
   "permissions": [
     "activeTab",
     "storage",
@@ -21,6 +22,16 @@
         "contentScript.js"
       ],
       "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "ships.json"
+      ],
+      "matches": [
+        "https://worldofwarships.ru/*"
+      ]
     }
   ]
 }

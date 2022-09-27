@@ -2344,5 +2344,23 @@
   },
   "extention_name": {
     "message": "Мои кораблики"
+  },
+  "all": {
+    "message": "Все"
+  },
+  "check": {
+    "message": "Отметка"
+  },
+  "level": {
+    "message": "Уровень"
+  },
+  "nation": {
+    "message": "Нация"
+  },
+  "species": {
+    "message": "Класс"
+  },
+  "name": {
+    "message": "Название корабля"
   }
 }

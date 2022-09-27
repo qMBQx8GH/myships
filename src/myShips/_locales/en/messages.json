@@ -2344,5 +2344,23 @@
   },
   "extention_name": {
     "message": "My ships"
+  },
+  "all": {
+    "message": "All"
+  },
+  "check": {
+    "message": "Check"
+  },
+  "level": {
+    "message": "Level"
+  },
+  "nation": {
+    "message": "Nation"
+  },
+  "species": {
+    "message": "Class"
+  },
+  "name": {
+    "message": "Ship name"
   }
 }

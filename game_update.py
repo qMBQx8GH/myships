@@ -69,6 +69,7 @@ for key, value in d[0].items():
             'nation': value.typeinfo.nation,
             'level': value.level,
             'species': value.typeinfo.species,
+            'group': value.group,
             'search': [
                 en, ru
             ],
