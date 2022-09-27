@@ -8,7 +8,7 @@
         "nation": "USA",
         "ru": "Bogue (old)",
         "search": [
-            "V BOGUE (OLD)",
+            "V BOGUE (< 23.01.2019)",
             "V BOGUE (OLD)"
         ],
         "species": "AirCarrier"
@@ -22,7 +22,7 @@
         "nation": "USA",
         "ru": "Langley (old)",
         "search": [
-            "IV LANGLEY (OLD)",
+            "IV LANGLEY (< 23.01.2019)",
             "IV LANGLEY (OLD)"
         ],
         "species": "AirCarrier"
@@ -36,7 +36,7 @@
         "nation": "USA",
         "ru": "Independence (old)",
         "search": [
-            "VI INDEPENDENCE (OLD)",
+            "VI INDEPENDENCE (< 23.01.2019)",
             "VI INDEPENDENCE (OLD)"
         ],
         "species": "AirCarrier"
@@ -50,7 +50,7 @@
         "nation": "USA",
         "ru": "Ranger (old)",
         "search": [
-            "VII RANGER (OLD)",
+            "VII RANGER (< 23.01.2019)",
             "VII RANGER (OLD)"
         ],
         "species": "AirCarrier"
@@ -65,7 +65,7 @@
         "ru": "Lexington (old)",
         "search": [
             "VIII LEXINGTON (OLD)",
-            "VIII LEXINGTON (OLD)"
+            "VIII LEXINGTON (< 23.01.2019)"
         ],
         "species": "AirCarrier"
     },
@@ -79,7 +79,7 @@
         "ru": "Essex (old)",
         "search": [
             "IX ESSEX (OLD)",
-            "IX ESSEX (OLD)"
+            "IX ESSEX (< 23.01.2019)"
         ],
         "species": "AirCarrier"
     },
@@ -93,7 +93,7 @@
         "ru": "Midway (old)",
         "search": [
             "X MIDWAY (OLD)",
-            "X MIDWAY (OLD)"
+            "X MIDWAY (< 23.01.2019)"
         ],
         "species": "AirCarrier"
     },
@@ -106,7 +106,6 @@
         "nation": "USA",
         "ru": "Langley",
         "search": [
-            "IV LANGLEY",
             "IV LANGLEY"
         ],
         "species": "AirCarrier"
@@ -120,7 +119,6 @@
         "nation": "USA",
         "ru": "Ranger",
         "search": [
-            "VI RANGER",
             "VI RANGER"
         ],
         "species": "AirCarrier"
@@ -134,7 +132,6 @@
         "nation": "USA",
         "ru": "Lexington",
         "search": [
-            "VIII LEXINGTON",
             "VIII LEXINGTON"
         ],
         "species": "AirCarrier"
@@ -148,7 +145,6 @@
         "nation": "USA",
         "ru": "Midway",
         "search": [
-            "X MIDWAY",
             "X MIDWAY"
         ],
         "species": "AirCarrier"
@@ -162,7 +158,6 @@
         "nation": "USA",
         "ru": "United States",
         "search": [
-            "XI UNITED STATES",
             "XI UNITED STATES"
         ],
         "species": "AirCarrier"
@@ -176,7 +171,6 @@
         "nation": "USA",
         "ru": "Yorktown",
         "search": [
-            "VIII YORKTOWN",
             "VIII YORKTOWN"
         ],
         "species": "AirCarrier"
@@ -190,7 +184,7 @@
         "nation": "USA",
         "ru": "Saipan (old)",
         "search": [
-            "VII SAIPAN (OLD)",
+            "VII SAIPAN (< 23.01.2019)",
             "VII SAIPAN (OLD)"
         ],
         "species": "AirCarrier"
@@ -204,7 +198,7 @@
         "nation": "USA",
         "ru": "Enterprise (old)",
         "search": [
-            "VIII ENTERPRISE (OLD)",
+            "VIII ENTERPRISE (< 23.01.2019)",
             "VIII ENTERPRISE (OLD)"
         ],
         "species": "AirCarrier"
@@ -218,7 +212,7 @@
         "nation": "USA",
         "ru": "F. D. Roosevelt",
         "search": [
-            "X F. D. ROOSEVELT",
+            "X FRANKLIN D. ROOSEVELT",
             "X F. D. ROOSEVELT"
         ],
         "species": "AirCarrier"
@@ -232,7 +226,6 @@
         "nation": "USA",
         "ru": "Enterprise",
         "search": [
-            "VIII ENTERPRISE",
             "VIII ENTERPRISE"
         ],
         "species": "AirCarrier"
@@ -246,7 +239,6 @@
         "nation": "USA",
         "ru": "Saipan",
         "search": [
-            "VIII SAIPAN",
             "VIII SAIPAN"
         ],
         "species": "AirCarrier"
@@ -260,7 +252,6 @@
         "nation": "USA",
         "ru": "Hornet",
         "search": [
-            "VIII HORNET",
             "VIII HORNET"
         ],
         "species": "AirCarrier"
@@ -274,8 +265,8 @@
         "nation": "USA",
         "ru": "Saipan B",
         "search": [
-            "VIII SAIPAN B",
-            "VIII SAIPAN B"
+            "VIII SAIPAN B",
+            "VIII SAIPAN B"
         ],
         "species": "AirCarrier"
     },
@@ -288,7 +279,6 @@
         "nation": "USA",
         "ru": "[Midway]",
         "search": [
-            "X [MIDWAY]",
             "X [MIDWAY]"
         ],
         "species": "AirCarrier"
@@ -303,7 +293,7 @@
         "ru": "S. Carolina",
         "search": [
             "III S. CAROLINA",
-            "III S. CAROLINA"
+            "III SOUTH CAROLINA"
         ],
         "species": "Battleship"
     },
@@ -316,7 +306,6 @@
         "nation": "USA",
         "ru": "Wyoming",
         "search": [
-            "IV WYOMING",
             "IV WYOMING"
         ],
         "species": "Battleship"
@@ -330,7 +319,6 @@
         "nation": "USA",
         "ru": "New York",
         "search": [
-            "V NEW YORK",
             "V NEW YORK"
         ],
         "species": "Battleship"
@@ -344,7 +332,6 @@
         "nation": "USA",
         "ru": "Colorado",
         "search": [
-            "VII COLORADO",
             "VII COLORADO"
         ],
         "species": "Battleship"
@@ -358,7 +345,7 @@
         "nation": "USA",
         "ru": "N. Carolina",
         "search": [
-            "VIII N. CAROLINA",
+            "VIII NORTH CAROLINA",
             "VIII N. CAROLINA"
         ],
         "species": "Battleship"
@@ -372,7 +359,7 @@
         "nation": "USA",
         "ru": "Arkansas B",
         "search": [
-            "IV ARKANSAS B",
+            "IV ARKANSAS BETA",
             "IV ARKANSAS B"
         ],
         "species": "Battleship"
@@ -386,7 +373,6 @@
         "nation": "USA",
         "ru": "Montana",
         "search": [
-            "X MONTANA",
             "X MONTANA"
         ],
         "species": "Battleship"
@@ -400,7 +386,6 @@
         "nation": "USA",
         "ru": "Iowa",
         "search": [
-            "IX IOWA",
             "IX IOWA"
         ],
         "species": "Battleship"
@@ -414,7 +399,6 @@
         "nation": "USA",
         "ru": "New Mexico",
         "search": [
-            "VI NEW MEXICO",
             "VI NEW MEXICO"
         ],
         "species": "Battleship"
@@ -428,7 +412,6 @@
         "nation": "USA",
         "ru": "Kansas",
         "search": [
-            "VIII KANSAS",
             "VIII KANSAS"
         ],
         "species": "Battleship"
@@ -442,7 +425,6 @@
         "nation": "USA",
         "ru": "Minnesota",
         "search": [
-            "IX MINNESOTA",
             "IX MINNESOTA"
         ],
         "species": "Battleship"
@@ -456,7 +438,6 @@
         "nation": "USA",
         "ru": "Vermont",
         "search": [
-            "X VERMONT",
             "X VERMONT"
         ],
         "species": "Battleship"
@@ -470,7 +451,6 @@
         "nation": "USA",
         "ru": "Oklahoma",
         "search": [
-            "V OKLAHOMA",
             "V OKLAHOMA"
         ],
         "species": "Battleship"
@@ -484,7 +464,6 @@
         "nation": "USA",
         "ru": "Arizona",
         "search": [
-            "VI ARIZONA",
             "VI ARIZONA"
         ],
         "species": "Battleship"
@@ -498,7 +477,6 @@
         "nation": "USA",
         "ru": "W. Virginia 1941",
         "search": [
-            "VI W. VIRGINIA 1941",
             "VI W. VIRGINIA 1941"
         ],
         "species": "Battleship"
@@ -512,7 +490,6 @@
         "nation": "USA",
         "ru": "Alabama",
         "search": [
-            "VIII ALABAMA",
             "VIII ALABAMA"
         ],
         "species": "Battleship"
@@ -526,7 +503,6 @@
         "nation": "USA",
         "ru": "Missouri",
         "search": [
-            "IX MISSOURI",
             "IX MISSOURI"
         ],
         "species": "Battleship"
@@ -540,7 +516,6 @@
         "nation": "USA",
         "ru": "Ohio",
         "search": [
-            "X OHIO",
             "X OHIO"
         ],
         "species": "Battleship"
@@ -554,7 +529,6 @@
         "nation": "USA",
         "ru": "Florida",
         "search": [
-            "VII FLORIDA",
             "VII FLORIDA"
         ],
         "species": "Battleship"
@@ -568,7 +542,6 @@
         "nation": "USA",
         "ru": "Massachusetts",
         "search": [
-            "VIII MASSACHUSETTS",
             "VIII MASSACHUSETTS"
         ],
         "species": "Battleship"
@@ -582,7 +555,6 @@
         "nation": "USA",
         "ru": "Kearsarge",
         "search": [
-            "IX KEARSARGE",
             "IX KEARSARGE"
         ],
         "species": "Battleship"
@@ -596,7 +568,6 @@
         "nation": "USA",
         "ru": "Alabama VL",
         "search": [
-            "VIII ALABAMA VL",
             "VIII ALABAMA VL"
         ],
         "species": "Battleship"
@@ -610,7 +581,6 @@
         "nation": "USA",
         "ru": "Constellation",
         "search": [
-            "VIII CONSTELLATION",
             "VIII CONSTELLATION"
         ],
         "species": "Battleship"
@@ -624,7 +594,6 @@
         "nation": "USA",
         "ru": "Massachusetts B",
         "search": [
-            "VIII MASSACHUSETTS B",
             "VIII MASSACHUSETTS B"
         ],
         "species": "Battleship"
@@ -638,7 +607,6 @@
         "nation": "USA",
         "ru": "Texas",
         "search": [
-            "V TEXAS",
             "V TEXAS"
         ],
         "species": "Battleship"
@@ -652,7 +620,6 @@
         "nation": "USA",
         "ru": "California",
         "search": [
-            "VII CALIFORNIA",
             "VII CALIFORNIA"
         ],
         "species": "Battleship"
@@ -666,7 +633,6 @@
         "nation": "USA",
         "ru": "Alabama ST",
         "search": [
-            "VIII ALABAMA ST",
             "VIII ALABAMA ST"
         ],
         "species": "Battleship"
@@ -680,7 +646,6 @@
         "nation": "USA",
         "ru": "Georgia",
         "search": [
-            "IX GEORGIA",
             "IX GEORGIA"
         ],
         "species": "Battleship"
@@ -694,7 +659,6 @@
         "nation": "USA",
         "ru": "Montana P",
         "search": [
-            "X MONTANA P",
             "X MONTANA P"
         ],
         "species": "Battleship"
@@ -708,7 +672,6 @@
         "nation": "USA",
         "ru": "Connecticut",
         "search": [
-            "X CONNECTICUT",
             "X CONNECTICUT"
         ],
         "species": "Battleship"
@@ -722,7 +685,6 @@
         "nation": "USA",
         "ru": "[Montana]",
         "search": [
-            "X [MONTANA]",
             "X [MONTANA]"
         ],
         "species": "Battleship"
@@ -736,7 +698,6 @@
         "nation": "USA",
         "ru": "Erie",
         "search": [
-            "I ERIE",
             "I ERIE"
         ],
         "species": "Cruiser"
@@ -750,7 +711,6 @@
         "nation": "USA",
         "ru": "Chester",
         "search": [
-            "II CHESTER",
             "II CHESTER"
         ],
         "species": "Cruiser"
@@ -764,7 +724,6 @@
         "nation": "USA",
         "ru": "Albany",
         "search": [
-            "II ALBANY",
             "II ALBANY"
         ],
         "species": "Cruiser"
@@ -778,7 +737,6 @@
         "nation": "USA",
         "ru": "St. Louis",
         "search": [
-            "III ST. LOUIS",
             "III ST. LOUIS"
         ],
         "species": "Cruiser"
@@ -792,7 +750,6 @@
         "nation": "USA",
         "ru": "Omaha",
         "search": [
-            "V OMAHA",
             "V OMAHA"
         ],
         "species": "Cruiser"
@@ -806,7 +763,6 @@
         "nation": "USA",
         "ru": "Atlanta",
         "search": [
-            "VII ATLANTA",
             "VII ATLANTA"
         ],
         "species": "Cruiser"
@@ -821,7 +777,7 @@
         "ru": "Cleveland (old)",
         "search": [
             "VI CLEVELAND (OLD)",
-            "VI CLEVELAND (OLD)"
+            "VI CLEVELAND (< 31.05.2018)"
         ],
         "species": "Cruiser"
     },
@@ -835,7 +791,7 @@
         "ru": "Pensacola (old)",
         "search": [
             "VII PENSACOLA (OLD)",
-            "VII PENSACOLA (OLD)"
+            "VII PENSACOLA (< 31.05.2018)"
         ],
         "species": "Cruiser"
     },
@@ -848,7 +804,7 @@
         "nation": "USA",
         "ru": "New Orleans (old)",
         "search": [
-            "VIII NEW ORLEANS (OLD)",
+            "VIII NEW ORLEANS (< 31.05.2018)",
             "VIII NEW ORLEANS (OLD)"
         ],
         "species": "Cruiser"
@@ -862,7 +818,6 @@
         "nation": "USA",
         "ru": "Worcester",
         "search": [
-            "X WORCESTER",
             "X WORCESTER"
         ],
         "species": "Cruiser"
@@ -876,7 +831,7 @@
         "nation": "USA",
         "ru": "Baltimore (old)",
         "search": [
-            "IX BALTIMORE (OLD)",
+            "IX BALTIMORE (< 31.05.2018)",
             "IX BALTIMORE (OLD)"
         ],
         "species": "Cruiser"
@@ -890,7 +845,6 @@
         "nation": "USA",
         "ru": "Buffalo",
         "search": [
-            "X BUFFALO",
             "X BUFFALO"
         ],
         "species": "Cruiser"
@@ -904,7 +858,6 @@
         "nation": "USA",
         "ru": "Des Moines",
         "search": [
-            "X DES MOINES",
             "X DES MOINES"
         ],
         "species": "Cruiser"
@@ -918,7 +871,6 @@
         "nation": "USA",
         "ru": "Phoenix",
         "search": [
-            "IV PHOENIX",
             "IV PHOENIX"
         ],
         "species": "Cruiser"
@@ -932,7 +884,6 @@
         "nation": "USA",
         "ru": "Marblehead",
         "search": [
-            "V MARBLEHEAD",
             "V MARBLEHEAD"
         ],
         "species": "Cruiser"
@@ -947,7 +898,7 @@
         "ru": "Marblehead L",
         "search": [
             "V MARBLEHEAD L",
-            "V MARBLEHEAD L"
+            "V MARBLEHEAD LIMA"
         ],
         "species": "Cruiser"
     },
@@ -960,7 +911,6 @@
         "nation": "USA",
         "ru": "Pensacola",
         "search": [
-            "VI PENSACOLA",
             "VI PENSACOLA"
         ],
         "species": "Cruiser"
@@ -974,7 +924,6 @@
         "nation": "USA",
         "ru": "New Orleans",
         "search": [
-            "VII NEW ORLEANS",
             "VII NEW ORLEANS"
         ],
         "species": "Cruiser"
@@ -988,7 +937,6 @@
         "nation": "USA",
         "ru": "Baltimore",
         "search": [
-            "VIII BALTIMORE",
             "VIII BALTIMORE"
         ],
         "species": "Cruiser"
@@ -1002,7 +950,6 @@
         "nation": "USA",
         "ru": "Buffalo",
         "search": [
-            "IX BUFFALO",
             "IX BUFFALO"
         ],
         "species": "Cruiser"
@@ -1016,7 +963,6 @@
         "nation": "USA",
         "ru": "Annapolis",
         "search": [
-            "XI ANNAPOLIS",
             "XI ANNAPOLIS"
         ],
         "species": "Cruiser"
@@ -1030,7 +976,6 @@
         "nation": "USA",
         "ru": "Dallas",
         "search": [
-            "VI DALLAS",
             "VI DALLAS"
         ],
         "species": "Cruiser"
@@ -1044,7 +989,6 @@
         "nation": "USA",
         "ru": "Helena",
         "search": [
-            "VII HELENA",
             "VII HELENA"
         ],
         "species": "Cruiser"
@@ -1058,7 +1002,6 @@
         "nation": "USA",
         "ru": "Cleveland",
         "search": [
-            "VIII CLEVELAND",
             "VIII CLEVELAND"
         ],
         "species": "Cruiser"
@@ -1072,7 +1015,6 @@
         "nation": "USA",
         "ru": "Seattle",
         "search": [
-            "IX SEATTLE",
             "IX SEATTLE"
         ],
         "species": "Cruiser"
@@ -1086,7 +1028,6 @@
         "nation": "USA",
         "ru": "Worcester",
         "search": [
-            "X WORCESTER",
             "X WORCESTER"
         ],
         "species": "Cruiser"
@@ -1100,7 +1041,6 @@
         "nation": "USA",
         "ru": "Charleston",
         "search": [
-            "III CHARLESTON",
             "III CHARLESTON"
         ],
         "species": "Cruiser"
@@ -1114,7 +1054,6 @@
         "nation": "USA",
         "ru": "Indianapolis",
         "search": [
-            "VII INDIANAPOLIS",
             "VII INDIANAPOLIS"
         ],
         "species": "Cruiser"
@@ -1128,7 +1067,6 @@
         "nation": "USA",
         "ru": "Wichita",
         "search": [
-            "VIII WICHITA",
             "VIII WICHITA"
         ],
         "species": "Cruiser"
@@ -1142,7 +1080,6 @@
         "nation": "USA",
         "ru": "Vallejo",
         "search": [
-            "IX VALLEJO",
             "IX VALLEJO"
         ],
         "species": "Cruiser"
@@ -1156,7 +1093,6 @@
         "nation": "USA",
         "ru": "Alaska",
         "search": [
-            "IX ALASKA",
             "IX ALASKA"
         ],
         "species": "Cruiser"
@@ -1170,7 +1106,6 @@
         "nation": "USA",
         "ru": "Anchorage",
         "search": [
-            "VIII ANCHORAGE",
             "VIII ANCHORAGE"
         ],
         "species": "Cruiser"
@@ -1184,7 +1119,6 @@
         "nation": "USA",
         "ru": "Tulsa",
         "search": [
-            "IX TULSA",
             "IX TULSA"
         ],
         "species": "Cruiser"
@@ -1198,7 +1132,6 @@
         "nation": "USA",
         "ru": "Congress",
         "search": [
-            "VIII CONGRESS",
             "VIII CONGRESS"
         ],
         "species": "Cruiser"
@@ -1212,7 +1145,6 @@
         "nation": "USA",
         "ru": "Rochester",
         "search": [
-            "VIII ROCHESTER",
             "VIII ROCHESTER"
         ],
         "species": "Cruiser"
@@ -1226,7 +1158,6 @@
         "nation": "USA",
         "ru": "San Diego",
         "search": [
-            "VIII SAN DIEGO",
             "VIII SAN DIEGO"
         ],
         "species": "Cruiser"
@@ -1240,7 +1171,6 @@
         "nation": "USA",
         "ru": "Atlanta B",
         "search": [
-            "VII ATLANTA B",
             "VII ATLANTA B"
         ],
         "species": "Cruiser"
@@ -1254,7 +1184,6 @@
         "nation": "USA",
         "ru": "Boise",
         "search": [
-            "VII BOISE",
             "VII BOISE"
         ],
         "species": "Cruiser"
@@ -1268,7 +1197,6 @@
         "nation": "USA",
         "ru": "Alaska B",
         "search": [
-            "IX ALASKA B",
             "IX ALASKA B"
         ],
         "species": "Cruiser"
@@ -1282,7 +1210,6 @@
         "nation": "USA",
         "ru": "Puerto Rico",
         "search": [
-            "X PUERTO RICO",
             "X PUERTO RICO"
         ],
         "species": "Cruiser"
@@ -1296,7 +1223,6 @@
         "nation": "USA",
         "ru": "Flint",
         "search": [
-            "VII FLINT",
             "VII FLINT"
         ],
         "species": "Cruiser"
@@ -1310,7 +1236,6 @@
         "nation": "USA",
         "ru": "Salem",
         "search": [
-            "X SALEM",
             "X SALEM"
         ],
         "species": "Cruiser"
@@ -1324,7 +1249,6 @@
         "nation": "USA",
         "ru": "AL Montpelier",
         "search": [
-            "VIII AL MONTPELIER",
             "VIII AL MONTPELIER"
         ],
         "species": "Cruiser"
@@ -1338,7 +1262,6 @@
         "nation": "USA",
         "ru": "Austin",
         "search": [
-            "X AUSTIN",
             "X AUSTIN"
         ],
         "species": "Cruiser"
@@ -1352,7 +1275,6 @@
         "nation": "USA",
         "ru": "Sampson",
         "search": [
-            "II SAMPSON",
             "II SAMPSON"
         ],
         "species": "Destroyer"
@@ -1366,7 +1288,6 @@
         "nation": "USA",
         "ru": "Farragut",
         "search": [
-            "VI FARRAGUT",
             "VI FARRAGUT"
         ],
         "species": "Destroyer"
@@ -1380,7 +1301,6 @@
         "nation": "USA",
         "ru": "Mahan",
         "search": [
-            "VII MAHAN",
             "VII MAHAN"
         ],
         "species": "Destroyer"
@@ -1394,7 +1314,6 @@
         "nation": "USA",
         "ru": "Benson",
         "search": [
-            "VIII BENSON",
             "VIII BENSON"
         ],
         "species": "Destroyer"
@@ -1408,7 +1327,6 @@
         "nation": "USA",
         "ru": "Gearing",
         "search": [
-            "X GEARING",
             "X GEARING"
         ],
         "species": "Destroyer"
@@ -1422,7 +1340,6 @@
         "nation": "USA",
         "ru": "Nicholas",
         "search": [
-            "V NICHOLAS",
             "V NICHOLAS"
         ],
         "species": "Destroyer"
@@ -1436,7 +1353,6 @@
         "nation": "USA",
         "ru": "Clemson",
         "search": [
-            "IV CLEMSON",
             "IV CLEMSON"
         ],
         "species": "Destroyer"
@@ -1450,7 +1366,6 @@
         "nation": "USA",
         "ru": "Fletcher",
         "search": [
-            "IX FLETCHER",
             "IX FLETCHER"
         ],
         "species": "Destroyer"
@@ -1464,7 +1379,6 @@
         "nation": "USA",
         "ru": "Wickes",
         "search": [
-            "III WICKES",
             "III WICKES"
         ],
         "species": "Destroyer"
@@ -1478,7 +1392,6 @@
         "nation": "USA",
         "ru": "Sims",
         "search": [
-            "VII SIMS",
             "VII SIMS"
         ],
         "species": "Destroyer"
@@ -1492,7 +1405,6 @@
         "nation": "USA",
         "ru": "Smith",
         "search": [
-            "II SMITH",
             "II SMITH"
         ],
         "species": "Destroyer"
@@ -1506,7 +1418,6 @@
         "nation": "USA",
         "ru": "Hill",
         "search": [
-            "V HILL",
             "V HILL"
         ],
         "species": "Destroyer"
@@ -1520,7 +1431,6 @@
         "nation": "USA",
         "ru": "Monaghan",
         "search": [
-            "VI MONAGHAN",
             "VI MONAGHAN"
         ],
         "species": "Destroyer"
@@ -1534,7 +1444,6 @@
         "nation": "USA",
         "ru": "Kidd",
         "search": [
-            "VIII KIDD",
             "VIII KIDD"
         ],
         "species": "Destroyer"
@@ -1548,7 +1457,6 @@
         "nation": "USA",
         "ru": "Benham",
         "search": [
-            "IX BENHAM",
             "IX BENHAM"
         ],
         "species": "Destroyer"
@@ -1562,7 +1470,6 @@
         "nation": "USA",
         "ru": "Somers",
         "search": [
-            "X SOMERS",
             "X SOMERS"
         ],
         "species": "Destroyer"
@@ -1576,7 +1483,6 @@
         "nation": "USA",
         "ru": "Sims B",
         "search": [
-            "VII SIMS B",
             "VII SIMS B"
         ],
         "species": "Destroyer"
@@ -1590,8 +1496,9 @@
         "nation": "USA",
         "ru": "F. Sherman",
         "search": [
+            "X F. SHERMAN",
             "X F. SHERMAN",
-            "X F. SHERMAN"
+            "X FORREST SHERMAN"
         ],
         "species": "Destroyer"
     },
@@ -1604,7 +1511,6 @@
         "nation": "USA",
         "ru": "Black",
         "search": [
-            "IX BLACK",
             "IX BLACK"
         ],
         "species": "Destroyer"
@@ -1618,7 +1524,6 @@
         "nation": "USA",
         "ru": "Gearing P",
         "search": [
-            "X GEARING P",
             "X GEARING P"
         ],
         "species": "Destroyer"
@@ -1632,7 +1537,6 @@
         "nation": "USA",
         "ru": "[Gearing]",
         "search": [
-            "X [GEARING]",
             "X [GEARING]"
         ],
         "species": "Destroyer"
@@ -1646,7 +1550,6 @@
         "nation": "USA",
         "ru": "Cachalot",
         "search": [
-            "VI CACHALOT",
             "VI CACHALOT"
         ],
         "species": "Submarine"
@@ -1660,7 +1563,6 @@
         "nation": "USA",
         "ru": "Salmon",
         "search": [
-            "VIII SALMON",
             "VIII SALMON"
         ],
         "species": "Submarine"
@@ -1674,7 +1576,6 @@
         "nation": "USA",
         "ru": "Balao",
         "search": [
-            "X BALAO",
             "X BALAO"
         ],
         "species": "Submarine"
@@ -1688,7 +1589,6 @@
         "nation": "USA",
         "ru": "Cachalot",
         "search": [
-            "VI CACHALOT",
             "VI CACHALOT"
         ],
         "species": "Submarine"
@@ -1702,7 +1602,6 @@
         "nation": "USA",
         "ru": "Salmon",
         "search": [
-            "VIII SALMON",
             "VIII SALMON"
         ],
         "species": "Submarine"
@@ -1716,7 +1615,6 @@
         "nation": "USA",
         "ru": "Balao",
         "search": [
-            "X BALAO",
             "X BALAO"
         ],
         "species": "Submarine"
@@ -1730,7 +1628,6 @@
         "nation": "USA",
         "ru": "Gato",
         "search": [
-            "X GATO",
             "X GATO"
         ],
         "species": "Submarine"
@@ -1744,7 +1641,6 @@
         "nation": "USA",
         "ru": "Cimarron",
         "search": [
-            "V CIMARRON",
             "V CIMARRON"
         ],
         "species": "Auxiliary"
@@ -1759,7 +1655,7 @@
         "ru": "Liberty",
         "search": [
             "V LIBERTY",
-            "V LIBERTY"
+            "V IDS_PASX003_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -1772,7 +1668,7 @@
         "nation": "USA",
         "ru": "St. Clair",
         "search": [
-            "V ST. CLAIR",
+            "V GREAT EASTERN",
             "V ST. CLAIR"
         ],
         "species": "Auxiliary"
@@ -1786,7 +1682,7 @@
         "nation": "USA",
         "ru": "Cimarron Test",
         "search": [
-            "V CIMARRON TEST",
+            "V IDS_PASX904_FULL",
             "V CIMARRON TEST"
         ],
         "species": "Auxiliary"
@@ -1800,7 +1696,6 @@
         "nation": "United_Kingdom",
         "ru": "Furious",
         "search": [
-            "VI FURIOUS",
             "VI FURIOUS"
         ],
         "species": "AirCarrier"
@@ -1814,7 +1709,6 @@
         "nation": "United_Kingdom",
         "ru": "Implacable",
         "search": [
-            "VIII IMPLACABLE",
             "VIII IMPLACABLE"
         ],
         "species": "AirCarrier"
@@ -1828,7 +1722,6 @@
         "nation": "United_Kingdom",
         "ru": "Eagle",
         "search": [
-            "XI EAGLE",
             "XI EAGLE"
         ],
         "species": "AirCarrier"
@@ -1842,7 +1735,6 @@
         "nation": "United_Kingdom",
         "ru": "Hermes",
         "search": [
-            "IV HERMES",
             "IV HERMES"
         ],
         "species": "AirCarrier"
@@ -1856,7 +1748,6 @@
         "nation": "United_Kingdom",
         "ru": "Audacious",
         "search": [
-            "X AUDACIOUS",
             "X AUDACIOUS"
         ],
         "species": "AirCarrier"
@@ -1870,7 +1761,6 @@
         "nation": "United_Kingdom",
         "ru": "Indomitable",
         "search": [
-            "VIII INDOMITABLE",
             "VIII INDOMITABLE"
         ],
         "species": "AirCarrier"
@@ -1884,7 +1774,6 @@
         "nation": "United_Kingdom",
         "ru": "Malta",
         "search": [
-            "X MALTA",
             "X MALTA"
         ],
         "species": "AirCarrier"
@@ -1898,7 +1787,6 @@
         "nation": "United_Kingdom",
         "ru": "Ark Royal",
         "search": [
-            "VI ARK ROYAL",
             "VI ARK ROYAL"
         ],
         "species": "AirCarrier"
@@ -1912,7 +1800,6 @@
         "nation": "United_Kingdom",
         "ru": "[Audacious]",
         "search": [
-            "X [AUDACIOUS]",
             "X [AUDACIOUS]"
         ],
         "species": "AirCarrier"
@@ -1926,7 +1813,6 @@
         "nation": "United_Kingdom",
         "ru": "Warspite",
         "search": [
-            "VI WARSPITE",
             "VI WARSPITE"
         ],
         "species": "Battleship"
@@ -1940,7 +1826,6 @@
         "nation": "United_Kingdom",
         "ru": "Bellerophon",
         "search": [
-            "III BELLEROPHON",
             "III BELLEROPHON"
         ],
         "species": "Battleship"
@@ -1954,7 +1839,6 @@
         "nation": "United_Kingdom",
         "ru": "Orion",
         "search": [
-            "IV ORION",
             "IV ORION"
         ],
         "species": "Battleship"
@@ -1968,7 +1852,6 @@
         "nation": "United_Kingdom",
         "ru": "Iron Duke",
         "search": [
-            "V IRON DUKE",
             "V IRON DUKE"
         ],
         "species": "Battleship"
@@ -1982,7 +1865,6 @@
         "nation": "United_Kingdom",
         "ru": "Queen Elizabeth",
         "search": [
-            "VI QUEEN ELIZABETH",
             "VI QUEEN ELIZABETH"
         ],
         "species": "Battleship"
@@ -1996,7 +1878,6 @@
         "nation": "United_Kingdom",
         "ru": "King George V",
         "search": [
-            "VII KING GEORGE V",
             "VII KING GEORGE V"
         ],
         "species": "Battleship"
@@ -2010,7 +1891,6 @@
         "nation": "United_Kingdom",
         "ru": "Monarch",
         "search": [
-            "VIII MONARCH",
             "VIII MONARCH"
         ],
         "species": "Battleship"
@@ -2024,7 +1904,6 @@
         "nation": "United_Kingdom",
         "ru": "Lion",
         "search": [
-            "IX LION",
             "IX LION"
         ],
         "species": "Battleship"
@@ -2038,7 +1917,6 @@
         "nation": "United_Kingdom",
         "ru": "Conqueror",
         "search": [
-            "X CONQUEROR",
             "X CONQUEROR"
         ],
         "species": "Battleship"
@@ -2052,7 +1930,6 @@
         "nation": "United_Kingdom",
         "ru": "Indefatigable",
         "search": [
-            "III INDEFATIGABLE",
             "III INDEFATIGABLE"
         ],
         "species": "Battleship"
@@ -2066,7 +1943,6 @@
         "nation": "United_Kingdom",
         "ru": "Queen Mary",
         "search": [
-            "IV QUEEN MARY",
             "IV QUEEN MARY"
         ],
         "species": "Battleship"
@@ -2080,7 +1956,6 @@
         "nation": "United_Kingdom",
         "ru": "Tiger",
         "search": [
-            "V TIGER",
             "V TIGER"
         ],
         "species": "Battleship"
@@ -2094,7 +1969,6 @@
         "nation": "United_Kingdom",
         "ru": "Renown",
         "search": [
-            "VI RENOWN",
             "VI RENOWN"
         ],
         "species": "Battleship"
@@ -2108,7 +1982,6 @@
         "nation": "United_Kingdom",
         "ru": "Rooke",
         "search": [
-            "VII ROOKE",
             "VII ROOKE"
         ],
         "species": "Battleship"
@@ -2122,7 +1995,6 @@
         "nation": "United_Kingdom",
         "ru": "Hawke",
         "search": [
-            "VIII HAWKE",
             "VIII HAWKE"
         ],
         "species": "Battleship"
@@ -2136,7 +2008,6 @@
         "nation": "United_Kingdom",
         "ru": "Duncan",
         "search": [
-            "IX DUNCAN",
             "IX DUNCAN"
         ],
         "species": "Battleship"
@@ -2150,7 +2021,6 @@
         "nation": "United_Kingdom",
         "ru": "St. Vincent",
         "search": [
-            "X ST. VINCENT",
             "X ST. VINCENT"
         ],
         "species": "Battleship"
@@ -2164,7 +2034,6 @@
         "nation": "United_Kingdom",
         "ru": "Dreadnought",
         "search": [
-            "III DREADNOUGHT",
             "III DREADNOUGHT"
         ],
         "species": "Battleship"
@@ -2178,7 +2047,6 @@
         "nation": "United_Kingdom",
         "ru": "Agincourt",
         "search": [
-            "V AGINCOURT",
             "V AGINCOURT"
         ],
         "species": "Battleship"
@@ -2192,7 +2060,6 @@
         "nation": "United_Kingdom",
         "ru": "Hood",
         "search": [
-            "VII HOOD",
             "VII HOOD"
         ],
         "species": "Battleship"
@@ -2206,7 +2073,6 @@
         "nation": "United_Kingdom",
         "ru": "Vanguard",
         "search": [
-            "VIII VANGUARD",
             "VIII VANGUARD"
         ],
         "species": "Battleship"
@@ -2220,7 +2086,6 @@
         "nation": "United_Kingdom",
         "ru": "Marlborough",
         "search": [
-            "IX MARLBOROUGH",
             "IX MARLBOROUGH"
         ],
         "species": "Battleship"
@@ -2234,7 +2099,6 @@
         "nation": "United_Kingdom",
         "ru": "Thunderer",
         "search": [
-            "X THUNDERER",
             "X THUNDERER"
         ],
         "species": "Battleship"
@@ -2248,7 +2112,6 @@
         "nation": "United_Kingdom",
         "ru": "Nelson",
         "search": [
-            "VII NELSON",
             "VII NELSON"
         ],
         "species": "Battleship"
@@ -2262,7 +2125,6 @@
         "nation": "United_Kingdom",
         "ru": "Repulse",
         "search": [
-            "VI REPULSE",
             "VI REPULSE"
         ],
         "species": "Battleship"
@@ -2276,7 +2138,6 @@
         "nation": "United_Kingdom",
         "ru": "Duke of York",
         "search": [
-            "VII DUKE OF YORK",
             "VII DUKE OF YORK"
         ],
         "species": "Battleship"
@@ -2290,7 +2151,6 @@
         "nation": "United_Kingdom",
         "ru": "Collingwood",
         "search": [
-            "VII COLLINGWOOD",
             "VII COLLINGWOOD"
         ],
         "species": "Battleship"
@@ -2304,7 +2164,6 @@
         "nation": "United_Kingdom",
         "ru": "Incomparable",
         "search": [
-            "X INCOMPARABLE",
             "X INCOMPARABLE"
         ],
         "species": "Battleship"
@@ -2318,7 +2177,6 @@
         "nation": "United_Kingdom",
         "ru": "[Conqueror]",
         "search": [
-            "X [CONQUEROR]",
             "X [CONQUEROR]"
         ],
         "species": "Battleship"
@@ -2332,8 +2190,8 @@
         "nation": "United_Kingdom",
         "ru": "St. Lawrence",
         "search": [
-            "X ST. LAWRENCE",
-            "X ST. LAWRENCE"
+            "X ST. LAWRENCE",
+            "X ST. LAWRENCE"
         ],
         "species": "Battleship"
     },
@@ -2346,7 +2204,6 @@
         "nation": "United_Kingdom",
         "ru": "Black Swan",
         "search": [
-            "I BLACK SWAN",
             "I BLACK SWAN"
         ],
         "species": "Cruiser"
@@ -2360,7 +2217,6 @@
         "nation": "United_Kingdom",
         "ru": "Weymouth",
         "search": [
-            "II WEYMOUTH",
             "II WEYMOUTH"
         ],
         "species": "Cruiser"
@@ -2374,7 +2230,6 @@
         "nation": "United_Kingdom",
         "ru": "Caledon",
         "search": [
-            "III CALEDON",
             "III CALEDON"
         ],
         "species": "Cruiser"
@@ -2388,7 +2243,6 @@
         "nation": "United_Kingdom",
         "ru": "Danae",
         "search": [
-            "IV DANAE",
             "IV DANAE"
         ],
         "species": "Cruiser"
@@ -2402,7 +2256,6 @@
         "nation": "United_Kingdom",
         "ru": "Emerald",
         "search": [
-            "V EMERALD",
             "V EMERALD"
         ],
         "species": "Cruiser"
@@ -2416,7 +2269,6 @@
         "nation": "United_Kingdom",
         "ru": "Leander",
         "search": [
-            "VI LEANDER",
             "VI LEANDER"
         ],
         "species": "Cruiser"
@@ -2430,7 +2282,6 @@
         "nation": "United_Kingdom",
         "ru": "Fiji",
         "search": [
-            "VII FIJI",
             "VII FIJI"
         ],
         "species": "Cruiser"
@@ -2444,7 +2295,6 @@
         "nation": "United_Kingdom",
         "ru": "Edinburgh",
         "search": [
-            "VIII EDINBURGH",
             "VIII EDINBURGH"
         ],
         "species": "Cruiser"
@@ -2458,7 +2308,6 @@
         "nation": "United_Kingdom",
         "ru": "Neptune",
         "search": [
-            "IX NEPTUNE",
             "IX NEPTUNE"
         ],
         "species": "Cruiser"
@@ -2472,7 +2321,6 @@
         "nation": "United_Kingdom",
         "ru": "Minotaur",
         "search": [
-            "X MINOTAUR",
             "X MINOTAUR"
         ],
         "species": "Cruiser"
@@ -2486,7 +2334,6 @@
         "nation": "United_Kingdom",
         "ru": "Edgar",
         "search": [
-            "XI EDGAR",
             "XI EDGAR"
         ],
         "species": "Cruiser"
@@ -2500,7 +2347,6 @@
         "nation": "United_Kingdom",
         "ru": "Hawkins",
         "search": [
-            "V HAWKINS",
             "V HAWKINS"
         ],
         "species": "Cruiser"
@@ -2514,7 +2360,6 @@
         "nation": "United_Kingdom",
         "ru": "Devonshire",
         "search": [
-            "VI DEVONSHIRE",
             "VI DEVONSHIRE"
         ],
         "species": "Cruiser"
@@ -2528,7 +2373,6 @@
         "nation": "United_Kingdom",
         "ru": "Surrey",
         "search": [
-            "VII SURREY",
             "VII SURREY"
         ],
         "species": "Cruiser"
@@ -2542,7 +2386,6 @@
         "nation": "United_Kingdom",
         "ru": "Albemarle",
         "search": [
-            "VIII ALBEMARLE",
             "VIII ALBEMARLE"
         ],
         "species": "Cruiser"
@@ -2556,7 +2399,6 @@
         "nation": "United_Kingdom",
         "ru": "Drake",
         "search": [
-            "IX DRAKE",
             "IX DRAKE"
         ],
         "species": "Cruiser"
@@ -2570,7 +2412,6 @@
         "nation": "United_Kingdom",
         "ru": "Goliath",
         "search": [
-            "X GOLIATH",
             "X GOLIATH"
         ],
         "species": "Cruiser"
@@ -2584,7 +2425,6 @@
         "nation": "United_Kingdom",
         "ru": "Exeter",
         "search": [
-            "V EXETER",
             "V EXETER"
         ],
         "species": "Cruiser"
@@ -2598,7 +2438,6 @@
         "nation": "United_Kingdom",
         "ru": "Belfast",
         "search": [
-            "VII BELFAST",
             "VII BELFAST"
         ],
         "species": "Cruiser"
@@ -2612,7 +2451,6 @@
         "nation": "United_Kingdom",
         "ru": "Cheshire",
         "search": [
-            "VIII CHESHIRE",
             "VIII CHESHIRE"
         ],
         "species": "Cruiser"
@@ -2626,7 +2464,6 @@
         "nation": "United_Kingdom",
         "ru": "Plymouth",
         "search": [
-            "X PLYMOUTH",
             "X PLYMOUTH"
         ],
         "species": "Cruiser"
@@ -2640,7 +2477,6 @@
         "nation": "United_Kingdom",
         "ru": "London",
         "search": [
-            "VI LONDON",
             "VI LONDON"
         ],
         "species": "Cruiser"
@@ -2654,7 +2490,6 @@
         "nation": "United_Kingdom",
         "ru": "Tiger '59",
         "search": [
-            "VIII TIGER '59",
             "VIII TIGER '59"
         ],
         "species": "Cruiser"
@@ -2668,7 +2503,6 @@
         "nation": "United_Kingdom",
         "ru": "Dido",
         "search": [
-            "VI DIDO",
             "VI DIDO"
         ],
         "species": "Cruiser"
@@ -2682,7 +2516,6 @@
         "nation": "United_Kingdom",
         "ru": "Belfast '43",
         "search": [
-            "VIII BELFAST '43",
             "VIII BELFAST '43"
         ],
         "species": "Cruiser"
@@ -2696,7 +2529,6 @@
         "nation": "United_Kingdom",
         "ru": "Hampshire",
         "search": [
-            "VIII HAMPSHIRE",
             "VIII HAMPSHIRE"
         ],
         "species": "Cruiser"
@@ -2710,7 +2542,6 @@
         "nation": "United_Kingdom",
         "ru": "Gibraltar",
         "search": [
-            "X GIBRALTAR",
             "X GIBRALTAR"
         ],
         "species": "Cruiser"
@@ -2724,7 +2555,6 @@
         "nation": "United_Kingdom",
         "ru": "Cyclops",
         "search": [
-            "X CYCLOPS",
             "X CYCLOPS"
         ],
         "species": "Cruiser"
@@ -2738,7 +2568,6 @@
         "nation": "United_Kingdom",
         "ru": "Medea",
         "search": [
-            "II MEDEA",
             "II MEDEA"
         ],
         "species": "Destroyer"
@@ -2752,7 +2581,6 @@
         "nation": "United_Kingdom",
         "ru": "Valkyrie",
         "search": [
-            "III VALKYRIE",
             "III VALKYRIE"
         ],
         "species": "Destroyer"
@@ -2766,7 +2594,6 @@
         "nation": "United_Kingdom",
         "ru": "Wakeful",
         "search": [
-            "IV WAKEFUL",
             "IV WAKEFUL"
         ],
         "species": "Destroyer"
@@ -2780,7 +2607,6 @@
         "nation": "United_Kingdom",
         "ru": "Acasta",
         "search": [
-            "V ACASTA",
             "V ACASTA"
         ],
         "species": "Destroyer"
@@ -2794,7 +2620,6 @@
         "nation": "United_Kingdom",
         "ru": "Icarus",
         "search": [
-            "VI ICARUS",
             "VI ICARUS"
         ],
         "species": "Destroyer"
@@ -2808,7 +2633,6 @@
         "nation": "United_Kingdom",
         "ru": "Jervis",
         "search": [
-            "VII JERVIS",
             "VII JERVIS"
         ],
         "species": "Destroyer"
@@ -2822,7 +2646,6 @@
         "nation": "United_Kingdom",
         "ru": "Lightning",
         "search": [
-            "VIII LIGHTNING",
             "VIII LIGHTNING"
         ],
         "species": "Destroyer"
@@ -2836,7 +2659,6 @@
         "nation": "United_Kingdom",
         "ru": "Jutland",
         "search": [
-            "IX JUTLAND",
             "IX JUTLAND"
         ],
         "species": "Destroyer"
@@ -2850,7 +2672,6 @@
         "nation": "United_Kingdom",
         "ru": "Daring",
         "search": [
-            "X DARING",
             "X DARING"
         ],
         "species": "Destroyer"
@@ -2864,7 +2685,6 @@
         "nation": "United_Kingdom",
         "ru": "Campbeltown",
         "search": [
-            "III CAMPBELTOWN",
             "III CAMPBELTOWN"
         ],
         "species": "Destroyer"
@@ -2878,7 +2698,6 @@
         "nation": "United_Kingdom",
         "ru": "Gallant",
         "search": [
-            "VI GALLANT",
             "VI GALLANT"
         ],
         "species": "Destroyer"
@@ -2892,7 +2711,6 @@
         "nation": "United_Kingdom",
         "ru": "Druid",
         "search": [
-            "X DRUID",
             "X DRUID"
         ],
         "species": "Destroyer"
@@ -2906,7 +2724,6 @@
         "nation": "United_Kingdom",
         "ru": "Cossack",
         "search": [
-            "VIII COSSACK",
             "VIII COSSACK"
         ],
         "species": "Destroyer"
@@ -2920,7 +2737,6 @@
         "nation": "United_Kingdom",
         "ru": "Cossack B",
         "search": [
-            "VIII COSSACK B",
             "VIII COSSACK B"
         ],
         "species": "Destroyer"
@@ -2934,7 +2750,6 @@
         "nation": "United_Kingdom",
         "ru": "Anthony",
         "search": [
-            "V ANTHONY",
             "V ANTHONY"
         ],
         "species": "Destroyer"
@@ -2948,7 +2763,6 @@
         "nation": "France",
         "ru": "Béarn",
         "search": [
-            "VI BÉARN",
             "VI BÉARN"
         ],
         "species": "AirCarrier"
@@ -2962,7 +2776,6 @@
         "nation": "France",
         "ru": "Turenne",
         "search": [
-            "III TURENNE",
             "III TURENNE"
         ],
         "species": "Battleship"
@@ -2976,7 +2789,6 @@
         "nation": "France",
         "ru": "Courbet",
         "search": [
-            "IV COURBET",
             "IV COURBET"
         ],
         "species": "Battleship"
@@ -2990,7 +2802,6 @@
         "nation": "France",
         "ru": "Bretagne",
         "search": [
-            "V BRETAGNE",
             "V BRETAGNE"
         ],
         "species": "Battleship"
@@ -3004,7 +2815,6 @@
         "nation": "France",
         "ru": "Normandie",
         "search": [
-            "VI NORMANDIE",
             "VI NORMANDIE"
         ],
         "species": "Battleship"
@@ -3018,7 +2828,6 @@
         "nation": "France",
         "ru": "Lyon",
         "search": [
-            "VII LYON",
             "VII LYON"
         ],
         "species": "Battleship"
@@ -3032,7 +2841,6 @@
         "nation": "France",
         "ru": "Richelieu",
         "search": [
-            "VIII RICHELIEU",
             "VIII RICHELIEU"
         ],
         "species": "Battleship"
@@ -3046,7 +2854,6 @@
         "nation": "France",
         "ru": "Alsace",
         "search": [
-            "IX ALSACE",
             "IX ALSACE"
         ],
         "species": "Battleship"
@@ -3060,7 +2867,6 @@
         "nation": "France",
         "ru": "République",
         "search": [
-            "X RÉPUBLIQUE",
             "X RÉPUBLIQUE"
         ],
         "species": "Battleship"
@@ -3074,7 +2880,6 @@
         "nation": "France",
         "ru": "Patrie",
         "search": [
-            "XI PATRIE",
             "XI PATRIE"
         ],
         "species": "Battleship"
@@ -3088,7 +2893,6 @@
         "nation": "France",
         "ru": "Dunkerque",
         "search": [
-            "VI DUNKERQUE",
             "VI DUNKERQUE"
         ],
         "species": "Battleship"
@@ -3102,7 +2906,6 @@
         "nation": "France",
         "ru": "Strasbourg",
         "search": [
-            "VII STRASBOURG",
             "VII STRASBOURG"
         ],
         "species": "Battleship"
@@ -3116,7 +2919,6 @@
         "nation": "France",
         "ru": "Gascogne",
         "search": [
-            "VIII GASCOGNE",
             "VIII GASCOGNE"
         ],
         "species": "Battleship"
@@ -3130,7 +2932,6 @@
         "nation": "France",
         "ru": "Bourgogne",
         "search": [
-            "X BOURGOGNE",
             "X BOURGOGNE"
         ],
         "species": "Battleship"
@@ -3144,7 +2945,6 @@
         "nation": "France",
         "ru": "Jean Bart",
         "search": [
-            "IX JEAN BART",
             "IX JEAN BART"
         ],
         "species": "Battleship"
@@ -3158,7 +2958,6 @@
         "nation": "France",
         "ru": "Champagne",
         "search": [
-            "VIII CHAMPAGNE",
             "VIII CHAMPAGNE"
         ],
         "species": "Battleship"
@@ -3172,7 +2971,6 @@
         "nation": "France",
         "ru": "Flandre",
         "search": [
-            "VIII FLANDRE",
             "VIII FLANDRE"
         ],
         "species": "Battleship"
@@ -3186,7 +2984,6 @@
         "nation": "France",
         "ru": "Dunkerque B",
         "search": [
-            "VI DUNKERQUE B",
             "VI DUNKERQUE B"
         ],
         "species": "Battleship"
@@ -3214,7 +3011,6 @@
         "nation": "France",
         "ru": "[Richelieu]",
         "search": [
-            "VIII [RICHELIEU]",
             "VIII [RICHELIEU]"
         ],
         "species": "Battleship"
@@ -3228,7 +3024,6 @@
         "nation": "France",
         "ru": "Bougainville",
         "search": [
-            "I BOUGAINVILLE",
             "I BOUGAINVILLE"
         ],
         "species": "Cruiser"
@@ -3242,7 +3037,7 @@
         "nation": "France",
         "ru": "Jurien",
         "search": [
-            "II JURIEN",
+            "II JURIEN DE LA GRAVIÈRE",
             "II JURIEN"
         ],
         "species": "Cruiser"
@@ -3256,7 +3051,6 @@
         "nation": "France",
         "ru": "Friant",
         "search": [
-            "III FRIANT",
             "III FRIANT"
         ],
         "species": "Cruiser"
@@ -3270,7 +3064,6 @@
         "nation": "France",
         "ru": "Duguay-Trouin",
         "search": [
-            "IV DUGUAY-TROUIN",
             "IV DUGUAY-TROUIN"
         ],
         "species": "Cruiser"
@@ -3284,7 +3077,6 @@
         "nation": "France",
         "ru": "Émile Bertin",
         "search": [
-            "V ÉMILE BERTIN",
             "V ÉMILE BERTIN"
         ],
         "species": "Cruiser"
@@ -3312,7 +3104,6 @@
         "nation": "France",
         "ru": "Algérie",
         "search": [
-            "VII ALGÉRIE",
             "VII ALGÉRIE"
         ],
         "species": "Cruiser"
@@ -3326,7 +3117,6 @@
         "nation": "France",
         "ru": "Charles Martel",
         "search": [
-            "VIII CHARLES MARTEL",
             "VIII CHARLES MARTEL"
         ],
         "species": "Cruiser"
@@ -3340,7 +3130,6 @@
         "nation": "France",
         "ru": "Saint-Louis",
         "search": [
-            "IX SAINT-LOUIS",
             "IX SAINT-LOUIS"
         ],
         "species": "Cruiser"
@@ -3354,7 +3143,6 @@
         "nation": "France",
         "ru": "Henri IV",
         "search": [
-            "X HENRI IV",
             "X HENRI IV"
         ],
         "species": "Cruiser"
@@ -3368,7 +3156,6 @@
         "nation": "France",
         "ru": "Condé",
         "search": [
-            "XI CONDÉ",
             "XI CONDÉ"
         ],
         "species": "Cruiser"
@@ -3382,7 +3169,6 @@
         "nation": "France",
         "ru": "Cherbourg",
         "search": [
-            "VIII CHERBOURG",
             "VIII CHERBOURG"
         ],
         "species": "Cruiser"
@@ -3396,7 +3182,6 @@
         "nation": "France",
         "ru": "Brest",
         "search": [
-            "IX BREST",
             "IX BREST"
         ],
         "species": "Cruiser"
@@ -3410,7 +3195,6 @@
         "nation": "France",
         "ru": "Marseille",
         "search": [
-            "X MARSEILLE",
             "X MARSEILLE"
         ],
         "species": "Cruiser"
@@ -3424,7 +3208,6 @@
         "nation": "France",
         "ru": "De Grasse",
         "search": [
-            "VI DE GRASSE",
             "VI DE GRASSE"
         ],
         "species": "Cruiser"
@@ -3438,7 +3221,6 @@
         "nation": "France",
         "ru": "Toulon",
         "search": [
-            "VII TOULON",
             "VII TOULON"
         ],
         "species": "Cruiser"
@@ -3452,7 +3234,6 @@
         "nation": "France",
         "ru": "Bayard",
         "search": [
-            "VIII BAYARD",
             "VIII BAYARD"
         ],
         "species": "Cruiser"
@@ -3466,7 +3247,6 @@
         "nation": "France",
         "ru": "Carnot",
         "search": [
-            "IX CARNOT",
             "IX CARNOT"
         ],
         "species": "Cruiser"
@@ -3480,7 +3260,6 @@
         "nation": "France",
         "ru": "Colbert",
         "search": [
-            "X COLBERT",
             "X COLBERT"
         ],
         "species": "Cruiser"
@@ -3494,7 +3273,6 @@
         "nation": "France",
         "ru": "Brennus",
         "search": [
-            "X BRENNUS",
             "X BRENNUS"
         ],
         "species": "Cruiser"
@@ -3508,7 +3286,6 @@
         "nation": "France",
         "ru": "[La Galissonnière]",
         "search": [
-            "VI [LA GALISSONNIÈRE]",
             "VI [LA GALISSONNIÈRE]"
         ],
         "species": "Cruiser"
@@ -3523,7 +3300,7 @@
         "ru": "En. Gabolde",
         "search": [
             "II EN. GABOLDE",
-            "II EN. GABOLDE"
+            "II ENSEIGNE GABOLDE"
         ],
         "species": "Destroyer"
     },
@@ -3536,7 +3313,6 @@
         "nation": "France",
         "ru": "Fusilier",
         "search": [
-            "III FUSILIER",
             "III FUSILIER"
         ],
         "species": "Destroyer"
@@ -3550,7 +3326,6 @@
         "nation": "France",
         "ru": "Bourrasque",
         "search": [
-            "IV BOURRASQUE",
             "IV BOURRASQUE"
         ],
         "species": "Destroyer"
@@ -3564,7 +3339,6 @@
         "nation": "France",
         "ru": "Jaguar",
         "search": [
-            "V JAGUAR",
             "V JAGUAR"
         ],
         "species": "Destroyer"
@@ -3578,7 +3352,6 @@
         "nation": "France",
         "ru": "Guépard",
         "search": [
-            "VI GUÉPARD",
             "VI GUÉPARD"
         ],
         "species": "Destroyer"
@@ -3592,7 +3365,6 @@
         "nation": "France",
         "ru": "Vauquelin",
         "search": [
-            "VII VAUQUELIN",
             "VII VAUQUELIN"
         ],
         "species": "Destroyer"
@@ -3606,8 +3378,8 @@
         "nation": "France",
         "ru": "Le Fantasque",
         "search": [
-            "VIII LE FANTASQUE",
-            "VIII LE FANTASQUE"
+            "VIII LE FANTASQUE",
+            "VIII LE FANTASQUE"
         ],
         "species": "Destroyer"
     },
@@ -3620,7 +3392,6 @@
         "nation": "France",
         "ru": "Mogador",
         "search": [
-            "IX MOGADOR",
             "IX MOGADOR"
         ],
         "species": "Destroyer"
@@ -3634,7 +3405,6 @@
         "nation": "France",
         "ru": "Kléber",
         "search": [
-            "X KLÉBER",
             "X KLÉBER"
         ],
         "species": "Destroyer"
@@ -3648,7 +3418,6 @@
         "nation": "France",
         "ru": "Marceau",
         "search": [
-            "X MARCEAU",
             "X MARCEAU"
         ],
         "species": "Destroyer"
@@ -3662,7 +3431,6 @@
         "nation": "France",
         "ru": "Siroco",
         "search": [
-            "V SIROCO",
             "V SIROCO"
         ],
         "species": "Destroyer"
@@ -3676,7 +3444,6 @@
         "nation": "France",
         "ru": "Aigle",
         "search": [
-            "VI AIGLE",
             "VI AIGLE"
         ],
         "species": "Destroyer"
@@ -3690,7 +3457,6 @@
         "nation": "France",
         "ru": "Le Terrible",
         "search": [
-            "VIII LE TERRIBLE",
             "VIII LE TERRIBLE"
         ],
         "species": "Destroyer"
@@ -3704,7 +3470,6 @@
         "nation": "France",
         "ru": "Cyclone",
         "search": [
-            "V CYCLONE",
             "V CYCLONE"
         ],
         "species": "Destroyer"
@@ -3718,7 +3483,6 @@
         "nation": "France",
         "ru": "L'Effronté",
         "search": [
-            "VIII L'EFFRONTÉ",
             "VIII L'EFFRONTÉ"
         ],
         "species": "Destroyer"
@@ -3732,7 +3496,6 @@
         "nation": "Germany",
         "ru": "Rhein",
         "search": [
-            "IV RHEIN",
             "IV RHEIN"
         ],
         "species": "AirCarrier"
@@ -3746,7 +3509,6 @@
         "nation": "Germany",
         "ru": "Weser",
         "search": [
-            "VI WESER",
             "VI WESER"
         ],
         "species": "AirCarrier"
@@ -3760,7 +3522,7 @@
         "nation": "Germany",
         "ru": "A. Parseval",
         "search": [
-            "VIII A. PARSEVAL",
+            "VIII AUGUST VON PARSEVAL",
             "VIII A. PARSEVAL"
         ],
         "species": "AirCarrier"
@@ -3774,7 +3536,7 @@
         "nation": "Germany",
         "ru": "M. Richthofen",
         "search": [
-            "X M. RICHTHOFEN",
+            "X MANFRED VON RICHTHOFEN",
             "X M. RICHTHOFEN"
         ],
         "species": "AirCarrier"
@@ -3789,7 +3551,8 @@
         "ru": "E. Loewenhardt",
         "search": [
             "VI E. LOEWENHARDT",
-            "VI E. LOEWENHARDT"
+            "VI E. LOEWENHARDT",
+            "VI ERICH LOEWENHARDT"
         ],
         "species": "AirCarrier"
     },
@@ -3802,7 +3565,7 @@
         "nation": "Germany",
         "ru": "Graf Zeppelin (old)",
         "search": [
-            "VIII GRAF ZEPPELIN (OLD)",
+            "VIII GRAF ZEPPELIN (< 23.01.2019)",
             "VIII GRAF ZEPPELIN (OLD)"
         ],
         "species": "AirCarrier"
@@ -3817,7 +3580,7 @@
         "ru": "W. Voss",
         "search": [
             "X W. VOSS",
-            "X W. VOSS"
+            "X WERNER VOSS"
         ],
         "species": "AirCarrier"
     },
@@ -3830,7 +3593,6 @@
         "nation": "Germany",
         "ru": "Graf Zeppelin",
         "search": [
-            "VIII GRAF ZEPPELIN",
             "VIII GRAF ZEPPELIN"
         ],
         "species": "AirCarrier"
@@ -3844,7 +3606,6 @@
         "nation": "Germany",
         "ru": "Graf Zeppelin B",
         "search": [
-            "VIII GRAF ZEPPELIN B",
             "VIII GRAF ZEPPELIN B"
         ],
         "species": "AirCarrier"
@@ -3859,7 +3620,7 @@
         "ru": "M. Immelmann",
         "search": [
             "X M. IMMELMANN",
-            "X M. IMMELMANN"
+            "X MAX IMMELMANN"
         ],
         "species": "AirCarrier"
     },
@@ -3872,7 +3633,6 @@
         "nation": "Germany",
         "ru": "Tirpitz",
         "search": [
-            "VIII TIRPITZ",
             "VIII TIRPITZ"
         ],
         "species": "Battleship"
@@ -3886,7 +3646,6 @@
         "nation": "Germany",
         "ru": "Nassau",
         "search": [
-            "III NASSAU",
             "III NASSAU"
         ],
         "species": "Battleship"
@@ -3900,7 +3659,6 @@
         "nation": "Germany",
         "ru": "Kaiser",
         "search": [
-            "IV KAISER",
             "IV KAISER"
         ],
         "species": "Battleship"
@@ -3914,7 +3672,6 @@
         "nation": "Germany",
         "ru": "König",
         "search": [
-            "V KÖNIG",
             "V KÖNIG"
         ],
         "species": "Battleship"
@@ -3928,7 +3685,6 @@
         "nation": "Germany",
         "ru": "Bayern",
         "search": [
-            "VI BAYERN",
             "VI BAYERN"
         ],
         "species": "Battleship"
@@ -3942,7 +3698,6 @@
         "nation": "Germany",
         "ru": "Gneisenau",
         "search": [
-            "VII GNEISENAU",
             "VII GNEISENAU"
         ],
         "species": "Battleship"
@@ -3956,7 +3711,6 @@
         "nation": "Germany",
         "ru": "Bismarck",
         "search": [
-            "VIII BISMARCK",
             "VIII BISMARCK"
         ],
         "species": "Battleship"
@@ -3971,7 +3725,7 @@
         "ru": "F. der Grosse",
         "search": [
             "IX F. DER GROSSE",
-            "IX F. DER GROSSE"
+            "IX FRIEDRICH DER GROSSE"
         ],
         "species": "Battleship"
     },
@@ -3984,8 +3738,9 @@
         "nation": "Germany",
         "ru": "G. Kurfürst",
         "search": [
-            "X G. KURFÜRST",
-            "X G. KURFÜRST"
+            "X GROSSER KURFÜRST",
+            "X G. KURFÜRST",
+            "X G. KURFÜRST"
         ],
         "species": "Battleship"
     },
@@ -3998,7 +3753,6 @@
         "nation": "Germany",
         "ru": "Hannover",
         "search": [
-            "XI HANNOVER",
             "XI HANNOVER"
         ],
         "species": "Battleship"
@@ -4012,7 +3766,6 @@
         "nation": "Germany",
         "ru": "Von der Tann",
         "search": [
-            "III VON DER TANN",
             "III VON DER TANN"
         ],
         "species": "Battleship"
@@ -4026,7 +3779,6 @@
         "nation": "Germany",
         "ru": "Moltke",
         "search": [
-            "IV MOLTKE",
             "IV MOLTKE"
         ],
         "species": "Battleship"
@@ -4040,7 +3792,6 @@
         "nation": "Germany",
         "ru": "Derfflinger",
         "search": [
-            "V DERFFLINGER",
             "V DERFFLINGER"
         ],
         "species": "Battleship"
@@ -4054,7 +3805,6 @@
         "nation": "Germany",
         "ru": "Mackensen",
         "search": [
-            "VI MACKENSEN",
             "VI MACKENSEN"
         ],
         "species": "Battleship"
@@ -4068,7 +3818,7 @@
         "nation": "Germany",
         "ru": "P. Heinrich",
         "search": [
-            "VII P. HEINRICH",
+            "VII PRINZ HEINRICH",
             "VII P. HEINRICH"
         ],
         "species": "Battleship"
@@ -4082,7 +3832,6 @@
         "nation": "Germany",
         "ru": "Zieten",
         "search": [
-            "VIII ZIETEN",
             "VIII ZIETEN"
         ],
         "species": "Battleship"
@@ -4097,7 +3846,7 @@
         "ru": "P. Rupprecht",
         "search": [
             "IX P. RUPPRECHT",
-            "IX P. RUPPRECHT"
+            "IX PRINZ RUPPRECHT"
         ],
         "species": "Battleship"
     },
@@ -4110,7 +3859,6 @@
         "nation": "Germany",
         "ru": "Schlieffen",
         "search": [
-            "X SCHLIEFFEN",
             "X SCHLIEFFEN"
         ],
         "species": "Battleship"
@@ -4124,7 +3872,6 @@
         "nation": "Germany",
         "ru": "Preussen",
         "search": [
-            "X PREUSSEN",
             "X PREUSSEN"
         ],
         "species": "Battleship"
@@ -4139,7 +3886,8 @@
         "ru": "K. Albert",
         "search": [
             "III K. ALBERT",
-            "III K. ALBERT"
+            "III K. ALBERT",
+            "III KÖNIG ALBERT"
         ],
         "species": "Battleship"
     },
@@ -4153,7 +3901,7 @@
         "ru": "P. E. Friedrich",
         "search": [
             "VI P. E. FRIEDRICH",
-            "VI P. E. FRIEDRICH"
+            "VI PRINZ EITEL FRIEDRICH"
         ],
         "species": "Battleship"
     },
@@ -4166,7 +3914,6 @@
         "nation": "Germany",
         "ru": "Scharnhorst",
         "search": [
-            "VII SCHARNHORST",
             "VII SCHARNHORST"
         ],
         "species": "Battleship"
@@ -4180,7 +3927,6 @@
         "nation": "Germany",
         "ru": "Odin",
         "search": [
-            "VIII ODIN",
             "VIII ODIN"
         ],
         "species": "Battleship"
@@ -4194,7 +3940,6 @@
         "nation": "Germany",
         "ru": "Pommern",
         "search": [
-            "IX POMMERN",
             "IX POMMERN"
         ],
         "species": "Battleship"
@@ -4208,7 +3953,6 @@
         "nation": "Germany",
         "ru": "Brandenburg",
         "search": [
-            "VIII BRANDENBURG",
             "VIII BRANDENBURG"
         ],
         "species": "Battleship"
@@ -4222,7 +3966,6 @@
         "nation": "Germany",
         "ru": "Anhalt",
         "search": [
-            "VIII ANHALT",
             "VIII ANHALT"
         ],
         "species": "Battleship"
@@ -4236,7 +3979,6 @@
         "nation": "Germany",
         "ru": "Scharnhorst B",
         "search": [
-            "VII SCHARNHORST B",
             "VII SCHARNHORST B"
         ],
         "species": "Battleship"
@@ -4250,7 +3992,6 @@
         "nation": "Germany",
         "ru": "Tirpitz B",
         "search": [
-            "VIII TIRPITZ B",
             "VIII TIRPITZ B"
         ],
         "species": "Battleship"
@@ -4264,8 +4005,8 @@
         "nation": "Germany",
         "ru": "Pommern B",
         "search": [
-            "IX POMMERN B",
-            "IX POMMERN B"
+            "IX POMMERN B",
+            "IX POMMERN B"
         ],
         "species": "Battleship"
     },
@@ -4278,7 +4019,6 @@
         "nation": "Germany",
         "ru": "Mecklenburg",
         "search": [
-            "X MECKLENBURG",
             "X MECKLENBURG"
         ],
         "species": "Battleship"
@@ -4293,7 +4033,7 @@
         "ru": "[G. Kurfürst]",
         "search": [
             "X [G. KURFÜRST]",
-            "X [G. KURFÜRST]"
+            "X [GROSSER KURFÜRST]"
         ],
         "species": "Battleship"
     },
@@ -4307,7 +4047,7 @@
         "ru": "Hannover (old)",
         "search": [
             "XI HANNOVER (OLD)",
-            "XI HANNOVER (OLD)"
+            "XI HANNOVER (< 22.09.2021)"
         ],
         "species": "Battleship"
     },
@@ -4320,7 +4060,6 @@
         "nation": "Germany",
         "ru": "Hermelin",
         "search": [
-            "I HERMELIN",
             "I HERMELIN"
         ],
         "species": "Cruiser"
@@ -4334,7 +4073,6 @@
         "nation": "Germany",
         "ru": "Dresden",
         "search": [
-            "II DRESDEN",
             "II DRESDEN"
         ],
         "species": "Cruiser"
@@ -4348,7 +4086,6 @@
         "nation": "Germany",
         "ru": "Kolberg",
         "search": [
-            "III KOLBERG",
             "III KOLBERG"
         ],
         "species": "Cruiser"
@@ -4362,7 +4099,6 @@
         "nation": "Germany",
         "ru": "Karlsruhe",
         "search": [
-            "IV KARLSRUHE",
             "IV KARLSRUHE"
         ],
         "species": "Cruiser"
@@ -4376,7 +4112,6 @@
         "nation": "Germany",
         "ru": "Königsberg",
         "search": [
-            "V KÖNIGSBERG",
             "V KÖNIGSBERG"
         ],
         "species": "Cruiser"
@@ -4390,7 +4125,6 @@
         "nation": "Germany",
         "ru": "Nürnberg",
         "search": [
-            "VI NÜRNBERG",
             "VI NÜRNBERG"
         ],
         "species": "Cruiser"
@@ -4404,7 +4138,6 @@
         "nation": "Germany",
         "ru": "Yorck",
         "search": [
-            "VII YORCK",
             "VII YORCK"
         ],
         "species": "Cruiser"
@@ -4418,7 +4151,7 @@
         "nation": "Germany",
         "ru": "Hipper",
         "search": [
-            "VIII HIPPER",
+            "VIII ADMIRAL HIPPER",
             "VIII HIPPER"
         ],
         "species": "Cruiser"
@@ -4432,7 +4165,6 @@
         "nation": "Germany",
         "ru": "Roon",
         "search": [
-            "IX ROON",
             "IX ROON"
         ],
         "species": "Cruiser"
@@ -4446,7 +4178,6 @@
         "nation": "Germany",
         "ru": "Hindenburg",
         "search": [
-            "X HINDENBURG",
             "X HINDENBURG"
         ],
         "species": "Cruiser"
@@ -4460,7 +4191,6 @@
         "nation": "Germany",
         "ru": "Clausewitz",
         "search": [
-            "XI CLAUSEWITZ",
             "XI CLAUSEWITZ"
         ],
         "species": "Cruiser"
@@ -4474,7 +4204,6 @@
         "nation": "Germany",
         "ru": "Emden",
         "search": [
-            "II EMDEN",
             "II EMDEN"
         ],
         "species": "Cruiser"
@@ -4488,7 +4217,7 @@
         "nation": "Germany",
         "ru": "Graf Spee",
         "search": [
-            "VI GRAF SPEE",
+            "VI ADMIRAL GRAF SPEE",
             "VI GRAF SPEE"
         ],
         "species": "Cruiser"
@@ -4502,7 +4231,6 @@
         "nation": "Germany",
         "ru": "München",
         "search": [
-            "VII MÜNCHEN",
             "VII MÜNCHEN"
         ],
         "species": "Cruiser"
@@ -4516,7 +4244,6 @@
         "nation": "Germany",
         "ru": "Prinz Eugen",
         "search": [
-            "VIII PRINZ EUGEN",
             "VIII PRINZ EUGEN"
         ],
         "species": "Cruiser"
@@ -4530,7 +4257,6 @@
         "nation": "Germany",
         "ru": "Siegfried",
         "search": [
-            "IX SIEGFRIED",
             "IX SIEGFRIED"
         ],
         "species": "Cruiser"
@@ -4544,7 +4270,6 @@
         "nation": "Germany",
         "ru": "Weimar",
         "search": [
-            "VII WEIMAR",
             "VII WEIMAR"
         ],
         "species": "Cruiser"
@@ -4558,7 +4283,6 @@
         "nation": "Germany",
         "ru": "Mainz",
         "search": [
-            "VIII MAINZ",
             "VIII MAINZ"
         ],
         "species": "Cruiser"
@@ -4572,7 +4296,6 @@
         "nation": "Germany",
         "ru": "Ägir",
         "search": [
-            "IX ÄGIR",
             "IX ÄGIR"
         ],
         "species": "Cruiser"
@@ -4586,7 +4309,7 @@
         "nation": "Germany",
         "ru": "Schröder",
         "search": [
-            "IX SCHRÖDER",
+            "IX ADMIRAL SCHRÖDER",
             "IX SCHRÖDER"
         ],
         "species": "Cruiser"
@@ -4600,7 +4323,7 @@
         "nation": "Germany",
         "ru": "HSF Graf Spee",
         "search": [
-            "VI HSF GRAF SPEE",
+            "VI HSF ADMIRAL GRAF SPEE",
             "VI HSF GRAF SPEE"
         ],
         "species": "Cruiser"
@@ -4614,7 +4337,6 @@
         "nation": "Germany",
         "ru": "Cross of Dorn",
         "search": [
-            "VIII CROSS OF DORN",
             "VIII CROSS OF DORN"
         ],
         "species": "Cruiser"
@@ -4628,7 +4350,6 @@
         "nation": "Germany",
         "ru": "[Hindenburg]",
         "search": [
-            "X [HINDENBURG]",
             "X [HINDENBURG]"
         ],
         "species": "Cruiser"
@@ -4642,7 +4363,6 @@
         "nation": "Germany",
         "ru": "V-25",
         "search": [
-            "II V-25",
             "II V-25"
         ],
         "species": "Destroyer"
@@ -4656,7 +4376,6 @@
         "nation": "Germany",
         "ru": "G-101",
         "search": [
-            "III G-101",
             "III G-101"
         ],
         "species": "Destroyer"
@@ -4670,7 +4389,6 @@
         "nation": "Germany",
         "ru": "V-170",
         "search": [
-            "IV V-170",
             "IV V-170"
         ],
         "species": "Destroyer"
@@ -4684,7 +4402,6 @@
         "nation": "Germany",
         "ru": "T-22",
         "search": [
-            "V T-22",
             "V T-22"
         ],
         "species": "Destroyer"
@@ -4698,7 +4415,7 @@
         "nation": "Germany",
         "ru": "Gaede",
         "search": [
-            "VI GAEDE",
+            "VI ERNST GAEDE",
             "VI GAEDE"
         ],
         "species": "Destroyer"
@@ -4712,7 +4429,7 @@
         "nation": "Germany",
         "ru": "Maass",
         "search": [
-            "VII MAASS",
+            "VII LEBERECHT MAASS",
             "VII MAASS"
         ],
         "species": "Destroyer"
@@ -4726,7 +4443,6 @@
         "nation": "Germany",
         "ru": "Z-23",
         "search": [
-            "VIII Z-23",
             "VIII Z-23"
         ],
         "species": "Destroyer"
@@ -4740,7 +4456,6 @@
         "nation": "Germany",
         "ru": "Z-46",
         "search": [
-            "IX Z-46",
             "IX Z-46"
         ],
         "species": "Destroyer"
@@ -4754,7 +4469,6 @@
         "nation": "Germany",
         "ru": "Z-52",
         "search": [
-            "X Z-52",
             "X Z-52"
         ],
         "species": "Destroyer"
@@ -4768,7 +4482,6 @@
         "nation": "Germany",
         "ru": "Z-31",
         "search": [
-            "VII Z-31",
             "VII Z-31"
         ],
         "species": "Destroyer"
@@ -4782,6 +4495,7 @@
         "nation": "Germany",
         "ru": "G. J. Maerker",
         "search": [
+            "VIII GUSTAV-JULIUS MAERKER",
             "VIII G. J. MAERKER",
             "VIII G. J. MAERKER"
         ],
@@ -4797,7 +4511,7 @@
         "ru": "F. Schultz",
         "search": [
             "IX F. SCHULTZ",
-            "IX F. SCHULTZ"
+            "IX FELIX SCHULTZ"
         ],
         "species": "Destroyer"
     },
@@ -4810,7 +4524,6 @@
         "nation": "Germany",
         "ru": "Elbing",
         "search": [
-            "X ELBING",
             "X ELBING"
         ],
         "species": "Destroyer"
@@ -4824,7 +4537,6 @@
         "nation": "Germany",
         "ru": "T-61",
         "search": [
-            "VI T-61",
             "VI T-61"
         ],
         "species": "Destroyer"
@@ -4838,7 +4550,6 @@
         "nation": "Germany",
         "ru": "Z-39",
         "search": [
-            "VII Z-39",
             "VII Z-39"
         ],
         "species": "Destroyer"
@@ -4853,7 +4564,8 @@
         "ru": "K. Schönberg",
         "search": [
             "VI K. SCHÖNBERG",
-            "VI K. SCHÖNBERG"
+            "VI K. SCHÖNBERG",
+            "VI KARL VON SCHÖNBERG"
         ],
         "species": "Destroyer"
     },
@@ -4866,7 +4578,6 @@
         "nation": "Germany",
         "ru": "Z-35",
         "search": [
-            "VIII Z-35",
             "VIII Z-35"
         ],
         "species": "Destroyer"
@@ -4880,7 +4591,6 @@
         "nation": "Germany",
         "ru": "Z-44",
         "search": [
-            "IX Z-44",
             "IX Z-44"
         ],
         "species": "Destroyer"
@@ -4894,7 +4604,6 @@
         "nation": "Germany",
         "ru": "ZF-6",
         "search": [
-            "IX ZF-6",
             "IX ZF-6"
         ],
         "species": "Destroyer"
@@ -4908,7 +4617,6 @@
         "nation": "Germany",
         "ru": "U-69",
         "search": [
-            "VI U-69",
             "VI U-69"
         ],
         "species": "Submarine"
@@ -4922,7 +4630,6 @@
         "nation": "Germany",
         "ru": "U-190",
         "search": [
-            "VIII U-190",
             "VIII U-190"
         ],
         "species": "Submarine"
@@ -4936,7 +4643,6 @@
         "nation": "Germany",
         "ru": "U-2501",
         "search": [
-            "X U-2501",
             "X U-2501"
         ],
         "species": "Submarine"
@@ -4950,7 +4656,6 @@
         "nation": "Germany",
         "ru": "U-69",
         "search": [
-            "VI U-69",
             "VI U-69"
         ],
         "species": "Submarine"
@@ -4964,7 +4669,6 @@
         "nation": "Germany",
         "ru": "U-190",
         "search": [
-            "VIII U-190",
             "VIII U-190"
         ],
         "species": "Submarine"
@@ -4978,7 +4682,6 @@
         "nation": "Germany",
         "ru": "U-2501",
         "search": [
-            "X U-2501",
             "X U-2501"
         ],
         "species": "Submarine"
@@ -4992,7 +4695,6 @@
         "nation": "Germany",
         "ru": "U-4501",
         "search": [
-            "X U-4501",
             "X U-4501"
         ],
         "species": "Submarine"
@@ -5006,7 +4708,6 @@
         "nation": "Netherlands",
         "ru": "Van Kinsbergen",
         "search": [
-            "I VAN KINSBERGEN",
             "I VAN KINSBERGEN"
         ],
         "species": "Cruiser"
@@ -5020,7 +4721,6 @@
         "nation": "Netherlands",
         "ru": "Gelderland",
         "search": [
-            "II GELDERLAND",
             "II GELDERLAND"
         ],
         "species": "Cruiser"
@@ -5034,7 +4734,6 @@
         "nation": "Netherlands",
         "ru": "Java",
         "search": [
-            "III JAVA",
             "III JAVA"
         ],
         "species": "Cruiser"
@@ -5048,7 +4747,6 @@
         "nation": "Netherlands",
         "ru": "De Ruyter",
         "search": [
-            "IV DE RUYTER",
             "IV DE RUYTER"
         ],
         "species": "Cruiser"
@@ -5062,7 +4760,6 @@
         "nation": "Netherlands",
         "ru": "Celebes",
         "search": [
-            "V CELEBES",
             "V CELEBES"
         ],
         "species": "Cruiser"
@@ -5076,7 +4773,6 @@
         "nation": "Netherlands",
         "ru": "Kijkduin",
         "search": [
-            "VI KIJKDUIN",
             "VI KIJKDUIN"
         ],
         "species": "Cruiser"
@@ -5090,7 +4786,6 @@
         "nation": "Netherlands",
         "ru": "Eendracht",
         "search": [
-            "VII EENDRACHT",
             "VII EENDRACHT"
         ],
         "species": "Cruiser"
@@ -5104,7 +4799,6 @@
         "nation": "Netherlands",
         "ru": "Haarlem",
         "search": [
-            "VIII HAARLEM",
             "VIII HAARLEM"
         ],
         "species": "Cruiser"
@@ -5118,7 +4812,6 @@
         "nation": "Netherlands",
         "ru": "Johan de Witt",
         "search": [
-            "IX JOHAN DE WITT",
             "IX JOHAN DE WITT"
         ],
         "species": "Cruiser"
@@ -5132,7 +4825,6 @@
         "nation": "Netherlands",
         "ru": "Gouden Leeuw",
         "search": [
-            "X GOUDEN LEEUW",
             "X GOUDEN LEEUW"
         ],
         "species": "Cruiser"
@@ -5146,7 +4838,7 @@
         "nation": "Netherlands",
         "ru": "De 7 Provinciën",
         "search": [
-            "VIII DE 7 PROVINCIËN",
+            "VIII DE ZEVEN PROVINCIËN",
             "VIII DE 7 PROVINCIËN"
         ],
         "species": "Cruiser"
@@ -5160,7 +4852,6 @@
         "nation": "Netherlands",
         "ru": "Groningen",
         "search": [
-            "IX GRONINGEN",
             "IX GRONINGEN"
         ],
         "species": "Destroyer"
@@ -5174,7 +4865,6 @@
         "nation": "Netherlands",
         "ru": "Tromp",
         "search": [
-            "X TROMP",
             "X TROMP"
         ],
         "species": "Destroyer"
@@ -5188,7 +4878,6 @@
         "nation": "Italy",
         "ru": "Aquila",
         "search": [
-            "VIII AQUILA",
             "VIII AQUILA"
         ],
         "species": "AirCarrier"
@@ -5203,7 +4892,7 @@
         "ru": "D. Alighieri",
         "search": [
             "IV D. ALIGHIERI",
-            "IV D. ALIGHIERI"
+            "IV DANTE ALIGHIERI"
         ],
         "species": "Battleship"
     },
@@ -5216,8 +4905,9 @@
         "nation": "Italy",
         "ru": "Cavour",
         "search": [
+            "V CONTE DI CAVOUR",
             "V CAVOUR",
-            "V CAVOUR"
+            "V CONTE DI CAVOUR"
         ],
         "species": "Battleship"
     },
@@ -5230,7 +4920,6 @@
         "nation": "Italy",
         "ru": "Andrea Doria",
         "search": [
-            "VI ANDREA DORIA",
             "VI ANDREA DORIA"
         ],
         "species": "Battleship"
@@ -5244,7 +4933,7 @@
         "nation": "Italy",
         "ru": "F. Caracciolo",
         "search": [
-            "VII F. CARACCIOLO",
+            "VII FRANCESCO CARACCIOLO",
             "VII F. CARACCIOLO"
         ],
         "species": "Battleship"
@@ -5259,7 +4948,7 @@
         "ru": "V. Veneto",
         "search": [
             "VIII V. VENETO",
-            "VIII V. VENETO"
+            "VIII VITTORIO VENETO"
         ],
         "species": "Battleship"
     },
@@ -5272,7 +4961,6 @@
         "nation": "Italy",
         "ru": "Lepanto",
         "search": [
-            "IX LEPANTO",
             "IX LEPANTO"
         ],
         "species": "Battleship"
@@ -5287,7 +4975,7 @@
         "ru": "C. Colombo",
         "search": [
             "X C. COLOMBO",
-            "X C. COLOMBO"
+            "X CRISTOFORO COLOMBO"
         ],
         "species": "Battleship"
     },
@@ -5300,7 +4988,6 @@
         "nation": "Italy",
         "ru": "Giulio Cesare",
         "search": [
-            "V GIULIO CESARE",
             "V GIULIO CESARE"
         ],
         "species": "Battleship"
@@ -5314,7 +5001,6 @@
         "nation": "Italy",
         "ru": "Roma",
         "search": [
-            "VIII ROMA",
             "VIII ROMA"
         ],
         "species": "Battleship"
@@ -5328,7 +5014,6 @@
         "nation": "Italy",
         "ru": "Marco Polo",
         "search": [
-            "IX MARCO POLO",
             "IX MARCO POLO"
         ],
         "species": "Battleship"
@@ -5342,7 +5027,6 @@
         "nation": "Italy",
         "ru": "Giuseppe Verdi",
         "search": [
-            "IX GIUSEPPE VERDI",
             "IX GIUSEPPE VERDI"
         ],
         "species": "Battleship"
@@ -5356,7 +5040,6 @@
         "nation": "Italy",
         "ru": "AL Littorio",
         "search": [
-            "VIII AL LITTORIO",
             "VIII AL LITTORIO"
         ],
         "species": "Battleship"
@@ -5370,7 +5053,6 @@
         "nation": "Italy",
         "ru": "Giunio Bruto",
         "search": [
-            "VI GIUNIO BRUTO",
             "VI GIUNIO BRUTO"
         ],
         "species": "Battleship"
@@ -5384,7 +5066,6 @@
         "nation": "Italy",
         "ru": "Eritrea",
         "search": [
-            "I ERITREA",
             "I ERITREA"
         ],
         "species": "Cruiser"
@@ -5398,7 +5079,6 @@
         "nation": "Italy",
         "ru": "Nino Bixio",
         "search": [
-            "II NINO BIXIO",
             "II NINO BIXIO"
         ],
         "species": "Cruiser"
@@ -5412,7 +5092,6 @@
         "nation": "Italy",
         "ru": "Taranto",
         "search": [
-            "III TARANTO",
             "III TARANTO"
         ],
         "species": "Cruiser"
@@ -5426,7 +5105,8 @@
         "nation": "Italy",
         "ru": "Giussano",
         "search": [
-            "IV GIUSSANO",
+            "IV ALBERTO DI GIUSSANO",
+            "IV ALBERTO DI GIUSSANO",
             "IV GIUSSANO"
         ],
         "species": "Cruiser"
@@ -5441,7 +5121,7 @@
         "ru": "Montecuccoli",
         "search": [
             "V MONTECUCCOLI",
-            "V MONTECUCCOLI"
+            "V RAIMONDO MONTECUCCOLI"
         ],
         "species": "Cruiser"
     },
@@ -5454,7 +5134,6 @@
         "nation": "Italy",
         "ru": "Trento",
         "search": [
-            "VI TRENTO",
             "VI TRENTO"
         ],
         "species": "Cruiser"
@@ -5468,7 +5147,6 @@
         "nation": "Italy",
         "ru": "Zara",
         "search": [
-            "VII ZARA",
             "VII ZARA"
         ],
         "species": "Cruiser"
@@ -5482,7 +5160,6 @@
         "nation": "Italy",
         "ru": "Amalfi",
         "search": [
-            "VIII AMALFI",
             "VIII AMALFI"
         ],
         "species": "Cruiser"
@@ -5496,7 +5173,6 @@
         "nation": "Italy",
         "ru": "Brindisi",
         "search": [
-            "IX BRINDISI",
             "IX BRINDISI"
         ],
         "species": "Cruiser"
@@ -5510,7 +5186,6 @@
         "nation": "Italy",
         "ru": "Venezia",
         "search": [
-            "X VENEZIA",
             "X VENEZIA"
         ],
         "species": "Cruiser"
@@ -5524,7 +5199,6 @@
         "nation": "Italy",
         "ru": "Genova",
         "search": [
-            "V GENOVA",
             "V GENOVA"
         ],
         "species": "Cruiser"
@@ -5538,7 +5212,6 @@
         "nation": "Italy",
         "ru": "Duca d'Aosta",
         "search": [
-            "VI DUCA D'AOSTA",
             "VI DUCA D'AOSTA"
         ],
         "species": "Cruiser"
@@ -5552,7 +5225,7 @@
         "nation": "Italy",
         "ru": "Abruzzi",
         "search": [
-            "VII ABRUZZI",
+            "VII DUCA DEGLI ABRUZZI",
             "VII ABRUZZI"
         ],
         "species": "Cruiser"
@@ -5566,7 +5239,6 @@
         "nation": "Italy",
         "ru": "Napoli",
         "search": [
-            "X NAPOLI",
             "X NAPOLI"
         ],
         "species": "Cruiser"
@@ -5580,7 +5252,6 @@
         "nation": "Italy",
         "ru": "Gorizia",
         "search": [
-            "VII GORIZIA",
             "VII GORIZIA"
         ],
         "species": "Cruiser"
@@ -5594,7 +5265,6 @@
         "nation": "Italy",
         "ru": "Curtatone",
         "search": [
-            "II CURTATONE",
             "II CURTATONE"
         ],
         "species": "Destroyer"
@@ -5608,8 +5278,9 @@
         "nation": "Italy",
         "ru": "N. Sauro",
         "search": [
-            "III N. SAURO",
-            "III N. SAURO"
+            "III NAZARIO SAURO",
+            "III N. SAURO",
+            "III N. SAURO"
         ],
         "species": "Destroyer"
     },
@@ -5622,7 +5293,6 @@
         "nation": "Italy",
         "ru": "Turbine",
         "search": [
-            "IV TURBINE",
             "IV TURBINE"
         ],
         "species": "Destroyer"
@@ -5636,7 +5306,6 @@
         "nation": "Italy",
         "ru": "Maestrale",
         "search": [
-            "V MAESTRALE",
             "V MAESTRALE"
         ],
         "species": "Destroyer"
@@ -5650,7 +5319,6 @@
         "nation": "Italy",
         "ru": "Aviere",
         "search": [
-            "VI AVIERE",
             "VI AVIERE"
         ],
         "species": "Destroyer"
@@ -5664,8 +5332,9 @@
         "nation": "Italy",
         "ru": "L. Tarigo",
         "search": [
-            "VII L. TARIGO",
-            "VII L. TARIGO"
+            "VII L. TARIGO",
+            "VII LUCA TARIGO",
+            "VII L. TARIGO"
         ],
         "species": "Destroyer"
     },
@@ -5678,6 +5347,7 @@
         "nation": "Italy",
         "ru": "V. Cuniberti",
         "search": [
+            "VIII VITTORIO CUNIBERTI",
             "VIII V. CUNIBERTI",
             "VIII V. CUNIBERTI"
         ],
@@ -5692,7 +5362,6 @@
         "nation": "Italy",
         "ru": "Adriatico",
         "search": [
-            "IX ADRIATICO",
             "IX ADRIATICO"
         ],
         "species": "Destroyer"
@@ -5706,8 +5375,9 @@
         "nation": "Italy",
         "ru": "A. Regolo",
         "search": [
-            "X A. REGOLO",
-            "X A. REGOLO"
+            "X ATTILIO REGOLO",
+            "X A. REGOLO",
+            "X A. REGOLO"
         ],
         "species": "Destroyer"
     },
@@ -5720,7 +5390,6 @@
         "nation": "Italy",
         "ru": "Leone",
         "search": [
-            "VI LEONE",
             "VI LEONE"
         ],
         "species": "Destroyer"
@@ -5734,7 +5403,6 @@
         "nation": "Italy",
         "ru": "FR25",
         "search": [
-            "VII FR25",
             "VII FR25"
         ],
         "species": "Destroyer"
@@ -5748,7 +5416,6 @@
         "nation": "Italy",
         "ru": "Paolo Emilio",
         "search": [
-            "IX PAOLO EMILIO",
             "IX PAOLO EMILIO"
         ],
         "species": "Destroyer"
@@ -5762,7 +5429,7 @@
         "nation": "Japan",
         "ru": "Hōshō (old)",
         "search": [
-            "IV HŌSHŌ (OLD)",
+            "IV HŌSHŌ (< 23.01.2019)",
             "IV HŌSHŌ (OLD)"
         ],
         "species": "AirCarrier"
@@ -5777,7 +5444,7 @@
         "ru": "Zuihō (old)",
         "search": [
             "V ZUIHŌ (OLD)",
-            "V ZUIHŌ (OLD)"
+            "V ZUIHŌ (< 23.01.2019)"
         ],
         "species": "AirCarrier"
     },
@@ -5790,7 +5457,7 @@
         "nation": "Japan",
         "ru": "Ryūjō (old)",
         "search": [
-            "VI RYŪJŌ (OLD)",
+            "VI RYŪJŌ (< 23.01.2019)",
             "VI RYŪJŌ (OLD)"
         ],
         "species": "AirCarrier"
@@ -5804,7 +5471,7 @@
         "nation": "Japan",
         "ru": "Hiryū (old)",
         "search": [
-            "VII HIRYŪ (OLD)",
+            "VII HIRYŪ (< 23.01.2019)",
             "VII HIRYŪ (OLD)"
         ],
         "species": "AirCarrier"
@@ -5819,7 +5486,7 @@
         "ru": "Shōkaku (old)",
         "search": [
             "VIII SHŌKAKU (OLD)",
-            "VIII SHŌKAKU (OLD)"
+            "VIII SHŌKAKU (< 23.01.2019)"
         ],
         "species": "AirCarrier"
     },
@@ -5832,7 +5499,7 @@
         "nation": "Japan",
         "ru": "Taihō (old)",
         "search": [
-            "IX TAIHŌ (OLD)",
+            "IX TAIHŌ (< 23.01.2019)",
             "IX TAIHŌ (OLD)"
         ],
         "species": "AirCarrier"
@@ -5846,7 +5513,7 @@
         "nation": "Japan",
         "ru": "Hakuryū (old)",
         "search": [
-            "X HAKURYŪ (OLD)",
+            "X HAKURYŪ (< 23.01.2019)",
             "X HAKURYŪ (OLD)"
         ],
         "species": "AirCarrier"
@@ -5860,7 +5527,6 @@
         "nation": "Japan",
         "ru": "Hōshō",
         "search": [
-            "IV HŌSHŌ",
             "IV HŌSHŌ"
         ],
         "species": "AirCarrier"
@@ -5874,7 +5540,6 @@
         "nation": "Japan",
         "ru": "Ryūjō",
         "search": [
-            "VI RYŪJŌ",
             "VI RYŪJŌ"
         ],
         "species": "AirCarrier"
@@ -5888,7 +5553,6 @@
         "nation": "Japan",
         "ru": "Shōkaku",
         "search": [
-            "VIII SHŌKAKU",
             "VIII SHŌKAKU"
         ],
         "species": "AirCarrier"
@@ -5902,7 +5566,6 @@
         "nation": "Japan",
         "ru": "Hakuryū",
         "search": [
-            "X HAKURYŪ",
             "X HAKURYŪ"
         ],
         "species": "AirCarrier"
@@ -5916,7 +5579,6 @@
         "nation": "Japan",
         "ru": "Sekiryu",
         "search": [
-            "XI SEKIRYU",
             "XI SEKIRYU"
         ],
         "species": "AirCarrier"
@@ -5931,7 +5593,7 @@
         "ru": "Kaga (old)",
         "search": [
             "VII KAGA (OLD)",
-            "VII KAGA (OLD)"
+            "VII KAGA (< 23.01.2019)"
         ],
         "species": "AirCarrier"
     },
@@ -5944,7 +5606,6 @@
         "nation": "Japan",
         "ru": "Kaga",
         "search": [
-            "VIII KAGA",
             "VIII KAGA"
         ],
         "species": "AirCarrier"
@@ -5958,7 +5619,6 @@
         "nation": "Japan",
         "ru": "Kaga B",
         "search": [
-            "VIII KAGA B",
             "VIII KAGA B"
         ],
         "species": "AirCarrier"
@@ -5972,7 +5632,6 @@
         "nation": "Japan",
         "ru": "[Hakuryū]",
         "search": [
-            "X [HAKURYŪ]",
             "X [HAKURYŪ]"
         ],
         "species": "AirCarrier"
@@ -5986,7 +5645,6 @@
         "nation": "Japan",
         "ru": "Kawachi",
         "search": [
-            "III KAWACHI",
             "III KAWACHI"
         ],
         "species": "Battleship"
@@ -6000,7 +5658,6 @@
         "nation": "Japan",
         "ru": "Myōgi",
         "search": [
-            "IV MYŌGI",
             "IV MYŌGI"
         ],
         "species": "Battleship"
@@ -6014,7 +5671,6 @@
         "nation": "Japan",
         "ru": "Fusō",
         "search": [
-            "VI FUSŌ",
             "VI FUSŌ"
         ],
         "species": "Battleship"
@@ -6028,7 +5684,6 @@
         "nation": "Japan",
         "ru": "Kongō",
         "search": [
-            "V KONGŌ",
             "V KONGŌ"
         ],
         "species": "Battleship"
@@ -6042,7 +5697,6 @@
         "nation": "Japan",
         "ru": "Ishizuchi",
         "search": [
-            "IV ISHIZUCHI",
             "IV ISHIZUCHI"
         ],
         "species": "Battleship"
@@ -6056,7 +5710,6 @@
         "nation": "Japan",
         "ru": "Nagato",
         "search": [
-            "VII NAGATO",
             "VII NAGATO"
         ],
         "species": "Battleship"
@@ -6070,7 +5723,6 @@
         "nation": "Japan",
         "ru": "Mikasa",
         "search": [
-            "II MIKASA",
             "II MIKASA"
         ],
         "species": "Battleship"
@@ -6084,7 +5736,6 @@
         "nation": "Japan",
         "ru": "Amagi",
         "search": [
-            "VIII AMAGI",
             "VIII AMAGI"
         ],
         "species": "Battleship"
@@ -6098,7 +5749,6 @@
         "nation": "Japan",
         "ru": "Yamato",
         "search": [
-            "X YAMATO",
             "X YAMATO"
         ],
         "species": "Battleship"
@@ -6112,7 +5762,6 @@
         "nation": "Japan",
         "ru": "Izumo",
         "search": [
-            "IX IZUMO",
             "IX IZUMO"
         ],
         "species": "Battleship"
@@ -6126,7 +5775,6 @@
         "nation": "Japan",
         "ru": "Satsuma",
         "search": [
-            "XI SATSUMA",
             "XI SATSUMA"
         ],
         "species": "Battleship"
@@ -6140,7 +5788,6 @@
         "nation": "Japan",
         "ru": "Mutsu",
         "search": [
-            "VI MUTSU",
             "VI MUTSU"
         ],
         "species": "Battleship"
@@ -6154,7 +5801,6 @@
         "nation": "Japan",
         "ru": "Ashitaka",
         "search": [
-            "VII ASHITAKA",
             "VII ASHITAKA"
         ],
         "species": "Battleship"
@@ -6168,7 +5814,6 @@
         "nation": "Japan",
         "ru": "Kii",
         "search": [
-            "VIII KII",
             "VIII KII"
         ],
         "species": "Battleship"
@@ -6182,7 +5827,6 @@
         "nation": "Japan",
         "ru": "Musashi",
         "search": [
-            "IX MUSASHI",
             "IX MUSASHI"
         ],
         "species": "Battleship"
@@ -6196,7 +5840,6 @@
         "nation": "Japan",
         "ru": "Shikishima",
         "search": [
-            "X SHIKISHIMA",
             "X SHIKISHIMA"
         ],
         "species": "Battleship"
@@ -6210,7 +5853,6 @@
         "nation": "Japan",
         "ru": "Hyūga",
         "search": [
-            "VII HYŪGA",
             "VII HYŪGA"
         ],
         "species": "Battleship"
@@ -6224,7 +5866,6 @@
         "nation": "Japan",
         "ru": "Hizen",
         "search": [
-            "IX HIZEN",
             "IX HIZEN"
         ],
         "species": "Battleship"
@@ -6238,7 +5879,6 @@
         "nation": "Japan",
         "ru": "Ise",
         "search": [
-            "VI ISE",
             "VI ISE"
         ],
         "species": "Battleship"
@@ -6252,7 +5892,6 @@
         "nation": "Japan",
         "ru": "Iwami",
         "search": [
-            "IX IWAMI",
             "IX IWAMI"
         ],
         "species": "Battleship"
@@ -6266,7 +5905,6 @@
         "nation": "Japan",
         "ru": "ARP Yamato",
         "search": [
-            "X ARP YAMATO",
             "X ARP YAMATO"
         ],
         "species": "Battleship"
@@ -6280,7 +5918,6 @@
         "nation": "Japan",
         "ru": "ARP Kongō",
         "search": [
-            "V ARP KONGŌ",
             "V ARP KONGŌ"
         ],
         "species": "Battleship"
@@ -6294,7 +5931,6 @@
         "nation": "Japan",
         "ru": "ARP Kirishima",
         "search": [
-            "V ARP KIRISHIMA",
             "V ARP KIRISHIMA"
         ],
         "species": "Battleship"
@@ -6308,7 +5944,6 @@
         "nation": "Japan",
         "ru": "ARP Haruna",
         "search": [
-            "V ARP HARUNA",
             "V ARP HARUNA"
         ],
         "species": "Battleship"
@@ -6322,7 +5957,6 @@
         "nation": "Japan",
         "ru": "ARP Hiei",
         "search": [
-            "V ARP HIEI",
             "V ARP HIEI"
         ],
         "species": "Battleship"
@@ -6336,7 +5970,6 @@
         "nation": "Japan",
         "ru": "HSF Hiei",
         "search": [
-            "V HSF HIEI",
             "V HSF HIEI"
         ],
         "species": "Battleship"
@@ -6350,7 +5983,6 @@
         "nation": "Japan",
         "ru": "ARP Kirishima",
         "search": [
-            "V ARP KIRISHIMA",
             "V ARP KIRISHIMA"
         ],
         "species": "Battleship"
@@ -6364,7 +5996,6 @@
         "nation": "Japan",
         "ru": "Ignis Purgatio",
         "search": [
-            "VIII IGNIS PURGATIO",
             "VIII IGNIS PURGATIO"
         ],
         "species": "Battleship"
@@ -6378,7 +6009,6 @@
         "nation": "Japan",
         "ru": "Ragnarok",
         "search": [
-            "VIII RAGNAROK",
             "VIII RAGNAROK"
         ],
         "species": "Battleship"
@@ -6420,7 +6050,6 @@
         "nation": "Japan",
         "ru": "[Yamato]",
         "search": [
-            "X [YAMATO]",
             "X [YAMATO]"
         ],
         "species": "Battleship"
@@ -6434,7 +6063,7 @@
         "nation": "Japan",
         "ru": "Satsuma (old)",
         "search": [
-            "XI SATSUMA (OLD)",
+            "XI SATSUMA (< 22.09.2021)",
             "XI SATSUMA (OLD)"
         ],
         "species": "Battleship"
@@ -6448,7 +6077,6 @@
         "nation": "Japan",
         "ru": "Yūbari",
         "search": [
-            "IV YŪBARI",
             "IV YŪBARI"
         ],
         "species": "Cruiser"
@@ -6462,7 +6090,6 @@
         "nation": "Japan",
         "ru": "Furutaka",
         "search": [
-            "V FURUTAKA",
             "V FURUTAKA"
         ],
         "species": "Cruiser"
@@ -6476,7 +6103,6 @@
         "nation": "Japan",
         "ru": "Aoba",
         "search": [
-            "VI AOBA",
             "VI AOBA"
         ],
         "species": "Cruiser"
@@ -6490,7 +6116,6 @@
         "nation": "Japan",
         "ru": "Myōkō",
         "search": [
-            "VII MYŌKŌ",
             "VII MYŌKŌ"
         ],
         "species": "Cruiser"
@@ -6504,7 +6129,6 @@
         "nation": "Japan",
         "ru": "Mogami",
         "search": [
-            "VIII MOGAMI",
             "VIII MOGAMI"
         ],
         "species": "Cruiser"
@@ -6518,7 +6142,6 @@
         "nation": "Japan",
         "ru": "Ibuki",
         "search": [
-            "IX IBUKI",
             "IX IBUKI"
         ],
         "species": "Cruiser"
@@ -6532,7 +6155,6 @@
         "nation": "Japan",
         "ru": "Kuma",
         "search": [
-            "IV KUMA",
             "IV KUMA"
         ],
         "species": "Cruiser"
@@ -6546,7 +6168,6 @@
         "nation": "Japan",
         "ru": "Kitakami",
         "search": [
-            "X KITAKAMI",
             "X KITAKAMI"
         ],
         "species": "Cruiser"
@@ -6560,7 +6181,6 @@
         "nation": "Japan",
         "ru": "Tenryū",
         "search": [
-            "III TENRYŪ",
             "III TENRYŪ"
         ],
         "species": "Cruiser"
@@ -6574,7 +6194,6 @@
         "nation": "Japan",
         "ru": "Tone",
         "search": [
-            "VIII TONE",
             "VIII TONE"
         ],
         "species": "Cruiser"
@@ -6588,7 +6207,7 @@
         "nation": "Japan",
         "ru": "Iwaki A",
         "search": [
-            "IV IWAKI A",
+            "IV IWAKI ALPHA",
             "IV IWAKI A"
         ],
         "species": "Cruiser"
@@ -6602,7 +6221,6 @@
         "nation": "Japan",
         "ru": "Zaō",
         "search": [
-            "X ZAŌ",
             "X ZAŌ"
         ],
         "species": "Cruiser"
@@ -6616,7 +6234,6 @@
         "nation": "Japan",
         "ru": "Chikuma",
         "search": [
-            "II CHIKUMA",
             "II CHIKUMA"
         ],
         "species": "Cruiser"
@@ -6630,7 +6247,6 @@
         "nation": "Japan",
         "ru": "Hashidate",
         "search": [
-            "I HASHIDATE",
             "I HASHIDATE"
         ],
         "species": "Cruiser"
@@ -6644,7 +6260,6 @@
         "nation": "Japan",
         "ru": "Atago",
         "search": [
-            "VIII ATAGO",
             "VIII ATAGO"
         ],
         "species": "Cruiser"
@@ -6658,7 +6273,6 @@
         "nation": "Japan",
         "ru": "Agano",
         "search": [
-            "V AGANO",
             "V AGANO"
         ],
         "species": "Cruiser"
@@ -6672,7 +6286,6 @@
         "nation": "Japan",
         "ru": "Gokase",
         "search": [
-            "VI GOKASE",
             "VI GOKASE"
         ],
         "species": "Cruiser"
@@ -6686,7 +6299,6 @@
         "nation": "Japan",
         "ru": "Omono",
         "search": [
-            "VII OMONO",
             "VII OMONO"
         ],
         "species": "Cruiser"
@@ -6700,7 +6312,6 @@
         "nation": "Japan",
         "ru": "Shimanto",
         "search": [
-            "VIII SHIMANTO",
             "VIII SHIMANTO"
         ],
         "species": "Cruiser"
@@ -6714,7 +6325,6 @@
         "nation": "Japan",
         "ru": "Takahashi",
         "search": [
-            "IX TAKAHASHI",
             "IX TAKAHASHI"
         ],
         "species": "Cruiser"
@@ -6728,7 +6338,6 @@
         "nation": "Japan",
         "ru": "Yodo",
         "search": [
-            "X YODO",
             "X YODO"
         ],
         "species": "Cruiser"
@@ -6742,7 +6351,6 @@
         "nation": "Japan",
         "ru": "Katori",
         "search": [
-            "III KATORI",
             "III KATORI"
         ],
         "species": "Cruiser"
@@ -6756,7 +6364,6 @@
         "nation": "Japan",
         "ru": "Yahagi",
         "search": [
-            "V YAHAGI",
             "V YAHAGI"
         ],
         "species": "Cruiser"
@@ -6770,7 +6377,6 @@
         "nation": "Japan",
         "ru": "Tokachi",
         "search": [
-            "VII TOKACHI",
             "VII TOKACHI"
         ],
         "species": "Cruiser"
@@ -6784,7 +6390,6 @@
         "nation": "Japan",
         "ru": "Azuma",
         "search": [
-            "IX AZUMA",
             "IX AZUMA"
         ],
         "species": "Cruiser"
@@ -6798,7 +6403,6 @@
         "nation": "Japan",
         "ru": "Maya",
         "search": [
-            "VII MAYA",
             "VII MAYA"
         ],
         "species": "Cruiser"
@@ -6812,7 +6416,6 @@
         "nation": "Japan",
         "ru": "AL Azuma",
         "search": [
-            "IX AL AZUMA",
             "IX AL AZUMA"
         ],
         "species": "Cruiser"
@@ -6826,7 +6429,6 @@
         "nation": "Japan",
         "ru": "Yoshino",
         "search": [
-            "X YOSHINO",
             "X YOSHINO"
         ],
         "species": "Cruiser"
@@ -6854,7 +6456,6 @@
         "nation": "Japan",
         "ru": "Atago B",
         "search": [
-            "VIII ATAGO B",
             "VIII ATAGO B"
         ],
         "species": "Cruiser"
@@ -6868,7 +6469,6 @@
         "nation": "Japan",
         "ru": "Kitakami",
         "search": [
-            "X KITAKAMI",
             "X KITAKAMI"
         ],
         "species": "Cruiser"
@@ -6882,7 +6482,6 @@
         "nation": "Japan",
         "ru": "ARP Myōkō",
         "search": [
-            "VII ARP MYŌKŌ",
             "VII ARP MYŌKŌ"
         ],
         "species": "Cruiser"
@@ -6896,7 +6495,6 @@
         "nation": "Japan",
         "ru": "ARP Ashigara",
         "search": [
-            "VII ARP ASHIGARA",
             "VII ARP ASHIGARA"
         ],
         "species": "Cruiser"
@@ -6910,7 +6508,6 @@
         "nation": "Japan",
         "ru": "ARP Takao",
         "search": [
-            "VIII ARP TAKAO",
             "VIII ARP TAKAO"
         ],
         "species": "Cruiser"
@@ -6924,7 +6521,6 @@
         "nation": "Japan",
         "ru": "ARP Haguro",
         "search": [
-            "VII ARP HAGURO",
             "VII ARP HAGURO"
         ],
         "species": "Cruiser"
@@ -6938,7 +6534,7 @@
         "nation": "Japan",
         "ru": "S. Dragon",
         "search": [
-            "VII S. DRAGON",
+            "VII SOUTHERN DRAGON",
             "VII S. DRAGON"
         ],
         "species": "Cruiser"
@@ -6952,7 +6548,6 @@
         "nation": "Japan",
         "ru": "ARP Maya",
         "search": [
-            "VIII ARP MAYA",
             "VIII ARP MAYA"
         ],
         "species": "Cruiser"
@@ -6966,7 +6561,7 @@
         "nation": "Japan",
         "ru": "E. Dragon",
         "search": [
-            "VII E. DRAGON",
+            "VII EASTERN DRAGON",
             "VII E. DRAGON"
         ],
         "species": "Cruiser"
@@ -6980,7 +6575,6 @@
         "nation": "Japan",
         "ru": "ARP Nachi",
         "search": [
-            "VII ARP NACHI",
             "VII ARP NACHI"
         ],
         "species": "Cruiser"
@@ -6994,7 +6588,6 @@
         "nation": "Japan",
         "ru": "Zaō P",
         "search": [
-            "X ZAŌ P",
             "X ZAŌ P"
         ],
         "species": "Cruiser"
@@ -7036,7 +6629,6 @@
         "nation": "Japan",
         "ru": "[Zaō]",
         "search": [
-            "X [ZAŌ]",
             "X [ZAŌ]"
         ],
         "species": "Cruiser"
@@ -7050,7 +6642,6 @@
         "nation": "Japan",
         "ru": "Tachibana",
         "search": [
-            "II TACHIBANA",
             "II TACHIBANA"
         ],
         "species": "Destroyer"
@@ -7064,7 +6655,6 @@
         "nation": "Japan",
         "ru": "Umikaze",
         "search": [
-            "II UMIKAZE",
             "II UMIKAZE"
         ],
         "species": "Destroyer"
@@ -7078,7 +6668,6 @@
         "nation": "Japan",
         "ru": "Isokaze",
         "search": [
-            "IV ISOKAZE",
             "IV ISOKAZE"
         ],
         "species": "Destroyer"
@@ -7092,7 +6681,6 @@
         "nation": "Japan",
         "ru": "Minekaze",
         "search": [
-            "V MINEKAZE",
             "V MINEKAZE"
         ],
         "species": "Destroyer"
@@ -7107,7 +6695,7 @@
         "ru": "Mutsuki (old)",
         "search": [
             "VI MUTSUKI (OLD)",
-            "VI MUTSUKI (OLD)"
+            "VI MUTSUKI (< 01.12.2016)"
         ],
         "species": "Destroyer"
     },
@@ -7121,7 +6709,7 @@
         "ru": "Hatsuharu (old)",
         "search": [
             "VII HATSUHARU (OLD)",
-            "VII HATSUHARU (OLD)"
+            "VII HATSUHARU (< 01.12.2016)"
         ],
         "species": "Destroyer"
     },
@@ -7134,7 +6722,7 @@
         "nation": "Japan",
         "ru": "Fubuki (old)",
         "search": [
-            "VIII FUBUKI (OLD)",
+            "VIII FUBUKI (< 01.12.2016)",
             "VIII FUBUKI (OLD)"
         ],
         "species": "Destroyer"
@@ -7148,7 +6736,7 @@
         "nation": "Japan",
         "ru": "Kagerō (old)",
         "search": [
-            "IX KAGERŌ (OLD)",
+            "IX KAGERŌ (< 01.12.2016)",
             "IX KAGERŌ (OLD)"
         ],
         "species": "Destroyer"
@@ -7162,7 +6750,6 @@
         "nation": "Japan",
         "ru": "Shimakaze",
         "search": [
-            "X SHIMAKAZE",
             "X SHIMAKAZE"
         ],
         "species": "Destroyer"
@@ -7177,7 +6764,7 @@
         "ru": "Tachibana L",
         "search": [
             "II TACHIBANA L",
-            "II TACHIBANA L"
+            "II TACHIBANA LIMA"
         ],
         "species": "Destroyer"
     },
@@ -7190,7 +6777,6 @@
         "nation": "Japan",
         "ru": "Fūjin",
         "search": [
-            "V FŪJIN",
             "V FŪJIN"
         ],
         "species": "Destroyer"
@@ -7204,7 +6790,6 @@
         "nation": "Japan",
         "ru": "Wakatake",
         "search": [
-            "III WAKATAKE",
             "III WAKATAKE"
         ],
         "species": "Destroyer"
@@ -7218,7 +6803,6 @@
         "nation": "Japan",
         "ru": "Kamikaze",
         "search": [
-            "V KAMIKAZE",
             "V KAMIKAZE"
         ],
         "species": "Destroyer"
@@ -7232,7 +6816,6 @@
         "nation": "Japan",
         "ru": "Kamikaze R",
         "search": [
-            "V KAMIKAZE R",
             "V KAMIKAZE R"
         ],
         "species": "Destroyer"
@@ -7246,7 +6829,6 @@
         "nation": "Japan",
         "ru": "Mutsuki",
         "search": [
-            "V MUTSUKI",
             "V MUTSUKI"
         ],
         "species": "Destroyer"
@@ -7260,7 +6842,6 @@
         "nation": "Japan",
         "ru": "Fubuki",
         "search": [
-            "VI FUBUKI",
             "VI FUBUKI"
         ],
         "species": "Destroyer"
@@ -7274,7 +6855,6 @@
         "nation": "Japan",
         "ru": "Akatsuki",
         "search": [
-            "VII AKATSUKI",
             "VII AKATSUKI"
         ],
         "species": "Destroyer"
@@ -7288,7 +6868,6 @@
         "nation": "Japan",
         "ru": "Akizuki",
         "search": [
-            "VIII AKIZUKI",
             "VIII AKIZUKI"
         ],
         "species": "Destroyer"
@@ -7302,7 +6881,6 @@
         "nation": "Japan",
         "ru": "Yamagiri",
         "search": [
-            "XI YAMAGIRI",
             "XI YAMAGIRI"
         ],
         "species": "Destroyer"
@@ -7316,7 +6894,6 @@
         "nation": "Japan",
         "ru": "Hatsuharu",
         "search": [
-            "VI HATSUHARU",
             "VI HATSUHARU"
         ],
         "species": "Destroyer"
@@ -7330,7 +6907,6 @@
         "nation": "Japan",
         "ru": "Shiratsuyu",
         "search": [
-            "VII SHIRATSUYU",
             "VII SHIRATSUYU"
         ],
         "species": "Destroyer"
@@ -7344,7 +6920,6 @@
         "nation": "Japan",
         "ru": "Kagerō",
         "search": [
-            "VIII KAGERŌ",
             "VIII KAGERŌ"
         ],
         "species": "Destroyer"
@@ -7358,7 +6933,6 @@
         "nation": "Japan",
         "ru": "Yūgumo",
         "search": [
-            "IX YŪGUMO",
             "IX YŪGUMO"
         ],
         "species": "Destroyer"
@@ -7372,7 +6946,6 @@
         "nation": "Japan",
         "ru": "Harugumo",
         "search": [
-            "X HARUGUMO",
             "X HARUGUMO"
         ],
         "species": "Destroyer"
@@ -7386,7 +6959,6 @@
         "nation": "Japan",
         "ru": "Kitakaze",
         "search": [
-            "IX KITAKAZE",
             "IX KITAKAZE"
         ],
         "species": "Destroyer"
@@ -7400,7 +6972,6 @@
         "nation": "Japan",
         "ru": "Yūdachi",
         "search": [
-            "VII YŪDACHI",
             "VII YŪDACHI"
         ],
         "species": "Destroyer"
@@ -7414,7 +6985,6 @@
         "nation": "Japan",
         "ru": "Hayate",
         "search": [
-            "X HAYATE",
             "X HAYATE"
         ],
         "species": "Destroyer"
@@ -7428,7 +6998,6 @@
         "nation": "Japan",
         "ru": "Asashio",
         "search": [
-            "VIII ASASHIO",
             "VIII ASASHIO"
         ],
         "species": "Destroyer"
@@ -7442,7 +7011,6 @@
         "nation": "Japan",
         "ru": "HSF Harekaze II",
         "search": [
-            "VIII HSF HAREKAZE II",
             "VIII HSF HAREKAZE II"
         ],
         "species": "Destroyer"
@@ -7456,7 +7024,6 @@
         "nation": "Japan",
         "ru": "Asashio B",
         "search": [
-            "VIII ASASHIO B",
             "VIII ASASHIO B"
         ],
         "species": "Destroyer"
@@ -7470,7 +7037,6 @@
         "nation": "Japan",
         "ru": "Shinonome",
         "search": [
-            "VI SHINONOME",
             "VI SHINONOME"
         ],
         "species": "Destroyer"
@@ -7484,7 +7050,6 @@
         "nation": "Japan",
         "ru": "HSF Harekaze",
         "search": [
-            "VIII HSF HAREKAZE",
             "VIII HSF HAREKAZE"
         ],
         "species": "Destroyer"
@@ -7498,7 +7063,6 @@
         "nation": "Japan",
         "ru": "AL Yukikaze",
         "search": [
-            "VIII AL YUKIKAZE",
             "VIII AL YUKIKAZE"
         ],
         "species": "Destroyer"
@@ -7512,7 +7076,6 @@
         "nation": "Japan",
         "ru": "[Shimakaze]",
         "search": [
-            "X [SHIMAKAZE]",
             "X [SHIMAKAZE]"
         ],
         "species": "Destroyer"
@@ -7526,7 +7089,6 @@
         "nation": "Japan",
         "ru": "I-58",
         "search": [
-            "VIII I-58",
             "VIII I-58"
         ],
         "species": "Submarine"
@@ -7540,7 +7102,6 @@
         "nation": "Japan",
         "ru": "I-56",
         "search": [
-            "VIII I-56",
             "VIII I-56"
         ],
         "species": "Submarine"
@@ -7554,7 +7115,6 @@
         "nation": "Japan",
         "ru": "ARP I-401",
         "search": [
-            "XI ARP I-401",
             "XI ARP I-401"
         ],
         "species": "Auxiliary"
@@ -7568,7 +7128,6 @@
         "nation": "Japan",
         "ru": "ARP I-401",
         "search": [
-            "XI ARP I-401",
             "XI ARP I-401"
         ],
         "species": "Auxiliary"
@@ -7624,8 +7183,10 @@
         "nation": "Russia",
         "ru": "Нахимов",
         "search": [
+            "X НАХИМОВ",
+            "X ADMIRAL NAKHIMOV",
             "X NAKHIMOV",
-            "X НАХИМОВ"
+            "X АДМИРАЛ НАХИМОВ"
         ],
         "species": "AirCarrier"
     },
@@ -7638,8 +7199,8 @@
         "nation": "Russia",
         "ru": "Чкалов",
         "search": [
-            "VIII CHKALOV",
-            "VIII ЧКАЛОВ"
+            "VIII ЧКАЛОВ",
+            "VIII CHKALOV"
         ],
         "species": "AirCarrier"
     },
@@ -7652,8 +7213,10 @@
         "nation": "Russia",
         "ru": "Николай I",
         "search": [
+            "IV НИКОЛАЙ I",
+            "IV IMPERATOR NIKOLAI I",
             "IV NIKOLAI I",
-            "IV НИКОЛАЙ I"
+            "IV ИМПЕРАТОР НИКОЛАЙ I"
         ],
         "species": "Battleship"
     },
@@ -7694,8 +7257,8 @@
         "nation": "Russia",
         "ru": "Пётр Великий",
         "search": [
-            "V PYOTR VELIKIY",
-            "V ПЁТР ВЕЛИКИЙ"
+            "V ПЁТР ВЕЛИКИЙ",
+            "V PYOTR VELIKIY"
         ],
         "species": "Battleship"
     },
@@ -7722,8 +7285,8 @@
         "nation": "Russia",
         "ru": "Синоп",
         "search": [
-            "VII SINOP",
-            "VII СИНОП"
+            "VII СИНОП",
+            "VII SINOP"
         ],
         "species": "Battleship"
     },
@@ -7736,8 +7299,8 @@
         "nation": "Russia",
         "ru": "Владивосток",
         "search": [
-            "VIII VLADIVOSTOK",
-            "VIII ВЛАДИВОСТОК"
+            "VIII ВЛАДИВОСТОК",
+            "VIII VLADIVOSTOK"
         ],
         "species": "Battleship"
     },
@@ -7750,8 +7313,10 @@
         "nation": "Russia",
         "ru": "Сов. Союз",
         "search": [
-            "IX SOV. SOYUZ",
-            "IX СОВ. СОЮЗ"
+            "IX SOVETSKY SOYUZ",
+            "IX СОВ. СОЮЗ",
+            "IX СОВЕТСКИЙ СОЮЗ",
+            "IX SOV. SOYUZ"
         ],
         "species": "Battleship"
     },
@@ -7778,8 +7343,8 @@
         "nation": "Russia",
         "ru": "Адмирал Ушаков",
         "search": [
-            "XI ADMIRAL USHAKOV",
-            "XI АДМИРАЛ УШАКОВ"
+            "XI АДМИРАЛ УШАКОВ",
+            "XI ADMIRAL USHAKOV"
         ],
         "species": "Battleship"
     },
@@ -7792,7 +7357,9 @@
         "nation": "Russia",
         "ru": "Окт. революция",
         "search": [
+            "V ОКТЯБРЬСКАЯ РЕВОЛЮЦИЯ",
             "V OKT. REVOLUTSIYA",
+            "V OKTYABRSKAYA REVOLUTSIYA",
             "V ОКТ. РЕВОЛЮЦИЯ"
         ],
         "species": "Battleship"
@@ -7806,8 +7373,8 @@
         "nation": "Russia",
         "ru": "Полтава",
         "search": [
-            "VII POLTAVA",
-            "VII ПОЛТАВА"
+            "VII ПОЛТАВА",
+            "VII POLTAVA"
         ],
         "species": "Battleship"
     },
@@ -7848,8 +7415,8 @@
         "nation": "Russia",
         "ru": "Ленин",
         "search": [
-            "VIII LENIN",
-            "VIII ЛЕНИН"
+            "VIII ЛЕНИН",
+            "VIII LENIN"
         ],
         "species": "Battleship"
     },
@@ -7876,8 +7443,8 @@
         "nation": "Russia",
         "ru": "В. И. Ленин",
         "search": [
-            "VIII V. I. LENIN",
-            "VIII В. И. ЛЕНИН"
+            "VIII В. И. ЛЕНИН",
+            "VIII V. I. LENIN"
         ],
         "species": "Battleship"
     },
@@ -7890,8 +7457,8 @@
         "nation": "Russia",
         "ru": "AL Сов. Россия",
         "search": [
-            "IX AL SOV. ROSSIYA",
-            "IX AL СОВ. РОССИЯ"
+            "IX AL СОВ. РОССИЯ",
+            "IX AL SOV. ROSSIYA"
         ],
         "species": "Battleship"
     },
@@ -7904,8 +7471,8 @@
         "nation": "Russia",
         "ru": "Аврора",
         "search": [
-            "III AURORA",
-            "III АВРОРА"
+            "III АВРОРА",
+            "III AURORA"
         ],
         "species": "Cruiser"
     },
@@ -7918,8 +7485,8 @@
         "nation": "Russia",
         "ru": "Диана",
         "search": [
-            "II DIANA",
-            "II ДИАНА"
+            "II ДИАНА",
+            "II DIANA"
         ],
         "species": "Cruiser"
     },
@@ -7946,8 +7513,10 @@
         "nation": "Russia",
         "ru": "Диана L",
         "search": [
+            "II ДИАНА L",
+            "II ДИАНА LIMA",
             "II DIANA L",
-            "II ДИАНА L"
+            "II DIANA LIMA"
         ],
         "species": "Cruiser"
     },
@@ -7988,8 +7557,8 @@
         "nation": "Russia",
         "ru": "Богатырь",
         "search": [
-            "III BOGATYR",
-            "III БОГАТЫРЬ"
+            "III БОГАТЫРЬ",
+            "III BOGATYR"
         ],
         "species": "Cruiser"
     },
@@ -8016,8 +7585,10 @@
         "nation": "Russia",
         "ru": "Киров (OLD)",
         "search": [
+            "V KIROV (< 10.06.2020)",
             "V KIROV (OLD)",
-            "V КИРОВ (OLD)"
+            "V КИРОВ (OLD)",
+            "V КИРОВ (< 10.06.2020)"
         ],
         "species": "Cruiser"
     },
@@ -8030,8 +7601,8 @@
         "nation": "Russia",
         "ru": "Будённый",
         "search": [
-            "VI BUDYONNY",
-            "VI БУДЁННЫЙ"
+            "VI БУДЁННЫЙ",
+            "VI BUDYONNY"
         ],
         "species": "Cruiser"
     },
@@ -8072,8 +7643,10 @@
         "nation": "Russia",
         "ru": "Дм. Донской",
         "search": [
-            "IX DM. DONSKOI",
-            "IX ДМ. ДОНСКОЙ"
+            "IX ДМ. ДОНСКОЙ",
+            "IX ДМИТРИЙ ДОНСКОЙ",
+            "IX DMITRI DONSKOI",
+            "IX DM. DONSKOI"
         ],
         "species": "Cruiser"
     },
@@ -8086,8 +7659,8 @@
         "nation": "Russia",
         "ru": "Москва",
         "search": [
-            "X MOSKVA",
-            "X МОСКВА"
+            "X МОСКВА",
+            "X MOSKVA"
         ],
         "species": "Cruiser"
     },
@@ -8128,8 +7701,10 @@
         "nation": "Russia",
         "ru": "А. Невский",
         "search": [
+            "X ALEXANDER NEVSKY",
+            "X А. НЕВСКИЙ",
             "X A. NEVSKY",
-            "X А. НЕВСКИЙ"
+            "X АЛЕКСАНДР НЕВСКИЙ"
         ],
         "species": "Cruiser"
     },
@@ -8142,8 +7717,8 @@
         "nation": "Russia",
         "ru": "Котовский",
         "search": [
-            "V KOTOVSKY",
-            "V КОТОВСКИЙ"
+            "V КОТОВСКИЙ",
+            "V KOTOVSKY"
         ],
         "species": "Cruiser"
     },
@@ -8198,8 +7773,8 @@
         "nation": "Russia",
         "ru": "Молотов",
         "search": [
-            "VI MOLOTOV",
-            "VI МОЛОТОВ"
+            "VI МОЛОТОВ",
+            "VI MOLOTOV"
         ],
         "species": "Cruiser"
     },
@@ -8212,8 +7787,10 @@
         "nation": "Russia",
         "ru": "Кутузов",
         "search": [
-            "VIII KUTUZOV",
-            "VIII КУТУЗОВ"
+            "VIII МИХАИЛ КУТУЗОВ",
+            "VIII MIKHAIL KUTUZOV",
+            "VIII КУТУЗОВ",
+            "VIII KUTUZOV"
         ],
         "species": "Cruiser"
     },
@@ -8226,8 +7803,8 @@
         "nation": "Russia",
         "ru": "Кронштадт",
         "search": [
-            "IX KRONSHTADT",
-            "IX КРОНШТАДТ"
+            "IX КРОНШТАДТ",
+            "IX KRONSHTADT"
         ],
         "species": "Cruiser"
     },
@@ -8268,8 +7845,8 @@
         "nation": "Russia",
         "ru": "Микоян",
         "search": [
-            "V MIKOYAN",
-            "V МИКОЯН"
+            "V МИКОЯН",
+            "V MIKOYAN"
         ],
         "species": "Cruiser"
     },
@@ -8282,8 +7859,8 @@
         "nation": "Russia",
         "ru": "Лазо",
         "search": [
-            "VII LAZO",
-            "VII ЛАЗО"
+            "VII ЛАЗО",
+            "VII LAZO"
         ],
         "species": "Cruiser"
     },
@@ -8296,8 +7873,8 @@
         "nation": "Russia",
         "ru": "Сталинград 2",
         "search": [
-            "X STALINGRAD #2",
-            "X СТАЛИНГРАД 2"
+            "X СТАЛИНГРАД 2",
+            "X STALINGRAD #2"
         ],
         "species": "Cruiser"
     },
@@ -8310,8 +7887,8 @@
         "nation": "Russia",
         "ru": "AL Аврора",
         "search": [
-            "III AL AVRORA",
-            "III AL АВРОРА"
+            "III AL АВРОРА",
+            "III AL AVRORA"
         ],
         "species": "Cruiser"
     },
@@ -8324,8 +7901,8 @@
         "nation": "Russia",
         "ru": "Киров",
         "search": [
-            "V KIROV",
-            "V КИРОВ"
+            "V КИРОВ",
+            "V KIROV"
         ],
         "species": "Cruiser"
     },
@@ -8338,8 +7915,8 @@
         "nation": "Russia",
         "ru": "Очаков",
         "search": [
-            "VIII OCHAKOV",
-            "VIII ОЧАКОВ"
+            "VIII ОЧАКОВ",
+            "VIII OCHAKOV"
         ],
         "species": "Cruiser"
     },
@@ -8353,6 +7930,8 @@
         "ru": "П. Багратион",
         "search": [
             "VIII P. BAGRATION",
+            "VIII PYOTR BAGRATION",
+            "VIII ПЁТР БАГРАТИОН",
             "VIII П. БАГРАТИОН"
         ],
         "species": "Cruiser"
@@ -8381,7 +7960,9 @@
         "ru": "Макаров",
         "search": [
             "VI MAKAROV",
-            "VI МАКАРОВ"
+            "VI МАКАРОВ",
+            "VI АДМИРАЛ МАКАРОВ",
+            "VI ADMIRAL MAKAROV"
         ],
         "species": "Cruiser"
     },
@@ -8422,8 +8003,8 @@
         "nation": "Russia",
         "ru": "[Москва]",
         "search": [
-            "X [MOSKVA]",
-            "X [МОСКВА]"
+            "X [МОСКВА]",
+            "X [MOSKVA]"
         ],
         "species": "Cruiser"
     },
@@ -8436,7 +8017,6 @@
         "nation": "Russia",
         "ru": "Test Ship",
         "search": [
-            "X TEST SHIP",
             "X TEST SHIP"
         ],
         "species": "Cruiser"
@@ -8450,8 +8030,8 @@
         "nation": "Russia",
         "ru": "Гремящий",
         "search": [
-            "V GREMYASHCHY",
-            "V ГРЕМЯЩИЙ"
+            "V ГРЕМЯЩИЙ",
+            "V GREMYASHCHY"
         ],
         "species": "Destroyer"
     },
@@ -8506,8 +8086,10 @@
         "nation": "Russia",
         "ru": "Гневный (OLD)",
         "search": [
+            "V ГНЕВНЫЙ (OLD)",
+            "V ГНЕВНЫЙ (< 06.03.2017)",
             "V GNEVNY (OLD)",
-            "V ГНЕВНЫЙ (OLD)"
+            "V GNEVNY (< 06.03.2017)"
         ],
         "species": "Destroyer"
     },
@@ -8520,8 +8102,10 @@
         "nation": "Russia",
         "ru": "Огневой (OLD)",
         "search": [
+            "VI OGNEVOI (< 06.03.2017)",
             "VI OGNEVOI (OLD)",
-            "VI ОГНЕВОЙ (OLD)"
+            "VI ОГНЕВОЙ (OLD)",
+            "VI ОГНЕВОЙ (< 06.03.2017)"
         ],
         "species": "Destroyer"
     },
@@ -8548,8 +8132,10 @@
         "nation": "Russia",
         "ru": "Ташкент (OLD)",
         "search": [
+            "VIII TASHKENT (< 06.03.2017)",
             "VIII TASHKENT (OLD)",
-            "VIII ТАШКЕНТ (OLD)"
+            "VIII ТАШКЕНТ (OLD)",
+            "VIII ТАШКЕНТ (< 06.03.2017)"
         ],
         "species": "Destroyer"
     },
@@ -8562,8 +8148,10 @@
         "nation": "Russia",
         "ru": "Киев (OLD)",
         "search": [
+            "VII KIEV (< 06.03.2017)",
+            "VII КИЕВ (OLD)",
             "VII KIEV (OLD)",
-            "VII КИЕВ (OLD)"
+            "VII КИЕВ (< 06.03.2017)"
         ],
         "species": "Destroyer"
     },
@@ -8576,8 +8164,8 @@
         "nation": "Russia",
         "ru": "Хабаровск",
         "search": [
-            "X KHABAROVSK",
-            "X ХАБАРОВСК"
+            "X ХАБАРОВСК",
+            "X KHABAROVSK"
         ],
         "species": "Destroyer"
     },
@@ -8590,8 +8178,8 @@
         "nation": "Russia",
         "ru": "Зоркий",
         "search": [
-            "XI ZORKIY",
-            "XI ЗОРКИЙ"
+            "XI ЗОРКИЙ",
+            "XI ZORKIY"
         ],
         "species": "Destroyer"
     },
@@ -8632,8 +8220,8 @@
         "nation": "Russia",
         "ru": "Минск",
         "search": [
-            "VII MINSK",
-            "VII МИНСК"
+            "VII МИНСК",
+            "VII MINSK"
         ],
         "species": "Destroyer"
     },
@@ -8660,8 +8248,8 @@
         "nation": "Russia",
         "ru": "Грозовой",
         "search": [
-            "X GROZOVOI",
-            "X ГРОЗОВОЙ"
+            "X ГРОЗОВОЙ",
+            "X GROZOVOI"
         ],
         "species": "Destroyer"
     },
@@ -8688,8 +8276,8 @@
         "nation": "Russia",
         "ru": "Ташкент",
         "search": [
-            "IX TASHKENT",
-            "IX ТАШКЕНТ"
+            "IX ТАШКЕНТ",
+            "IX TASHKENT"
         ],
         "species": "Destroyer"
     },
@@ -8716,8 +8304,8 @@
         "nation": "Russia",
         "ru": "Охотник",
         "search": [
-            "V OKHOTNIK",
-            "V ОХОТНИК"
+            "V ОХОТНИК",
+            "V OKHOTNIK"
         ],
         "species": "Destroyer"
     },
@@ -8730,8 +8318,8 @@
         "nation": "Russia",
         "ru": "Ленинград",
         "search": [
-            "VII LENINGRAD",
-            "VII ЛЕНИНГРАД"
+            "VII ЛЕНИНГРАД",
+            "VII LENINGRAD"
         ],
         "species": "Destroyer"
     },
@@ -8758,7 +8346,6 @@
         "nation": "Russia",
         "ru": "DD R-10",
         "search": [
-            "X DD R-10",
             "X DD R-10"
         ],
         "species": "Destroyer"
@@ -8772,8 +8359,8 @@
         "nation": "Russia",
         "ru": "[Грозовой]",
         "search": [
-            "X [GROZOVOI]",
-            "X [ГРОЗОВОЙ]"
+            "X [ГРОЗОВОЙ]",
+            "X [GROZOVOI]"
         ],
         "species": "Destroyer"
     },
@@ -8800,8 +8387,8 @@
         "nation": "Russia",
         "ru": "Л-20",
         "search": [
-            "VIII L-20",
-            "VIII Л-20"
+            "VIII Л-20",
+            "VIII L-20"
         ],
         "species": "Submarine"
     },
@@ -8814,8 +8401,8 @@
         "nation": "Russia",
         "ru": "К-1",
         "search": [
-            "X K-1",
-            "X К-1"
+            "X К-1",
+            "X K-1"
         ],
         "species": "Submarine"
     },
@@ -8842,7 +8429,6 @@
         "nation": "Russia",
         "ru": "Test Sub 1",
         "search": [
-            "X TEST SUB 1",
             "X TEST SUB 1"
         ],
         "species": "Submarine"
@@ -8856,7 +8442,6 @@
         "nation": "Spain",
         "ru": "Canarias",
         "search": [
-            "VI CANARIAS",
             "VI CANARIAS"
         ],
         "species": "Cruiser"
@@ -8870,7 +8455,6 @@
         "nation": "Spain",
         "ru": "Álvaro de Bazán",
         "search": [
-            "X ÁLVARO DE BAZÁN",
             "X ÁLVARO DE BAZÁN"
         ],
         "species": "Destroyer"
@@ -8884,7 +8468,6 @@
         "nation": "Commonwealth",
         "ru": "Yukon",
         "search": [
-            "VII YUKON",
             "VII YUKON"
         ],
         "species": "Battleship"
@@ -8898,7 +8481,6 @@
         "nation": "Commonwealth",
         "ru": "Perth",
         "search": [
-            "VI PERTH",
             "VI PERTH"
         ],
         "species": "Cruiser"
@@ -8912,7 +8494,6 @@
         "nation": "Commonwealth",
         "ru": "Mysore",
         "search": [
-            "VI MYSORE",
             "VI MYSORE"
         ],
         "species": "Cruiser"
@@ -8926,7 +8507,6 @@
         "nation": "Commonwealth",
         "ru": "Vampire",
         "search": [
-            "III VAMPIRE",
             "III VAMPIRE"
         ],
         "species": "Destroyer"
@@ -8940,7 +8520,6 @@
         "nation": "Commonwealth",
         "ru": "Haida",
         "search": [
-            "VII HAIDA",
             "VII HAIDA"
         ],
         "species": "Destroyer"
@@ -8968,7 +8547,6 @@
         "nation": "Commonwealth",
         "ru": "Huron",
         "search": [
-            "VII HURON",
             "VII HURON"
         ],
         "species": "Destroyer"
@@ -8982,7 +8560,6 @@
         "nation": "Pan_America",
         "ru": "Rio de Janeiro",
         "search": [
-            "V RIO DE JANEIRO",
             "V RIO DE JANEIRO"
         ],
         "species": "Battleship"
@@ -8996,7 +8573,6 @@
         "nation": "Pan_America",
         "ru": "Atlântico",
         "search": [
-            "VIII ATLÂNTICO",
             "VIII ATLÂNTICO"
         ],
         "species": "Battleship"
@@ -9011,7 +8587,7 @@
         "ru": "Alte Abreu",
         "search": [
             "II ALTE ABREU",
-            "II ALTE ABREU"
+            "II ALMIRANTE ABREU"
         ],
         "species": "Cruiser"
     },
@@ -9024,7 +8600,6 @@
         "nation": "Pan_America",
         "ru": "Nueve de Julio",
         "search": [
-            "VII NUEVE DE JULIO",
             "VII NUEVE DE JULIO"
         ],
         "species": "Cruiser"
@@ -9038,7 +8613,6 @@
         "nation": "Pan_America",
         "ru": "Juruá",
         "search": [
-            "VI JURUÁ",
             "VI JURUÁ"
         ],
         "species": "Destroyer"
@@ -9052,7 +8626,6 @@
         "nation": "Europe",
         "ru": "Viribus Unitis",
         "search": [
-            "V VIRIBUS UNITIS",
             "V VIRIBUS UNITIS"
         ],
         "species": "Battleship"
@@ -9066,7 +8639,6 @@
         "nation": "Europe",
         "ru": "Gryf",
         "search": [
-            "I GRYF",
             "I GRYF"
         ],
         "species": "Cruiser"
@@ -9080,7 +8652,6 @@
         "nation": "Europe",
         "ru": "Tátra",
         "search": [
-            "II TÁTRA",
             "II TÁTRA"
         ],
         "species": "Destroyer"
@@ -9094,7 +8665,6 @@
         "nation": "Europe",
         "ru": "Romulus",
         "search": [
-            "III ROMULUS",
             "III ROMULUS"
         ],
         "species": "Destroyer"
@@ -9108,7 +8678,6 @@
         "nation": "Europe",
         "ru": "Klas Horn",
         "search": [
-            "IV KLAS HORN",
             "IV KLAS HORN"
         ],
         "species": "Destroyer"
@@ -9122,7 +8691,6 @@
         "nation": "Europe",
         "ru": "Visby",
         "search": [
-            "V VISBY",
             "V VISBY"
         ],
         "species": "Destroyer"
@@ -9136,7 +8704,6 @@
         "nation": "Europe",
         "ru": "Västerås",
         "search": [
-            "VI VÄSTERÅS",
             "VI VÄSTERÅS"
         ],
         "species": "Destroyer"
@@ -9150,7 +8717,6 @@
         "nation": "Europe",
         "ru": "Skåne",
         "search": [
-            "VII SKÅNE",
             "VII SKÅNE"
         ],
         "species": "Destroyer"
@@ -9164,7 +8730,6 @@
         "nation": "Europe",
         "ru": "Öland",
         "search": [
-            "VIII ÖLAND",
             "VIII ÖLAND"
         ],
         "species": "Destroyer"
@@ -9178,7 +8743,6 @@
         "nation": "Europe",
         "ru": "Östergötland",
         "search": [
-            "IX ÖSTERGÖTLAND",
             "IX ÖSTERGÖTLAND"
         ],
         "species": "Destroyer"
@@ -9192,7 +8756,6 @@
         "nation": "Europe",
         "ru": "Halland",
         "search": [
-            "X HALLAND",
             "X HALLAND"
         ],
         "species": "Destroyer"
@@ -9206,7 +8769,6 @@
         "nation": "Europe",
         "ru": "Dalarna",
         "search": [
-            "XI DALARNA",
             "XI DALARNA"
         ],
         "species": "Destroyer"
@@ -9220,7 +8782,6 @@
         "nation": "Europe",
         "ru": "Błyskawica",
         "search": [
-            "VII BŁYSKAWICA",
             "VII BŁYSKAWICA"
         ],
         "species": "Destroyer"
@@ -9234,7 +8795,6 @@
         "nation": "Europe",
         "ru": "Orkan",
         "search": [
-            "VIII ORKAN",
             "VIII ORKAN"
         ],
         "species": "Destroyer"
@@ -9248,7 +8808,6 @@
         "nation": "Europe",
         "ru": "Velos",
         "search": [
-            "IX VELOS",
             "IX VELOS"
         ],
         "species": "Destroyer"
@@ -9262,7 +8821,6 @@
         "nation": "Europe",
         "ru": "Friesland",
         "search": [
-            "IX FRIESLAND",
             "IX FRIESLAND"
         ],
         "species": "Destroyer"
@@ -9276,7 +8834,6 @@
         "nation": "Europe",
         "ru": "Småland",
         "search": [
-            "X SMÅLAND",
             "X SMÅLAND"
         ],
         "species": "Destroyer"
@@ -9290,7 +8847,6 @@
         "nation": "Europe",
         "ru": "Ragnar",
         "search": [
-            "X RAGNAR",
             "X RAGNAR"
         ],
         "species": "Destroyer"
@@ -9304,7 +8860,6 @@
         "nation": "Europe",
         "ru": "Lappland",
         "search": [
-            "X LAPPLAND",
             "X LAPPLAND"
         ],
         "species": "Destroyer"
@@ -9319,7 +8874,7 @@
         "ru": "Luftwaffe",
         "search": [
             "IV LUFTWAFFE",
-            "IV LUFTWAFFE"
+            "IV IDS_PXSA001_FULL"
         ],
         "species": "AirCarrier"
     },
@@ -9332,7 +8887,8 @@
         "nation": "Events",
         "ru": "Air Force",
         "search": [
-            "IV AIR FORCE",
+            "IV AIRCRAFT CARRIER",
+            "IV АВИАНОСЕЦ",
             "IV AIR FORCE"
         ],
         "species": "AirCarrier"
@@ -9346,7 +8902,6 @@
         "nation": "Events",
         "ru": "Nobilium",
         "search": [
-            "VIII NOBILIUM",
             "VIII NOBILIUM"
         ],
         "species": "AirCarrier"
@@ -9374,7 +8929,7 @@
         "nation": "Events",
         "ru": "Hellcarrier",
         "search": [
-            "VII HELLCARRIER",
+            "VII SPACEPORT HELLCARRIER",
             "VII HELLCARRIER"
         ],
         "species": "AirCarrier"
@@ -9388,7 +8943,6 @@
         "nation": "Events",
         "ru": "Ranger",
         "search": [
-            "VI RANGER",
             "VI RANGER"
         ],
         "species": "AirCarrier"
@@ -9402,7 +8956,6 @@
         "nation": "Events",
         "ru": "Jackal",
         "search": [
-            "III JACKAL",
             "III JACKAL"
         ],
         "species": "Battleship"
@@ -9416,8 +8969,8 @@
         "nation": "Events",
         "ru": "Распутин",
         "search": [
-            "VII RASPUTIN",
-            "VII РАСПУТИН"
+            "VII РАСПУТИН",
+            "VII RASPUTIN"
         ],
         "species": "Battleship"
     },
@@ -9430,7 +8983,6 @@
         "nation": "Events",
         "ru": "Zikasa",
         "search": [
-            "II ZIKASA",
             "II ZIKASA"
         ],
         "species": "Battleship"
@@ -9444,7 +8996,6 @@
         "nation": "Events",
         "ru": "Magnu-S",
         "search": [
-            "VIII MAGNU-S",
             "VIII MAGNU-S"
         ],
         "species": "Battleship"
@@ -9458,7 +9009,6 @@
         "nation": "Events",
         "ru": "Varg",
         "search": [
-            "VII VARG",
             "VII VARG"
         ],
         "species": "Battleship"
@@ -9472,7 +9022,6 @@
         "nation": "Events",
         "ru": "Paris",
         "search": [
-            "VII PARIS",
             "VII PARIS"
         ],
         "species": "Battleship"
@@ -9486,7 +9035,6 @@
         "nation": "Events",
         "ru": "Alldestroyer",
         "search": [
-            "VII ALLDESTROYER",
             "VII ALLDESTROYER"
         ],
         "species": "Battleship"
@@ -9500,7 +9048,6 @@
         "nation": "Events",
         "ru": "Leviathan",
         "search": [
-            "VII LEVIATHAN",
             "VII LEVIATHAN"
         ],
         "species": "Battleship"
@@ -9514,7 +9061,6 @@
         "nation": "Events",
         "ru": "Scorpioid",
         "search": [
-            "X SCORPIOID",
             "X SCORPIOID"
         ],
         "species": "Battleship"
@@ -9528,7 +9074,6 @@
         "nation": "Events",
         "ru": "Maverick",
         "search": [
-            "IX MAVERICK",
             "IX MAVERICK"
         ],
         "species": "Battleship"
@@ -9542,7 +9087,6 @@
         "nation": "Events",
         "ru": "Crocosaur",
         "search": [
-            "X CROCOSAUR",
             "X CROCOSAUR"
         ],
         "species": "Battleship"
@@ -9570,8 +9114,8 @@
         "nation": "Events",
         "ru": "Мститель",
         "search": [
-            "X AVENGER",
-            "X МСТИТЕЛЬ"
+            "X МСТИТЕЛЬ",
+            "X AVENGER"
         ],
         "species": "Battleship"
     },
@@ -9598,7 +9142,6 @@
         "nation": "Events",
         "ru": "Igor",
         "search": [
-            "III IGOR",
             "III IGOR"
         ],
         "species": "Cruiser"
@@ -9612,7 +9155,6 @@
         "nation": "Events",
         "ru": "Scarab",
         "search": [
-            "VII SCARAB",
             "VII SCARAB"
         ],
         "species": "Cruiser"
@@ -9640,7 +9182,6 @@
         "nation": "Events",
         "ru": "Galaxy",
         "search": [
-            "VII GALAXY",
             "VII GALAXY"
         ],
         "species": "Cruiser"
@@ -9654,7 +9195,6 @@
         "nation": "Events",
         "ru": "Zaya",
         "search": [
-            "VII ZAYA",
             "VII ZAYA"
         ],
         "species": "Cruiser"
@@ -9668,7 +9208,6 @@
         "nation": "Events",
         "ru": "Norma",
         "search": [
-            "VII NORMA",
             "VII NORMA"
         ],
         "species": "Cruiser"
@@ -9682,7 +9221,6 @@
         "nation": "Events",
         "ru": "Aurora",
         "search": [
-            "VII AURORA",
             "VII AURORA"
         ],
         "species": "Cruiser"
@@ -9696,7 +9234,6 @@
         "nation": "Events",
         "ru": "Octopus",
         "search": [
-            "VII OCTOPUS",
             "VII OCTOPUS"
         ],
         "species": "Cruiser"
@@ -9710,7 +9247,6 @@
         "nation": "Events",
         "ru": "Century Hawk",
         "search": [
-            "VII CENTURY HAWK",
             "VII CENTURY HAWK"
         ],
         "species": "Cruiser"
@@ -9724,7 +9260,6 @@
         "nation": "Events",
         "ru": "Octodroid",
         "search": [
-            "X OCTODROID",
             "X OCTODROID"
         ],
         "species": "Cruiser"
@@ -9738,7 +9273,6 @@
         "nation": "Events",
         "ru": "Rust Nightfall",
         "search": [
-            "IX RUST NIGHTFALL",
             "IX RUST NIGHTFALL"
         ],
         "species": "Cruiser"
@@ -9752,7 +9286,6 @@
         "nation": "Events",
         "ru": "Fossil",
         "search": [
-            "X FOSSIL",
             "X FOSSIL"
         ],
         "species": "Cruiser"
@@ -9766,8 +9299,8 @@
         "nation": "Events",
         "ru": "Шипоспин",
         "search": [
-            "X THORNRIDGE",
-            "X ШИПОСПИН"
+            "X ШИПОСПИН",
+            "X THORNRIDGE"
         ],
         "species": "Cruiser"
     },
@@ -9808,6 +9341,7 @@
         "nation": "Events",
         "ru": "Корабль",
         "search": [
+            "I IDS_PXSC503_FULL",
             "I SHIP",
             "I КОРАБЛЬ"
         ],
@@ -9822,7 +9356,6 @@
         "nation": "Events",
         "ru": "Blade",
         "search": [
-            "III BLADE",
             "III BLADE"
         ],
         "species": "Destroyer"
@@ -9836,7 +9369,6 @@
         "nation": "Events",
         "ru": "Ghoul",
         "search": [
-            "VII GHOUL",
             "VII GHOUL"
         ],
         "species": "Destroyer"
@@ -9850,7 +9382,6 @@
         "nation": "Events",
         "ru": "Urashima",
         "search": [
-            "VIII URASHIMA",
             "VIII URASHIMA"
         ],
         "species": "Destroyer"
@@ -9864,7 +9395,6 @@
         "nation": "Events",
         "ru": "FlyFire",
         "search": [
-            "VII FLYFIRE",
             "VII FLYFIRE"
         ],
         "species": "Destroyer"
@@ -9878,7 +9408,6 @@
         "nation": "Events",
         "ru": "Blue Aster",
         "search": [
-            "VII BLUE ASTER",
             "VII BLUE ASTER"
         ],
         "species": "Destroyer"
@@ -9892,7 +9421,7 @@
         "nation": "Events",
         "ru": "Schnellboot",
         "search": [
-            "I SCHNELLBOOT",
+            "I IDS_PXSD007_FULL",
             "I SCHNELLBOOT"
         ],
         "species": "Destroyer"
@@ -9906,7 +9435,6 @@
         "nation": "Events",
         "ru": "Steel Rat",
         "search": [
-            "VII STEEL RAT",
             "VII STEEL RAT"
         ],
         "species": "Destroyer"
@@ -9920,7 +9448,6 @@
         "nation": "Events",
         "ru": "Razorworm",
         "search": [
-            "VII RAZORWORM",
             "VII RAZORWORM"
         ],
         "species": "Destroyer"
@@ -9934,7 +9461,6 @@
         "nation": "Events",
         "ru": "Celestial",
         "search": [
-            "VII CELESTIAL",
             "VII CELESTIAL"
         ],
         "species": "Destroyer"
@@ -9948,7 +9474,6 @@
         "nation": "Events",
         "ru": "Comet Trace",
         "search": [
-            "VII COMET TRACE",
             "VII COMET TRACE"
         ],
         "species": "Destroyer"
@@ -9962,7 +9487,6 @@
         "nation": "Events",
         "ru": "Rover",
         "search": [
-            "VII ROVER",
             "VII ROVER"
         ],
         "species": "Destroyer"
@@ -9976,7 +9500,6 @@
         "nation": "Events",
         "ru": "Messer",
         "search": [
-            "VIII MESSER",
             "VIII MESSER"
         ],
         "species": "Destroyer"
@@ -9990,7 +9513,6 @@
         "nation": "Events",
         "ru": "Carnal",
         "search": [
-            "VIII CARNAL",
             "VIII CARNAL"
         ],
         "species": "Destroyer"
@@ -10004,8 +9526,8 @@
         "nation": "Events",
         "ru": "Ядрёный",
         "search": [
-            "VIII ATOMIC RAGE",
-            "VIII ЯДРЁНЫЙ"
+            "VIII ЯДРЁНЫЙ",
+            "VIII ATOMIC RAGE"
         ],
         "species": "Destroyer"
     },
@@ -10018,7 +9540,6 @@
         "nation": "Events",
         "ru": "Sea Devil",
         "search": [
-            "IX SEA DEVIL",
             "IX SEA DEVIL"
         ],
         "species": "Destroyer"
@@ -10032,7 +9553,6 @@
         "nation": "Events",
         "ru": "Lancet",
         "search": [
-            "IX LANCET",
             "IX LANCET"
         ],
         "species": "Destroyer"
@@ -10046,7 +9566,6 @@
         "nation": "Events",
         "ru": "Mizu-Jet",
         "search": [
-            "IX MIZU-JET",
             "IX MIZU-JET"
         ],
         "species": "Destroyer"
@@ -10060,7 +9579,6 @@
         "nation": "Events",
         "ru": "Stealthedo",
         "search": [
-            "X STEALTHEDO",
             "X STEALTHEDO"
         ],
         "species": "Destroyer"
@@ -10088,7 +9606,6 @@
         "nation": "Events",
         "ru": "Rumble",
         "search": [
-            "X RUMBLE",
             "X RUMBLE"
         ],
         "species": "Destroyer"
@@ -10102,7 +9619,6 @@
         "nation": "Events",
         "ru": "Angler",
         "search": [
-            "X ANGLER",
             "X ANGLER"
         ],
         "species": "Destroyer"
@@ -10116,7 +9632,6 @@
         "nation": "Events",
         "ru": "Steel Lancet",
         "search": [
-            "IX STEEL LANCET",
             "IX STEEL LANCET"
         ],
         "species": "Destroyer"
@@ -10130,7 +9645,6 @@
         "nation": "Events",
         "ru": "Mutantovsk",
         "search": [
-            "X MUTANTOVSK",
             "X MUTANTOVSK"
         ],
         "species": "Destroyer"
@@ -10144,8 +9658,8 @@
         "nation": "Events",
         "ru": "Клыкорук",
         "search": [
-            "X FANGBLADE",
-            "X КЛЫКОРУК"
+            "X КЛЫКОРУК",
+            "X FANGBLADE"
         ],
         "species": "Destroyer"
     },
@@ -10158,8 +9672,8 @@
         "nation": "Events",
         "ru": "Молниеносный",
         "search": [
-            "X WHIRLWIND",
-            "X МОЛНИЕНОСНЫЙ"
+            "X МОЛНИЕНОСНЫЙ",
+            "X WHIRLWIND"
         ],
         "species": "Destroyer"
     },
@@ -10200,7 +9714,6 @@
         "nation": "Events",
         "ru": "Seelöwe",
         "search": [
-            "X SEELÖWE",
             "X SEELÖWE"
         ],
         "species": "Submarine"
@@ -10214,7 +9727,6 @@
         "nation": "Events",
         "ru": "Gerfalcon",
         "search": [
-            "VII GERFALCON",
             "VII GERFALCON"
         ],
         "species": "Submarine"
@@ -10228,7 +9740,6 @@
         "nation": "Events",
         "ru": "Barracuda",
         "search": [
-            "VII BARRACUDA",
             "VII BARRACUDA"
         ],
         "species": "Submarine"
@@ -10242,7 +9753,6 @@
         "nation": "Events",
         "ru": "Killer Whale",
         "search": [
-            "X KILLER WHALE",
             "X KILLER WHALE"
         ],
         "species": "Submarine"
@@ -10270,7 +9780,7 @@
         "nation": "Events",
         "ru": "Goliath",
         "search": [
-            "II GOLIATH",
+            "II IDS_PXSX016_FULL",
             "II GOLIATH"
         ],
         "species": "Auxiliary"
@@ -10285,7 +9795,7 @@
         "ru": "Caboteur",
         "search": [
             "II CABOTEUR",
-            "II CABOTEUR"
+            "II IDS_PXSX017_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10299,7 +9809,7 @@
         "ru": "Lorina",
         "search": [
             "II LORINA",
-            "II LORINA"
+            "II IDS_PXSX023_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10313,7 +9823,7 @@
         "ru": "Aronia",
         "search": [
             "II ARONIA",
-            "II ARONIA"
+            "II IDS_PXSX024_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10326,7 +9836,7 @@
         "nation": "Events",
         "ru": "Medway Queen",
         "search": [
-            "II MEDWAY QUEEN",
+            "II IDS_PXSX025_FULL",
             "II MEDWAY QUEEN"
         ],
         "species": "Auxiliary"
@@ -10340,7 +9850,7 @@
         "nation": "Events",
         "ru": "Canterbury",
         "search": [
-            "II CANTERBURY",
+            "II IDS_PXSX026_FULL",
             "II CANTERBURY"
         ],
         "species": "Auxiliary"
@@ -10354,8 +9864,9 @@
         "nation": "Events",
         "ru": "Минный заградитель",
         "search": [
+            "II МИННЫЙ ЗАГРАДИТЕЛЬ",
             "II MINELAYER",
-            "II МИННЫЙ ЗАГРАДИТЕЛЬ"
+            "II IDS_PXSX033_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10368,7 +9879,7 @@
         "nation": "Events",
         "ru": "John Cattling",
         "search": [
-            "II JOHN CATTLING",
+            "II IDS_PXSX034_FULL",
             "II JOHN CATTLING"
         ],
         "species": "Auxiliary"
@@ -10383,7 +9894,7 @@
         "ru": "Landing Ship 1",
         "search": [
             "II LANDING SHIP 1",
-            "II LANDING SHIP 1"
+            "II IDS_PXSX035_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10397,7 +9908,7 @@
         "ru": "Daihatsu",
         "search": [
             "II DAIHATSU",
-            "II DAIHATSU"
+            "II IDS_PXSX037_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10411,7 +9922,7 @@
         "ru": "LST 325",
         "search": [
             "II LST 325",
-            "II LST 325"
+            "II IDS_PXSX039_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10425,7 +9936,7 @@
         "ru": "Escort 8",
         "search": [
             "II ESCORT 8",
-            "II ESCORT 8"
+            "II IDS_PXSX040_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10438,7 +9949,7 @@
         "nation": "Events",
         "ru": "Medway Queen",
         "search": [
-            "II MEDWAY QUEEN",
+            "II IDS_PXSX043_FULL",
             "II MEDWAY QUEEN"
         ],
         "species": "Auxiliary"
@@ -10453,7 +9964,7 @@
         "ru": "Cimarron civil",
         "search": [
             "V CIMARRON CIVIL",
-            "V CIMARRON CIVIL"
+            "V IDS_PXSX044_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10467,7 +9978,7 @@
         "ru": "Liberty civil",
         "search": [
             "V LIBERTY CIVIL",
-            "V LIBERTY CIVIL"
+            "V IDS_PXSX045_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10481,7 +9992,7 @@
         "ru": "Liberty",
         "search": [
             "VI LIBERTY",
-            "VI LIBERTY"
+            "VI IDS_PXSX501_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10495,7 +10006,7 @@
         "ru": "Intania Queen",
         "search": [
             "XI INTANIA QUEEN",
-            "XI INTANIA QUEEN"
+            "XI IDS_PXSX743_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10509,7 +10020,7 @@
         "ru": "Bogue",
         "search": [
             "V BOGUE",
-            "V BOGUE"
+            "V IDS_PXSX815_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -10522,7 +10033,6 @@
         "nation": "Pan_Asia",
         "ru": "Sanzang",
         "search": [
-            "VIII SANZANG",
             "VIII SANZANG"
         ],
         "species": "AirCarrier"
@@ -10536,7 +10046,6 @@
         "nation": "Pan_Asia",
         "ru": "Bajie",
         "search": [
-            "IX BAJIE",
             "IX BAJIE"
         ],
         "species": "Battleship"
@@ -10550,7 +10059,6 @@
         "nation": "Pan_Asia",
         "ru": "Wujing",
         "search": [
-            "IX WUJING",
             "IX WUJING"
         ],
         "species": "Battleship"
@@ -10564,7 +10072,6 @@
         "nation": "Pan_Asia",
         "ru": "Chengan",
         "search": [
-            "I CHENGAN",
             "I CHENGAN"
         ],
         "species": "Cruiser"
@@ -10578,7 +10085,6 @@
         "nation": "Pan_Asia",
         "ru": "Chungking",
         "search": [
-            "V CHUNGKING",
             "V CHUNGKING"
         ],
         "species": "Cruiser"
@@ -10592,7 +10098,6 @@
         "nation": "Pan_Asia",
         "ru": "Rahmat",
         "search": [
-            "VI RAHMAT",
             "VI RAHMAT"
         ],
         "species": "Cruiser"
@@ -10606,7 +10111,6 @@
         "nation": "Pan_Asia",
         "ru": "Chumphon",
         "search": [
-            "VII CHUMPHON",
             "VII CHUMPHON"
         ],
         "species": "Cruiser"
@@ -10620,7 +10124,6 @@
         "nation": "Pan_Asia",
         "ru": "Harbin",
         "search": [
-            "VIII HARBIN",
             "VIII HARBIN"
         ],
         "species": "Cruiser"
@@ -10634,7 +10137,6 @@
         "nation": "Pan_Asia",
         "ru": "Sejong",
         "search": [
-            "IX SEJONG",
             "IX SEJONG"
         ],
         "species": "Cruiser"
@@ -10648,7 +10150,6 @@
         "nation": "Pan_Asia",
         "ru": "Jinan",
         "search": [
-            "X JINAN",
             "X JINAN"
         ],
         "species": "Cruiser"
@@ -10662,7 +10163,6 @@
         "nation": "Pan_Asia",
         "ru": "Huanghe",
         "search": [
-            "VI HUANGHE",
             "VI HUANGHE"
         ],
         "species": "Cruiser"
@@ -10676,7 +10176,6 @@
         "nation": "Pan_Asia",
         "ru": "Irian",
         "search": [
-            "VIII IRIAN",
             "VIII IRIAN"
         ],
         "species": "Cruiser"
@@ -10690,7 +10189,6 @@
         "nation": "Pan_Asia",
         "ru": "Dalian",
         "search": [
-            "IX DALIAN",
             "IX DALIAN"
         ],
         "species": "Cruiser"
@@ -10704,7 +10202,6 @@
         "nation": "Pan_Asia",
         "ru": "Wukong",
         "search": [
-            "VIII WUKONG",
             "VIII WUKONG"
         ],
         "species": "Cruiser"
@@ -10718,7 +10215,6 @@
         "nation": "Pan_Asia",
         "ru": "Longjiang",
         "search": [
-            "II LONGJIANG",
             "II LONGJIANG"
         ],
         "species": "Destroyer"
@@ -10732,7 +10228,6 @@
         "nation": "Pan_Asia",
         "ru": "Phra Ruang",
         "search": [
-            "III PHRA RUANG",
             "III PHRA RUANG"
         ],
         "species": "Destroyer"
@@ -10746,7 +10241,6 @@
         "nation": "Pan_Asia",
         "ru": "Shenyang",
         "search": [
-            "IV SHENYANG",
             "IV SHENYANG"
         ],
         "species": "Destroyer"
@@ -10760,7 +10254,6 @@
         "nation": "Pan_Asia",
         "ru": "Jianwei",
         "search": [
-            "V JIANWEI",
             "V JIANWEI"
         ],
         "species": "Destroyer"
@@ -10774,7 +10267,6 @@
         "nation": "Pan_Asia",
         "ru": "Fushun",
         "search": [
-            "VI FUSHUN",
             "VI FUSHUN"
         ],
         "species": "Destroyer"
@@ -10788,7 +10280,6 @@
         "nation": "Pan_Asia",
         "ru": "Gadjah Mada",
         "search": [
-            "VII GADJAH MADA",
             "VII GADJAH MADA"
         ],
         "species": "Destroyer"
@@ -10802,7 +10293,6 @@
         "nation": "Pan_Asia",
         "ru": "Hsienyang",
         "search": [
-            "VIII HSIENYANG",
             "VIII HSIENYANG"
         ],
         "species": "Destroyer"
@@ -10816,7 +10306,6 @@
         "nation": "Pan_Asia",
         "ru": "Chung Mu",
         "search": [
-            "IX CHUNG MU",
             "IX CHUNG MU"
         ],
         "species": "Destroyer"
@@ -10830,7 +10319,6 @@
         "nation": "Pan_Asia",
         "ru": "Yueyang",
         "search": [
-            "X YUEYANG",
             "X YUEYANG"
         ],
         "species": "Destroyer"
@@ -10844,7 +10332,6 @@
         "nation": "Pan_Asia",
         "ru": "Siliwangi",
         "search": [
-            "VIII SILIWANGI",
             "VIII SILIWANGI"
         ],
         "species": "Destroyer"
@@ -10858,7 +10345,6 @@
         "nation": "Pan_Asia",
         "ru": "Anshan",
         "search": [
-            "VI ANSHAN",
             "VI ANSHAN"
         ],
         "species": "Destroyer"
@@ -10872,7 +10358,6 @@
         "nation": "Pan_Asia",
         "ru": "Loyang",
         "search": [
-            "VIII LOYANG",
             "VIII LOYANG"
         ],
         "species": "Destroyer"
@@ -10886,7 +10371,6 @@
         "nation": "Pan_Asia",
         "ru": "Fenyang",
         "search": [
-            "VIII FENYANG",
             "VIII FENYANG"
         ],
         "species": "Destroyer"
@@ -10914,7 +10398,6 @@
         "nation": "Pan_Asia",
         "ru": "Ship Smasha",
         "search": [
-            "VIII SHIP SMASHA",
             "VIII SHIP SMASHA"
         ],
         "species": "Destroyer"

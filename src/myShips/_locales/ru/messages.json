@@ -2339,28 +2339,28 @@
   "IDS_PZSD718": {
     "message": "Ship Smasha"
   },
-  "extention_description": {
-    "message": "Помогает отслеживать выпадение кораблей из ящиков."
-  },
-  "extention_name": {
-    "message": "Мои кораблики"
-  },
   "all": {
     "message": "Все"
   },
   "check": {
     "message": "Отметка"
   },
+  "extention_description": {
+    "message": "Помогает отслеживать выпадение кораблей из ящиков."
+  },
+  "extention_name": {
+    "message": "Мои кораблики"
+  },
   "level": {
     "message": "Уровень"
+  },
+  "name": {
+    "message": "Название корабля"
   },
   "nation": {
     "message": "Нация"
   },
   "species": {
     "message": "Класс"
-  },
-  "name": {
-    "message": "Название корабля"
   }
 }

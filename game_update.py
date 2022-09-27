@@ -60,7 +60,9 @@ for key, value in d[0].items():
     if value.typeinfo.type == 'Ship':
         level = roman.toRoman(value.level)
         en = (level + ' ' + tr['en'].gettext('IDS_' + value.index)).upper()
+        en_full = (level + ' ' + tr['en'].gettext('IDS_' + value.index + '_FULL')).upper()
         ru = (level + ' ' + tr['ru'].gettext('IDS_' + value.index)).upper()
+        ru_full = (level + ' ' + tr['ru'].gettext('IDS_' + value.index + '_FULL')).upper()
         ships['IDS_' + value.index] = {
             'index': value.index,
             'id': value.id,
@@ -70,9 +72,9 @@ for key, value in d[0].items():
             'level': value.level,
             'species': value.typeinfo.species,
             'group': value.group,
-            'search': [
-                en, ru
-            ],
+            'search': list(set([
+                en, en_full, ru, ru_full
+            ])),
         }
 with open('src/myShips/ships.json', 'w', encoding='utf-8') as f:
     json.dump(ships, f, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)

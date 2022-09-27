@@ -2339,28 +2339,28 @@
   "IDS_PZSD718": {
     "message": "Ship Smasha"
   },
-  "extention_description": {
-    "message": "Helps to track ships in loot boxes"
-  },
-  "extention_name": {
-    "message": "My ships"
-  },
   "all": {
     "message": "All"
   },
   "check": {
     "message": "Check"
   },
+  "extention_description": {
+    "message": "Helps to track ships in loot boxes"
+  },
+  "extention_name": {
+    "message": "My ships"
+  },
   "level": {
     "message": "Level"
+  },
+  "name": {
+    "message": "Ship name"
   },
   "nation": {
     "message": "Nation"
   },
   "species": {
     "message": "Class"
-  },
-  "name": {
-    "message": "Ship name"
   }
 }
