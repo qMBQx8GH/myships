@@ -88,9 +88,9 @@ nations = {
     'Pan_Asia': 80,
     'Europe': 90,
     'Netherlands': 100,
-    'Pan_America': 110,
-    'Spain': 120,
-    'Commonwealth': 130,
+    'Commonwealth': 110,
+    'Pan_America': 120,
+    'Spain': 130,
     'Events': 200,
 }
 species = {

@@ -83,7 +83,13 @@ MyShipsTable.prototype.filter = function () {
 MyShipsTable.prototype.display = async function () {
   const response = await fetch('ships.json');
   const shipsDataAll = await response.json();
-  const shipsData = shipsDataAll.filter(value => value['group'] == 'special');
+  const shipsData = shipsDataAll.filter(value =>
+    value['group'] == 'special'
+    || value['group'] == 'ultimate'
+    || value['group'] == 'specialUnsellable'
+    || value['group'] == 'upgradeableExclusive'
+    || value['group'] == 'upgradeableUltimate'
+  );
 
   chrome.storage.local.get('ships', items => {
     const old_tbody = this.shipsTable.getElementsByTagName('tbody')[0];
