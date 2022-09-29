@@ -32,10 +32,20 @@ function MyShipsTable(shipsTable) {
   this.levelSelect = document.createElement('select');
   this.nationSelect = document.createElement('select');
   this.speciesSelect = document.createElement('select');
+  chrome.storage.onChanged.addListener((changes, namespace) => {
+    for (let [key, { oldValue, newValue }] of Object.entries(changes)) {
+      for (let row of this.shipsTable.rows) {
+        var checkboxes = row.getElementsByTagName('input');
+        if (checkboxes && checkboxes.length == 1) {
+          var checkbox = checkboxes[0];
+          checkbox.checked = !!(newValue[checkbox.value]);
+        }
+      }
+    }
+  });
 }
 
 MyShipsTable.prototype.check = function () {
-  console.info(this);
   chrome.storage.local.get('ships', items => {
     console.info(items);
     if (!items['ships']) {
@@ -58,9 +68,9 @@ MyShipsTable.prototype.filter = function () {
       && 'species' in row.dataset
     ) {
       if (
-          (this.levelSelect.value == '' || this.levelSelect.value == row.dataset.level)
-          && (this.nationSelect.value == '' || this.nationSelect.value == row.dataset.nation)
-          && (this.speciesSelect.value == '' || this.speciesSelect.value == row.dataset.species)
+        (this.levelSelect.value == '' || this.levelSelect.value == row.dataset.level)
+        && (this.nationSelect.value == '' || this.nationSelect.value == row.dataset.nation)
+        && (this.speciesSelect.value == '' || this.speciesSelect.value == row.dataset.species)
       ) {
         row.style.display = '';
       } else {
@@ -73,9 +83,7 @@ MyShipsTable.prototype.filter = function () {
 MyShipsTable.prototype.display = async function () {
   const response = await fetch('ships.json');
   const shipsDataAll = await response.json();
-  const asArray = Object.entries(shipsDataAll);
-  const filtered = asArray.filter(([key, value]) => value['group'] == 'special');
-  const shipsData = Object.fromEntries(filtered);
+  const shipsData = shipsDataAll.filter(value => value['group'] == 'special');
 
   chrome.storage.local.get('ships', items => {
     const old_tbody = this.shipsTable.getElementsByTagName('tbody')[0];
@@ -122,39 +130,37 @@ MyShipsTable.prototype.display = async function () {
     var newCell = newRow.insertCell();
     newRow.appendChild(newCell);
 
-    for (var shipId in shipsData) {
-      if (shipsData.hasOwnProperty(shipId)) {
-        newRow = new_tbody.insertRow();
-        newRow.id = shipId;
+    shipsData.forEach(ship => {
+      newRow = new_tbody.insertRow();
+      newRow.id = ship.index;
 
-        var newCell = newRow.insertCell();
-        var checkbox = document.createElement('input');
-        checkbox.type = "checkbox";
-        checkbox.value = shipId;
-        checkbox.checked = !!(items['ships'] && items['ships'][shipId]);
-        checkbox.addEventListener('click', this.check);
-        newCell.appendChild(checkbox);
+      var newCell = newRow.insertCell();
+      var checkbox = document.createElement('input');
+      checkbox.type = "checkbox";
+      checkbox.value = ship.index;
+      checkbox.checked = !!(items['ships'] && items['ships'][ship.index]);
+      checkbox.addEventListener('click', this.check);
+      newCell.appendChild(checkbox);
 
-        newCell = newRow.insertCell();
-        newRow.dataset.level = shipsData[shipId]['level'];
-        newText = document.createTextNode(shipsData[shipId]['level']);
-        newCell.appendChild(newText);
+      newCell = newRow.insertCell();
+      newRow.dataset.level = ship['level'];
+      newText = document.createTextNode(ship['level']);
+      newCell.appendChild(newText);
 
-        newCell = newRow.insertCell();
-        newRow.dataset.nation = shipsData[shipId]['nation'];
-        newText = document.createTextNode(_(shipsData[shipId]['nation']));
-        newCell.appendChild(newText);
+      newCell = newRow.insertCell();
+      newRow.dataset.nation = ship['nation'];
+      newText = document.createTextNode(_(ship['nation']));
+      newCell.appendChild(newText);
 
-        newCell = newRow.insertCell();
-        newRow.dataset.species = shipsData[shipId]['species'];
-        newText = document.createTextNode(_(shipsData[shipId]['species']));
-        newCell.appendChild(newText);
+      newCell = newRow.insertCell();
+      newRow.dataset.species = ship['species'];
+      newText = document.createTextNode(_(ship['species']));
+      newCell.appendChild(newText);
 
-        newCell = newRow.insertCell();
-        newText = document.createTextNode(shipsData[shipId][lang]);
-        newCell.appendChild(newText);
-      }
-    }
+      newCell = newRow.insertCell();
+      newText = document.createTextNode(ship[lang]);
+      newCell.appendChild(newText);
+    });
 
     this.shipsTable.replaceChild(new_tbody, old_tbody);
   });

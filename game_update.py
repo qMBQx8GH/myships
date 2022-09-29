@@ -55,7 +55,7 @@ with open('res/content/GameParams.data', 'rb') as f:
 z = zlib.decompress(b.read())
 d = pickle.loads(z)
 
-ships = {}
+ships = []
 for key, value in d[0].items():
     if value.typeinfo.type == 'Ship':
         level = roman.toRoman(value.level)
@@ -63,7 +63,7 @@ for key, value in d[0].items():
         en_full = (level + ' ' + tr['en'].gettext('IDS_' + value.index + '_FULL')).upper()
         ru = (level + ' ' + tr['ru'].gettext('IDS_' + value.index)).upper()
         ru_full = (level + ' ' + tr['ru'].gettext('IDS_' + value.index + '_FULL')).upper()
-        ships['IDS_' + value.index] = {
+        ships.append({
             'index': value.index,
             'id': value.id,
             'en': tr['en'].gettext('IDS_' + value.index),
@@ -75,7 +75,34 @@ for key, value in d[0].items():
             'search': list(set([
                 en, en_full, ru, ru_full
             ])),
-        }
+        })
+
+nations = {
+    'Japan': 10,
+    'USA': 20,
+    'Russia': 30,
+    'Germany': 40,
+    'United_Kingdom': 50,
+    'France': 60,
+    'Italy': 70,
+    'Pan_Asia': 80,
+    'Europe': 90,
+    'Netherlands': 100,
+    'Pan_America': 110,
+    'Spain': 120,
+    'Commonwealth': 130,
+    'Events': 200,
+}
+species = {
+    'Destroyer': 10,
+    'Cruiser': 20,
+    'Battleship': 30,
+    'AirCarrier': 40,
+    'Submarine': 50,
+    'Auxiliary': 100,
+}
+
+ships.sort(key=lambda k: (k['level'], nations[k['nation']], species[k['species']], k['en']))
 with open('src/myShips/ships.json', 'w', encoding='utf-8') as f:
     json.dump(ships, f, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)
 

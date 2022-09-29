@@ -5,15 +5,14 @@ function MyShips () {
 MyShips.prototype.load = async function () {
   const jsonURL = chrome.runtime.getURL('ships.json');
   const response = await fetch(jsonURL);
-  const shipsDataAll = await response.json();
-  for (let shipId in shipsDataAll) {
-    if (shipsDataAll.hasOwnProperty(shipId)) {
-      let search = shipsDataAll[shipId].search;
+  const shipsData = await response.json();
+  shipsData.forEach (ship => {
+      let search = ship.search;
       for (let i = 0; i < search.length; i++) {
-        this.shipsIndex[search[i]] = shipId;
+        this.shipsIndex[search[i]] = ship.index;
       }
-    }
-  }
+  });
+
   this.shipsIndex.loaded = true;
   console.info(this.shipsIndex);
 }
