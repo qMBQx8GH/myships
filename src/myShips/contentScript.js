@@ -1,4 +1,4 @@
-function MyShips () {
+function MyShips() {
   this.shipsIndex = {};
 }
 
@@ -6,11 +6,11 @@ MyShips.prototype.load = async function () {
   const jsonURL = chrome.runtime.getURL('ships.json');
   const response = await fetch(jsonURL);
   const shipsData = await response.json();
-  shipsData.forEach (ship => {
-      let search = ship.search;
-      for (let i = 0; i < search.length; i++) {
-        this.shipsIndex[search[i]] = ship.index;
-      }
+  shipsData.forEach(ship => {
+    let search = ship.search;
+    for (let i = 0; i < search.length; i++) {
+      this.shipsIndex[search[i]] = ship.index;
+    }
   });
 
   this.shipsIndex.loaded = true;
@@ -41,7 +41,26 @@ MyShips.prototype.addOnClick = function (element, shipId) {
   });
 }
 
+MyShips.prototype.adjustTitle = function (element, titleClass) {
+  const title = element.getElementsByClassName(titleClass);
+  if (title.length) {
+    const vehicles = element.getElementsByClassName('we-vehicle__level');
+    var countAll = 0;
+    var countOf = 0;
+    Array.from(vehicles).forEach(element => {
+      countAll++;
+      if (element.style.getPropertyValue('text-decoration') == 'line-through') {
+        countOf++;
+      }
+    });
+    console.info(title);
+    let titleText = title[0].innerHTML.replace(/ \([0-9]+\/[0-9]+\)$/, '');
+    title[0].innerHTML = titleText + ' (' + countOf + '/' + countAll + ')';
+    }
+}
+
 MyShips.prototype.onGetStorage = function (items) {
+  let hasChanged = false;
   Array.from(document.getElementsByClassName('we-vehicle__level')).forEach(element => {
     if (element.getAttribute('listener') !== 'true') {
       element.setAttribute('listener', 'true');
@@ -55,14 +74,24 @@ MyShips.prototype.onGetStorage = function (items) {
       if (items['ships'] && items['ships'][shipId]) {
         if (element.style.getPropertyValue('text-decoration') != 'line-through') {
           element.style.setProperty('text-decoration', 'line-through');
+          hasChanged = true;
         }
       } else {
         if (element.style.getPropertyValue('text-decoration') == 'line-through') {
           element.style.setProperty('text-decoration', '');
+          hasChanged = true;
         }
       }
     }
   });
+  if (hasChanged) {
+    Array.from(document.getElementsByClassName('loot-list')).forEach(
+      element => this.adjustTitle(element, 'loot-list__title')
+    );
+    Array.from(document.getElementsByClassName('loot-detail')).forEach(
+      element => this.adjustTitle(element, 'loot-detail__title')
+    );
+  }
 }
 
 MyShips.prototype.check = function () {
@@ -78,4 +107,3 @@ MyShips.prototype.check = function () {
 myShips = new MyShips();
 myShips.load();
 setTimeout(() => { myShips.check() }, 5000);
- 
