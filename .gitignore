@@ -1,3 +1,6 @@
 res/
 __pycache__
 build.ini
+src/myShips.pem
+src/myShips.zip
+src/myShips.crx
