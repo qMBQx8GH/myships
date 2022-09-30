@@ -1,5 +1,5 @@
 # myships
- MyShips chrome extention
+ MyShips chrome extention for World of Warships game.
 
 ## Download
 Download and unpack zip file from the [GitHub](https://github.com/qMBQx8GH/myships/archive/refs/heads/main.zip)
@@ -22,6 +22,7 @@ Wait until page loads. Now you may click on ships names to mark them as they are
 ![alt](img/001.png)
 
 Also you may open extention Options page
+
 ![alt](img/002.png)
 
 You will find there the list of all special and premium ships from the current version of the game sorted almost as they are sorted in the port by level, nation, class and name. Using the checkboxes you may mark the ships you've got.
