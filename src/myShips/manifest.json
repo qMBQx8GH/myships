@@ -16,7 +16,13 @@
   "content_scripts": [
     {
       "matches": [
-        "https://worldofwarships.ru/ru/content/contents-and-drop-rates-of-containers/*"
+        "https://worldofwarships.asia/*",
+        "https://worldofwarships.com/*",
+        "https://worldofwarships.eu/*",
+        "https://worldofwarships.ru/*"
+      ],
+      "include_globs": [
+        "https://worldofwarships.?*/?*/content/contents-and-drop-rates-of-containers/*"
       ],
       "js": [
         "contentScript.js"
@@ -30,6 +36,9 @@
         "ships.json"
       ],
       "matches": [
+        "https://worldofwarships.asia/*",
+        "https://worldofwarships.com/*",
+        "https://worldofwarships.eu/*",
         "https://worldofwarships.ru/*"
       ]
     }
