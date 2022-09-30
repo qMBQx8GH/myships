@@ -17,6 +17,11 @@ MyShips.prototype.load = async function () {
   console.info(this.shipsIndex);
 }
 
+MyShips.prototype.findAncestor = function (el, cls) {
+  while ((el = el.parentElement) && !(el.classList.contains(cls)));
+  return el;
+}
+
 MyShips.prototype.addOnClick = function (element, shipId) {
   element.dataset.shipid = shipId;
   element.addEventListener('click', function (e) {
@@ -35,7 +40,14 @@ MyShips.prototype.addOnClick = function (element, shipId) {
         }
         items['ships'][elementClicked.dataset.shipid] = true;
       }
-      console.info(items);
+      var parent = myShips.findAncestor(elementClicked, 'loot-list');
+      if (parent) {
+        myShips.adjustTitle(parent, 'loot-list__title')
+      }
+      parent = myShips.findAncestor(elementClicked, 'loot-detail');
+      if (parent) {
+        myShips.adjustTitle(parent, 'loot-detail__title')
+      }
       chrome.storage.local.set(items);
     });
   });
