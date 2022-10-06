@@ -139,8 +139,8 @@
         "nation": "Events",
         "ru": "Schnellboot",
         "search": [
-            "I SCHNELLBOOT",
-            "I IDS_PXSD007_FULL"
+            "I IDS_PXSD007_FULL",
+            "I SCHNELLBOOT"
         ],
         "species": "Destroyer"
     },
@@ -153,9 +153,9 @@
         "nation": "Events",
         "ru": "Корабль",
         "search": [
-            "I КОРАБЛЬ",
             "I IDS_PXSC503_FULL",
-            "I SHIP"
+            "I SHIP",
+            "I КОРАБЛЬ"
         ],
         "species": "Cruiser"
     },
@@ -286,8 +286,8 @@
         "nation": "Russia",
         "ru": "Сторожевой",
         "search": [
-            "II СТОРОЖЕВОЙ",
-            "II STOROZHEVOI"
+            "II STOROZHEVOI",
+            "II СТОРОЖЕВОЙ"
         ],
         "species": "Destroyer"
     },
@@ -300,8 +300,8 @@
         "nation": "Russia",
         "ru": "Диана",
         "search": [
-            "II ДИАНА",
-            "II DIANA"
+            "II DIANA",
+            "II ДИАНА"
         ],
         "species": "Cruiser"
     },
@@ -314,9 +314,9 @@
         "nation": "Russia",
         "ru": "Диана L",
         "search": [
-            "II ДИАНА L",
             "II DIANA L",
             "II DIANA LIMA",
+            "II ДИАНА L",
             "II ДИАНА LIMA"
         ],
         "species": "Cruiser"
@@ -330,8 +330,8 @@
         "nation": "Russia",
         "ru": "Новик",
         "search": [
-            "II НОВИК",
-            "II NOVIK"
+            "II NOVIK",
+            "II НОВИК"
         ],
         "species": "Cruiser"
     },
@@ -423,8 +423,8 @@
         "nation": "France",
         "ru": "Jurien",
         "search": [
-            "II JURIEN DE LA GRAVIÈRE",
-            "II JURIEN"
+            "II JURIEN",
+            "II JURIEN DE LA GRAVIÈRE"
         ],
         "species": "Cruiser"
     },
@@ -529,8 +529,8 @@
         "nation": "Events",
         "ru": "Aronia",
         "search": [
-            "II IDS_PXSX024_FULL",
-            "II ARONIA"
+            "II ARONIA",
+            "II IDS_PXSX024_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -599,8 +599,8 @@
         "nation": "Events",
         "ru": "Goliath",
         "search": [
-            "II IDS_PXSX016_FULL",
-            "II GOLIATH"
+            "II GOLIATH",
+            "II IDS_PXSX016_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -613,8 +613,8 @@
         "nation": "Events",
         "ru": "John Cattling",
         "search": [
-            "II JOHN CATTLING",
-            "II IDS_PXSX034_FULL"
+            "II IDS_PXSX034_FULL",
+            "II JOHN CATTLING"
         ],
         "species": "Auxiliary"
     },
@@ -627,8 +627,8 @@
         "nation": "Events",
         "ru": "LST 325",
         "search": [
-            "II LST 325",
-            "II IDS_PXSX039_FULL"
+            "II IDS_PXSX039_FULL",
+            "II LST 325"
         ],
         "species": "Auxiliary"
     },
@@ -641,8 +641,8 @@
         "nation": "Events",
         "ru": "Landing Ship 1",
         "search": [
-            "II LANDING SHIP 1",
-            "II IDS_PXSX035_FULL"
+            "II IDS_PXSX035_FULL",
+            "II LANDING SHIP 1"
         ],
         "species": "Auxiliary"
     },
@@ -655,8 +655,8 @@
         "nation": "Events",
         "ru": "Lorina",
         "search": [
-            "II LORINA",
-            "II IDS_PXSX023_FULL"
+            "II IDS_PXSX023_FULL",
+            "II LORINA"
         ],
         "species": "Auxiliary"
     },
@@ -698,8 +698,8 @@
         "ru": "Минный заградитель",
         "search": [
             "II IDS_PXSX033_FULL",
-            "II МИННЫЙ ЗАГРАДИТЕЛЬ",
-            "II MINELAYER"
+            "II MINELAYER",
+            "II МИННЫЙ ЗАГРАДИТЕЛЬ"
         ],
         "species": "Auxiliary"
     },
@@ -803,8 +803,8 @@
         "nation": "USA",
         "ru": "S. Carolina",
         "search": [
-            "III SOUTH CAROLINA",
-            "III S. CAROLINA"
+            "III S. CAROLINA",
+            "III SOUTH CAROLINA"
         ],
         "species": "Battleship"
     },
@@ -817,8 +817,8 @@
         "nation": "Russia",
         "ru": "Дерзкий",
         "search": [
-            "III ДЕРЗКИЙ",
-            "III DERZKI"
+            "III DERZKI",
+            "III ДЕРЗКИЙ"
         ],
         "species": "Destroyer"
     },
@@ -859,8 +859,8 @@
         "nation": "Russia",
         "ru": "Богатырь",
         "search": [
-            "III БОГАТЫРЬ",
-            "III BOGATYR"
+            "III BOGATYR",
+            "III БОГАТЫРЬ"
         ],
         "species": "Cruiser"
     },
@@ -873,8 +873,8 @@
         "nation": "Russia",
         "ru": "Олег",
         "search": [
-            "III ОЛЕГ",
-            "III OLEG"
+            "III OLEG",
+            "III ОЛЕГ"
         ],
         "species": "Cruiser"
     },
@@ -887,8 +887,8 @@
         "nation": "Russia",
         "ru": "Варяг",
         "search": [
-            "III ВАРЯГ",
-            "III VARYAG"
+            "III VARYAG",
+            "III ВАРЯГ"
         ],
         "species": "Cruiser"
     },
@@ -941,9 +941,9 @@
         "nation": "Germany",
         "ru": "K. Albert",
         "search": [
-            "III KÖNIG ALBERT",
             "III K. ALBERT",
-            "III K. ALBERT"
+            "III K. ALBERT",
+            "III KÖNIG ALBERT"
         ],
         "species": "Battleship"
     },
@@ -1099,9 +1099,9 @@
         "nation": "Italy",
         "ru": "N. Sauro",
         "search": [
-            "III NAZARIO SAURO",
             "III N. SAURO",
-            "III N. SAURO"
+            "III N. SAURO",
+            "III NAZARIO SAURO"
         ],
         "species": "Destroyer"
     },
@@ -1172,7 +1172,7 @@
     },
     {
         "en": "Blade",
-        "group": "disabled",
+        "group": "event",
         "id": 4293801232,
         "index": "PXSD001",
         "level": 3,
@@ -1185,7 +1185,7 @@
     },
     {
         "en": "Igor",
-        "group": "disabled",
+        "group": "event",
         "id": 4293834000,
         "index": "PXSC001",
         "level": 3,
@@ -1198,7 +1198,7 @@
     },
     {
         "en": "Jackal",
-        "group": "disabled",
+        "group": "event",
         "id": 4293866768,
         "index": "PXSB001",
         "level": 3,
@@ -1310,8 +1310,8 @@
         "nation": "Japan",
         "ru": "Hōshō (old)",
         "search": [
-            "IV HŌSHŌ (OLD)",
-            "IV HŌSHŌ (< 23.01.2019)"
+            "IV HŌSHŌ (< 23.01.2019)",
+            "IV HŌSHŌ (OLD)"
         ],
         "species": "AirCarrier"
     },
@@ -1404,8 +1404,8 @@
         "nation": "Russia",
         "ru": "Изяслав",
         "search": [
-            "IV ИЗЯСЛАВ",
-            "IV IZYASLAV"
+            "IV IZYASLAV",
+            "IV ИЗЯСЛАВ"
         ],
         "species": "Destroyer"
     },
@@ -1418,8 +1418,8 @@
         "nation": "Russia",
         "ru": "Светлана",
         "search": [
-            "IV СВЕТЛАНА",
-            "IV SVIETLANA"
+            "IV SVIETLANA",
+            "IV СВЕТЛАНА"
         ],
         "species": "Cruiser"
     },
@@ -1446,10 +1446,10 @@
         "nation": "Russia",
         "ru": "Николай I",
         "search": [
-            "IV ИМПЕРАТОР НИКОЛАЙ I",
             "IV IMPERATOR NIKOLAI I",
-            "IV НИКОЛАЙ I",
-            "IV NIKOLAI I"
+            "IV NIKOLAI I",
+            "IV ИМПЕРАТОР НИКОЛАЙ I",
+            "IV НИКОЛАЙ I"
         ],
         "species": "Battleship"
     },
@@ -1659,8 +1659,8 @@
         "ru": "Giussano",
         "search": [
             "IV ALBERTO DI GIUSSANO",
-            "IV GIUSSANO",
-            "IV ALBERTO DI GIUSSANO"
+            "IV ALBERTO DI GIUSSANO",
+            "IV GIUSSANO"
         ],
         "species": "Cruiser"
     },
@@ -1673,8 +1673,8 @@
         "nation": "Italy",
         "ru": "D. Alighieri",
         "search": [
-            "IV DANTE ALIGHIERI",
-            "IV D. ALIGHIERI"
+            "IV D. ALIGHIERI",
+            "IV DANTE ALIGHIERI"
         ],
         "species": "Battleship"
     },
@@ -1726,8 +1726,8 @@
         "nation": "Events",
         "ru": "Air Force",
         "search": [
-            "IV AIRCRAFT CARRIER",
             "IV AIR FORCE",
+            "IV AIRCRAFT CARRIER",
             "IV АВИАНОСЕЦ"
         ],
         "species": "AirCarrier"
@@ -1950,8 +1950,8 @@
         "nation": "Japan",
         "ru": "Zuihō (old)",
         "search": [
-            "V ZUIHŌ (OLD)",
-            "V ZUIHŌ (< 23.01.2019)"
+            "V ZUIHŌ (< 23.01.2019)",
+            "V ZUIHŌ (OLD)"
         ],
         "species": "AirCarrier"
     },
@@ -2003,8 +2003,8 @@
         "nation": "USA",
         "ru": "Marblehead L",
         "search": [
-            "V MARBLEHEAD LIMA",
-            "V MARBLEHEAD L"
+            "V MARBLEHEAD L",
+            "V MARBLEHEAD LIMA"
         ],
         "species": "Cruiser"
     },
@@ -2069,8 +2069,8 @@
         "nation": "USA",
         "ru": "Bogue (old)",
         "search": [
-            "V BOGUE (OLD)",
-            "V BOGUE (< 23.01.2019)"
+            "V BOGUE (< 23.01.2019)",
+            "V BOGUE (OLD)"
         ],
         "species": "AirCarrier"
     },
@@ -2096,8 +2096,8 @@
         "nation": "USA",
         "ru": "Cimarron Test",
         "search": [
-            "V IDS_PASX904_FULL",
-            "V CIMARRON TEST"
+            "V CIMARRON TEST",
+            "V IDS_PASX904_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -2110,8 +2110,8 @@
         "nation": "USA",
         "ru": "Liberty",
         "search": [
-            "V LIBERTY",
-            "V IDS_PASX003_FULL"
+            "V IDS_PASX003_FULL",
+            "V LIBERTY"
         ],
         "species": "Auxiliary"
     },
@@ -2124,8 +2124,8 @@
         "nation": "USA",
         "ru": "St. Clair",
         "search": [
-            "V ST. CLAIR",
-            "V GREAT EASTERN"
+            "V GREAT EASTERN",
+            "V ST. CLAIR"
         ],
         "species": "Auxiliary"
     },
@@ -2139,9 +2139,9 @@
         "ru": "Гневный (OLD)",
         "search": [
             "V GNEVNY (< 06.03.2017)",
+            "V GNEVNY (OLD)",
             "V ГНЕВНЫЙ (< 06.03.2017)",
-            "V ГНЕВНЫЙ (OLD)",
-            "V GNEVNY (OLD)"
+            "V ГНЕВНЫЙ (OLD)"
         ],
         "species": "Destroyer"
     },
@@ -2154,8 +2154,8 @@
         "nation": "Russia",
         "ru": "Гремящий",
         "search": [
-            "V ГРЕМЯЩИЙ",
-            "V GREMYASHCHY"
+            "V GREMYASHCHY",
+            "V ГРЕМЯЩИЙ"
         ],
         "species": "Destroyer"
     },
@@ -2211,9 +2211,9 @@
         "ru": "Киров (OLD)",
         "search": [
             "V KIROV (< 10.06.2020)",
-            "V КИРОВ (OLD)",
             "V KIROV (OLD)",
-            "V КИРОВ (< 10.06.2020)"
+            "V КИРОВ (< 10.06.2020)",
+            "V КИРОВ (OLD)"
         ],
         "species": "Cruiser"
     },
@@ -2254,8 +2254,8 @@
         "nation": "Russia",
         "ru": "Микоян",
         "search": [
-            "V МИКОЯН",
-            "V MIKOYAN"
+            "V MIKOYAN",
+            "V МИКОЯН"
         ],
         "species": "Cruiser"
     },
@@ -2282,10 +2282,10 @@
         "nation": "Russia",
         "ru": "Окт. революция",
         "search": [
-            "V ОКТЯБРЬСКАЯ РЕВОЛЮЦИЯ",
-            "V OKTYABRSKAYA REVOLUTSIYA",
             "V OKT. REVOLUTSIYA",
-            "V ОКТ. РЕВОЛЮЦИЯ"
+            "V OKTYABRSKAYA REVOLUTSIYA",
+            "V ОКТ. РЕВОЛЮЦИЯ",
+            "V ОКТЯБРЬСКАЯ РЕВОЛЮЦИЯ"
         ],
         "species": "Battleship"
     },
@@ -2298,8 +2298,8 @@
         "nation": "Russia",
         "ru": "Пётр Великий",
         "search": [
-            "V ПЁТР ВЕЛИКИЙ",
-            "V PYOTR VELIKIY"
+            "V PYOTR VELIKIY",
+            "V ПЁТР ВЕЛИКИЙ"
         ],
         "species": "Battleship"
     },
@@ -2693,8 +2693,8 @@
         "nation": "Events",
         "ru": "Cimarron civil",
         "search": [
-            "V IDS_PXSX044_FULL",
-            "V CIMARRON CIVIL"
+            "V CIMARRON CIVIL",
+            "V IDS_PXSX044_FULL"
         ],
         "species": "Auxiliary"
     },
@@ -2707,8 +2707,8 @@
         "nation": "Events",
         "ru": "Liberty civil",
         "search": [
-            "V LIBERTY CIVIL",
-            "V IDS_PXSX045_FULL"
+            "V IDS_PXSX045_FULL",
+            "V LIBERTY CIVIL"
         ],
         "species": "Auxiliary"
     },
@@ -2719,10 +2719,9 @@
         "index": "PXSX001",
         "level": 5,
         "nation": "Events",
-        "ru": "Трансильвания",
+        "ru": "Transylvania",
         "search": [
-            "V TRANSYLVANIA",
-            "V ТРАНСИЛЬВАНИЯ"
+            "V TRANSYLVANIA"
         ],
         "species": "Auxiliary"
     },
@@ -2761,8 +2760,8 @@
         "nation": "Japan",
         "ru": "Mutsuki (old)",
         "search": [
-            "VI MUTSUKI (OLD)",
-            "VI MUTSUKI (< 01.12.2016)"
+            "VI MUTSUKI (< 01.12.2016)",
+            "VI MUTSUKI (OLD)"
         ],
         "species": "Destroyer"
     },
@@ -2854,8 +2853,8 @@
         "nation": "Japan",
         "ru": "Ise 3",
         "search": [
-            "VI ISE 3",
-            "VI ISE 3"
+            "VI ISE 3",
+            "VI ISE 3"
         ],
         "species": "Battleship"
     },
@@ -2934,8 +2933,8 @@
         "nation": "USA",
         "ru": "Cleveland (old)",
         "search": [
-            "VI CLEVELAND (OLD)",
-            "VI CLEVELAND (< 31.05.2018)"
+            "VI CLEVELAND (< 31.05.2018)",
+            "VI CLEVELAND (OLD)"
         ],
         "species": "Cruiser"
     },
@@ -3033,7 +3032,7 @@
     },
     {
         "en": "Cachalot",
-        "group": "disabled",
+        "group": "earlyAccess",
         "id": 4078352368,
         "index": "PASS206",
         "level": 6,
@@ -3045,15 +3044,16 @@
         "species": "Submarine"
     },
     {
-        "en": "Cachalot",
-        "group": "demoWithStats",
+        "en": "Cachalot (old)",
+        "group": "preserved",
         "id": 4183209968,
         "index": "PASS106",
         "level": 6,
         "nation": "USA",
-        "ru": "Cachalot",
+        "ru": "Cachalot (old)",
         "search": [
-            "VI CACHALOT"
+            "VI CACHALOT (< 04.10.2022)",
+            "VI CACHALOT (OLD)"
         ],
         "species": "Submarine"
     },
@@ -3066,8 +3066,8 @@
         "nation": "Russia",
         "ru": "Гневный",
         "search": [
-            "VI ГНЕВНЫЙ",
-            "VI GNEVNY"
+            "VI GNEVNY",
+            "VI ГНЕВНЫЙ"
         ],
         "species": "Destroyer"
     },
@@ -3080,10 +3080,10 @@
         "nation": "Russia",
         "ru": "Огневой (OLD)",
         "search": [
-            "VI ОГНЕВОЙ (OLD)",
-            "VI OGNEVOI (OLD)",
             "VI OGNEVOI (< 06.03.2017)",
-            "VI ОГНЕВОЙ (< 06.03.2017)"
+            "VI OGNEVOI (OLD)",
+            "VI ОГНЕВОЙ (< 06.03.2017)",
+            "VI ОГНЕВОЙ (OLD)"
         ],
         "species": "Destroyer"
     },
@@ -3110,10 +3110,10 @@
         "nation": "Russia",
         "ru": "Макаров",
         "search": [
-            "VI АДМИРАЛ МАКАРОВ",
+            "VI ADMIRAL MAKAROV",
             "VI MAKAROV",
-            "VI МАКАРОВ",
-            "VI ADMIRAL MAKAROV"
+            "VI АДМИРАЛ МАКАРОВ",
+            "VI МАКАРОВ"
         ],
         "species": "Cruiser"
     },
@@ -3140,8 +3140,8 @@
         "nation": "Russia",
         "ru": "Измаил",
         "search": [
-            "VI ИЗМАИЛ",
-            "VI IZMAIL"
+            "VI IZMAIL",
+            "VI ИЗМАИЛ"
         ],
         "species": "Battleship"
     },
@@ -3154,8 +3154,8 @@
         "nation": "Russia",
         "ru": "Новороссийск",
         "search": [
-            "VI НОВОРОССИЙСК",
-            "VI NOVOROSSIYSK"
+            "VI NOVOROSSIYSK",
+            "VI НОВОРОССИЙСК"
         ],
         "species": "Battleship"
     },
@@ -3168,8 +3168,8 @@
         "nation": "Russia",
         "ru": "Серов",
         "search": [
-            "VI СЕРОВ",
-            "VI SEROV"
+            "VI SEROV",
+            "VI СЕРОВ"
         ],
         "species": "AirCarrier"
     },
@@ -3196,8 +3196,8 @@
         "nation": "Germany",
         "ru": "Gaede",
         "search": [
-            "VI GAEDE",
-            "VI ERNST GAEDE"
+            "VI ERNST GAEDE",
+            "VI GAEDE"
         ],
         "species": "Destroyer"
     },
@@ -3210,8 +3210,8 @@
         "nation": "Germany",
         "ru": "K. Schönberg",
         "search": [
-            "VI K. SCHÖNBERG",
             "VI K. SCHÖNBERG",
+            "VI K. SCHÖNBERG",
             "VI KARL VON SCHÖNBERG"
         ],
         "species": "Destroyer"
@@ -3238,8 +3238,8 @@
         "nation": "Germany",
         "ru": "Graf Spee",
         "search": [
-            "VI GRAF SPEE",
-            "VI ADMIRAL GRAF SPEE"
+            "VI ADMIRAL GRAF SPEE",
+            "VI GRAF SPEE"
         ],
         "species": "Cruiser"
     },
@@ -3254,6 +3254,19 @@
         "search": [
             "VI HSF ADMIRAL GRAF SPEE",
             "VI HSF GRAF SPEE"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Leipzig",
+        "group": "demoWithoutStats",
+        "id": 3753817904,
+        "index": "PGSC516",
+        "level": 6,
+        "nation": "Germany",
+        "ru": "Leipzig",
+        "search": [
+            "VI LEIPZIG"
         ],
         "species": "Cruiser"
     },
@@ -3305,8 +3318,8 @@
         "nation": "Germany",
         "ru": "P. E. Friedrich",
         "search": [
-            "VI PRINZ EITEL FRIEDRICH",
-            "VI P. E. FRIEDRICH"
+            "VI P. E. FRIEDRICH",
+            "VI PRINZ EITEL FRIEDRICH"
         ],
         "species": "Battleship"
     },
@@ -3319,9 +3332,9 @@
         "nation": "Germany",
         "ru": "E. Loewenhardt",
         "search": [
-            "VI ERICH LOEWENHARDT",
             "VI E. LOEWENHARDT",
-            "VI E. LOEWENHARDT"
+            "VI E. LOEWENHARDT",
+            "VI ERICH LOEWENHARDT"
         ],
         "species": "AirCarrier"
     },
@@ -3340,7 +3353,7 @@
     },
     {
         "en": "U-69",
-        "group": "disabled",
+        "group": "earlyAccess",
         "id": 4078352176,
         "index": "PGSS206",
         "level": 6,
@@ -3352,15 +3365,16 @@
         "species": "Submarine"
     },
     {
-        "en": "U-69",
-        "group": "demoWithStats",
+        "en": "U-69 (old)",
+        "group": "preserved",
         "id": 4183209776,
         "index": "PGSS106",
         "level": 6,
         "nation": "Germany",
-        "ru": "U-69",
+        "ru": "U-69 (old)",
         "search": [
-            "VI U-69"
+            "VI U-69 (< 04.10.2022)",
+            "VI U-69 (OLD)"
         ],
         "species": "Submarine"
     },
@@ -3521,6 +3535,19 @@
         "species": "AirCarrier"
     },
     {
+        "en": "Undine",
+        "group": "demoWithoutStats",
+        "id": 4183209936,
+        "index": "PBSS106",
+        "level": 6,
+        "nation": "United_Kingdom",
+        "ru": "Undine",
+        "search": [
+            "VI UNDINE"
+        ],
+        "species": "Submarine"
+    },
+    {
         "en": "Aigle",
         "group": "special",
         "id": 3764270928,
@@ -3568,8 +3595,8 @@
         "nation": "France",
         "ru": "La Galissonnière",
         "search": [
-            "VI LA GALISSONNIÈRE",
-            "VI LA GALISSONNIÈRE"
+            "VI LA GALISSONNIÈRE",
+            "VI LA GALISSONNIÈRE"
         ],
         "species": "Cruiser"
     },
@@ -3795,32 +3822,6 @@
         "species": "Cruiser"
     },
     {
-        "en": "Juruá",
-        "group": "special",
-        "id": 3764270416,
-        "index": "PVSD506",
-        "level": 6,
-        "nation": "Pan_America",
-        "ru": "Juruá",
-        "search": [
-            "VI JURUÁ"
-        ],
-        "species": "Destroyer"
-    },
-    {
-        "en": "Canarias",
-        "group": "special",
-        "id": 3764303280,
-        "index": "PSSC506",
-        "level": 6,
-        "nation": "Spain",
-        "ru": "Canarias",
-        "search": [
-            "VI CANARIAS"
-        ],
-        "species": "Cruiser"
-    },
-    {
         "en": "Mysore",
         "group": "special",
         "id": 3753817456,
@@ -3843,6 +3844,32 @@
         "ru": "Perth",
         "search": [
             "VI PERTH"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Juruá",
+        "group": "special",
+        "id": 3764270416,
+        "index": "PVSD506",
+        "level": 6,
+        "nation": "Pan_America",
+        "ru": "Juruá",
+        "search": [
+            "VI JURUÁ"
+        ],
+        "species": "Destroyer"
+    },
+    {
+        "en": "Canarias",
+        "group": "special",
+        "id": 3764303280,
+        "index": "PSSC506",
+        "level": 6,
+        "nation": "Spain",
+        "ru": "Canarias",
+        "search": [
+            "VI CANARIAS"
         ],
         "species": "Cruiser"
     },
@@ -3987,8 +4014,8 @@
         "nation": "Japan",
         "ru": "E. Dragon",
         "search": [
-            "VII EASTERN DRAGON",
-            "VII E. DRAGON"
+            "VII E. DRAGON",
+            "VII EASTERN DRAGON"
         ],
         "species": "Cruiser"
     },
@@ -4106,8 +4133,8 @@
         "nation": "Japan",
         "ru": "Hiryū (old)",
         "search": [
-            "VII HIRYŪ (OLD)",
-            "VII HIRYŪ (< 23.01.2019)"
+            "VII HIRYŪ (< 23.01.2019)",
+            "VII HIRYŪ (OLD)"
         ],
         "species": "AirCarrier"
     },
@@ -4317,8 +4344,8 @@
         "nation": "USA",
         "ru": "Ranger (old)",
         "search": [
-            "VII RANGER (OLD)",
-            "VII RANGER (< 23.01.2019)"
+            "VII RANGER (< 23.01.2019)",
+            "VII RANGER (OLD)"
         ],
         "species": "AirCarrier"
     },
@@ -4331,8 +4358,8 @@
         "nation": "USA",
         "ru": "Saipan (old)",
         "search": [
-            "VII SAIPAN (OLD)",
-            "VII SAIPAN (< 23.01.2019)"
+            "VII SAIPAN (< 23.01.2019)",
+            "VII SAIPAN (OLD)"
         ],
         "species": "AirCarrier"
     },
@@ -4345,10 +4372,10 @@
         "nation": "Russia",
         "ru": "Киев (OLD)",
         "search": [
-            "VII КИЕВ (OLD)",
+            "VII KIEV (< 06.03.2017)",
             "VII KIEV (OLD)",
             "VII КИЕВ (< 06.03.2017)",
-            "VII KIEV (< 06.03.2017)"
+            "VII КИЕВ (OLD)"
         ],
         "species": "Destroyer"
     },
@@ -4361,8 +4388,8 @@
         "nation": "Russia",
         "ru": "Ленинград",
         "search": [
-            "VII ЛЕНИНГРАД",
-            "VII LENINGRAD"
+            "VII LENINGRAD",
+            "VII ЛЕНИНГРАД"
         ],
         "species": "Destroyer"
     },
@@ -4389,8 +4416,8 @@
         "nation": "Russia",
         "ru": "Лазо",
         "search": [
-            "VII ЛАЗО",
-            "VII LAZO"
+            "VII LAZO",
+            "VII ЛАЗО"
         ],
         "species": "Cruiser"
     },
@@ -4417,8 +4444,8 @@
         "nation": "Russia",
         "ru": "Полтава",
         "search": [
-            "VII ПОЛТАВА",
-            "VII POLTAVA"
+            "VII POLTAVA",
+            "VII ПОЛТАВА"
         ],
         "species": "Battleship"
     },
@@ -4431,8 +4458,8 @@
         "nation": "Russia",
         "ru": "Синоп",
         "search": [
-            "VII СИНОП",
-            "VII SINOP"
+            "VII SINOP",
+            "VII СИНОП"
         ],
         "species": "Battleship"
     },
@@ -4445,8 +4472,8 @@
         "nation": "Germany",
         "ru": "Maass",
         "search": [
-            "VII MAASS",
-            "VII LEBERECHT MAASS"
+            "VII LEBERECHT MAASS",
+            "VII MAASS"
         ],
         "species": "Destroyer"
     },
@@ -4537,8 +4564,8 @@
         "nation": "Germany",
         "ru": "P. Heinrich",
         "search": [
-            "VII PRINZ HEINRICH",
-            "VII P. HEINRICH"
+            "VII P. HEINRICH",
+            "VII PRINZ HEINRICH"
         ],
         "species": "Battleship"
     },
@@ -4686,6 +4713,19 @@
         "species": "Battleship"
     },
     {
+        "en": "Renown '44",
+        "group": "demoWithoutStats",
+        "id": 3721344976,
+        "index": "PBSB547",
+        "level": 7,
+        "nation": "United_Kingdom",
+        "ru": "Renown '44",
+        "search": [
+            "VII RENOWN '44"
+        ],
+        "species": "Battleship"
+    },
+    {
         "en": "Rooke",
         "group": "upgradeable",
         "id": 4077860816,
@@ -4785,9 +4825,9 @@
         "nation": "Italy",
         "ru": "L. Tarigo",
         "search": [
+            "VII L. TARIGO",
             "VII L. TARIGO",
-            "VII LUCA TARIGO",
-            "VII L. TARIGO"
+            "VII LUCA TARIGO"
         ],
         "species": "Destroyer"
     },
@@ -4800,8 +4840,8 @@
         "nation": "Italy",
         "ru": "Abruzzi",
         "search": [
-            "VII DUCA DEGLI ABRUZZI",
-            "VII ABRUZZI"
+            "VII ABRUZZI",
+            "VII DUCA DEGLI ABRUZZI"
         ],
         "species": "Cruiser"
     },
@@ -4911,19 +4951,6 @@
         "species": "Cruiser"
     },
     {
-        "en": "Nueve de Julio",
-        "group": "special",
-        "id": 3763254608,
-        "index": "PVSC507",
-        "level": 7,
-        "nation": "Pan_America",
-        "ru": "Nueve de Julio",
-        "search": [
-            "VII NUEVE DE JULIO"
-        ],
-        "species": "Cruiser"
-    },
-    {
         "en": "Haida",
         "group": "special",
         "id": 3763221872,
@@ -4961,6 +4988,19 @@
             "VII YUKON"
         ],
         "species": "Battleship"
+    },
+    {
+        "en": "Nueve de Julio",
+        "group": "special",
+        "id": 3763254608,
+        "index": "PVSC507",
+        "level": 7,
+        "nation": "Pan_America",
+        "ru": "Nueve de Julio",
+        "search": [
+            "VII NUEVE DE JULIO"
+        ],
+        "species": "Cruiser"
     },
     {
         "en": "Blue Aster",
@@ -5015,32 +5055,6 @@
         "species": "Destroyer"
     },
     {
-        "en": "Ghoul",
-        "group": "disabled",
-        "id": 4292752656,
-        "index": "PXSD002",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Ghoul",
-        "search": [
-            "VII GHOUL"
-        ],
-        "species": "Destroyer"
-    },
-    {
-        "en": "Razorworm",
-        "group": "disabled",
-        "id": 4285412624,
-        "index": "PXSD009",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Razorworm",
-        "search": [
-            "VII RAZORWORM"
-        ],
-        "species": "Destroyer"
-    },
-    {
         "en": "Rover",
         "group": "disabled",
         "id": 4282266896,
@@ -5050,19 +5064,6 @@
         "ru": "Rover",
         "search": [
             "VII ROVER"
-        ],
-        "species": "Destroyer"
-    },
-    {
-        "en": "Steel Rat",
-        "group": "unavailable",
-        "id": 4286461200,
-        "index": "PXSD008",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Steel Rat",
-        "search": [
-            "VII STEEL RAT"
         ],
         "species": "Destroyer"
     },
@@ -5119,32 +5120,6 @@
         "species": "Cruiser"
     },
     {
-        "en": "Octopus",
-        "group": "unavailable",
-        "id": 4285445392,
-        "index": "PXSC009",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Octopus",
-        "search": [
-            "VII OCTOPUS"
-        ],
-        "species": "Cruiser"
-    },
-    {
-        "en": "Scarab",
-        "group": "disabled",
-        "id": 4292785424,
-        "index": "PXSC002",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Scarab",
-        "search": [
-            "VII SCARAB"
-        ],
-        "species": "Cruiser"
-    },
-    {
         "en": "Zaya",
         "group": "disabled",
         "id": 4289639696,
@@ -5171,19 +5146,6 @@
         "species": "Battleship"
     },
     {
-        "en": "Leviathan",
-        "group": "disabled",
-        "id": 4286526736,
-        "index": "PXSB008",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Leviathan",
-        "search": [
-            "VII LEVIATHAN"
-        ],
-        "species": "Battleship"
-    },
-    {
         "en": "Paris",
         "group": "disabled",
         "id": 4288623888,
@@ -5197,33 +5159,6 @@
         "species": "Battleship"
     },
     {
-        "en": "Rasputin",
-        "group": "disabled",
-        "id": 4292818192,
-        "index": "PXSB002",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Распутин",
-        "search": [
-            "VII РАСПУТИН",
-            "VII RASPUTIN"
-        ],
-        "species": "Battleship"
-    },
-    {
-        "en": "Varg",
-        "group": "disabled",
-        "id": 4289672464,
-        "index": "PXSB005",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Varg",
-        "search": [
-            "VII VARG"
-        ],
-        "species": "Battleship"
-    },
-    {
         "en": "Hellcarrier",
         "group": "disabled",
         "id": 4289705232,
@@ -5232,8 +5167,8 @@
         "nation": "Events",
         "ru": "Hellcarrier",
         "search": [
-            "VII SPACEPORT HELLCARRIER",
-            "VII HELLCARRIER"
+            "VII HELLCARRIER",
+            "VII SPACEPORT HELLCARRIER"
         ],
         "species": "AirCarrier"
     },
@@ -5338,8 +5273,8 @@
         "nation": "Japan",
         "ru": "Fubuki (old)",
         "search": [
-            "VIII FUBUKI (OLD)",
-            "VIII FUBUKI (< 01.12.2016)"
+            "VIII FUBUKI (< 01.12.2016)",
+            "VIII FUBUKI (OLD)"
         ],
         "species": "Destroyer"
     },
@@ -5482,8 +5417,8 @@
         "nation": "Japan",
         "ru": "Tone 2",
         "search": [
-            "VIII TONE 2",
-            "VIII TONE 2"
+            "VIII TONE 2",
+            "VIII TONE 2"
         ],
         "species": "Cruiser"
     },
@@ -5496,8 +5431,8 @@
         "nation": "Japan",
         "ru": "Tone 3",
         "search": [
-            "VIII TONE 3",
-            "VIII TONE 3"
+            "VIII TONE 3",
+            "VIII TONE 3"
         ],
         "species": "Cruiser"
     },
@@ -5608,7 +5543,7 @@
     },
     {
         "en": "I-56",
-        "group": "demoWithoutStats",
+        "group": "special",
         "id": 3751196368,
         "index": "PJSS518",
         "level": 8,
@@ -5876,8 +5811,8 @@
         "nation": "USA",
         "ru": "N. Carolina",
         "search": [
-            "VIII NORTH CAROLINA",
-            "VIII N. CAROLINA"
+            "VIII N. CAROLINA",
+            "VIII NORTH CAROLINA"
         ],
         "species": "Battleship"
     },
@@ -5903,8 +5838,8 @@
         "nation": "USA",
         "ru": "Enterprise (old)",
         "search": [
-            "VIII ENTERPRISE (OLD)",
-            "VIII ENTERPRISE (< 23.01.2019)"
+            "VIII ENTERPRISE (< 23.01.2019)",
+            "VIII ENTERPRISE (OLD)"
         ],
         "species": "AirCarrier"
     },
@@ -5943,8 +5878,8 @@
         "nation": "USA",
         "ru": "Lexington (old)",
         "search": [
-            "VIII LEXINGTON (OLD)",
-            "VIII LEXINGTON (< 23.01.2019)"
+            "VIII LEXINGTON (< 23.01.2019)",
+            "VIII LEXINGTON (OLD)"
         ],
         "species": "AirCarrier"
     },
@@ -5990,9 +5925,9 @@
     },
     {
         "en": "Salmon",
-        "group": "demoWithStats",
-        "id": 4181112816,
-        "index": "PASS108",
+        "group": "earlyAccess",
+        "id": 4076255216,
+        "index": "PASS208",
         "level": 8,
         "nation": "USA",
         "ru": "Salmon",
@@ -6002,15 +5937,16 @@
         "species": "Submarine"
     },
     {
-        "en": "Salmon",
-        "group": "disabled",
-        "id": 4076255216,
-        "index": "PASS208",
+        "en": "Salmon (old)",
+        "group": "preserved",
+        "id": 4181112816,
+        "index": "PASS108",
         "level": 8,
         "nation": "USA",
-        "ru": "Salmon",
+        "ru": "Salmon (old)",
         "search": [
-            "VIII SALMON"
+            "VIII SALMON (< 04.10.2022)",
+            "VIII SALMON (OLD)"
         ],
         "species": "Submarine"
     },
@@ -6051,10 +5987,10 @@
         "nation": "Russia",
         "ru": "Ташкент (OLD)",
         "search": [
-            "VIII ТАШКЕНТ (OLD)",
-            "VIII ТАШКЕНТ (< 06.03.2017)",
+            "VIII TASHKENT (< 06.03.2017)",
             "VIII TASHKENT (OLD)",
-            "VIII TASHKENT (< 06.03.2017)"
+            "VIII ТАШКЕНТ (< 06.03.2017)",
+            "VIII ТАШКЕНТ (OLD)"
         ],
         "species": "Destroyer"
     },
@@ -6067,8 +6003,8 @@
         "nation": "Russia",
         "ru": "Багратион",
         "search": [
-            "VIII БАГРАТИОН",
-            "VIII BAGRATION"
+            "VIII BAGRATION",
+            "VIII БАГРАТИОН"
         ],
         "species": "Cruiser"
     },
@@ -6081,8 +6017,8 @@
         "nation": "Russia",
         "ru": "Чапаев",
         "search": [
-            "VIII ЧАПАЕВ",
-            "VIII CHAPAYEV"
+            "VIII CHAPAYEV",
+            "VIII ЧАПАЕВ"
         ],
         "species": "Cruiser"
     },
@@ -6096,8 +6032,8 @@
         "ru": "Кутузов",
         "search": [
             "VIII KUTUZOV",
-            "VIII КУТУЗОВ",
             "VIII MIKHAIL KUTUZOV",
+            "VIII КУТУЗОВ",
             "VIII МИХАИЛ КУТУЗОВ"
         ],
         "species": "Cruiser"
@@ -6111,8 +6047,8 @@
         "nation": "Russia",
         "ru": "Очаков",
         "search": [
-            "VIII ОЧАКОВ",
-            "VIII OCHAKOV"
+            "VIII OCHAKOV",
+            "VIII ОЧАКОВ"
         ],
         "species": "Cruiser"
     },
@@ -6125,8 +6061,8 @@
         "nation": "Russia",
         "ru": "П. Багратион",
         "search": [
-            "VIII PYOTR BAGRATION",
             "VIII P. BAGRATION",
+            "VIII PYOTR BAGRATION",
             "VIII П. БАГРАТИОН",
             "VIII ПЁТР БАГРАТИОН"
         ],
@@ -6141,8 +6077,8 @@
         "nation": "Russia",
         "ru": "Таллин",
         "search": [
-            "VIII ТАЛЛИН",
-            "VIII TALLINN"
+            "VIII TALLINN",
+            "VIII ТАЛЛИН"
         ],
         "species": "Cruiser"
     },
@@ -6239,22 +6175,22 @@
         "nation": "Russia",
         "ru": "Л-20",
         "search": [
-            "VIII Л-20",
-            "VIII L-20"
+            "VIII L-20",
+            "VIII Л-20"
         ],
         "species": "Submarine"
     },
     {
         "en": "S-189",
-        "group": "demoWithoutStats",
+        "group": "special",
         "id": 3761681872,
         "index": "PRSS508",
         "level": 8,
         "nation": "Russia",
         "ru": "С-189",
         "search": [
-            "VIII С-189",
-            "VIII S-189"
+            "VIII S-189",
+            "VIII С-189"
         ],
         "species": "Submarine"
     },
@@ -6267,8 +6203,8 @@
         "nation": "Germany",
         "ru": "G. J. Maerker",
         "search": [
-            "VIII G. J. MAERKER",
             "VIII G. J. MAERKER",
+            "VIII G. J. MAERKER",
             "VIII GUSTAV-JULIUS MAERKER"
         ],
         "species": "Destroyer"
@@ -6321,8 +6257,8 @@
         "nation": "Germany",
         "ru": "Hipper",
         "search": [
-            "VIII HIPPER",
-            "VIII ADMIRAL HIPPER"
+            "VIII ADMIRAL HIPPER",
+            "VIII HIPPER"
         ],
         "species": "Cruiser"
     },
@@ -6452,8 +6388,8 @@
         "nation": "Germany",
         "ru": "A. Parseval",
         "search": [
-            "VIII AUGUST VON PARSEVAL",
-            "VIII A. PARSEVAL"
+            "VIII A. PARSEVAL",
+            "VIII AUGUST VON PARSEVAL"
         ],
         "species": "AirCarrier"
     },
@@ -6499,9 +6435,9 @@
     },
     {
         "en": "U-190",
-        "group": "demoWithStats",
-        "id": 4181112624,
-        "index": "PGSS108",
+        "group": "earlyAccess",
+        "id": 4076255024,
+        "index": "PGSS208",
         "level": 8,
         "nation": "Germany",
         "ru": "U-190",
@@ -6511,15 +6447,16 @@
         "species": "Submarine"
     },
     {
-        "en": "U-190",
-        "group": "disabled",
-        "id": 4076255024,
-        "index": "PGSS208",
+        "en": "U-190 (old)",
+        "group": "preserved",
+        "id": 4181112624,
+        "index": "PGSS108",
         "level": 8,
         "nation": "Germany",
-        "ru": "U-190",
+        "ru": "U-190 (old)",
         "search": [
-            "VIII U-190"
+            "VIII U-190 (< 04.10.2022)",
+            "VIII U-190 (OLD)"
         ],
         "species": "Submarine"
     },
@@ -6706,6 +6643,19 @@
         "species": "AirCarrier"
     },
     {
+        "en": "Sturdy",
+        "group": "demoWithoutStats",
+        "id": 4181112784,
+        "index": "PBSS108",
+        "level": 8,
+        "nation": "United_Kingdom",
+        "ru": "Sturdy",
+        "search": [
+            "VIII STURDY"
+        ],
+        "species": "Submarine"
+    },
+    {
         "en": "L'Effronté",
         "group": "disabled",
         "id": 3447600976,
@@ -6727,8 +6677,8 @@
         "nation": "France",
         "ru": "Le Fantasque",
         "search": [
-            "VIII LE FANTASQUE",
-            "VIII LE FANTASQUE"
+            "VIII LE FANTASQUE",
+            "VIII LE FANTASQUE"
         ],
         "species": "Destroyer"
     },
@@ -6858,9 +6808,9 @@
         "nation": "Italy",
         "ru": "V. Cuniberti",
         "search": [
+            "VIII V. CUNIBERTI",
             "VIII V. CUNIBERTI",
-            "VIII VITTORIO CUNIBERTI",
-            "VIII V. CUNIBERTI"
+            "VIII VITTORIO CUNIBERTI"
         ],
         "species": "Destroyer"
     },
@@ -6912,8 +6862,8 @@
         "nation": "Italy",
         "ru": "V. Veneto",
         "search": [
-            "VIII VITTORIO VENETO",
-            "VIII V. VENETO"
+            "VIII V. VENETO",
+            "VIII VITTORIO VENETO"
         ],
         "species": "Battleship"
     },
@@ -6978,8 +6928,8 @@
         "nation": "Pan_Asia",
         "ru": "Loyang B",
         "search": [
-            "VIII LOYANG B",
-            "VIII LOYANG B"
+            "VIII LOYANG B",
+            "VIII LOYANG B"
         ],
         "species": "Destroyer"
     },
@@ -7096,8 +7046,8 @@
         "nation": "Netherlands",
         "ru": "De 7 Provinciën",
         "search": [
-            "VIII DE ZEVEN PROVINCIËN",
-            "VIII DE 7 PROVINCIËN"
+            "VIII DE 7 PROVINCIËN",
+            "VIII DE ZEVEN PROVINCIËN"
         ],
         "species": "Cruiser"
     },
@@ -7168,46 +7118,6 @@
         "species": "Destroyer"
     },
     {
-        "en": "Urashima",
-        "group": "disabled",
-        "id": 4291704080,
-        "index": "PXSD003",
-        "level": 8,
-        "nation": "Events",
-        "ru": "Urashima",
-        "search": [
-            "VIII URASHIMA"
-        ],
-        "species": "Destroyer"
-    },
-    {
-        "en": "Svyatozar",
-        "group": "disabled",
-        "id": 4291736848,
-        "index": "PXSC003",
-        "level": 8,
-        "nation": "Events",
-        "ru": "Святозар",
-        "search": [
-            "VIII СВЯТОЗАР",
-            "VIII SVYATOZAR"
-        ],
-        "species": "Cruiser"
-    },
-    {
-        "en": "Magnu-S",
-        "group": "disabled",
-        "id": 4290721040,
-        "index": "PXSB004",
-        "level": 8,
-        "nation": "Events",
-        "ru": "Magnu-S",
-        "search": [
-            "VIII MAGNU-S"
-        ],
-        "species": "Battleship"
-    },
-    {
         "en": "Nobilium",
         "group": "disabled",
         "id": 4291802384,
@@ -7243,8 +7153,8 @@
         "nation": "Japan",
         "ru": "Kagerō (old)",
         "search": [
-            "IX KAGERŌ (OLD)",
-            "IX KAGERŌ (< 01.12.2016)"
+            "IX KAGERŌ (< 01.12.2016)",
+            "IX KAGERŌ (OLD)"
         ],
         "species": "Destroyer"
     },
@@ -7387,8 +7297,8 @@
         "nation": "Japan",
         "ru": "Taihō (old)",
         "search": [
-            "IX TAIHŌ (OLD)",
-            "IX TAIHŌ (< 23.01.2019)"
+            "IX TAIHŌ (< 23.01.2019)",
+            "IX TAIHŌ (OLD)"
         ],
         "species": "AirCarrier"
     },
@@ -7512,7 +7422,7 @@
     },
     {
         "en": "Vallejo",
-        "group": "demoWithoutStats",
+        "group": "specialUnsellable",
         "id": 3761158128,
         "index": "PASC509",
         "level": 9,
@@ -7597,8 +7507,8 @@
         "nation": "USA",
         "ru": "Essex (old)",
         "search": [
-            "IX ESSEX (OLD)",
-            "IX ESSEX (< 23.01.2019)"
+            "IX ESSEX (< 23.01.2019)",
+            "IX ESSEX (OLD)"
         ],
         "species": "AirCarrier"
     },
@@ -7611,8 +7521,8 @@
         "nation": "Russia",
         "ru": "Неустрашимый",
         "search": [
-            "IX НЕУСТРАШИМЫЙ",
-            "IX NEUSTRASHIMY"
+            "IX NEUSTRASHIMY",
+            "IX НЕУСТРАШИМЫЙ"
         ],
         "species": "Destroyer"
     },
@@ -7639,8 +7549,8 @@
         "nation": "Russia",
         "ru": "Удалой",
         "search": [
-            "IX УДАЛОЙ",
-            "IX UDALOI"
+            "IX UDALOI",
+            "IX УДАЛОЙ"
         ],
         "species": "Destroyer"
     },
@@ -7653,10 +7563,10 @@
         "nation": "Russia",
         "ru": "Дм. Донской",
         "search": [
-            "IX ДМ. ДОНСКОЙ",
-            "IX ДМИТРИЙ ДОНСКОЙ",
             "IX DM. DONSKOI",
-            "IX DMITRI DONSKOI"
+            "IX DMITRI DONSKOI",
+            "IX ДМ. ДОНСКОЙ",
+            "IX ДМИТРИЙ ДОНСКОЙ"
         ],
         "species": "Cruiser"
     },
@@ -7669,8 +7579,8 @@
         "nation": "Russia",
         "ru": "Кронштадт",
         "search": [
-            "IX КРОНШТАДТ",
-            "IX KRONSHTADT"
+            "IX KRONSHTADT",
+            "IX КРОНШТАДТ"
         ],
         "species": "Cruiser"
     },
@@ -7683,8 +7593,8 @@
         "nation": "Russia",
         "ru": "Рига",
         "search": [
-            "IX РИГА",
-            "IX RIGA"
+            "IX RIGA",
+            "IX РИГА"
         ],
         "species": "Cruiser"
     },
@@ -7711,10 +7621,10 @@
         "nation": "Russia",
         "ru": "Сов. Союз",
         "search": [
-            "IX СОВ. СОЮЗ",
-            "IX СОВЕТСКИЙ СОЮЗ",
+            "IX SOV. SOYUZ",
             "IX SOVETSKY SOYUZ",
-            "IX SOV. SOYUZ"
+            "IX СОВ. СОЮЗ",
+            "IX СОВЕТСКИЙ СОЮЗ"
         ],
         "species": "Battleship"
     },
@@ -7727,8 +7637,8 @@
         "nation": "Germany",
         "ru": "F. Schultz",
         "search": [
-            "IX FELIX SCHULTZ",
-            "IX F. SCHULTZ"
+            "IX F. SCHULTZ",
+            "IX FELIX SCHULTZ"
         ],
         "species": "Destroyer"
     },
@@ -7847,8 +7757,8 @@
         "nation": "Germany",
         "ru": "P. Rupprecht",
         "search": [
-            "IX PRINZ RUPPRECHT",
-            "IX P. RUPPRECHT"
+            "IX P. RUPPRECHT",
+            "IX PRINZ RUPPRECHT"
         ],
         "species": "Battleship"
     },
@@ -7874,8 +7784,8 @@
         "nation": "Germany",
         "ru": "Pommern B",
         "search": [
-            "IX POMMERN B",
-            "IX POMMERN B"
+            "IX POMMERN B",
+            "IX POMMERN B"
         ],
         "species": "Battleship"
     },
@@ -8044,8 +7954,8 @@
         "nation": "France",
         "ru": "Jean Bart B",
         "search": [
-            "IX JEAN BART B",
-            "IX JEAN BART B"
+            "IX JEAN BART B",
+            "IX JEAN BART B"
         ],
         "species": "Battleship"
     },
@@ -8064,7 +7974,7 @@
     },
     {
         "en": "Paolo Emilio",
-        "group": "special",
+        "group": "specialUnsellable",
         "id": 3761125104,
         "index": "PISD509",
         "level": 9,
@@ -8207,7 +8117,7 @@
     },
     {
         "en": "Velos",
-        "group": "demoWithoutStats",
+        "group": "special",
         "id": 3761124656,
         "index": "PWSD509",
         "level": 9,
@@ -8258,6 +8168,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Ghoul",
+        "group": "event",
+        "id": 4292752656,
+        "index": "PXSD002",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Ghoul",
+        "search": [
+            "IX GHOUL"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Lancet",
         "group": "disabled",
         "id": 4277024016,
@@ -8280,6 +8203,19 @@
         "ru": "Mizu-Jet",
         "search": [
             "IX MIZU-JET"
+        ],
+        "species": "Destroyer"
+    },
+    {
+        "en": "Razorworm",
+        "group": "event",
+        "id": 4285412624,
+        "index": "PXSD009",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Razorworm",
+        "search": [
+            "IX RAZORWORM"
         ],
         "species": "Destroyer"
     },
@@ -8310,6 +8246,19 @@
         "species": "Destroyer"
     },
     {
+        "en": "Steel Rat",
+        "group": "event",
+        "id": 4286461200,
+        "index": "PXSD008",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Steel Rat",
+        "search": [
+            "IX STEEL RAT"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Gale",
         "group": "disabled",
         "id": 4187927824,
@@ -8324,6 +8273,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Octopus",
+        "group": "event",
+        "id": 4285445392,
+        "index": "PXSC009",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Octopus",
+        "search": [
+            "IX OCTOPUS"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Rust Nightfall",
         "group": "disabled",
         "id": 4282299664,
@@ -8333,6 +8295,19 @@
         "ru": "Rust Nightfall",
         "search": [
             "IX RUST NIGHTFALL"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Scarab",
+        "group": "event",
+        "id": 4292785424,
+        "index": "PXSC002",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Scarab",
+        "search": [
+            "IX SCARAB"
         ],
         "species": "Cruiser"
     },
@@ -8359,8 +8334,21 @@
         "nation": "Events",
         "ru": "Геракл",
         "search": [
-            "IX ГЕРАКЛ",
-            "IX HERACLES "
+            "IX HERACLES ",
+            "IX ГЕРАКЛ"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Leviathan",
+        "group": "event",
+        "id": 4286526736,
+        "index": "PXSB008",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Leviathan",
+        "search": [
+            "IX LEVIATHAN"
         ],
         "species": "Battleship"
     },
@@ -8374,6 +8362,32 @@
         "ru": "Maverick",
         "search": [
             "IX MAVERICK"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Rasputin",
+        "group": "event",
+        "id": 4292818192,
+        "index": "PXSB002",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Rasputin",
+        "search": [
+            "IX RASPUTIN"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Varg",
+        "group": "event",
+        "id": 4289672464,
+        "index": "PXSB005",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Varg",
+        "search": [
+            "IX VARG"
         ],
         "species": "Battleship"
     },
@@ -8871,8 +8885,8 @@
         "nation": "USA",
         "ru": "F. D. Roosevelt",
         "search": [
-            "X FRANKLIN D. ROOSEVELT",
-            "X F. D. ROOSEVELT"
+            "X F. D. ROOSEVELT",
+            "X FRANKLIN D. ROOSEVELT"
         ],
         "species": "AirCarrier"
     },
@@ -8918,9 +8932,9 @@
     },
     {
         "en": "Balao",
-        "group": "demoWithStats",
-        "id": 4179015664,
-        "index": "PASS110",
+        "group": "earlyAccess",
+        "id": 4074158064,
+        "index": "PASS210",
         "level": 10,
         "nation": "USA",
         "ru": "Balao",
@@ -8930,15 +8944,16 @@
         "species": "Submarine"
     },
     {
-        "en": "Balao",
-        "group": "disabled",
-        "id": 4074158064,
-        "index": "PASS210",
+        "en": "Balao (old)",
+        "group": "preserved",
+        "id": 4179015664,
+        "index": "PASS110",
         "level": 10,
         "nation": "USA",
-        "ru": "Balao",
+        "ru": "Balao (old)",
         "search": [
-            "X BALAO"
+            "X BALAO (< 04.10.2022)",
+            "X BALAO (OLD)"
         ],
         "species": "Submarine"
     },
@@ -8991,8 +9006,8 @@
         "nation": "Russia",
         "ru": "Грозовой",
         "search": [
-            "X ГРОЗОВОЙ",
-            "X GROZOVOI"
+            "X GROZOVOI",
+            "X ГРОЗОВОЙ"
         ],
         "species": "Destroyer"
     },
@@ -9005,8 +9020,8 @@
         "nation": "Russia",
         "ru": "Хабаровск",
         "search": [
-            "X ХАБАРОВСК",
-            "X KHABAROVSK"
+            "X KHABAROVSK",
+            "X ХАБАРОВСК"
         ],
         "species": "Destroyer"
     },
@@ -9019,8 +9034,8 @@
         "nation": "Russia",
         "ru": "[Грозовой]",
         "search": [
-            "X [ГРОЗОВОЙ]",
-            "X [GROZOVOI]"
+            "X [GROZOVOI]",
+            "X [ГРОЗОВОЙ]"
         ],
         "species": "Destroyer"
     },
@@ -9033,10 +9048,10 @@
         "nation": "Russia",
         "ru": "А. Невский",
         "search": [
-            "X А. НЕВСКИЙ",
+            "X A. NEVSKY",
             "X ALEXANDER NEVSKY",
-            "X АЛЕКСАНДР НЕВСКИЙ",
-            "X A. NEVSKY"
+            "X А. НЕВСКИЙ",
+            "X АЛЕКСАНДР НЕВСКИЙ"
         ],
         "species": "Cruiser"
     },
@@ -9063,8 +9078,8 @@
         "nation": "Russia",
         "ru": "Петропавловск",
         "search": [
-            "X ПЕТРОПАВЛОВСК",
-            "X PETROPAVLOVSK"
+            "X PETROPAVLOVSK",
+            "X ПЕТРОПАВЛОВСК"
         ],
         "species": "Cruiser"
     },
@@ -9077,8 +9092,8 @@
         "nation": "Russia",
         "ru": "Сталинград 2",
         "search": [
-            "X СТАЛИНГРАД 2",
-            "X STALINGRAD #2"
+            "X STALINGRAD #2",
+            "X СТАЛИНГРАД 2"
         ],
         "species": "Cruiser"
     },
@@ -9091,8 +9106,8 @@
         "nation": "Russia",
         "ru": "Севастополь",
         "search": [
-            "X СЕВАСТОПОЛЬ",
-            "X SEVASTOPOL"
+            "X SEVASTOPOL",
+            "X СЕВАСТОПОЛЬ"
         ],
         "species": "Cruiser"
     },
@@ -9105,8 +9120,8 @@
         "nation": "Russia",
         "ru": "Смоленск",
         "search": [
-            "X СМОЛЕНСК",
-            "X SMOLENSK"
+            "X SMOLENSK",
+            "X СМОЛЕНСК"
         ],
         "species": "Cruiser"
     },
@@ -9119,8 +9134,8 @@
         "nation": "Russia",
         "ru": "Сталинград",
         "search": [
-            "X СТАЛИНГРАД",
-            "X STALINGRAD"
+            "X STALINGRAD",
+            "X СТАЛИНГРАД"
         ],
         "species": "Cruiser"
     },
@@ -9146,8 +9161,8 @@
         "nation": "Russia",
         "ru": "[Москва]",
         "search": [
-            "X [МОСКВА]",
-            "X [MOSKVA]"
+            "X [MOSKVA]",
+            "X [МОСКВА]"
         ],
         "species": "Cruiser"
     },
@@ -9188,9 +9203,9 @@
         "nation": "Russia",
         "ru": "Нахимов",
         "search": [
+            "X ADMIRAL NAKHIMOV",
             "X NAKHIMOV",
             "X АДМИРАЛ НАХИМОВ",
-            "X ADMIRAL NAKHIMOV",
             "X НАХИМОВ"
         ],
         "species": "AirCarrier"
@@ -9283,9 +9298,9 @@
         "nation": "Germany",
         "ru": "G. Kurfürst",
         "search": [
+            "X G. KURFÜRST",
             "X G. KURFÜRST",
-            "X GROSSER KURFÜRST",
-            "X G. KURFÜRST"
+            "X GROSSER KURFÜRST"
         ],
         "species": "Battleship"
     },
@@ -9337,8 +9352,8 @@
         "nation": "Germany",
         "ru": "[G. Kurfürst]",
         "search": [
-            "X [GROSSER KURFÜRST]",
-            "X [G. KURFÜRST]"
+            "X [G. KURFÜRST]",
+            "X [GROSSER KURFÜRST]"
         ],
         "species": "Battleship"
     },
@@ -9351,8 +9366,8 @@
         "nation": "Germany",
         "ru": "M. Immelmann",
         "search": [
-            "X MAX IMMELMANN",
-            "X M. IMMELMANN"
+            "X M. IMMELMANN",
+            "X MAX IMMELMANN"
         ],
         "species": "AirCarrier"
     },
@@ -9386,9 +9401,9 @@
     },
     {
         "en": "U-2501",
-        "group": "demoWithStats",
-        "id": 4179015472,
-        "index": "PGSS110",
+        "group": "earlyAccess",
+        "id": 4074157872,
+        "index": "PGSS210",
         "level": 10,
         "nation": "Germany",
         "ru": "U-2501",
@@ -9398,15 +9413,16 @@
         "species": "Submarine"
     },
     {
-        "en": "U-2501",
-        "group": "disabled",
-        "id": 4074157872,
-        "index": "PGSS210",
+        "en": "U-2501 (old)",
+        "group": "preserved",
+        "id": 4179015472,
+        "index": "PGSS110",
         "level": 10,
         "nation": "Germany",
-        "ru": "U-2501",
+        "ru": "U-2501 (old)",
         "search": [
-            "X U-2501"
+            "X U-2501 (< 04.10.2022)",
+            "X U-2501 (OLD)"
         ],
         "species": "Submarine"
     },
@@ -9502,6 +9518,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Monmouth",
+        "group": "demoWithoutStats",
+        "id": 3550394320,
+        "index": "PBSC710",
+        "level": 10,
+        "nation": "United_Kingdom",
+        "ru": "Monmouth",
+        "search": [
+            "X MONMOUTH"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Plymouth",
         "group": "ultimate",
         "id": 3760109520,
@@ -9549,8 +9578,8 @@
         "nation": "United_Kingdom",
         "ru": "St. Lawrence",
         "search": [
-            "X ST. LAWRENCE",
-            "X ST. LAWRENCE"
+            "X ST. LAWRENCE",
+            "X ST. LAWRENCE"
         ],
         "species": "Battleship"
     },
@@ -9608,7 +9637,7 @@
     },
     {
         "en": "Malta",
-        "group": "demoWithoutStats",
+        "group": "ultimate",
         "id": 3760175056,
         "index": "PBSA510",
         "level": 10,
@@ -9631,6 +9660,19 @@
             "X [AUDACIOUS]"
         ],
         "species": "AirCarrier"
+    },
+    {
+        "en": "Thrasher",
+        "group": "demoWithoutStats",
+        "id": 4179015632,
+        "index": "PBSS110",
+        "level": 10,
+        "nation": "United_Kingdom",
+        "ru": "Thrasher",
+        "search": [
+            "X THRASHER"
+        ],
+        "species": "Submarine"
     },
     {
         "en": "Kléber",
@@ -9786,8 +9828,8 @@
         "nation": "Italy",
         "ru": "C. Colombo",
         "search": [
-            "X CRISTOFORO COLOMBO",
-            "X C. COLOMBO"
+            "X C. COLOMBO",
+            "X CRISTOFORO COLOMBO"
         ],
         "species": "Battleship"
     },
@@ -9896,19 +9938,6 @@
         "species": "Cruiser"
     },
     {
-        "en": "Álvaro de Bazán",
-        "group": "ultimate",
-        "id": 3760076208,
-        "index": "PSSD510",
-        "level": 10,
-        "nation": "Spain",
-        "ru": "Álvaro de Bazán",
-        "search": [
-            "X ÁLVARO DE BAZÁN"
-        ],
-        "species": "Destroyer"
-    },
-    {
         "en": "Vampire II",
         "group": "ultimate",
         "id": 3760076144,
@@ -9919,6 +9948,19 @@
         "search": [
             "X VAMPIRE II",
             "X VAMPIRE II"
+        ],
+        "species": "Destroyer"
+    },
+    {
+        "en": "Álvaro de Bazán",
+        "group": "ultimate",
+        "id": 3760076208,
+        "index": "PSSD510",
+        "level": 10,
+        "nation": "Spain",
+        "ru": "Álvaro de Bazán",
+        "search": [
+            "X ÁLVARO DE BAZÁN"
         ],
         "species": "Destroyer"
     },
@@ -9944,8 +9986,8 @@
         "nation": "Events",
         "ru": "Клыкорук",
         "search": [
-            "X КЛЫКОРУК",
-            "X FANGBLADE"
+            "X FANGBLADE",
+            "X КЛЫКОРУК"
         ],
         "species": "Destroyer"
     },
@@ -10017,6 +10059,19 @@
         "species": "Destroyer"
     },
     {
+        "en": "Urashima",
+        "group": "event",
+        "id": 4291704080,
+        "index": "PXSD003",
+        "level": 10,
+        "nation": "Events",
+        "ru": "Urashima",
+        "search": [
+            "X URASHIMA"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Whirlwind",
         "group": "disabled",
         "id": 4187895056,
@@ -10053,6 +10108,20 @@
         "ru": "Octodroid",
         "search": [
             "X OCTODROID"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Svyatozar",
+        "group": "event",
+        "id": 4291736848,
+        "index": "PXSC003",
+        "level": 10,
+        "nation": "Events",
+        "ru": "Святозар",
+        "search": [
+            "X SVYATOZAR",
+            "X СВЯТОЗАР"
         ],
         "species": "Cruiser"
     },
@@ -10106,8 +10175,21 @@
         "nation": "Events",
         "ru": "Пучеглаз",
         "search": [
-            "X ПУЧЕГЛАЗ",
-            "X LOBSTER-EYED"
+            "X LOBSTER-EYED",
+            "X ПУЧЕГЛАЗ"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Magnu-S",
+        "group": "event",
+        "id": 4290721040,
+        "index": "PXSB004",
+        "level": 10,
+        "nation": "Events",
+        "ru": "Magnu-S",
+        "search": [
+            "X MAGNU-S"
         ],
         "species": "Battleship"
     },
@@ -10185,8 +10267,8 @@
         "nation": "Japan",
         "ru": "Satsuma (old)",
         "search": [
-            "XI SATSUMA (OLD)",
-            "XI SATSUMA (< 22.09.2021)"
+            "XI SATSUMA (< 22.09.2021)",
+            "XI SATSUMA (OLD)"
         ],
         "species": "Battleship"
     },
@@ -10270,16 +10352,18 @@
         "species": "Destroyer"
     },
     {
-        "en": "Admiral Ushakov",
+        "en": "Ushakov",
         "group": "demoWithoutStats",
         "id": 4178523600,
         "index": "PRSB111",
         "level": 11,
         "nation": "Russia",
-        "ru": "Адмирал Ушаков",
+        "ru": "Ушаков",
         "search": [
             "XI ADMIRAL USHAKOV",
-            "XI АДМИРАЛ УШАКОВ"
+            "XI USHAKOV",
+            "XI АДМИРАЛ УШАКОВ",
+            "XI УШАКОВ"
         ],
         "species": "Battleship"
     },
@@ -10325,7 +10409,7 @@
     },
     {
         "en": "Edgar",
-        "group": "earlyAccess",
+        "group": "superShip",
         "id": 4178491344,
         "index": "PBSC111",
         "level": 11,
@@ -10364,7 +10448,7 @@
     },
     {
         "en": "Patrie",
-        "group": "earlyAccess",
+        "group": "superShip",
         "id": 4178523984,
         "index": "PFSB111",
         "level": 11,
@@ -10397,8 +10481,8 @@
         "nation": "Events",
         "ru": "Intania Queen",
         "search": [
-            "XI INTANIA QUEEN",
-            "XI IDS_PXSX743_FULL"
+            "XI IDS_PXSX743_FULL",
+            "XI INTANIA QUEEN"
         ],
         "species": "Auxiliary"
     }

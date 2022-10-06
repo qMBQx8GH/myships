@@ -63,6 +63,10 @@ for key, value in d[0].items():
         en_full = (level + ' ' + tr['en'].gettext('IDS_' + value.index + '_FULL')).upper()
         ru = (level + ' ' + tr['ru'].gettext('IDS_' + value.index)).upper()
         ru_full = (level + ' ' + tr['ru'].gettext('IDS_' + value.index + '_FULL')).upper()
+        search = list(set([
+            en, en_full, ru, ru_full
+        ]))
+        search.sort()
         ships.append({
             'index': value.index,
             'id': value.id,
@@ -72,9 +76,7 @@ for key, value in d[0].items():
             'level': value.level,
             'species': value.typeinfo.species,
             'group': value.group,
-            'search': list(set([
-                en, en_full, ru, ru_full
-            ])),
+            'search': search,
         })
 
 nations = {

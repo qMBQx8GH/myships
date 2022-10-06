@@ -351,13 +351,13 @@
     "message": "[Gearing]"
   },
   "IDS_PASS106": {
-    "message": "Cachalot"
+    "message": "Cachalot (old)"
   },
   "IDS_PASS108": {
-    "message": "Salmon"
+    "message": "Salmon (old)"
   },
   "IDS_PASS110": {
-    "message": "Balao"
+    "message": "Balao (old)"
   },
   "IDS_PASS206": {
     "message": "Cachalot"
@@ -491,6 +491,9 @@
   "IDS_PBSB537": {
     "message": "Collingwood"
   },
+  "IDS_PBSB547": {
+    "message": "Renown '44"
+  },
   "IDS_PBSB610": {
     "message": "Incomparable"
   },
@@ -581,6 +584,9 @@
   "IDS_PBSC610": {
     "message": "Gibraltar"
   },
+  "IDS_PBSC710": {
+    "message": "Monmouth"
+  },
   "IDS_PBSC910": {
     "message": "Cyclops"
   },
@@ -628,6 +634,15 @@
   },
   "IDS_PBSD605": {
     "message": "Anthony"
+  },
+  "IDS_PBSS106": {
+    "message": "Undine"
+  },
+  "IDS_PBSS108": {
+    "message": "Sturdy"
+  },
+  "IDS_PBSS110": {
+    "message": "Thrasher"
   },
   "IDS_PFSA506": {
     "message": "Béarn"
@@ -971,6 +986,9 @@
   "IDS_PGSC509": {
     "message": "Siegfried"
   },
+  "IDS_PGSC516": {
+    "message": "Leipzig"
+  },
   "IDS_PGSC517": {
     "message": "Weimar"
   },
@@ -1050,13 +1068,13 @@
     "message": "ZF-6"
   },
   "IDS_PGSS106": {
-    "message": "U-69"
+    "message": "U-69 (old)"
   },
   "IDS_PGSS108": {
-    "message": "U-190"
+    "message": "U-190 (old)"
   },
   "IDS_PGSS110": {
-    "message": "U-2501"
+    "message": "U-2501 (old)"
   },
   "IDS_PGSS206": {
     "message": "U-69"
@@ -1665,7 +1683,7 @@
     "message": "Kremlin"
   },
   "IDS_PRSB111": {
-    "message": "Admiral Ushakov"
+    "message": "Ushakov"
   },
   "IDS_PRSB505": {
     "message": "Okt. Revolutsiya"
