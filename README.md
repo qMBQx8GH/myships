@@ -15,7 +15,7 @@ Navigate to the page with container drop rates info:
 - [NA](https://worldofwarships.com/en/content/contents-and-drop-rates-of-containers/)
 - [EU](https://worldofwarships.eu/en/content/contents-and-drop-rates-of-containers/)
 - [ASIA](https://worldofwarships.asia/en/content/contents-and-drop-rates-of-containers/)
-- [CIS](https://worldofwarships.ru/ru/content/contents-and-drop-rates-of-containers/)
+- [CIS](https://korabli.su/ru/content/contents-and-drop-rates-of-containers/)
 
 Wait until page loads. Now you may click on ships names to mark them as they are in your port.
 

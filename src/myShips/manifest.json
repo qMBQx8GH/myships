@@ -19,10 +19,12 @@
         "https://worldofwarships.asia/*",
         "https://worldofwarships.com/*",
         "https://worldofwarships.eu/*",
-        "https://worldofwarships.ru/*"
+        "https://worldofwarships.ru/*",
+        "https://korabli.su/*"
       ],
       "include_globs": [
-        "https://worldofwarships.?*/?*/content/contents-and-drop-rates-of-containers/*"
+        "https://worldofwarships.?*/?*/content/contents-and-drop-rates-of-containers/*",
+        "https://korabli.su/?*/content/contents-and-drop-rates-of-containers/*"
       ],
       "js": [
         "contentScript.js"
@@ -39,7 +41,8 @@
         "https://worldofwarships.asia/*",
         "https://worldofwarships.com/*",
         "https://worldofwarships.eu/*",
-        "https://worldofwarships.ru/*"
+        "https://worldofwarships.ru/*",
+        "https://korabli.su/*"
       ]
     }
   ]
