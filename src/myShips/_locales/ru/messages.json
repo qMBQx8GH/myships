@@ -98,6 +98,15 @@
   "IDS_PASB110": {
     "message": "Vermont"
   },
+  "IDS_PASB208": {
+    "message": "Nebraska"
+  },
+  "IDS_PASB209": {
+    "message": "Delaware"
+  },
+  "IDS_PASB210": {
+    "message": "Louisiana"
+  },
   "IDS_PASB505": {
     "message": "Oklahoma"
   },
@@ -133,6 +142,9 @@
   },
   "IDS_PASB598": {
     "message": "Massachusetts B"
+  },
+  "IDS_PASB599": {
+    "message": "Kearsarge B"
   },
   "IDS_PASB705": {
     "message": "Texas"
@@ -644,6 +656,9 @@
   "IDS_PBSS110": {
     "message": "Thrasher"
   },
+  "IDS_PBSS508": {
+    "message": "Alliance"
+  },
   "IDS_PFSA506": {
     "message": "Béarn"
   },
@@ -1001,6 +1016,9 @@
   "IDS_PGSC529": {
     "message": "Schröder"
   },
+  "IDS_PGSC598": {
+    "message": "Mainz B"
+  },
   "IDS_PGSC706": {
     "message": "HSF Graf Spee"
   },
@@ -1210,6 +1228,9 @@
   },
   "IDS_PISC510": {
     "message": "Napoli"
+  },
+  "IDS_PISC590": {
+    "message": "Napoli B"
   },
   "IDS_PISC607": {
     "message": "Gorizia"
@@ -1613,6 +1634,9 @@
   "IDS_PJSD528": {
     "message": "HSF Harekaze II"
   },
+  "IDS_PJSD596": {
+    "message": "Shinonome B"
+  },
   "IDS_PJSD598": {
     "message": "Asashio B"
   },
@@ -1654,6 +1678,9 @@
   },
   "IDS_PRSA508": {
     "message": "Чкалов"
+  },
+  "IDS_PRSA598": {
+    "message": "Чкалов B"
   },
   "IDS_PRSB001": {
     "message": "Николай I"
@@ -1924,6 +1951,9 @@
   },
   "IDS_PUSC506": {
     "message": "Perth"
+  },
+  "IDS_PUSC509": {
+    "message": "Hector"
   },
   "IDS_PUSC516": {
     "message": "Mysore"
@@ -2279,6 +2309,9 @@
   "IDS_PZSB519": {
     "message": "Wujing"
   },
+  "IDS_PZSB529": {
+    "message": "Sun Yat-Sen"
+  },
   "IDS_PZSC101": {
     "message": "Chengan"
   },
@@ -2299,6 +2332,9 @@
   },
   "IDS_PZSC110": {
     "message": "Jinan"
+  },
+  "IDS_PZSC503": {
+    "message": "Ning Hai"
   },
   "IDS_PZSC506": {
     "message": "Huanghe"
