@@ -3613,6 +3613,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Dupleix",
+        "group": "demoWithoutStats",
+        "id": 3753817936,
+        "index": "PFSC516",
+        "level": 6,
+        "nation": "France",
+        "ru": "Dupleix",
+        "search": [
+            "VI DUPLEIX"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "La Galissonnière",
         "group": "upgradeable",
         "id": 4183734096,
@@ -4740,7 +4753,7 @@
     },
     {
         "en": "Renown '44",
-        "group": "demoWithoutStats",
+        "group": "special",
         "id": 3721344976,
         "index": "PBSB547",
         "level": 7,
@@ -5081,32 +5094,6 @@
         "species": "Destroyer"
     },
     {
-        "en": "Ghoul",
-        "group": "disabled",
-        "id": 4292752656,
-        "index": "PXSD002",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Ghoul",
-        "search": [
-            "VII GHOUL"
-        ],
-        "species": "Destroyer"
-    },
-    {
-        "en": "Razorworm",
-        "group": "disabled",
-        "id": 4285412624,
-        "index": "PXSD009",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Razorworm",
-        "search": [
-            "VII RAZORWORM"
-        ],
-        "species": "Destroyer"
-    },
-    {
         "en": "Rover",
         "group": "disabled",
         "id": 4282266896,
@@ -5116,19 +5103,6 @@
         "ru": "Rover",
         "search": [
             "VII ROVER"
-        ],
-        "species": "Destroyer"
-    },
-    {
-        "en": "Steel Rat",
-        "group": "disabled",
-        "id": 4286461200,
-        "index": "PXSD008",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Steel Rat",
-        "search": [
-            "VII STEEL RAT"
         ],
         "species": "Destroyer"
     },
@@ -5185,32 +5159,6 @@
         "species": "Cruiser"
     },
     {
-        "en": "Octopus",
-        "group": "disabled",
-        "id": 4285445392,
-        "index": "PXSC009",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Octopus",
-        "search": [
-            "VII OCTOPUS"
-        ],
-        "species": "Cruiser"
-    },
-    {
-        "en": "Scarab",
-        "group": "disabled",
-        "id": 4292785424,
-        "index": "PXSC002",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Scarab",
-        "search": [
-            "VII SCARAB"
-        ],
-        "species": "Cruiser"
-    },
-    {
         "en": "Zaya",
         "group": "disabled",
         "id": 4289639696,
@@ -5237,19 +5185,6 @@
         "species": "Battleship"
     },
     {
-        "en": "Leviathan",
-        "group": "disabled",
-        "id": 4286526736,
-        "index": "PXSB008",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Leviathan",
-        "search": [
-            "VII LEVIATHAN"
-        ],
-        "species": "Battleship"
-    },
-    {
         "en": "Paris",
         "group": "disabled",
         "id": 4288623888,
@@ -5259,32 +5194,6 @@
         "ru": "Paris",
         "search": [
             "VII PARIS"
-        ],
-        "species": "Battleship"
-    },
-    {
-        "en": "Rasputin",
-        "group": "disabled",
-        "id": 4292818192,
-        "index": "PXSB002",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Rasputin",
-        "search": [
-            "VII RASPUTIN"
-        ],
-        "species": "Battleship"
-    },
-    {
-        "en": "Varg",
-        "group": "disabled",
-        "id": 4289672464,
-        "index": "PXSB005",
-        "level": 7,
-        "nation": "Events",
-        "ru": "Varg",
-        "search": [
-            "VII VARG"
         ],
         "species": "Battleship"
     },
@@ -7301,46 +7210,6 @@
         "species": "Destroyer"
     },
     {
-        "en": "Urashima",
-        "group": "disabled",
-        "id": 4291704080,
-        "index": "PXSD003",
-        "level": 8,
-        "nation": "Events",
-        "ru": "Urashima",
-        "search": [
-            "VIII URASHIMA"
-        ],
-        "species": "Destroyer"
-    },
-    {
-        "en": "Svyatozar",
-        "group": "disabled",
-        "id": 4291736848,
-        "index": "PXSC003",
-        "level": 8,
-        "nation": "Events",
-        "ru": "Святозар",
-        "search": [
-            "VIII SVYATOZAR",
-            "VIII СВЯТОЗАР"
-        ],
-        "species": "Cruiser"
-    },
-    {
-        "en": "Magnu-S",
-        "group": "disabled",
-        "id": 4290721040,
-        "index": "PXSB004",
-        "level": 8,
-        "nation": "Events",
-        "ru": "Magnu-S",
-        "search": [
-            "VIII MAGNU-S"
-        ],
-        "species": "Battleship"
-    },
-    {
         "en": "Nobilium",
         "group": "disabled",
         "id": 4291802384,
@@ -7945,7 +7814,7 @@
     },
     {
         "en": "Schröder",
-        "group": "demoWithoutStats",
+        "group": "special",
         "id": 3740186416,
         "index": "PGSC529",
         "level": 9,
@@ -8443,6 +8312,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Ghoul",
+        "group": "disabled",
+        "id": 4292752656,
+        "index": "PXSD002",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Ghoul",
+        "search": [
+            "IX GHOUL"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Lancet",
         "group": "disabled",
         "id": 4277024016,
@@ -8465,6 +8347,19 @@
         "ru": "Mizu-Jet",
         "search": [
             "IX MIZU-JET"
+        ],
+        "species": "Destroyer"
+    },
+    {
+        "en": "Razorworm",
+        "group": "disabled",
+        "id": 4285412624,
+        "index": "PXSD009",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Razorworm",
+        "search": [
+            "IX RAZORWORM"
         ],
         "species": "Destroyer"
     },
@@ -8495,6 +8390,19 @@
         "species": "Destroyer"
     },
     {
+        "en": "Steel Rat",
+        "group": "disabled",
+        "id": 4286461200,
+        "index": "PXSD008",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Steel Rat",
+        "search": [
+            "IX STEEL RAT"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Gale",
         "group": "disabled",
         "id": 4187927824,
@@ -8509,6 +8417,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Octopus",
+        "group": "disabled",
+        "id": 4285445392,
+        "index": "PXSC009",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Octopus",
+        "search": [
+            "IX OCTOPUS"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Rust Nightfall",
         "group": "disabled",
         "id": 4282299664,
@@ -8518,6 +8439,19 @@
         "ru": "Rust Nightfall",
         "search": [
             "IX RUST NIGHTFALL"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Scarab",
+        "group": "disabled",
+        "id": 4292785424,
+        "index": "PXSC002",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Scarab",
+        "search": [
+            "IX SCARAB"
         ],
         "species": "Cruiser"
     },
@@ -8550,6 +8484,19 @@
         "species": "Battleship"
     },
     {
+        "en": "Leviathan",
+        "group": "disabled",
+        "id": 4286526736,
+        "index": "PXSB008",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Leviathan",
+        "search": [
+            "IX LEVIATHAN"
+        ],
+        "species": "Battleship"
+    },
+    {
         "en": "Maverick",
         "group": "disabled",
         "id": 4284429584,
@@ -8559,6 +8506,32 @@
         "ru": "Maverick",
         "search": [
             "IX MAVERICK"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Rasputin",
+        "group": "disabled",
+        "id": 4292818192,
+        "index": "PXSB002",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Rasputin",
+        "search": [
+            "IX RASPUTIN"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Varg",
+        "group": "disabled",
+        "id": 4289672464,
+        "index": "PXSB005",
+        "level": 9,
+        "nation": "Events",
+        "ru": "Varg",
+        "search": [
+            "IX VARG"
         ],
         "species": "Battleship"
     },
@@ -9022,6 +8995,19 @@
         "species": "Battleship"
     },
     {
+        "en": "New Hampshire",
+        "group": "demoWithoutStats",
+        "id": 3256825840,
+        "index": "PASB990",
+        "level": 10,
+        "nation": "USA",
+        "ru": "New Hampshire",
+        "search": [
+            "X NEW HAMPSHIRE"
+        ],
+        "species": "Battleship"
+    },
+    {
         "en": "Ohio",
         "group": "ultimate",
         "id": 3760142320,
@@ -9268,6 +9254,20 @@
         "species": "Cruiser"
     },
     {
+        "en": "Petrozavodsk",
+        "group": "demoWithoutStats",
+        "id": 3256792528,
+        "index": "PRSC990",
+        "level": 10,
+        "nation": "Russia",
+        "ru": "Петрозаводск",
+        "search": [
+            "X PETROZAVODSK",
+            "X ПЕТРОЗАВОДСК"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "STALINGRAD #2",
         "group": "disabled",
         "id": 3749623248,
@@ -9395,6 +9395,22 @@
         "species": "AirCarrier"
     },
     {
+        "en": "Orlov",
+        "group": "demoWithoutStats",
+        "id": 3256858064,
+        "index": "PRSA990",
+        "level": 10,
+        "nation": "Russia",
+        "ru": "Орлов",
+        "search": [
+            "X ADMIRAL ORLOV",
+            "X ORLOV",
+            "X АДМИРАЛ ОРЛОВ",
+            "X ОРЛОВ"
+        ],
+        "species": "AirCarrier"
+    },
+    {
         "en": "K-1",
         "group": "demoWithoutStats",
         "id": 4179015120,
@@ -9431,6 +9447,32 @@
         "ru": "Elbing",
         "search": [
             "X ELBING"
+        ],
+        "species": "Destroyer"
+    },
+    {
+        "en": "Lübeck",
+        "group": "demoWithoutStats",
+        "id": 3256760112,
+        "index": "PGSD990",
+        "level": 10,
+        "nation": "Germany",
+        "ru": "Lübeck",
+        "search": [
+            "X LÜBECK"
+        ],
+        "species": "Destroyer"
+    },
+    {
+        "en": "Z-42",
+        "group": "demoWithoutStats",
+        "id": 3655218992,
+        "index": "PGSD610",
+        "level": 10,
+        "nation": "Germany",
+        "ru": "Z-42",
+        "search": [
+            "X Z-42"
         ],
         "species": "Destroyer"
     },
@@ -9566,6 +9608,20 @@
         "search": [
             "X M. RICHTHOFEN",
             "X MANFRED VON RICHTHOFEN"
+        ],
+        "species": "AirCarrier"
+    },
+    {
+        "en": "O. Lilienthal",
+        "group": "demoWithoutStats",
+        "id": 3256858416,
+        "index": "PGSA990",
+        "level": 10,
+        "nation": "Germany",
+        "ru": "O. Lilienthal",
+        "search": [
+            "X O. LILIENTHAL",
+            "X OTTO LILIENTHAL"
         ],
         "species": "AirCarrier"
     },
@@ -10004,6 +10060,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Ravenna",
+        "group": "demoWithoutStats",
+        "id": 3256792816,
+        "index": "PISC990",
+        "level": 10,
+        "nation": "Italy",
+        "ru": "Ravenna",
+        "search": [
+            "X RAVENNA"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Venezia",
         "group": "upgradeable",
         "id": 4179539696,
@@ -10015,6 +10084,20 @@
             "X VENEZIA"
         ],
         "species": "Cruiser"
+    },
+    {
+        "en": "A. Vespucci",
+        "group": "demoWithoutStats",
+        "id": 3256825584,
+        "index": "PISB990",
+        "level": 10,
+        "nation": "Italy",
+        "ru": "A. Vespucci",
+        "search": [
+            "X A. VESPUCCI",
+            "X AMERIGO VESPUCCI"
+        ],
+        "species": "Battleship"
     },
     {
         "en": "C. Colombo",
@@ -10109,6 +10192,19 @@
         "species": "Destroyer"
     },
     {
+        "en": "Södermanland",
+        "group": "demoWithoutStats",
+        "id": 3256759600,
+        "index": "PWSD990",
+        "level": 10,
+        "nation": "Europe",
+        "ru": "Södermanland",
+        "search": [
+            "X SÖDERMANLAND"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Tromp",
         "group": "ultimate",
         "id": 3655218960,
@@ -10135,6 +10231,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Vrijheid",
+        "group": "demoWithoutStats",
+        "id": 3256792848,
+        "index": "PHSC990",
+        "level": 10,
+        "nation": "Netherlands",
+        "ru": "Vrijheid",
+        "search": [
+            "X VRIJHEID"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Vampire II",
         "group": "ultimate",
         "id": 3760076144,
@@ -10147,6 +10256,19 @@
             "X VAMPIRE II"
         ],
         "species": "Destroyer"
+    },
+    {
+        "en": "Brisbane",
+        "group": "demoWithoutStats",
+        "id": 3760108912,
+        "index": "PUSC510",
+        "level": 10,
+        "nation": "Commonwealth",
+        "ru": "Brisbane",
+        "search": [
+            "X BRISBANE"
+        ],
+        "species": "Cruiser"
     },
     {
         "en": "Álvaro de Bazán",
@@ -10256,6 +10378,19 @@
         "species": "Destroyer"
     },
     {
+        "en": "Urashima",
+        "group": "disabled",
+        "id": 4291704080,
+        "index": "PXSD003",
+        "level": 10,
+        "nation": "Events",
+        "ru": "Urashima",
+        "search": [
+            "X URASHIMA"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Whirlwind",
         "group": "disabled",
         "id": 4187895056,
@@ -10292,6 +10427,20 @@
         "ru": "Octodroid",
         "search": [
             "X OCTODROID"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Svyatozar",
+        "group": "disabled",
+        "id": 4291736848,
+        "index": "PXSC003",
+        "level": 10,
+        "nation": "Events",
+        "ru": "Святозар",
+        "search": [
+            "X SVYATOZAR",
+            "X СВЯТОЗАР"
         ],
         "species": "Cruiser"
     },
@@ -10347,6 +10496,19 @@
         "search": [
             "X LOBSTER-EYED",
             "X ПУЧЕГЛАЗ"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Magnu-S",
+        "group": "disabled",
+        "id": 4290721040,
+        "index": "PXSB004",
+        "level": 10,
+        "nation": "Events",
+        "ru": "Magnu-S",
+        "search": [
+            "X MAGNU-S"
         ],
         "species": "Battleship"
     },
@@ -10469,6 +10631,20 @@
         "species": "Auxiliary"
     },
     {
+        "en": "J. Humphreys",
+        "group": "demoWithoutStats",
+        "id": 4178458608,
+        "index": "PASD111",
+        "level": 11,
+        "nation": "USA",
+        "ru": "J. Humphreys",
+        "search": [
+            "XI J. HUMPHREYS",
+            "XI JOSHUA HUMPHREYS"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Annapolis",
         "group": "superShip",
         "id": 4178491376,
@@ -10526,7 +10702,7 @@
     },
     {
         "en": "Clausewitz",
-        "group": "earlyAccess",
+        "group": "superShip",
         "id": 4178491184,
         "index": "PGSC111",
         "level": 11,
@@ -10617,8 +10793,21 @@
         "species": "Battleship"
     },
     {
+        "en": "Kunming",
+        "group": "demoWithoutStats",
+        "id": 4178457808,
+        "index": "PZSD111",
+        "level": 11,
+        "nation": "Pan_Asia",
+        "ru": "Kunming",
+        "search": [
+            "XI KUNMING"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Dalarna",
-        "group": "earlyAccess",
+        "group": "superShip",
         "id": 4178457904,
         "index": "PWSD111",
         "level": 11,

@@ -167,6 +167,9 @@
   "IDS_PASB917": {
     "message": "[Montana]"
   },
+  "IDS_PASB990": {
+    "message": "New Hampshire"
+  },
   "IDS_PASC001": {
     "message": "Erie"
   },
@@ -328,6 +331,9 @@
   },
   "IDS_PASD029": {
     "message": "Sims"
+  },
+  "IDS_PASD111": {
+    "message": "J. Humphreys"
   },
   "IDS_PASD502": {
     "message": "Smith"
@@ -776,6 +782,9 @@
   "IDS_PFSC510": {
     "message": "Colbert"
   },
+  "IDS_PFSC516": {
+    "message": "Dupleix"
+  },
   "IDS_PFSC810": {
     "message": "Brennus"
   },
@@ -856,6 +865,9 @@
   },
   "IDS_PGSA610": {
     "message": "M. Immelmann"
+  },
+  "IDS_PGSA990": {
+    "message": "O. Lilienthal"
   },
   "IDS_PGSB002": {
     "message": "Tirpitz"
@@ -1085,6 +1097,12 @@
   "IDS_PGSD529": {
     "message": "ZF-6"
   },
+  "IDS_PGSD610": {
+    "message": "Z-42"
+  },
+  "IDS_PGSD990": {
+    "message": "Lübeck"
+  },
   "IDS_PGSS106": {
     "message": "U-69 (old)"
   },
@@ -1139,6 +1157,9 @@
   "IDS_PHSC508": {
     "message": "De 7 Provinciën"
   },
+  "IDS_PHSC990": {
+    "message": "Vrijheid"
+  },
   "IDS_PHSD509": {
     "message": "Groningen"
   },
@@ -1187,6 +1208,9 @@
   "IDS_PISB805": {
     "message": "Giunio Bruto"
   },
+  "IDS_PISB990": {
+    "message": "A. Vespucci"
+  },
   "IDS_PISC101": {
     "message": "Eritrea"
   },
@@ -1234,6 +1258,9 @@
   },
   "IDS_PISC607": {
     "message": "Gorizia"
+  },
+  "IDS_PISC990": {
+    "message": "Ravenna"
   },
   "IDS_PISD102": {
     "message": "Curtatone"
@@ -1682,6 +1709,9 @@
   "IDS_PRSA598": {
     "message": "Chkalov B"
   },
+  "IDS_PRSA990": {
+    "message": "Orlov"
+  },
   "IDS_PRSB001": {
     "message": "Nikolai I"
   },
@@ -1850,6 +1880,9 @@
   "IDS_PRSC910": {
     "message": "[Moskva]"
   },
+  "IDS_PRSC990": {
+    "message": "Petrozavodsk"
+  },
   "IDS_PRSC999": {
     "message": "Test Ship"
   },
@@ -1955,6 +1988,9 @@
   "IDS_PUSC509": {
     "message": "Hector"
   },
+  "IDS_PUSC510": {
+    "message": "Brisbane"
+  },
   "IDS_PUSC516": {
     "message": "Mysore"
   },
@@ -2041,6 +2077,9 @@
   },
   "IDS_PWSD910": {
     "message": "Lappland"
+  },
+  "IDS_PWSD990": {
+    "message": "Södermanland"
   },
   "IDS_PXSA001": {
     "message": "Luftwaffe"
@@ -2374,6 +2413,9 @@
   },
   "IDS_PZSD110": {
     "message": "Yueyang"
+  },
+  "IDS_PZSD111": {
+    "message": "Kunming"
   },
   "IDS_PZSD208": {
     "message": "Siliwangi"
