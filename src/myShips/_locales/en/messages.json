@@ -140,6 +140,9 @@
   "IDS_PASB538": {
     "message": "Constellation"
   },
+  "IDS_PASB539": {
+    "message": "Illinois"
+  },
   "IDS_PASB598": {
     "message": "Massachusetts B"
   },
@@ -424,6 +427,9 @@
   },
   "IDS_PBSA518": {
     "message": "Ark Royal"
+  },
+  "IDS_PBSA528": {
+    "message": "Colossus"
   },
   "IDS_PBSA910": {
     "message": "[Audacious]"
@@ -1406,6 +1412,9 @@
   "IDS_PJSB529": {
     "message": "Iwami"
   },
+  "IDS_PJSB539": {
+    "message": "Daisen"
+  },
   "IDS_PJSB700": {
     "message": "ARP Yamato"
   },
@@ -2011,6 +2020,36 @@
   },
   "IDS_PVSB508": {
     "message": "Atlântico"
+  },
+  "IDS_PVSC101": {
+    "message": "Hércules"
+  },
+  "IDS_PVSC102": {
+    "message": "Alte Barroso"
+  },
+  "IDS_PVSC103": {
+    "message": "Vicente Guerrero"
+  },
+  "IDS_PVSC104": {
+    "message": "Córdoba"
+  },
+  "IDS_PVSC105": {
+    "message": "La Argentina"
+  },
+  "IDS_PVSC106": {
+    "message": "Alte Cochrane"
+  },
+  "IDS_PVSC107": {
+    "message": "Cor. Bolognesi"
+  },
+  "IDS_PVSC108": {
+    "message": "Ignacio Allende"
+  },
+  "IDS_PVSC109": {
+    "message": "Santander"
+  },
+  "IDS_PVSC110": {
+    "message": "San Martin"
   },
   "IDS_PVSC502": {
     "message": "Alte Abreu"
