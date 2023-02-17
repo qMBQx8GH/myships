@@ -1772,7 +1772,7 @@
     },
     {
         "en": "Córdoba",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4185830736,
         "index": "PVSC104",
         "level": 4,
@@ -3629,7 +3629,7 @@
     },
     {
         "en": "Undine",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4183209936,
         "index": "PBSS106",
         "level": 6,
@@ -3681,7 +3681,7 @@
     },
     {
         "en": "Dupleix",
-        "group": "demoWithoutStatsPrem",
+        "group": "special",
         "id": 3753817936,
         "index": "PFSC516",
         "level": 6,
@@ -4524,6 +4524,20 @@
         "search": [
             "VII MINSK",
             "VII МИНСК"
+        ],
+        "species": "Destroyer"
+    },
+    {
+        "en": "Tashkent '41",
+        "group": "demoWithoutStatsPrem",
+        "id": 3752736208,
+        "index": "PRSD517",
+        "level": 7,
+        "nation": "Russia",
+        "ru": "Ташкент '41",
+        "search": [
+            "VII TASHKENT '41",
+            "VII ТАШКЕНТ '41"
         ],
         "species": "Destroyer"
     },
@@ -6831,7 +6845,7 @@
     },
     {
         "en": "Alliance",
-        "group": "demoWithoutStatsPrem",
+        "group": "special",
         "id": 3761682384,
         "index": "PBSS508",
         "level": 8,
@@ -6844,7 +6858,7 @@
     },
     {
         "en": "Sturdy",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4181112784,
         "index": "PBSS108",
         "level": 8,
@@ -7261,6 +7275,20 @@
         "ru": "Haarlem",
         "search": [
             "VIII HAARLEM"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Alte Grau",
+        "group": "demoWithoutStatsPrem",
+        "id": 3762206032,
+        "index": "PVSC508",
+        "level": 8,
+        "nation": "Pan_America",
+        "ru": "Alte Grau",
+        "search": [
+            "VIII ALMIRANTE GRAU",
+            "VIII ALTE GRAU"
         ],
         "species": "Cruiser"
     },
@@ -9625,7 +9653,7 @@
     },
     {
         "en": "Z-42",
-        "group": "demoWithoutStatsPrem",
+        "group": "ultimate",
         "id": 3655218992,
         "index": "PGSD610",
         "level": 10,
@@ -9957,6 +9985,19 @@
         "species": "Battleship"
     },
     {
+        "en": "Cumberland",
+        "group": "demoWithoutStats",
+        "id": 3445569488,
+        "index": "PBSB810",
+        "level": 10,
+        "nation": "United_Kingdom",
+        "ru": "Cumberland",
+        "search": [
+            "X CUMBERLAND"
+        ],
+        "species": "Battleship"
+    },
+    {
         "en": "Incomparable",
         "group": "ultimate",
         "id": 3655284688,
@@ -10063,7 +10104,7 @@
     },
     {
         "en": "Thrasher",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4179015632,
         "index": "PBSS110",
         "level": 10,
@@ -10419,7 +10460,7 @@
     },
     {
         "en": "Brisbane",
-        "group": "demoWithoutStatsPrem",
+        "group": "ultimate",
         "id": 3760108912,
         "index": "PUSC510",
         "level": 10,
@@ -10766,7 +10807,7 @@
     },
     {
         "en": "Sekiryu",
-        "group": "earlyAccess",
+        "group": "superShip",
         "id": 4178556624,
         "index": "PJSA111",
         "level": 11,
@@ -10805,7 +10846,7 @@
     },
     {
         "en": "J. Humphreys",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4178458608,
         "index": "PASD111",
         "level": 11,
@@ -10859,7 +10900,7 @@
     },
     {
         "en": "Ushakov",
-        "group": "earlyAccess",
+        "group": "superShip",
         "id": 4178523600,
         "index": "PRSB111",
         "level": 11,
@@ -10967,7 +11008,7 @@
     },
     {
         "en": "Kunming",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4178457808,
         "index": "PZSD111",
         "level": 11,

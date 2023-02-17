@@ -521,6 +521,9 @@
   "IDS_PBSB610": {
     "message": "Incomparable"
   },
+  "IDS_PBSB810": {
+    "message": "Cumberland"
+  },
   "IDS_PBSB910": {
     "message": "[Conqueror]"
   },
@@ -1958,6 +1961,9 @@
   "IDS_PRSD507": {
     "message": "Leningrad"
   },
+  "IDS_PRSD517": {
+    "message": "Tashkent '41"
+  },
   "IDS_PRSD709": {
     "message": "Neustrashimy"
   },
@@ -2056,6 +2062,9 @@
   },
   "IDS_PVSC507": {
     "message": "Nueve de Julio"
+  },
+  "IDS_PVSC508": {
+    "message": "Alte Grau"
   },
   "IDS_PVSD506": {
     "message": "Juruá"
