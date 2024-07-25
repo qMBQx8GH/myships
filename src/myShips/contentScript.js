@@ -1,5 +1,7 @@
 function MyShips() {
   this.shipsIndex = {};
+  this.shipsById = {};
+  this.shipsIndexLoaded = false;
 }
 
 MyShips.prototype.load = async function () {
@@ -11,10 +13,24 @@ MyShips.prototype.load = async function () {
     for (let i = 0; i < search.length; i++) {
       this.shipsIndex[search[i]] = ship.index;
     }
+    this.shipsById[ship.id] = ship.index;
   });
+  this.shipsIndexLoaded = true;
 
-  this.shipsIndex.loaded = true;
-  console.info(this.shipsIndex);
+  if (window.location.toString().includes('https://warehouse.') && this.shipsIndex) {
+    const user_data_response = await fetch("/api/user_data/");
+    const user_data = await user_data_response.json();
+    if (!!user_data.spa_id && !!user_data.ships_in_port) {
+      let shipsToStore = {};
+      user_data.ships_in_port.forEach( shipId => {
+        if (!!this.shipsById[shipId]) {
+          shipsToStore[this.shipsById[shipId]] = true;
+        }
+      });
+      chrome.storage.local.set({ships: shipsToStore});
+      console.info('[MYSHIPS] updated (' + Object.keys(shipsToStore).length + ')')
+    }
+  }
 }
 
 MyShips.prototype.findAncestor = function (el, cls) {
@@ -107,7 +123,7 @@ MyShips.prototype.onGetStorage = function (items) {
 }
 
 MyShips.prototype.check = function () {
-  if (this.shipsIndex.loaded) {
+  if (this.shipsIndexLoaded) {
     console.info('[MYSHIPS] Check');
     chrome.storage.local.get('ships', items => {
       this.onGetStorage(items);

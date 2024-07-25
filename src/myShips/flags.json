@@ -1,0 +1,170 @@
+[
+    {
+        "en": "Sierra",
+        "id": 4156387248,
+        "index": "PCEF132",
+        "name": "PCEF132_Speed_SignalFlag_2",
+        "ru": "Sierra"
+    },
+    {
+        "en": "November",
+        "id": 4187844528,
+        "index": "PCEF102",
+        "name": "PCEF102_HPBoost_SignalFlag_2",
+        "ru": "November"
+    },
+    {
+        "en": "Foxtrot",
+        "id": 4164775856,
+        "index": "PCEF124",
+        "name": "PCEF124_ATBA_SignalFlag_4",
+        "ru": "Foxtrot"
+    },
+    {
+        "en": "November",
+        "id": 4186795952,
+        "index": "PCEF103",
+        "name": "PCEF103_HPBoost_SignalFlag_3",
+        "ru": "November"
+    },
+    {
+        "en": "Charlie",
+        "id": 4135415728,
+        "index": "PCEF152",
+        "name": "PCEF152_Shift_SignalFlag_2",
+        "ru": "Charlie"
+    },
+    {
+        "en": "Charlie",
+        "id": 4134367152,
+        "index": "PCEF153",
+        "name": "PCEF153_Shift_SignalFlag_3",
+        "ru": "Charlie"
+    },
+    {
+        "en": "Sierra",
+        "id": 4157435824,
+        "index": "PCEF131",
+        "name": "PCEF131_Speed_SignalFlag_1",
+        "ru": "Sierra"
+    },
+    {
+        "en": "Foxtrot",
+        "id": 4167921584,
+        "index": "PCEF121",
+        "name": "PCEF121_ATBA_SignalFlag_1",
+        "ru": "Foxtrot"
+    },
+    {
+        "en": "November",
+        "id": 4185747376,
+        "index": "PCEF104",
+        "name": "PCEF104_HPBoost_SignalFlag_4",
+        "ru": "November"
+    },
+    {
+        "en": "Foxtrot",
+        "id": 4166873008,
+        "index": "PCEF122",
+        "name": "PCEF122_ATBA_SignalFlag_2",
+        "ru": "Foxtrot"
+    },
+    {
+        "en": "India",
+        "id": 4146950064,
+        "index": "PCEF141",
+        "name": "PCEF141_Consumable_SignalFlag_1",
+        "ru": "India"
+    },
+    {
+        "en": "India",
+        "id": 4145901488,
+        "index": "PCEF142",
+        "name": "PCEF142_Consumable_SignalFlag_2",
+        "ru": "India"
+    },
+    {
+        "en": "India",
+        "id": 4144852912,
+        "index": "PCEF143",
+        "name": "PCEF143_Consumable_SignalFlag_3",
+        "ru": "India"
+    },
+    {
+        "en": "Yankee",
+        "id": 4178407344,
+        "index": "PCEF111",
+        "name": "PCEF111_GM_SignalFlag_1",
+        "ru": "Yankee"
+    },
+    {
+        "en": "Sierra",
+        "id": 4155338672,
+        "index": "PCEF133",
+        "name": "PCEF133_Speed_SignalFlag_3",
+        "ru": "Sierra"
+    },
+    {
+        "en": "Charlie",
+        "id": 4133318576,
+        "index": "PCEF154",
+        "name": "PCEF154_Shift_SignalFlag_4",
+        "ru": "Charlie"
+    },
+    {
+        "en": "Sierra",
+        "id": 4154290096,
+        "index": "PCEF134",
+        "name": "PCEF134_Speed_SignalFlag_4",
+        "ru": "Sierra"
+    },
+    {
+        "en": "Foxtrot",
+        "id": 4165824432,
+        "index": "PCEF123",
+        "name": "PCEF123_ATBA_SignalFlag_3",
+        "ru": "Foxtrot"
+    },
+    {
+        "en": "Yankee",
+        "id": 4176310192,
+        "index": "PCEF113",
+        "name": "PCEF113_GM_SignalFlag_3",
+        "ru": "Yankee"
+    },
+    {
+        "en": "November",
+        "id": 4188893104,
+        "index": "PCEF101",
+        "name": "PCEF101_HPBoost_SignalFlag_1",
+        "ru": "November"
+    },
+    {
+        "en": "Yankee",
+        "id": 4177358768,
+        "index": "PCEF112",
+        "name": "PCEF112_GM_SignalFlag_2",
+        "ru": "Yankee"
+    },
+    {
+        "en": "Charlie",
+        "id": 4136464304,
+        "index": "PCEF151",
+        "name": "PCEF151_Shift_SignalFlag_1",
+        "ru": "Charlie"
+    },
+    {
+        "en": "India",
+        "id": 4143804336,
+        "index": "PCEF144",
+        "name": "PCEF144_Consumable_SignalFlag_4",
+        "ru": "India"
+    },
+    {
+        "en": "Yankee",
+        "id": 4175261616,
+        "index": "PCEF114",
+        "name": "PCEF114_GM_SignalFlag_4",
+        "ru": "Yankee"
+    }
+]

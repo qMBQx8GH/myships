@@ -16,14 +16,11 @@
   "content_scripts": [
     {
       "matches": [
-        "https://worldofwarships.asia/*",
-        "https://worldofwarships.com/*",
-        "https://worldofwarships.eu/*",
-        "https://worldofwarships.ru/*",
+        "https://warehouse.korabli.su/*",
         "https://korabli.su/*"
       ],
       "include_globs": [
-        "https://worldofwarships.?*/?*/content/contents-and-drop-rates-of-containers/*",
+        "https://warehouse.korabli.su/*",
         "https://korabli.su/?*/content/contents-and-drop-rates-of-containers/*"
       ],
       "js": [
@@ -35,13 +32,11 @@
   "web_accessible_resources": [
     {
       "resources": [
+        "https://warehouse.korabli.su/api/user_data/",
         "ships.json"
       ],
       "matches": [
-        "https://worldofwarships.asia/*",
-        "https://worldofwarships.com/*",
-        "https://worldofwarships.eu/*",
-        "https://worldofwarships.ru/*",
+        "https://warehouse.korabli.su/*",
         "https://korabli.su/*"
       ]
     }

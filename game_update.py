@@ -2,7 +2,7 @@
 
 import os
 import io
-import sys
+import shutil
 import zlib
 import json
 import pickle
@@ -29,11 +29,12 @@ class MyTranslation(gettext.GNUTranslations):
 
 tr = {
     'ru': gettext.translation('global', os.path.join(path_to_game, 'bin', version.split(".")[-1], 'res/texts'), ['ru'], class_=MyTranslation),
-    'en': gettext.translation('global', os.path.join(path_to_game, 'bin', version.split(".")[-1], 'res/texts'), ['en'], class_=MyTranslation),
+    'en': gettext.translation('global', os.path.join(path_to_game, 'bin', version.split(".")[-1], 'res/texts'), ['ru'], class_=MyTranslation),
 }
 
 content = [
     'content/GameParams.data',
+    'gui/signal_flags/*.png'
 ]
 for d in content:
     subprocess.run([
@@ -56,7 +57,20 @@ z = zlib.decompress(b.read())
 d = pickle.loads(z)
 
 ships = []
+flags = []
 for key, value in d[0].items():
+    if hasattr(value, 'flags'):
+        flags.append({
+            'index': value.index,
+            'id': value.id,
+            'en': tr['en'].gettext('IDS_' + value.name.upper()),
+            'ru': tr['ru'].gettext('IDS_' + value.name.upper()),
+            'name': value.name, # 'PCEF154_Shift_SignalFlag_4'
+        })
+        source = os.path.join('res', 'gui', 'signal_flags', value.name + '.png')
+        target = os.path.join('src', 'myShips', 'signal_flags', value.name + '.png')
+        shutil.copy(source, target)
+
     if value.typeinfo.type == 'Ship':
         level = roman.toRoman(value.level)
         en = (level + ' ' + tr['en'].gettext('IDS_' + value.index)).upper()
@@ -108,6 +122,9 @@ ships.sort(key=lambda k: (k['level'], nations[k['nation']], species[k['species']
 with open('src/myShips/ships.json', 'w', encoding='utf-8') as f:
     json.dump(ships, f, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)
 
+with open('src/myShips/flags.json', 'w', encoding='utf-8') as f:
+    json.dump(flags, f, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)
+
 for lang in ['en', 'ru']:
     with open('src/myShips/_locales/'+lang+'/messages.json', 'r', encoding='utf-8') as f:
         messages = json.load(f)
@@ -118,36 +135,3 @@ for lang in ['en', 'ru']:
             }
     with open('src/myShips/_locales/'+lang+'/messages.json', 'w', encoding='utf-8') as f:
         json.dump(messages, f, sort_keys=True, indent=2, separators=(',', ': '), ensure_ascii=False)
-
-sys.exit(0)
-
-def stringify_keys(d):
-    """Convert a dict's keys to strings if they are not."""
-    for key in d.keys():
-        # check inner dict
-        if isinstance(d[key], dict):
-            value = stringify_keys(d[key])
-        else:
-            value = d[key]
-        # convert nonstring to string if needed
-        if not isinstance(key, str):
-            try:
-                d[str(key)] = value
-            except Exception:
-                try:
-                    d[repr(key)] = value
-                except Exception:
-                    raise
-            # delete old key
-            del d[key]
-    return d
-
-class GPEncode(json.JSONEncoder):
-    def default(self, o):
-        if hasattr(o, '__dict__'):
-            return stringify_keys(o.__dict__)
-        else:
-            return None
-
-with open('tmp/GameParams.json', 'w') as f:
-    f.write(json.dumps(d, cls=GPEncode, indent=4, separators=(',', ': '), ensure_ascii=False))
