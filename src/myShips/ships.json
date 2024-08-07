@@ -4028,6 +4028,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Kortenaer",
+        "group": "demoWithoutStatsPrem",
+        "id": 3764270864,
+        "index": "PHSD506",
+        "level": 6,
+        "nation": "Netherlands",
+        "ru": "Kortenaer",
+        "search": [
+            "VI KORTENAER"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Kijkduin",
         "group": "upgradeable",
         "id": 4183734032,
@@ -4845,6 +4858,19 @@
         "ru": "München",
         "search": [
             "VII MÜNCHEN"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Vineta",
+        "group": "demoWithoutStats",
+        "id": 4077827888,
+        "index": "PGSC207",
+        "level": 7,
+        "nation": "Germany",
+        "ru": "Vineta",
+        "search": [
+            "VII VINETA"
         ],
         "species": "Cruiser"
     },
@@ -5701,19 +5727,6 @@
         "species": "Destroyer"
     },
     {
-        "en": "Benson Test",
-        "group": "demoWithoutStatsPrem",
-        "id": 3720230608,
-        "index": "PJSD548",
-        "level": 8,
-        "nation": "Japan",
-        "ru": "Benson Test",
-        "search": [
-            "VIII BENSON TEST"
-        ],
-        "species": "Destroyer"
-    },
-    {
         "en": "Fubuki (old)",
         "group": "preserved",
         "id": 4287510224,
@@ -5763,6 +5776,19 @@
         "ru": "Kagerō",
         "search": [
             "VIII KAGERŌ"
+        ],
+        "species": "Destroyer"
+    },
+    {
+        "en": "Mika",
+        "group": "special",
+        "id": 3720230608,
+        "index": "PJSD548",
+        "level": 8,
+        "nation": "Japan",
+        "ru": "Mika",
+        "search": [
+            "VIII MIKA"
         ],
         "species": "Destroyer"
     },
@@ -6859,6 +6885,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Hertha",
+        "group": "demoWithoutStats",
+        "id": 4076779312,
+        "index": "PGSC208",
+        "level": 8,
+        "nation": "Germany",
+        "ru": "Hertha",
+        "search": [
+            "VIII HERTHA"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Hipper",
         "group": "upgradeable",
         "id": 4181636912,
@@ -7197,6 +7236,19 @@
         "ru": "Cheshire",
         "search": [
             "VIII CHESHIRE"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Cougar",
+        "group": "demoWithoutStats",
+        "id": 3332290512,
+        "index": "PBSC918",
+        "level": 8,
+        "nation": "United_Kingdom",
+        "ru": "Cougar",
+        "search": [
+            "VIII COUGAR"
         ],
         "species": "Cruiser"
     },
@@ -8699,6 +8751,19 @@
         "species": "Destroyer"
     },
     {
+        "en": "Freya",
+        "group": "demoWithoutStats",
+        "id": 4075730736,
+        "index": "PGSC209",
+        "level": 9,
+        "nation": "Germany",
+        "ru": "Freya",
+        "search": [
+            "IX FREYA"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Roon",
         "group": "upgradeable",
         "id": 4180588336,
@@ -8775,19 +8840,6 @@
         "search": [
             "IX F. DER GROSSE",
             "IX FRIEDRICH DER GROSSE"
-        ],
-        "species": "Battleship"
-    },
-    {
-        "en": "Lothringen",
-        "group": "demoWithoutStatsPrem",
-        "id": 3750704944,
-        "index": "PGSB519",
-        "level": 9,
-        "nation": "Germany",
-        "ru": "Lothringen",
-        "search": [
-            "IX LOTHRINGEN"
         ],
         "species": "Battleship"
     },
@@ -10793,6 +10845,19 @@
         "species": "Destroyer"
     },
     {
+        "en": "Hansa",
+        "group": "demoWithoutStats",
+        "id": 4074682160,
+        "index": "PGSC210",
+        "level": 10,
+        "nation": "Germany",
+        "ru": "Hansa",
+        "search": [
+            "X HANSA"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Hindenburg",
         "group": "upgradeable",
         "id": 4179539760,
@@ -10829,6 +10894,19 @@
         "search": [
             "X G. KURFÜRST",
             "X GROSSER KURFÜRST"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Lothringen",
+        "group": "demoWithoutStatsPrem",
+        "id": 3760142128,
+        "index": "PGSB510",
+        "level": 10,
+        "nation": "Germany",
+        "ru": "Lothringen",
+        "search": [
+            "X LOTHRINGEN"
         ],
         "species": "Battleship"
     },
@@ -11728,7 +11806,7 @@
     },
     {
         "en": "Conquistador",
-        "group": "demoWithoutStatsPrem",
+        "group": "ultimate",
         "id": 3760141744,
         "index": "PSSB510",
         "level": 10,
@@ -12160,7 +12238,7 @@
     },
     {
         "en": "Maine",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4178524144,
         "index": "PASB111",
         "level": 11,

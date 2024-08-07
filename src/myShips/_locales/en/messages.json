@@ -689,6 +689,9 @@
   "IDS_PBSC910": {
     "message": "Goliath (ЭМ)"
   },
+  "IDS_PBSC918": {
+    "message": "Cougar"
+  },
   "IDS_PBSD102": {
     "message": "Medea"
   },
@@ -1034,6 +1037,9 @@
   "IDS_PGSB509": {
     "message": "Pommern"
   },
+  "IDS_PGSB510": {
+    "message": "Lothringen"
+  },
   "IDS_PGSB517": {
     "message": " "
   },
@@ -1105,6 +1111,18 @@
   },
   "IDS_PGSC111": {
     "message": "Clausewitz"
+  },
+  "IDS_PGSC207": {
+    "message": "Vineta"
+  },
+  "IDS_PGSC208": {
+    "message": "Hertha"
+  },
+  "IDS_PGSC209": {
+    "message": "Freya"
+  },
+  "IDS_PGSC210": {
+    "message": "Hansa"
   },
   "IDS_PGSC502": {
     "message": "Emden"
@@ -1294,6 +1312,9 @@
   },
   "IDS_PHSC990": {
     "message": "Gouden Leeuw (ЭМ)"
+  },
+  "IDS_PHSD506": {
+    "message": "Kortenaer"
   },
   "IDS_PHSD509": {
     "message": "Groningen"
@@ -1851,7 +1872,7 @@
     "message": "HSF Harekaze II"
   },
   "IDS_PJSD548": {
-    "message": "Benson Test"
+    "message": "Mika"
   },
   "IDS_PJSD596": {
     "message": "Shinonome B"
