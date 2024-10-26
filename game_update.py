@@ -29,7 +29,7 @@ class MyTranslation(gettext.GNUTranslations):
 
 tr = {
     'ru': gettext.translation('global', os.path.join(path_to_game, 'bin', version.split(".")[-1], 'res/texts'), ['ru'], class_=MyTranslation),
-    'en': gettext.translation('global', os.path.join(path_to_game, 'bin', version.split(".")[-1], 'res/texts'), ['en'], class_=MyTranslation),
+    'en': gettext.translation('global', os.path.join(path_to_game, 'bin', version.split(".")[-1], 'res/texts'), ['ru'], class_=MyTranslation),
 }
 
 content = [
@@ -59,10 +59,10 @@ ships = []
 for key, value in d[0].items():
     if value.typeinfo.type == 'Ship':
         level = roman.toRoman(value.level)
-        en = (level + ' ' + tr['en'].gettext('IDS_' + value.index)).upper()
-        en_full = (level + ' ' + tr['en'].gettext('IDS_' + value.index + '_FULL')).upper()
-        ru = (level + ' ' + tr['ru'].gettext('IDS_' + value.index)).upper()
-        ru_full = (level + ' ' + tr['ru'].gettext('IDS_' + value.index + '_FULL')).upper()
+        en = (level + ' ' + tr['en'].gettext('IDS_' + value.index)).upper().replace(u'\xa0', ' ')
+        en_full = (level + ' ' + tr['en'].gettext('IDS_' + value.index + '_FULL')).upper().replace(u'\xa0', ' ')
+        ru = (level + ' ' + tr['ru'].gettext('IDS_' + value.index)).upper().replace(u'\xa0', ' ')
+        ru_full = (level + ' ' + tr['ru'].gettext('IDS_' + value.index + '_FULL')).upper().replace(u'\xa0', ' ')
         search = list(set([
             en, en_full, ru, ru_full
         ]))
