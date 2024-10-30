@@ -90,14 +90,16 @@ MyShips.prototype.adjustTitle = function (element, titleClass) {
 MyShips.prototype.onGetStorage = function (items) {
   let hasChanged = false;
   Array.from(document.getElementsByClassName('we-vehicle__level')).forEach(element => {
+    let htmlShipName = element.innerText.replaceAll('&nbsp;', ' ').replaceAll('\xa0', ' ');
+    console.info(htmlShipName)
     if (element.getAttribute('listener') !== 'true') {
       element.setAttribute('listener', 'true');
-      if (this.shipsIndex[element.innerText]) {
-        this.addOnClick(element, this.shipsIndex[element.innerText]);
+      if (this.shipsIndex[htmlShipName]) {
+        this.addOnClick(element, this.shipsIndex[htmlShipName]);
         element.style.cursor = 'pointer';
       }
     }
-    let shipId = this.shipsIndex[element.innerText] || '';
+    let shipId = this.shipsIndex[htmlShipName] || '';
     if (shipId) {
       if (items['ships'] && items['ships'][shipId]) {
         if (element.style.getPropertyValue('text-decoration') != 'line-through') {
