@@ -287,6 +287,9 @@
   "IDS_PASC510": {
     "message": "Alaska"
   },
+  "IDS_PASC517": {
+    "message": "Chancellorsville"
+  },
   "IDS_PASC518": {
     "message": "Anchorage"
   },
@@ -440,6 +443,9 @@
   "IDS_PASS518": {
     "message": "Gato"
   },
+  "IDS_PASS610": {
+    "message": "Archerfish"
+  },
   "IDS_PASS910": {
     "message": "Balao Test"
   },
@@ -560,6 +566,9 @@
   "IDS_PBSB517": {
     "message": "Nelson"
   },
+  "IDS_PBSB520": {
+    "message": "Zeus"
+  },
   "IDS_PBSB526": {
     "message": "Repulse"
   },
@@ -649,6 +658,9 @@
   },
   "IDS_PBSC508": {
     "message": "Cheshire"
+  },
+  "IDS_PBSC509": {
+    "message": "Resistance"
   },
   "IDS_PBSC510": {
     "message": "Plymouth"
@@ -932,6 +944,12 @@
   "IDS_PFSD810": {
     "message": "Kléber CLR"
   },
+  "IDS_PFSS506": {
+    "message": "Saphir"
+  },
+  "IDS_PFSS510": {
+    "message": "Surcouf"
+  },
   "IDS_PGSA104": {
     "message": "Rhein"
   },
@@ -1057,6 +1075,9 @@
   },
   "IDS_PGSB538": {
     "message": "Brandenburg B"
+  },
+  "IDS_PGSB548": {
+    "message": "Odin B"
   },
   "IDS_PGSB597": {
     "message": "Scharnhorst B"
@@ -1517,6 +1538,9 @@
   "IDS_PJSA507": {
     "message": "Kaga (old)"
   },
+  "IDS_PJSA510": {
+    "message": "Shinano"
+  },
   "IDS_PJSA518": {
     "message": "Kaga"
   },
@@ -1573,6 +1597,9 @@
   },
   "IDS_PJSB210": {
     "message": "Bungo"
+  },
+  "IDS_PJSB502": {
+    "message": "Mikasa '04"
   },
   "IDS_PJSB506": {
     "message": "Mutsu"
@@ -1727,8 +1754,14 @@
   "IDS_PJSC507": {
     "message": "Tokachi"
   },
+  "IDS_PJSC509": {
+    "message": "Azuma B"
+  },
   "IDS_PJSC510": {
     "message": "Azuma"
+  },
+  "IDS_PJSC512": {
+    "message": "Asama"
   },
   "IDS_PJSC517": {
     "message": "Maya"
@@ -1738,6 +1771,9 @@
   },
   "IDS_PJSC520": {
     "message": "Yoshino"
+  },
+  "IDS_PJSC530": {
+    "message": "Kuzuryū"
   },
   "IDS_PJSC590": {
     "message": "Yoshino B"
@@ -1865,6 +1901,9 @@
   "IDS_PJSD510": {
     "message": "Hayate"
   },
+  "IDS_PJSD512": {
+    "message": "Sazanami"
+  },
   "IDS_PJSD518": {
     "message": "Asashio"
   },
@@ -1979,6 +2018,9 @@
   "IDS_PRSB210": {
     "message": "Лазарев"
   },
+  "IDS_PRSB502": {
+    "message": "Бородино '04"
+  },
   "IDS_PRSB505": {
     "message": "Окт. революция"
   },
@@ -1997,6 +2039,9 @@
   "IDS_PRSB518": {
     "message": "Ленин"
   },
+  "IDS_PRSB519": {
+    "message": "Пермь Великая"
+  },
   "IDS_PRSB520": {
     "message": "Североморск"
   },
@@ -2009,8 +2054,14 @@
   "IDS_PRSB538": {
     "message": "В. И. Ленин"
   },
+  "IDS_PRSB548": {
+    "message": "Фрунзе"
+  },
   "IDS_PRSB709": {
     "message": "AL Сов. Россия"
+  },
+  "IDS_PRSB910": {
+    "message": "Несокрушимый"
   },
   "IDS_PRSC001": {
     "message": "Аврора"
@@ -2090,6 +2141,9 @@
   "IDS_PRSC510": {
     "message": "Сталинград"
   },
+  "IDS_PRSC512": {
+    "message": "Громобой"
+  },
   "IDS_PRSC513": {
     "message": "Варяг"
   },
@@ -2114,6 +2168,9 @@
   "IDS_PRSC525": {
     "message": "Киров"
   },
+  "IDS_PRSC526": {
+    "message": "Молотов Ч"
+  },
   "IDS_PRSC528": {
     "message": "Очаков"
   },
@@ -2134,6 +2191,9 @@
   },
   "IDS_PRSC558": {
     "message": "Д. Пожарский"
+  },
+  "IDS_PRSC559": {
+    "message": "Свердловск"
   },
   "IDS_PRSC568": {
     "message": "Лазо Ч"
@@ -2222,6 +2282,9 @@
   "IDS_PRSD410": {
     "message": "Дельный"
   },
+  "IDS_PRSD502": {
+    "message": "Бойкий"
+  },
   "IDS_PRSD505": {
     "message": "Охотник"
   },
@@ -2254,6 +2317,9 @@
   },
   "IDS_PRSS508": {
     "message": "С-189"
+  },
+  "IDS_PRSS518": {
+    "message": "С-189 Ч"
   },
   "IDS_PRSS999": {
     "message": "Test Sub 1"
@@ -2455,6 +2521,12 @@
   },
   "IDS_PWSD510": {
     "message": "Friesland"
+  },
+  "IDS_PWSD517": {
+    "message": "Błyskawica B"
+  },
+  "IDS_PWSD518": {
+    "message": "Błyskawica '63"
   },
   "IDS_PWSD519": {
     "message": "Jäger"
@@ -2753,6 +2825,21 @@
   "IDS_PZSA508": {
     "message": "Sanzang"
   },
+  "IDS_PZSB106": {
+    "message": "Chakri"
+  },
+  "IDS_PZSB107": {
+    "message": "Zulfiqar"
+  },
+  "IDS_PZSB108": {
+    "message": "Hanoi"
+  },
+  "IDS_PZSB109": {
+    "message": "Dongfeng"
+  },
+  "IDS_PZSB110": {
+    "message": "Tiangong"
+  },
   "IDS_PZSB509": {
     "message": "Bajie"
   },
@@ -2789,6 +2876,9 @@
   "IDS_PZSC110": {
     "message": "Jinan"
   },
+  "IDS_PZSC111": {
+    "message": "Xi'an"
+  },
   "IDS_PZSC503": {
     "message": "Ning Hai"
   },
@@ -2803,6 +2893,9 @@
   },
   "IDS_PZSC518": {
     "message": "Wukong"
+  },
+  "IDS_PZSC519": {
+    "message": "Hengshui"
   },
   "IDS_PZSC529": {
     "message": "Meng Chong"

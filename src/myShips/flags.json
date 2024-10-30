@@ -133,13 +133,6 @@
         "ru": "Yankee"
     },
     {
-        "en": "November",
-        "id": 4188893104,
-        "index": "PCEF101",
-        "name": "PCEF101_HPBoost_SignalFlag_1",
-        "ru": "November"
-    },
-    {
         "en": "Yankee",
         "id": 4177358768,
         "index": "PCEF112",
@@ -166,5 +159,12 @@
         "index": "PCEF114",
         "name": "PCEF114_GM_SignalFlag_4",
         "ru": "Yankee"
+    },
+    {
+        "en": "November",
+        "id": 4188893104,
+        "index": "PCEF101",
+        "name": "PCEF101_HPBoost_SignalFlag_1",
+        "ru": "November"
     }
 ]

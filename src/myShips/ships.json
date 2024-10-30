@@ -184,6 +184,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Sazanami",
+        "group": "event",
+        "id": 3757979344,
+        "index": "PJSD512",
+        "level": 2,
+        "nation": "Japan",
+        "ru": "Sazanami",
+        "search": [
+            "II SAZANAMI"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Tachibana",
         "group": "special",
         "id": 4293801680,
@@ -224,6 +237,19 @@
         "species": "Destroyer"
     },
     {
+        "en": "Asama",
+        "group": "event",
+        "id": 3758012112,
+        "index": "PJSC512",
+        "level": 2,
+        "nation": "Japan",
+        "ru": "Asama",
+        "search": [
+            "II ASAMA"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Chikuma",
         "group": "upgradeable",
         "id": 4258182864,
@@ -246,6 +272,19 @@
         "ru": "Mikasa",
         "search": [
             "II MIKASA"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Mikasa '04",
+        "group": "event",
+        "id": 3768530640,
+        "index": "PJSB502",
+        "level": 2,
+        "nation": "Japan",
+        "ru": "Mikasa '04",
+        "search": [
+            "II MIKASA '04"
         ],
         "species": "Battleship"
     },
@@ -302,6 +341,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Бойкий",
+        "group": "event",
+        "id": 3768464848,
+        "index": "PRSD502",
+        "level": 2,
+        "nation": "Russia",
+        "ru": "Бойкий",
+        "search": [
+            "II БОЙКИЙ"
+        ],
+        "species": "Destroyer"
+    },
+    {
         "en": "Сторожевой",
         "group": "upgradeable",
         "id": 4187895248,
@@ -313,6 +365,19 @@
             "II СТОРОЖЕВОЙ"
         ],
         "species": "Destroyer"
+    },
+    {
+        "en": "Громобой",
+        "group": "event",
+        "id": 3758011856,
+        "index": "PRSC512",
+        "level": 2,
+        "nation": "Russia",
+        "ru": "Громобой",
+        "search": [
+            "II ГРОМОБОЙ"
+        ],
+        "species": "Cruiser"
     },
     {
         "en": "Диана",
@@ -353,6 +418,19 @@
             "II НОВИК"
         ],
         "species": "Cruiser"
+    },
+    {
+        "en": "Бородино '04",
+        "group": "event",
+        "id": 3768530384,
+        "index": "PRSB502",
+        "level": 2,
+        "nation": "Russia",
+        "ru": "Бородино '04",
+        "search": [
+            "II БОРОДИНО '04"
+        ],
+        "species": "Battleship"
     },
     {
         "en": "V-25",
@@ -1807,8 +1885,8 @@
         "nation": "Spain",
         "ru": "Almte. Cervera",
         "search": [
-            "IV ALMIRANTE CERVERA",
-            "IV ALMTE. CERVERA"
+            "IV ALMIRANTE CERVERA",
+            "IV ALMTE. CERVERA"
         ],
         "species": "Cruiser"
     },
@@ -2917,7 +2995,7 @@
         "nation": "Japan",
         "ru": "Shinonome B",
         "search": [
-            "VI SHINONOME B"
+            "VI SHINONOME B"
         ],
         "species": "Destroyer"
     },
@@ -2949,7 +3027,7 @@
     },
     {
         "en": "Ōyodo",
-        "group": "demoWithoutStatsPrem",
+        "group": "special",
         "id": 3764303568,
         "index": "PJSC506",
         "level": 6,
@@ -3302,6 +3380,19 @@
         "ru": "Молотов",
         "search": [
             "VI МОЛОТОВ"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Молотов Ч",
+        "group": "special",
+        "id": 3743331792,
+        "index": "PRSC526",
+        "level": 6,
+        "nation": "Russia",
+        "ru": "Молотов Ч",
+        "search": [
+            "VI МОЛОТОВ Ч"
         ],
         "species": "Cruiser"
     },
@@ -3859,6 +3950,19 @@
         "species": "AirCarrier"
     },
     {
+        "en": "Saphir",
+        "group": "demoWithoutStatsPrem",
+        "id": 3763779408,
+        "index": "PFSS506",
+        "level": 6,
+        "nation": "France",
+        "ru": "Saphir",
+        "search": [
+            "VI SAPHIR"
+        ],
+        "species": "Submarine"
+    },
+    {
         "en": "Aviere",
         "group": "upgradeable",
         "id": 4183701232,
@@ -3989,6 +4093,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Chakri",
+        "group": "demoWithoutStats",
+        "id": 4183766224,
+        "index": "PZSB106",
+        "level": 6,
+        "nation": "Pan_Asia",
+        "ru": "Chakri",
+        "search": [
+            "VI CHAKRI"
+        ],
+        "species": "Battleship"
+    },
+    {
         "en": "Stord",
         "group": "upgradeable",
         "id": 4078843184,
@@ -4068,7 +4185,7 @@
     },
     {
         "en": "Perth",
-        "group": "premium",
+        "group": "special",
         "id": 3764303216,
         "index": "PUSC506",
         "level": 6,
@@ -4530,6 +4647,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Chancellorsville",
+        "group": "demoWithoutStatsPrem",
+        "id": 3752769520,
+        "index": "PASC517",
+        "level": 7,
+        "nation": "USA",
+        "ru": "Chancellorsville",
+        "search": [
+            "VII CHANCELLORSVILLE"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Flint",
         "group": "specialUnsellable",
         "id": 3553540080,
@@ -4725,7 +4855,7 @@
         "nation": "Russia",
         "ru": "Ташкент '39",
         "search": [
-            "VII ТАШКЕНТ '39"
+            "VII ТАШКЕНТ '39"
         ],
         "species": "Destroyer"
     },
@@ -4783,7 +4913,7 @@
     },
     {
         "en": "Сенявин",
-        "group": "earlyAccess",
+        "group": "upgradeable",
         "id": 4077860304,
         "index": "PRSB207",
         "level": 7,
@@ -4863,7 +4993,7 @@
     },
     {
         "en": "Vineta",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4077827888,
         "index": "PGSC207",
         "level": 7,
@@ -5309,6 +5439,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Zulfiqar",
+        "group": "demoWithoutStats",
+        "id": 4182717648,
+        "index": "PZSB107",
+        "level": 7,
+        "nation": "Pan_Asia",
+        "ru": "Zulfiqar",
+        "search": [
+            "VII ZULFIQAR"
+        ],
+        "species": "Battleship"
+    },
+    {
         "en": "Błyskawica",
         "group": "premium",
         "id": 3769513264,
@@ -5318,6 +5461,19 @@
         "ru": "Błyskawica",
         "search": [
             "VII BŁYSKAWICA"
+        ],
+        "species": "Destroyer"
+    },
+    {
+        "en": "Błyskawica B",
+        "group": "special",
+        "id": 3752736048,
+        "index": "PWSD517",
+        "level": 7,
+        "nation": "Europe",
+        "ru": "Błyskawica B",
+        "search": [
+            "VII BŁYSKAWICA B"
         ],
         "species": "Destroyer"
     },
@@ -6702,7 +6858,7 @@
     },
     {
         "en": "Истомин",
-        "group": "earlyAccess",
+        "group": "upgradeable",
         "id": 4076811728,
         "index": "PRSB208",
         "level": 8,
@@ -6724,6 +6880,19 @@
         "ru": "Ленин",
         "search": [
             "VIII ЛЕНИН"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Фрунзе",
+        "group": "demoWithoutStatsPrem",
+        "id": 3720295888,
+        "index": "PRSB548",
+        "level": 8,
+        "nation": "Russia",
+        "ru": "Фрунзе",
+        "search": [
+            "VIII ФРУНЗЕ"
         ],
         "species": "Battleship"
     },
@@ -6793,6 +6962,19 @@
         "species": "Submarine"
     },
     {
+        "en": "С-189 Ч",
+        "group": "special",
+        "id": 3751196112,
+        "index": "PRSS518",
+        "level": 8,
+        "nation": "Russia",
+        "ru": "С-189 Ч",
+        "search": [
+            "VIII С-189 Ч"
+        ],
+        "species": "Submarine"
+    },
+    {
         "en": "G. J. Maerker",
         "group": "upgradeable",
         "id": 4076746544,
@@ -6821,7 +7003,7 @@
     },
     {
         "en": "Z-32",
-        "group": "demoWithoutStatsPrem",
+        "group": "special",
         "id": 3730716464,
         "index": "PGSD538",
         "level": 8,
@@ -6834,7 +7016,7 @@
     },
     {
         "en": "Z-33",
-        "group": "demoWithoutStatsPrem",
+        "group": "special",
         "id": 3720230704,
         "index": "PGSD548",
         "level": 8,
@@ -6860,7 +7042,7 @@
     },
     {
         "en": "Z-38",
-        "group": "demoWithoutStatsPrem",
+        "group": "special",
         "id": 3709744944,
         "index": "PGSD558",
         "level": 8,
@@ -6886,7 +7068,7 @@
     },
     {
         "en": "Hertha",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4076779312,
         "index": "PGSC208",
         "level": 8,
@@ -7025,6 +7207,19 @@
         "ru": "Odin",
         "search": [
             "VIII ODIN"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Odin B",
+        "group": "special",
+        "id": 3720296240,
+        "index": "PGSB548",
+        "level": 8,
+        "nation": "Germany",
+        "ru": "Odin B",
+        "search": [
+            "VIII ODIN B"
         ],
         "species": "Battleship"
     },
@@ -7775,6 +7970,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Hanoi",
+        "group": "demoWithoutStats",
+        "id": 4181669072,
+        "index": "PZSB108",
+        "level": 8,
+        "nation": "Pan_Asia",
+        "ru": "Hanoi",
+        "search": [
+            "VIII HANOI"
+        ],
+        "species": "Battleship"
+    },
+    {
         "en": "Sanzang",
         "group": "special",
         "id": 3762271440,
@@ -7799,6 +8007,19 @@
             "VIII PASOPATI"
         ],
         "species": "Submarine"
+    },
+    {
+        "en": "Błyskawica '63",
+        "group": "demoWithoutStatsPrem",
+        "id": 3751687472,
+        "index": "PWSD518",
+        "level": 8,
+        "nation": "Europe",
+        "ru": "Błyskawica '63",
+        "search": [
+            "VIII BŁYSKAWICA '63"
+        ],
+        "species": "Destroyer"
     },
     {
         "en": "Orkan",
@@ -8074,6 +8295,19 @@
         "ru": "Azuma",
         "search": [
             "IX AZUMA"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Azuma B",
+        "group": "special",
+        "id": 3761157840,
+        "index": "PJSC509",
+        "level": 9,
+        "nation": "Japan",
+        "ru": "Azuma B",
+        "search": [
+            "IX AZUMA B"
         ],
         "species": "Cruiser"
     },
@@ -8603,6 +8837,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Свердловск",
+        "group": "demoWithoutStatsPrem",
+        "id": 3708728784,
+        "index": "PRSC559",
+        "level": 9,
+        "nation": "Russia",
+        "ru": "Свердловск",
+        "search": [
+            "IX СВЕРДЛОВСК"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Тольятти",
         "group": "special",
         "id": 3740186064,
@@ -8644,7 +8891,7 @@
     },
     {
         "en": "Корнилов",
-        "group": "earlyAccess",
+        "group": "upgradeable",
         "id": 4075763152,
         "index": "PRSB209",
         "level": 9,
@@ -8666,6 +8913,19 @@
         "ru": "Наварин",
         "search": [
             "IX НАВАРИН"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Пермь Великая",
+        "group": "specialUnsellable",
+        "id": 3750704592,
+        "index": "PRSB519",
+        "level": 9,
+        "nation": "Russia",
+        "ru": "Пермь Великая",
+        "search": [
+            "IX ПЕРМЬ ВЕЛИКАЯ"
         ],
         "species": "Battleship"
     },
@@ -8752,7 +9012,7 @@
     },
     {
         "en": "Freya",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4075730736,
         "index": "PGSC209",
         "level": 9,
@@ -8932,6 +9192,19 @@
         "ru": "Neptune",
         "search": [
             "IX NEPTUNE"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Resistance",
+        "group": "special",
+        "id": 3761158096,
+        "index": "PBSC509",
+        "level": 9,
+        "nation": "United_Kingdom",
+        "ru": "Resistance",
+        "search": [
+            "IX RESISTANCE"
         ],
         "species": "Cruiser"
     },
@@ -9236,6 +9509,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Hengshui",
+        "group": "demoWithoutStatsPrem",
+        "id": 3750671568,
+        "index": "PZSC519",
+        "level": 9,
+        "nation": "Pan_Asia",
+        "ru": "Hengshui",
+        "search": [
+            "IX HENGSHUI"
+        ],
+        "species": "Cruiser"
+    },
+    {
         "en": "Meng Chong",
         "group": "special",
         "id": 3740185808,
@@ -9271,6 +9557,19 @@
         "ru": "Bajie",
         "search": [
             "IX BAJIE"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Dongfeng",
+        "group": "demoWithoutStats",
+        "id": 4180620496,
+        "index": "PZSB109",
+        "level": 9,
+        "nation": "Pan_Asia",
+        "ru": "Dongfeng",
+        "search": [
+            "IX DONGFENG"
         ],
         "species": "Battleship"
     },
@@ -9381,7 +9680,7 @@
     },
     {
         "en": "Karl XIV Johan",
-        "group": "demoWithoutStatsPrem",
+        "group": "special",
         "id": 3761190192,
         "index": "PWSB509",
         "level": 9,
@@ -9745,7 +10044,7 @@
     },
     {
         "en": "Natsukaze",
-        "group": "demoWithoutStatsPrem",
+        "group": "ultimate",
         "id": 3655218896,
         "index": "PJSD610",
         "level": 10,
@@ -9805,6 +10104,19 @@
         "ru": "Kitakami",
         "search": [
             "X KITAKAMI"
+        ],
+        "species": "Cruiser"
+    },
+    {
+        "en": "Kuzuryū",
+        "group": "demoWithoutStatsPrem",
+        "id": 3739137744,
+        "index": "PJSC530",
+        "level": 10,
+        "nation": "Japan",
+        "ru": "Kuzuryū",
+        "search": [
+            "X KUZURYŪ"
         ],
         "species": "Cruiser"
     },
@@ -9975,6 +10287,19 @@
         "search": [
             "X HAKURYŪ (< 23.01.2019)",
             "X HAKURYŪ (OLD)"
+        ],
+        "species": "AirCarrier"
+    },
+    {
+        "en": "Shinano",
+        "group": "demoWithoutStatsPrem",
+        "id": 3760174800,
+        "index": "PJSA510",
+        "level": 10,
+        "nation": "Japan",
+        "ru": "Shinano",
+        "search": [
+            "X SHINANO"
         ],
         "species": "AirCarrier"
     },
@@ -10385,6 +10710,19 @@
         "species": "AirCarrier"
     },
     {
+        "en": "Archerfish",
+        "group": "demoWithoutStatsPrem",
+        "id": 3654727664,
+        "index": "PASS610",
+        "level": 10,
+        "nation": "USA",
+        "ru": "Archerfish",
+        "search": [
+            "X ARCHERFISH"
+        ],
+        "species": "Submarine"
+    },
+    {
         "en": "Balao",
         "group": "upgradeable",
         "id": 4074158064,
@@ -10700,7 +11038,7 @@
     },
     {
         "en": "Лазарев",
-        "group": "earlyAccess",
+        "group": "upgradeable",
         "id": 4074714576,
         "index": "PRSB210",
         "level": 10,
@@ -10846,7 +11184,7 @@
     },
     {
         "en": "Hansa",
-        "group": "demoWithoutStats",
+        "group": "earlyAccess",
         "id": 4074682160,
         "index": "PGSC210",
         "level": 10,
@@ -10899,7 +11237,7 @@
     },
     {
         "en": "Lothringen",
-        "group": "demoWithoutStatsPrem",
+        "group": "ultimate",
         "id": 3760142128,
         "index": "PGSB510",
         "level": 10,
@@ -11255,6 +11593,19 @@
         "species": "Battleship"
     },
     {
+        "en": "Zeus",
+        "group": "ultimate",
+        "id": 3749656528,
+        "index": "PBSB520",
+        "level": 10,
+        "nation": "United_Kingdom",
+        "ru": "Zeus",
+        "search": [
+            "X ZEUS"
+        ],
+        "species": "Battleship"
+    },
+    {
         "en": "[Conqueror]",
         "group": "clan",
         "id": 3340711888,
@@ -11450,6 +11801,19 @@
         "species": "Battleship"
     },
     {
+        "en": "Surcouf",
+        "group": "demoWithoutStatsPrem",
+        "id": 3759585104,
+        "index": "PFSS510",
+        "level": 10,
+        "nation": "France",
+        "ru": "Surcouf",
+        "search": [
+            "X SURCOUF"
+        ],
+        "species": "Submarine"
+    },
+    {
         "en": "A. Regolo",
         "group": "upgradeable",
         "id": 4179506928,
@@ -11606,6 +11970,19 @@
         "ru": "Changzheng",
         "search": [
             "X CHANGZHENG"
+        ],
+        "species": "Battleship"
+    },
+    {
+        "en": "Tiangong",
+        "group": "demoWithoutStats",
+        "id": 4179571920,
+        "index": "PZSB110",
+        "level": 10,
+        "nation": "Pan_Asia",
+        "ru": "Tiangong",
+        "search": [
+            "X TIANGONG"
         ],
         "species": "Battleship"
     },
@@ -12289,6 +12666,19 @@
         "species": "Cruiser"
     },
     {
+        "en": "Несокрушимый",
+        "group": "event",
+        "id": 3340711376,
+        "index": "PRSB910",
+        "level": 11,
+        "nation": "Russia",
+        "ru": "Несокрушимый",
+        "search": [
+            "XI НЕСОКРУШИМЫЙ"
+        ],
+        "species": "Battleship"
+    },
+    {
         "en": "Ушаков",
         "group": "superShip",
         "id": 4178523600,
@@ -12471,6 +12861,19 @@
             "XI KUNMING"
         ],
         "species": "Destroyer"
+    },
+    {
+        "en": "Xi'an",
+        "group": "demoWithoutStats",
+        "id": 4178490576,
+        "index": "PZSC111",
+        "level": 11,
+        "nation": "Pan_Asia",
+        "ru": "Xi'an",
+        "search": [
+            "XI XI'AN"
+        ],
+        "species": "Cruiser"
     },
     {
         "en": "Dalarna",
