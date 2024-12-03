@@ -1,6 +1,7 @@
 function MyShips() {
   this.shipsIndex = {};
   this.shipsById = {};
+  this.shipsInfo = {};
   this.shipsIndexLoaded = false;
 }
 
@@ -14,6 +15,16 @@ MyShips.prototype.load = async function () {
       this.shipsIndex[search[i]] = ship.index;
     }
     this.shipsById[ship.id] = ship.index;
+    if (
+      ship['group'] == 'special'
+      || ship['group'] == 'ultimate'
+      || ship['group'] == 'specialUnsellable'
+      || ship['group'] == 'upgradeableExclusive'
+      || ship['group'] == 'upgradeableUltimate'
+    )
+    {
+      this.shipsInfo[ship.id] = ship;
+    }
   });
   this.shipsIndexLoaded = true;
 
@@ -22,13 +33,20 @@ MyShips.prototype.load = async function () {
     const user_data = await user_data_response.json();
     if (!!user_data.spa_id && !!user_data.ships_in_port) {
       let shipsToStore = {};
+      let shipsByLevel = {};
       user_data.ships_in_port.forEach( shipId => {
         if (!!this.shipsById[shipId]) {
           shipsToStore[this.shipsById[shipId]] = true;
         }
+        if (!!this.shipsInfo[shipId]) {
+          if (!shipsByLevel[this.shipsInfo[shipId].level])
+            shipsByLevel[this.shipsInfo[shipId].level] = 0;
+          shipsByLevel[this.shipsInfo[shipId].level]++;
+        }
       });
       chrome.storage.local.set({ships: shipsToStore});
       console.info('[MYSHIPS] updated (' + Object.keys(shipsToStore).length + ')')
+      console.info(shipsByLevel);
     }
   }
 }
@@ -42,7 +60,6 @@ MyShips.prototype.addOnClick = function (element, shipId) {
   element.dataset.shipid = shipId;
   element.addEventListener('click', function (e) {
     const elementClicked = e.target;
-    console.info(elementClicked.dataset.shipid);
     chrome.storage.local.get('ships', items => {
       if (elementClicked.style.getPropertyValue('text-decoration') == 'line-through') {
         elementClicked.style.setProperty('text-decoration', '');
@@ -81,7 +98,6 @@ MyShips.prototype.adjustTitle = function (element, titleClass) {
         countOf++;
       }
     });
-    console.info(title);
     let titleText = title[0].innerHTML.replace(/ \([0-9]+\/[0-9]+\)$/, '');
     title[0].innerHTML = titleText + ' (' + countOf + '/' + countAll + ')';
     }
@@ -91,7 +107,6 @@ MyShips.prototype.onGetStorage = function (items) {
   let hasChanged = false;
   Array.from(document.getElementsByClassName('we-vehicle__level')).forEach(element => {
     let htmlShipName = element.innerText.replaceAll('&nbsp;', ' ').replaceAll('\xa0', ' ');
-    console.info(htmlShipName)
     if (element.getAttribute('listener') !== 'true') {
       element.setAttribute('listener', 'true');
       if (this.shipsIndex[htmlShipName]) {
